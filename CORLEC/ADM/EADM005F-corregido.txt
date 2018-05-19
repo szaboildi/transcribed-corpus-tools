@@ -1,0 +1,57 @@
+#archivo: EADM005F
+#fecha de grabación: 20-06-91
+#fuente: conversaciones telefónicas en una empresa
+#localización: Madrid
+#términos: vuelo, aviso de recogida, número de cuenta, envío, documento, muelle, referencia, planta
+#H1: mujer, telefonista, 25 años
+#H2: mujer, agente de viajes, 29 años
+#H3: mujer, telefonista, 28 años
+H1: ...Eh... que está para el día veintiuno.
+H2: ¿El día veintiuno?
+H1: Sí, de Bilbao Val[palabra cortada]... [vacilación] Valencia, que me dijiste que no había ni para el sábado ni para el domingo; pero resulta que es viernes.
+H2: Es que... [vacilación] el... [duda] yo no... [duda].
+H1: Dijiste: "No hay vuelo ni sábados ni domingos".
+H2: Claro, pero es que no estábamos hablando del día... [duda] veintiuno. Estamos hablando del día veintinueve.
+H1: ¿Y el del día veintiuno?
+H2: El del día veintiuno no me has dicho nada.
+H1: ¿No? [solapamiento de turnos]Tenía...
+H2: Tú has[fin de solapamiento de turnos] [ininteligible] el del diecisiete, Valencia, Barcelona.
+H1: Sí, ése está [extranjerismo]O.K.[fin de extranjerismo]. Y el segundo...
+H1: Veintinueve, Barcelona, Bilbao...
+H1: Sí.
+H2: ...veintinueve, ¡veintinueve!
+H1: ¡veintiuno, veintiuno!
+H2: ¡Ah! Es que eso es otra cosa muy diferente.
+H1: ¡Ah! Pues era veintiuno.
+H2: Veintiuno del seis. Bueno.
+H1: Sí.
+H2: Entonces espera un momentito, ¿eh?
+H1: Vale [tarareando]. ¿Dígame? ¿De parte de quién? Un momentito... ¿Sí? Hola, buenos días...
+H3: Sí, ¿dígame? [siglas]D.H.L.[fin de siglas]. Buenos días, dígame. Buenas tardes.
+H1: Hola, quería... [duda] dar un aviso de recogida.
+H3: Sí, me das pues tu número de cuenta, por favor.
+H1: Sí, "jota, o... hache, eme, cero, cuatro, cinco, cero, uno". [ininteligible] ... "cuatro, cinco, cero, uno".
+H3: Vamos a ver si [ininteligible] ...en Pablo Ruiz Picasso, sin número.
+H1: Exactamente.
+H3: [ininteligible] ¿Su nombre es, por favor?
+H1: Elena.
+H3: [ininteligible]... ¿el envío?
+H1: Eh... dos.
+H3: Sí.
+H1: Uno... [duda] a [extranjerismo]Basserdolf[fin de extranjerismo], Suiza, deletreo... "be..."
+H3: Sí, no hace falta, dime.
+H1: ¡Ah! Vale... y el otro es a [siglas]U.S.A.[fin de siglas].
+H3: Eh... ¿son documentos todo?
+H1: Son documentos, sí.
+H3: ¿Todo listo, verdad?
+H1: ¡Todo listo...!
+H3: ¿Qué está? ¿En el muelle, a partir de ahora... mismo...?
+H1: Ahora mismo, ya, ahora os lo bajo.
+H3: Abajo... ¿Hasta qué hora estáis?
+H1: Hasta las cinco y media...
+H3: Vale, pues mi número de referencia es el cinco, cinco, cinco...
+H1: ¿Perdón?
+H3: Cinco, cinco, cinco...
+H1: Cinco, cinco, cinco...
+H3: ...y mi nombre es Mayte, ¿vale?
+H1: Mayte, ¡gracias!... Hola, buenas tardes, llamo de...[vacilación] "Cilag", de la segunda planta... Tengo... [duda] un sobre para [siglas]D.H.L.[fin de siglas]... Vale, gracias.

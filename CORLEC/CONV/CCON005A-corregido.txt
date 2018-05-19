@@ -1,0 +1,64 @@
+#archivo: ccon005a
+#fecha de grabación: 25-1-91
+#fuente: Conversación en casa sobre un ordenador
+#localización: Madrid
+#términos: ordenador, tarjeta
+#H1: varón, 24 años. Estudiante de Ingeniería
+#H2: varón, 23 años. Estudiante de Ingeniería
+H1: De todas formas le pones éste y ni para tras vamos. Ni de broma. Y ahora ha estado... ha estado... o sea le puse esto así, el conector aquí
+H2: Y funcionaba
+H1: Funciona bien y... hace una media hora pues me dejó de funcionar otra vez. Me dio falla de lectura y se quedó. [silencio] Así que no sé. Como vosotros estuvisteis instalando... [solapamiento de turnos] los ordenadores de abajo
+H2: Sí pero es que [fin de solapamiento de turnos] nos daba ese problema también. Tuvimos al final que comprar una... una controladora independiente para
+H1: Una tarjeta nueva.
+H2: [afirmación]
+H1: Pues a lo mejor necesita una tarjeta nueva.
+H2: ¿Dónde... lo has mirado? [solapamiento de turnos] ¿en Plaza de Castilla?
+H1: Lo he mirado aquí [fin de solapamiento de turnos], en Plaza Castilla, sí, en la calle Navarra, tienen allí...
+H2: Sí, sí, tienen allí los... Yo creo que no... no funciona ¿eh? [solapamiento de turnos] [ininteligible]
+H1: Se lo diré [fin de solapamiento de turnos]... se lo diré porque vamos, [ininteligible], o sea. [silencio] Porque misterio no tiene nada, ya te lo dan todo enchufado,
+H2: [afirmación]
+H1: tendría que funcionar perfectamente. Hace un rato funcionaba muy bien. [silencio] Estuve copiando unos ficheros, para aquí, para allá. [silencio] Y ahora y... y ahora nada, no creo que funcione no [ininteligible] disco. [silencio] Porque lo he probado hace poco, y nada. [silencio] No se ve.
+H2: No, si...
+H1: [vacilación] Cuando le da la gana. O sea que, si puede ser problema del controlador, que necesite una tarjeta más. [silencio]
+H2: ¿Estás con el [extranjerismo]"Pspice"[fin de extranjerismo]? [silencio]
+H1: Eso es del... del [extranjerismo]"Orcad"[fin de extranjerismo]. [silencio]
+H2: Lo del control de diseño ¿no?
+H1: Así que nada, sí. Pasaré por la tienda mañana y...
+H2: Y ¿has probado a enchufar los dos y...?
+H1: No, no los nada , imposible, o sea, o funciona uno o...
+H2: O sea, ni... ni puedes acceder ni nada de eso ¿no?
+H1: Ah... o sea si enchufo los dos a la vez
+H2: [afirmación] [solapamiento de turnos] Sí tiene...
+H1: puedes [fin de solapamiento de turnos] acceder pero accede a la que está el conector éste.
+H2: ¿Este? ¿no?
+H1: O sea, el de abajo. Al... a la otra caja, a la otra caja. [silencio]
+H2: Pues lo más seguro es que sea eso. Y probablemente es que la tarjeta controladora ésta sea para dos unidades pero de... de cinco y cuarto... no una unidad de cinco y cuarto y otra de tres y medio. Yo creo que lo más seguro es que sea eso. O bien coges y le preguntas si tienes que... si con la tarjeta que tienes, [solapamiento de turnos] eh... puedes
+H1: Eso [fin de solapamiento de turnos] le he preguntado, claro, y me dijeron que sí. El modelo... en teoría te dicen que sí, luego ya, pues mira, parece ser que no.
+H2: Si no funciona evidentemente es que no.
+H1: Bueno, de todas maneras, con los problemas que da, pues... habrá que ir. Total una tarjeta de esas cuesta cuarto mil pesetas.
+H2: Sí, eso es que no merece la pena, vamos, porque... ¿tiene... [extranjerismo]microswitch[fin de extranjerismo] o algo de eso?
+H1: No, no.
+H2: No tiene nada, o sea que en principio no es configurable la tarjeta ni nada de eso. Te coges y... vas y compras una tarjeta controladora.
+H1: Sí, sí. Te evitas todo tipo de problemas...
+H2: Exactamente, si no te funciona es que te pasa eso, vamos, seguro.
+H1: Sí. Pues nada, pues gracias.
+H3: ¿Vas a bajar a cenar ahora? ¿A y media?
+H2: Voy a buscar a mi hermano que está abajo en los ordenadores
+H3: Ah...
+H2: Viene...[vacilación] otra vez.
+H3: Bueno, pues os veo a y media allí.
+H2: Bajas tú también, ¿no?
+H3: [afirmación]
+H2: Es una... vamos, nosotros nos pasó lo mismo, que compramos sólo esto, y preguntamos también que... y precisamente, no sé si los compramos ahí o en otro lado y nos dijeron que sí, que con la controladora que tenía le bastaba, pero de eso nada. Y al final hubo que coger, llevarlos y que les pusiesen eh... la controladora, puede ser también por [extranjerismo]software[fin de extranjerismo] pero me parece muy raro, vamos.
+H1: No, no creo que sea por eso porque... eso es[palabra cortada]... tiene que ser problema de la tarjeta, sí, porque es que... que te funcione unas veces y luego que otras veces
+H2: [afirmación]
+H1: se atasque, es que no puede
+H2: [afirmación]
+H1: la unidad, la tarjeta, vamos. Habrá que comprar, y ¿qué... qué tuviste que comprar? ¿ésta la dejasteis para el de abajo y comprasteis [solapamiento de turnos] [ininteligible] adicional
+H2: Eso, eso ya no lo sé si...[solapamiento de turnos]
+H1: o le pusieron una allí, una [ininteligible]
+H2: Eso yo creo que lo debes preguntar allí, es que no... no me acuerdo ahora mismo, si... te puedes comprar una tarjeta que te sirva para los dos ya, que maneje tanto una como... un formato como otro o... o comprar una independiente para... para esto. Imagino que con las tarjetas que... que hay ahora, y la mayoría de los... de los ordenadores vienen con... con los dos formatos, pues... te valdrá para los dos y la vieja, pues la dejas ahí, o la tiras o... o la guardas y ya está.
+H1: Sí, sí. [silencio] Pues nada, me pasaré mañana.
+H3: Toma por el paseíto. [silencio]
+H2: Lo bueno es eso, que no es caro, porque me parece que debe andar por unas tres mil pesetas o algo de eso ¿no?
+H1: Sí, sí, yo... si los precios también nos saldrá, [ininteligible] sobre las tres o cuatro mil pesetas.

@@ -1,0 +1,78 @@
+#archivo: ccon010b
+#fecha de grabación: 12-3-91
+#fuente: Radio España. Conversaciones telefónicas
+#localización: Madrid
+#términos: número, fecha
+#H1: varón, locutor
+#H2: mujer, oyente
+#H3: varón, entrevistado célebre por su capacidad para memorizar
+#H4: mujer, oyente
+#H5: mujer, oyente
+H1:... computadora humana aquí en "de Madrid al cielo". Hasta las diez menos veinticinco aproximadamente, seguimos ofreciéndoles esos números de teléfono hasta dentro de cinco minutos en que tendremos que cerrar eh... definitiva pero momentáneamente la puerta de la computadora humana que volverá con nosotros a este tiempo de radio en cualquier otro momento, insisto. Pero si ustedes le quieren tener siempre presente a través de sus libros "Carnaval Matemático" o "Sea Usted una Computadora Humana" lo tendrán siempre en casa, en pequeño formato firmado por él y además con eh... la fabulosa posibilidad de conocer ese sistema que le acerca a la velocidad del sonido a las soluciones matemáticas. Si hola, buenas noches.
+H2:Hola, buenas noches.
+H1:¿Con quién hablamos?
+H2:Con María José.
+H1:María José, te escucha Jaime.
+H2:Sí.
+H3:¿Sí?
+H2:Hola. buenas noches.
+H3:Hola, buenas noches.
+H2:Mire, quería preguntarle el dos del ocho del setenta y nueve.
+H3:Eh...
+H2:¿Qué día cayó?
+H3:¿Dos del ocho del setenta y nueve?
+H2:Sí.
+H3:Ese día fue un jueves.
+H2:Jueves. [solapamiento de turnos] Pues el dos del...
+H3:Y viernes este año. [fin de solapamiento de turnos]
+H2:¿El siete del dos del cuarenta y cuatro?
+H3:¿Del cuarenta y cuatro?
+H2:Sí.
+H3:Ese... un lunes.
+H2:Un lunes. ¿Y el uno del ocho del cuarenta y cuatro?
+H3:Un martes.
+H2:Un martes. Vale, muchas gracias, ¿eh?
+H1:Hasta luego, buenas noches. Nueve y treinta y uno. Otra llamada telefónica. Sí, buenas noches.
+H4:Buenas noches.
+H1:¡Hola!
+H4:Soy la señora de los cinco hijos.
+H1:¡La señora de los cinco hijos!
+H3:[solapamiento de turnos] Doña Carmen.
+H1:que por fin [fin de solapamiento de turnos] ha podido recordar qué fecha y qué mes nació su hija.
+H4:El doce de noviembre del sesenta y cuatro.
+H3:Ah, ya, ya claro, si es que no... no podía ser, no podía ser. [ininteligible]
+H4:Es que no podía ser, ¿verdad hijo?
+H3:Está bien lo de... está bien lo de los jueves, [solapamiento de turnos] que usted se ponga de parto los jueves está bien.
+H4:¿Qué día es, hijo? [fin de solapamiento de turnos] ¿Qué día era?
+H3:Ese fue un jueves también.
+H4:¿Jueves también?
+H3:También jueves.
+H1:Hombre, por Dios.
+H4:Yo estaba loca, ¿eh?
+H1:Pero bueno, por favor. Usted que...
+H4:Pues mire, tengo tres de jueves, uno de viernes y otro de sábado, que eso si que no se me ha olvidado.
+H1:Bueno, pues le queda lunes, martes y miércoles, siga intentándolo. [risa]
+H4:Huy, no, no, no hijo mío. Ya nada, nada. [risa]
+H1:Pues, muchas gracias. [solapamiento de turnos] Ya tiene todas las respuestas.
+H4:Gracias a ustedes [fin de solapamiento de turnos] y enhorabuena por todo, gracias.
+H1:Muchas gracias, hasta luego, señora. Buenas noches, Bueno, pues por fin encontramos las fechas de todos los hijos de esta señora, cinco, concretamente. Hola, buenas noches.
+H5:Hola, buenas.
+H1:¿Con quién hablamos?
+H5:Con Josefa.
+H1:Josefa, adelante.
+H5:Mire, yo quiero saber eh... en qué día cayo el día veintiséis del uno del treinta y cinco.
+H3:Ese fue un sábado.
+H5:¿Y el... y el día once del seis del cincuenta y nueve?
+H3:También sábado.
+H5:El día och[palabra cortada], el día tres del seis del sesenta.
+H3:¿Tres del qué?
+H5:Tres del sesenta.
+H3:Eh... un viernes.
+H5:[duda]Y el día... dos del cinco del sesenta y dos.
+H3:Eh... ese fue un miércoles.
+H5:Y el día once... el día dieciocho del... del tres, del sesenta y cuatro.
+H3:¿Dieciocho?
+H5:Dieciocho del tres del sesenta y cuatro.
+H3:Un miércoles.
+H5:Gracias.
+H3:A la orden.

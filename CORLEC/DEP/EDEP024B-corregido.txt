@@ -1,0 +1,61 @@
+#archivo: EDEP024B
+#fecha de grabación: 19-01-92
+#fuente: radio
+#localización: desde Madrid, pasando por diversas provincias españolas
+#términos: gol, división, juego, balón, terreno, empate
+#H1: varón, periodista, c.31 años
+#H2: varón, locutor de radio, c.37 años
+#H3: varón, locutor deportivo, c.39 años
+#H4: varón, locutor deportivo, c.39 años
+#H5: varón, locutor deportivo, c.39 años
+#H6: varón, locutor deportivo, c.40 años
+#H7: varón, locutor deportivo, c.35 años
+#H8: varón, locutor deportivo, c.29 años
+#H9: varón, locutor deportivo, c.39 años
+#H10: varón, locutor deportivo, c.30 años
+#H11: varón, locutor deportivo, c.39 años
+#H12: varón, locutor deportivo, c.26 años
+#H13: varón, locutor deportivo, c.37 años
+#H14: varón, locutor deportivo, c.30 años
+#H15: varón, locutor deportivo, c.39 años
+H1: ...Bilbao Atlétic, minuto cinco de juego... [vacilación] de la primera parte desde fuera del área disparo seco y ajustado... [vacilación] al poste derecho de la portería de Ceballos, marcó el navarro Javi Gracia.
+H2: Javi Gracia, el primer gol en segunda división... [duda] con la visita a Cádiz, llegó el buen juego que nos anunciaba Rafael Almansa y llegaron los goles, seguimos en Cádiz.
+H3: ...¡cinco minutos de partido con juego detenido y atención a otro duelo que se mantiene... [vacilación] en el gol norte entre las brigadas amarillas del Cádiz los (Biri)! ¡Vaya la que se está armando... en es graderío! ¡Habrá que estar muy atento peor de momento... vamos a lo que ocurre en la cancha! ¡Mete Diego... la cabeza, no llega, Rafa Par... retrasa, el juego para el navarro Juan Carlos (Unzoe)... ¡detiene y pone tranquilidad en cobertura!... Balón en corto para Diego, retrasa ante el [extranjerismo]presing[fin de extranjerismo] del Pepe Mejía, se está paseando el navarro en la hierba, mal estado del terreno de juego, indicando con las manos que salgan... [vacilación] a sus hombres... ¡Vestido de blanco el Sevilla, amarillo el Cádiz, bota por primera vez, va a engatillar, pierna derecha... ahí está... en el aire el cuero, rebaso divisoria, se eleva... y va el zamorano, no llega, sí toca Francis con la cabeza, bola bajo, se eleva perfectamente Cortijo, poniendo orden y paz... [vacilación] Quevedo, entregando a la izquierda...! Ahí está la pierna de Mateo, buscando por la derecha Arteaga, aguantando bola, rebasando divisoria, le tapona Rafapan, mete la pierna Prieto... ¡se lleva el esférico en falta, estamos en el seis del partido en el estadio Ramón de Carranza, duelo andaluz, Cádiz cero, Sevilla cero!
+H4: ...¡Gol... !... del Olivar en las Llanas. Gol... del... [duda] conjunto visitante, la Sociedad Deportiva Eibar, minuto cinco de esta primera mitad, una falta directa, botada sobre la meta de... [duda] Iñaqui. El disparo directo, del... [duda] extremo exterior Luluaga que batió la estirada del cancerbero (Sestobarra), inaugurando el marcador en el derbi vasco. Minuto ya siete de esta primera mitad en Las Llanas, Sestao [extranjerismo]Sport[fin de extranjerismo] cero, Sociedad Deportiva Eibar uno. [música] [interrupción de la grabación]
+H5: [música]... primera mitad, Atlético de Madrid cero, Deportivo de La Coruña cero.
+H2: Cádiz.
+H3: ¡Diez minutos de partido, Cádiz cero Sevilla cero!
+H2: Estamos en Zaragoza.
+H6: Diez minutos, primera parte, Real Zaragoza cero, Real Burgos cero.
+H2: Oviedo.
+H7: En el minuto nueve de la primero parte, Oviedo cero, Albacete cero.
+H2: Pamplona.
+H8: En Pamplona vamos a llegar ya al minuto trece de esta primera parte, Osasuna dos, Logroñés cero.
+H2: Valladolid.
+H9: En Zorrilla diez minutos de partido, empate a cero entre Valladolid y Atlétic de Bilbao.
+H2: En Atocha, Real Sociedad, Mallorca. No tenemos comunicación todavía con Juanjo Belamendía, en segunda división, Mérida.
+H10: Son diez minutos y medio de la primera mitad, de momento no hay goles, Mérida cero, Figueras cero.
+H2: Sestao.
+H4: Minuto nueve, primera mitad, Sestao [extranjerismo]Sport[fin de extranjerismo], cero, Sociedad Deportiva Eibar uno, marcó Luluaga.
+H2: Málaga.
+H11: ¡Diez minutos de esta primera mitad, Club Deportivo Málaga cero, Real Murcia cero!
+H2: Castellón.
+H12: ¡Diez minutos de la primera parte, Castellón cero, Sociedad Deportivo Compostela cero!
+H2: Palamós.
+H13: Diez de la primera Palamós cero, Avilés cero.
+H2: Sabadell.
+H14: ¡Minuto diez... primera parte, Sabadell cero, Betis cero!
+H2: Bilbao...
+H1: Once minutos de la primera parte, Bilbao Atlétic, uno, gol de Gracia, Racing de Santander, cero.
+H2: Diecisiete horas, doce minutos. Vamos a conocer más detalles del... [duda] comienzo Atlético de Madrid, Deportivo de La Coruña. Jose Antonio Luque, ¿cómo van las cosas?
+H5: Estamos en el minuto doce de partido, el Atlético de Madrid que ha tomado el mando tras un susto protagonizado por el Deportivo de La Coruña, en el centro de Martín Lasarte, para el remate en el segundo palo en la cabeza de Jose Ramón que acabó en las manos de Abel... [vacilación] ante el silencio sepulcral que se hizo en ese momento en el estadio Príncipe Felipe de Cáceres. Juega el Deportivo de La Coruña, Martín Lasarte... metió la pierna Alfredo, el... balón se ha ido por la banda a la altura del medio campo del conjunto gallego, será López Recarte [vacilación] por... [duda] la parte izquierda quien juegue el esférico, le pide adelantado Fran... [vacilación], hace lo propio Claudio... en la divisoria, trata de recibir, bajo con el pecho, toca de cara... para López Recarte de primera, trata de profundizar hacia Fran, se va a cruzar Donato... [vacilación] en tareas de hombre libre la ventaja es para el jugador del Atlético de Madrid, que ha protegido el balón hasta que se perdió por la ida de banda... [vacilación] para jugarlo al interior del área de castigo hacia Abel Resino, con la mano a la izquierda, para Toni... Medio campo del Atlético de Madrid, le presiona Jose Ramón, continua Toni... avanzando, va a atravesar la divisoria, lo hizo ya, con el cuero controlado... mueve en horizontal al centro buscando a Manolo, cortó [extranjerismo]Canasclaroisty[fin de extranjerismo], saca para [extranjerismo]Quiriacof[fin de extranjerismo], ha recortado, viene a Vizcaíno, se introduce en el círculo central, mueve en apertura a la izquierda para López Recate, balón largo de López Recarte estaba en fuera de juego Claudio... [vacilación] Lo marco el juez de línea, lo ratificó... [duda] el colegiado de la contienda, el catalán Manolo Vico Díaz, y de momento Antonio Lobato en los banquillos, tranquilidad, aunque el primer susto para el Atlético de Madrid... en el remate con la cabeza de Jose Ramón que acabó en las manos de Abel.
+H15: Susto madrugador del que ya se han recuperado los hombres de Luis Aragonés, que sigue dando órdenes a todos sus pupilos, le está ordenando a Manolo que levante mucho más sus líneas, tienen pequeños problemas... [vacilación] para encontrar el camino expedito, para... [vacilación] poder encontrar la portería... [duda] la portería de Liaño. De momento es difícil romper esa defensa de cuatro, incluso de cinco hombres, que ha colocado Marco Antonio (Boragaz)... y rebasar Luis Aragonés sus entradas por la banda izquierda protagonizadas por Toni, pero de momento no están teniendo demasiada suerte ya que los balones se pierden aproximadamente en la frontal del área que defiende la defensa de Marco Antonio (Moronaz).
+H5: Se perdió este balón también de ataque del Deportivo en la frontal del Atlético de Madrid, llegó antes Donato que Claudio, al balón largo... que le servían... [duda] al delantero gallego desde la zona de cobertura, Donato, retrasó a Abel, juega el Atlético de Madrid... ¡catorce minutos de la primera mitad en el Príncipe Felipe de Cáceres, Atlético de Madrid cero, Deportivo de La Coruña cero!
+H2: Viajamos hasta Pamplona, donde ya ha habido dos goles en los primero instantes... [duda] Pachi Barragán, ¿todo lo contrario a lo que ocurría en el Sadar en las últimas semanas?
+H8: Desde luego, desde luego más de... [duda] mñas de uno estará frotándose todavía la... [duda] los ojos porque en dieciséis minutos hemos visto de todo. En el primer minuto eran todavía cincuentaiocho los segundos de partido que se llevaban, Urban adelantaba ya al equipo rojillo y cinco minutos después, cuando se cumplía el minuto seis, Cholo prácticamente remataba la faena. No habíamos visto en lo que va de temporada, y creo que en muchos años, a Osasuna en seis minutos, sentenciar un partido porque eso... [duda] pienso que no tiene más historia. Aparte de que... van ganando dos cero, están llevando la iniciativa en el juego, presionando en el centro del campo y acogotando a un Logroñés, que a pesar de todo también intenta sacar hacia adelante. [música][publicidad][texto no transcrito]
+H2: Pues llevamos... más concretamente Pachi Barragán, ¿quiénes son los nombres que están haciendo por parte del... [duda] Osasuna... [duda] de motor del equipo?
+H8: Lógicamente los motores del equipo están siendo los centrocampistas del equipo porque están moviendo al equipo de maravilla, para que esos dos delanteros que ha sacado hoy Pedro Mari Zabalza, Urban y Cholo, rematen la faena... [duda] creo que Martín González, Angeló, Merino y Martín Domínguez, la línea de centrocampistas rojillas son los hombres, los auténticos motores de este equipo.
+H2: ¡Marcan la diferencia, Lancia! [publicidad][texto no transcrito]
+H2: Nos vamos a ir por unos instantes a Mérida porque... [duda] allí se encuentra... [duda] o allí se juega, para ser más exactos, el partido más interesante de esta jornada en segunda división, Mérida, que se puede poner con los mejores y Figueras, el actual líder, que puede... [duda] tomar muchísima más distancia. Alfredo Duro.
+H10: Eso es lo que se dilucida fundamentalmente en este partido, son ya quince minutos de la primera mitad, el empate a cero en el marcador, alrededor de siete mil espectadores en el municipal emeritense... [vacilación] y ahí queda el planteamiento eminentemente ofensivo de Juanito Gómez, el Técnico del Mérida, que se juega la baza... arriba de tres hombres, Paco, Paquito... y [extranjerismo]Milollevich[fin de extranjerismo]. Atención a este hombre, el goleador serbio del Mérida, ¡catorce goles! Los mismos que [extranjerismo]Blodemir Buderl[fin de extranjerismo], si bien... [duda] [extranjerismo]Milollevich[fin de extranjerismo] ha disputado ocho jornadas menos... que el goleador céltico. Jugando el Figueras, tan sólo un hombre arriba claramente en la punta por parte del cuadro de Jorge, [extranjerismo]Dealexandro[fin de extranjerismo], Altimira, el que toca la pelota es Durán... [duda] como volante central, la pedía por la derecha Comas, de nuevo... [vacilación] jugaba Durán, abriendo ya para Lejo... Atención ahí la pared, conecta... [vacilación] Ramos, juega dentro del área, ¡Vilanova devolviendo para atrás, Ramos centra atrás... [ininteligible]...! ¡Va a sacar... [duda] en última instancia Parra... que dejó que se metiera la pelota por línea de fondo...! ¡Ha sido el segundo zarpazo en el contragolpe del Figueras...! Muy bien armado atrás el cuadro de Jorge [extranjerismo]Dealexandro[fin de extranjerismo], buscan arriba al goleador Altimina, ya anteriormente tuvo que salir Cañizares... y ahora la pared extraordinaria entre el norteamericano [extranjerismo]Tab[fin de extranjerismo] Ramos y Vilanova, el centro atrás, el pase de la muerte en la línea mortal... y el remate flojo de Altimina, que en última instancia se perdía por línea de fondo. ¡Bueno, sensacional el ambiente aquí en Mérida! Se cumplen ya dieciséis y medio, casi diecisiete, de la primera mitad... ¡Mérida cero, Figueras cero!
+H2: Sintonía de Radio Estadio, cuando son las cinco de la tarde y dieciocho minutos, una hora menos en Canarias, es tiempo deportivo [extranjerismo]Seiko[fin de extranjerismo], cronometrador oficial de la venticinco olimpíada.

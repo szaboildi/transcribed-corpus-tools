@@ -1,0 +1,26 @@
+#archivo: ECON001B
+#fecha de grabación: 06-03-91
+#fuente: conversación telefónica
+#localización: grabado en un teléfono de una empresa
+#términos: centralita, extensión telefónica
+#H1: varón, ingeniero técnico, 28 años
+#H2: varón, técnico, 35 años
+H1: ¿Oye?
+H2: Sí.
+H1: ¡Ah! [onomatopeya]. Sí, es que sólo ha sonado una vez.
+H2: No, es que me has... me han pasado, bueno, me has pasado con la centralita.
+H1: ¿Cómo?.
+H2: Me has pasado con la centralita.
+H1: ¡Ah!... [duda], no, no [interrogativo], ah, pues entonces me he confundido... [duda].
+H2: (Dijiste) también que me pasaran al, al ocho-ocho.
+H1: ¡Ah! [onomatopeya]... [duda]. Bueno, vale ya, ya está, el, el ocho, ocho aquí.
+H2: Vale.
+H1: Espera un momento [ruido]. Oye...
+H2: Sí, dime.
+H1: ¿Le puedes llamar más tarde?
+H2: Bueno, pues sí, hombre claro.
+H1: Que ver... [duda].
+H2: Vale, de acuerdo.
+H1: Llámale... [duda] a las doce, dentro de una hora.
+H2: Vale, de acuerdo [solapamiento de turnos]¿Vale? Hasta luego.
+H1: Vale, hasta luego[fin de solapamiento de turnos].

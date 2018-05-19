@@ -1,0 +1,167 @@
+#archivo: cedu029a
+#fecha de grabación: 25-3-91
+#fuente: Clase de conversación en un colegio nacional de EGB. Nivel 1 de EGB
+#localización: Segovia
+#términos: hermano, primo, televisión, cajero automático, cromo
+#H1: mujer, 6 años
+#H2: mujer, profesora. Edad 48 años
+#H3: varón, 6 años
+#H4: mujer, 6 años
+#H5: varón, 6 años
+#H6: varón, 6 años
+#H7: mujer, 6 años
+#H8: mujer, 6 años
+#H9: varón, 6 años
+#H10: mujer, 6 años
+#H11: mujer, 6 años
+#H12: mujer, 6 años
+H1:Que es... es muy burro y al ser tan burro enciende las luces por de día, por de noche, por de noche las apaga... enciende y apaga la te[palabra cortada], cuando está encendida la televisión la apaga y cuando la estoy oyendo el [extranjerismo]cassette[fin de extranjerismo], se... él le apaga, le enciende, le rebobina...
+H2: ¡Ay!
+H1:y... y está... y es muy muy muy burro.
+H2:Y habrá que regañarle. ¿Sí? ¿Tú le regañas?
+H1:Le regañamos cantidad en mi casa.
+H2:¿Y no aprende?
+H2:¿Ese? Cuando le regañas de una cosa, va, me [vacilación] le... te das media vuelta y ya está haciendo otra.
+H2:¿Pero cuánto tiempo tiene tu hermano?
+H1:Un añito.
+H2:Madre mía, madre mía. Tendrá que aprender a hacer las cosas bien.
+H3:Anda, pues mi primo...
+H1:Antes cogía la manía... antes cogía de la manía de quitar... de... quitar el enchufe.
+H2:¿Y es muy peligroso eso? ¿Qué le puede pasar si toca los enchufes?
+H1:Que le puede dar un calambre.
+H2:Y se puede quemar la mano.
+H1:Sí.
+H2:¿Sí? A ver, dínos tú, Javi, qué pasaba con tu primo.
+H3:Que... le decimos mi hermano y yo: "Estáte quieto, estáte quieto", ¿no? porque es tan burro, tan burro que a veces tira la... tira la... los juguetes al suelo y yo le doy algunas veces los míos y se los dejo y... es tan burro que...
+H2:¿Lo tira todo?
+H3:[afirmación] Y entonces a veces, a mi hermano le dice: "No te ajunto, vete de mi casa" Y a mí también.
+H2:Eso si lo... si le regañáis. Os lo dice.
+H3:[afirmación]
+H2:Sí.
+H3:Y a... y... [duda] también se... [duda] me dice a mí... [silencio]
+H2:Pues tiene que aprender a repartir las cosas y no... creerse que todo es para él.
+H4:Señorita, que mi prima Estefanía casi casi es igualita que el de Javi.
+H3:Sí.
+H4:Pues...
+H2:Ven, a ver, cuéntanos de tu prima Estefanía. A ver qué hace.
+H4: [ininteligible]
+H2:¿Sí? Venga, a ver. A ver qué hace tu prima Estefanía.
+H4:El año pasado la... la estuvo embarazada mi prima, digo, mi tía, ¿eh? y... y entonces, eh... nació la niña, ¿no? y entonces a[palabra cortada] en Junio cumple los dos años y cada vez que yo estoy haciendo las tareas cuando mi madre se va pues porque... porque tiene que ir a un sitio, ¿eh? Y yo me quiero quedar haciendo las tareas, ¿eh? voy a casa de mi tía y me pongo a hacer las tareas y empieza ella a... a revolverme los papeles, me pinta los papeles y... y me hace... y cuando voy a mi casa a jugar, empieza: "Que te que te que te." Yo ya, a mi ma[palabra cortada], mi madre cuando me, me decía de pequeña: "Que te que te que te que te". Yo hacía: " que te que te que te que te". Y la daba aquí. "Que te que te que te". Ha[palabra cortada] hace así.
+H2:Sí.
+H4:Y mi prima también lo hace y me pega.
+H2:¿Y cuánto tiempo tiene... tu prima?
+H4:¿Mi prima? Un año.
+H2:Un año. Anda, que cuidado con los primos de un año, ¿eh? La guerra que dan.
+H4:Bueno, tiene un... tiene uno de quince años que es el más mayor. O[palabra cortada], una niña de 9 y... y tiene dos niñas y un niño y la más pequeña tiene un año.
+H2:Oye, dejarnos escuchar, a ver qué hacen, ¿el de quince años qué hace? ¿Ese también desobedece?
+H4:Jobar. La pega unas patadas a mi tía...
+H2:¡Pero no me digas!
+H4:Bueno, ese es más revoltoso que la pequeña todavía. Sin embargo la... la que tiene nueve años, mi prima Melisa es buenísima.
+H2:¿Esa sí que te deja los juguetes?
+H4:Sí.
+H2:¿Sí?
+H5:Anda que mi primo...
+H2:A ver, va de primos esto , a ver Ángel, cuéntanos de tu primo.
+H5:Pues mi pri[palabra cortada].
+H2:Oye, y los demás escucháis y luego ya os tocará.
+H5:Pues mi primo Daniel, un día... pues a mí me contó mi hermana que... que... que se lo hicieron a una chica que un día mi primo cogió una cuchilla y una chica la... por poco la cuerta el... la corta el cuello.
+H2:Pero ¡qué exagerado! ¿Y cuánto tiempo... cuántos años tiene ese primo?
+H5:Pues diez, creo.
+H2:Pues madre mía, habrá que dejarle en casa cerrado para que no haga... fechorías.
+H5:Es muy malo y a mí siempre... y con el monedero que tiene me... me da en la cabeza, con el monedero que tiene, dice: "Hola Ángel" y [onomatopeya]pum[fin de onomatopeya].
+H2:¿Vive aquí en Segovia? ¿Sí?
+H5:Es mi primo Dani.
+H2:Madre mía, pues a ver cuando cambia porque así es el terror. Eso.
+H6:Señorita, sabes que mi hermana pequeña es muy mala.
+H2:Vaya... Es que no se dan cuenta de lo que hacen, es lo que les pasa, que son tan pequeñines... que no se dan cuenta. No es que sean malos. A ver. [silencio] Alberto, digo que cuando eras tu pequeño hacíais seguramente lo mismo y no os acordáis ya, no os dabáis cuenta.
+H6:Yo no... yo no tenía... yo no tenía tele ni nada.
+H2:Entonces no podías estropear la tele.
+H6:Anda pero un día que... que estaba mi padre preparándome... desayuno y yo llorando que me cogió y me quemé con la cerilla.
+H2:Fíjate. ¿Y te acuerdas de alguna cosa más de cuando eras pequeño?
+H6:Ah... ya no me acuerdo.
+H2:Ya no te acuerdas, a ver.
+H6:Sólo de eso, como me lo cuenta todos los días mi padre.
+H2:¿Y te acuerdas de cuando fuiste al campo a coger berros?
+H6:No, a Villovela.
+H2:A Villovela. Y ¿qué había en Villovela?
+H6:Pues un río y... y un bar cerca del río y cosas.
+H2:Vale. [interrupción de la grabación]
+H2:A ver qué nos va a contar de su hermana.
+H7:Que hoy como nos han puesto nuestra habitación nueva, entonces se sube a su cama y ha empezado a dar saltos como una loca y luego cuando se cae, dice, la... la... acerco a que me dé un beso y me da un arañazo.
+H2:Fíjate, encima de que la quieres dar un beso.
+H7:[afirmación]
+H2:¿Y por qué se enfada? Si la quieres tú acariciar...
+H7:Porque ella la gusta siempre mucho dar saltos.
+H2:Dar saltos.
+H7:Entonces cuando se cae...
+H2:Pues luego llora.
+H7:Claro.
+H2:A ver cuántos hermanos tenéis, Virginia.
+H8:Yo un hermano mayor que tiene diez años y mi hermana pequeña que tiene dos.
+H2:¿Y qué pasa? ¿qué nos cuentas de ellos?
+H8:Pues que mi hermana pequeña... es muy mala que un día... un día por la tarde eh... eh... hace poco, pues yo, pue[palabra cortada] quería ir al cole, ¿no? y me dice mi hermana que no, que me quedara allí con ella. No quería que fuera al cole. Que me quedara con ella a jugar.
+H2:Porque cuando estuviste mala y te quedabas con ella... pues ya se acostumbró a que estuvieses allí y no se daba cuenta que tenías que venir porque es pequeña y no se dan cuenta de las cosas.
+H9:Porque al colegio se viene a aprender.
+H8:Sí.
+H2:¿A qué se viene al colegio? ¿A qué?
+H8:A aprender, a estudiar y a... a aprender a leer.
+H2:Sí. Y ¿tú sabes qué cuenta hay que hacer para saber la diferencia entre un número y otro?
+H8:¿Qué cuenta hay que hacer?
+H2:¿Qué cuenta hay que hacer en esos problemas?
+H8:De restar.
+H2:De restar.
+H9:Chupado.
+H2:[orden] Erica, cuéntanos de la escayola de tu madre.
+H10:Es que se cayó y... y se... y se hizo daño y luego la vendaron la pierna. Luego, fu[palabra cortada] es que fue a... a la compra a... con mi aguela a acompañarla, se cayó, se balanceaba la piedra y se cayó.
+H2:Y luego ¿no la pusieron escayola dura?
+H10:No. La pusieron una...
+H2:Una venda.
+H10:Una venda y... y... y... y luego se la quitó para lavarla.
+H2:Ah. Y mientras estaba tu madre mala, ¿dónde ibáis a comer?
+H10: Casa mi aguela.
+H2:Y ¿qué tal en casa de tu abuela?
+H10:Bien.
+H2:¿Os portabais bien? ¿Cómo os portabais todos juntos?
+H10:Jesusín muy mal.
+H2:Vaya. ¿Y cuántos íbais a casa de tu abuela a comer?
+H10:Todos.
+H2:¿Cuántos?
+H10:Cinco.
+H2:Madre mía, como la pondríais la cabeza, ¿eh?
+H10:Pues nada que mi hermano pequeño... me pegó un arañazo...
+H2:Un arañazo. [interrupción de la grabación]
+H2:Venga, cuéntanos esas cosas. A ver, de... de la chachicuenta y de eso.
+H11:Pues un día fuí al chachicajero y metí una de quinientas y... y... como no sé qué pasaba pero se atrancaba la moneda y mi padre, como siempre lleva una navaja, tenía que empujar para que... para que cayera la moneda.
+H12:Señorita, sabe...
+H2:¿Y se arregló por fin?
+H11:Sí.
+H2:¿Y luego te dieron el [extranjerismo]ticket[fin de extranjerismo]?
+H11:El [extranjerismo]ticket[fin de extranjerismo] y luego te dan el...
+H12:Un papelito.
+H11:un papel...
+H2:¿Y para qué sirve eso?
+H11:Pues para... para ver... para ver si nos ha tocado el premio y eso, pero a veces no pone cuando viene las instrucciones, a veces no lo pone, porque siempre no lo pone nunca.
+H12:A mí me han tocado muchos premios.
+H11:A mí no.
+H2:Pero ¿ya habéis aprendido a manejar la maquinita esa?
+H11:Yo sí ya sé magi[palabra cortada], yo sé... yo sé.
+H2:Dejarla que nos lo cuente bien Isabelita, a ver, ¿qué tienes qué hacer?
+H11:Pues primero metes la tarjeta, dices tu número secreto, echas la moneda, aprietas a fin de operación, aprietas al b o al a y ya te sale la cosa que quieras.
+H12:Y el b es de... es de cromos.
+H11:De puntos, de puntos.
+H10:Y el a de cromos.
+H11:Sí. Para ponerlos en el álbum. Yo como tengo el álbum pues...
+H2:Bueno, ¿y te ha tocado algún cromo, algún punto, algún regalo...?
+H11:Pues yo tengo trece puntos. [interrupción de la grabación]
+H2:¿Y luego qué se hace con ellos?
+H11:Pues se pegan en una cartilla que te viene y... y el...
+H12:Una libreta.
+H11:y una libreta y te van dando y... si tienes trece pues te dan el regalo que viene en las... en un papel, te dan el pre[palabra cortada]
+H12:[ininteligible] toda la libreta.
+H11:Sí.
+H5:Mi hermana tiene completada, toda.
+H2:Y la tiene completada ¿y ahora qué hace?
+H5:Una hoja tiene. Sólo la falta una hoja de completar y un... tiene, una hoja media, terminada, y luego tiene otra que tiene que terminar entera. Luego cuando la terminas te tienen que dar otra para que la rellenes.
+H2:¿Y luego es un regalo sorpresa?
+H11:Sí, también hay regalos sorpresa.
+H5:luego van y dicen: "Enhorabuena. Te ha tocado un... unos puntos". Pues te dan los puntos. [interrupción de la grabación]

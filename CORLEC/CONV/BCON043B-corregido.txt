@@ -1,0 +1,125 @@
+#archivo: BCON043B
+#fecha de grabación: 30-12-91
+#fuente: conversación familiar en la cocina
+#localización: Madrid
+#términos: jamón, galleta, medianoche, suizo, azúcar, vídeo, música, mantequilla, cuchillo
+#H1: mujer, 27 años, filóloga
+#H2: niña, 10 años, estudiante
+H1: ¿Qué quieres comer?, ¿un poquito de jamón de [extranjerismo]York[fin de extranjerismo]?
+H2: Chsss... chsss... que vea yo que realmente está apagado ésa. [silencio]
+H1: ¿Jamón de [extranjerismo]York[fin de extranjerismo] o no?
+H2: Sí, jamón de [extranjerismo]York[fin de extranjerismo].
+H1: ¿Mucho o poco?
+H2: Mucho... que [solapamiento de turnos] tengo mucha hambre [onomatopeya]bin ban ba[fin de onomatopeya].
+H1: Bueno, ¿no te apetece... [fin de solapamiento de turnos] no te apetece un suizo?
+H2: No.
+H1: Si es como... es como la medianoche, sólo que es con azúcar.
+H2: Claro, pues eso es lo que yo no quiero, el azúcar.
+H1: Bueno, pues quitamos el azúcar, me lo como yo.
+H2: No.
+H1: ¡Ay, qué rica es esta niña! [silencio] [ruido]
+H1: [risas] Te estás volviendo loca [risas]
+H2: [risas]
+H1: Ven aquí.
+H2: ¿Para qué?
+H1: No, para nada, voy a buscar un platillo, ¿no querías el jamón de [extranjerismo]York[fin de extranjerismo] en platillo?
+H2: El verde.
+H1: Lo voy a poner en mi platillo.
+H2: [ruido] [ininteligible] [puertas armarios]
+H2: No, espera, espera, espera, guarda el jamón.
+H1: ¡Ay, qué pesada eres! [silencio]
+H2: Guarda el jamón... [onomatopeya][ininteligible][fin de onomatopeya] [solapamiento de turnos] [risas]
+H1: [risas] [fin de solapamiento de turnos]
+H2: ¿Qué pasa?
+H1: Aquí no pasa nada. ¿[ininteligible] dicho?
+H2: Cosas.
+H1: Ya.
+H2: [ininteligible]
+H1: Oye, Irene, ¿con... mantequilla? [silencio]
+H1: ¡Ay!, decide rápido, anda.
+H2: [duda] Sí.
+H1: Pues venga, ya la estás poniendo.
+H2: [solapamiento de turnos] [risas] ¡Qué morro tienes!
+H1: [risas] [fin de solapamiento de turnos] ¿Cómo que "qué morro"?, si te lo vas a comer tú con tu morro. [solapamiento de turnos] [risas]
+H2: [risas] [fin de solapamiento de turnos] Pero tú no lo tienes que...
+H1: ¿Qué yo te lo tengo que qué? Estás mal acostumbrada. [silencio] ¿Te crees que los tíos están en este mundo para hacer... ?
+H2: Sí, más o menos, sí. ¡Uh... yo no quiero eso! [silencio]
+H2: ¡Qué bien me ha quedado, madre mía, a la [solapamiento de turnos] prime[palabra cortada]...! De esparto.
+H1: Oye, ¿qué te trajo... qué [fin de solapamiento de turnos] te regalaron por... Navidad? A ver, cuéntame.
+H2: Por Navidad regalaron: un... "Nenuco [extranjerismo]baby[fin de extranjerismo]"
+H1: ¡Ah!, sí, si ya me lo has contado, cállate, que ya me lo has contado, no me aburras, anda, no me aburras.
+H2: Pues no me lo preguntes, total.
+H1: [risas] Tienes toda la razón. Quería cotillear un poco.
+H2: No, ya, cotilla, ya sé que eres.
+H1: ¡Ah!, ¿sí?
+H2: No, yo.
+H1: Dicen que de tal palo, tal astilla, ¿verdad?
+H2: Claro.
+H1: Y tú eres la astilla de este palo.
+H2: [risas] ¡Oh!, ya... ya... ya... ya.
+H1: Cuéntame cosas.
+H2: Yo por lo menos... reconozco que soy cotilla. [ruido] [silencio]
+H2: [canta][texto no transcrito][deja de cantar] [silencio]
+H1: ¡Ay!, Irene.
+H2: ¿Qué?, Otilia. [silencio]
+H1: Éste está riquísimo. ¿No quieres? [silencio]
+H1: ¿No quieres?
+H2: Mira, ¡tengo una cinta!, ¿eh?, que estás tú de pequeña así.
+H1: ¿Una cinta de pelo?
+H2: No, una cinta de vídeo.
+H1: ¿Una cinta de vídeo?
+H2: Sí. Y estás tú, así
+H1: No, un momento, ¿una cinta de vídeo y estoy yo?
+H2: [solapamiento de turnos] Sí.
+H1: ¿A ver cómo es posible eso? [fin de solapamiento de turnos]
+H2: De pequeña.
+H1: ¿Pero cómo es eso posible?
+H2: Y haciendo así.
+H1: Pero di ¿cómo es posible?
+H2: Pues porque la tengo.
+H1: Sí, pero si a mí nunca me grabaron en vídeo.
+H2: [onomatopeya][ininteligible][fin de onomatopeya] Tú estás bailando, para empezar.
+H1: Sí, y por lo que me enseñas, un fandango asturiano, si no me equivoco, [silencio] del "Capricho español".
+H2: Pues no lo [solapamiento de turnos] sé.
+H1: ¿Y [fin de solapamiento de turnos] cómo voy vestida?
+H2: Con una cosa blanca, aquí y con una falda así.
+H1: Un corpiño blanco y una falda rosa con flores, ¿verdad?, y unas zapatillas planas rosas.
+H2: Pues no lo sé.
+H1: Y un pañuelo blanco en la cabeza.
+H2: No.
+H1: ¿No?
+H2: Un moño. Un moño y tienes una cosa así como ésas del... [extranjerismo]ballet[fin de extranjerismo].
+H1: ¡Ah!, bueno, el "Cascanueces".
+H2: Pues no lo sé.
+H1: Claro, el... eh... la "Danza española" del "Cascanueces", que hacía de muñeca. [silencio]
+H1: ¿Pero cómo puedes tú tener eso, Irene? No lo entiendo.
+H2: [ruido] Pues porque tengo una cinta de cuando yo soy pequeña y luego, pues sales.
+H1: Pero es que es imposible, si nadie me filmó en vídeo, nunca.
+H2: Pues yo la tengo.
+H1: ¿Estás segura que soy yo?, ¿no será otra?
+H2: No. [silencio]
+H1: [exclamación] [silencio]
+H1: Oye una cosa, y... [silencio] ¿no te apetece un[sic] discos?, ¿no quieres pedir a los Reyes discos para ti?
+H2: El de [extranjerismo]Michael Jackson[fin de extranjerismo].
+H1: No, no... no... no... no, música clásica.
+H2: No, no [ininteligible], no.
+H1: Ven aquí. ¿Estás aprendiendo música, sí o no?
+H2: Me parece que sí.
+H1: ¿Sí? Pues quiero ver los resultados. Te voy a regalar el disco de "Fantasía".
+H2: ¡Ay...!
+H1: Si tuvieras la película... es mucho más bonita.
+H2: Pues vale, la película. Cualquier cosa menos eso. [silencio]
+H2: ¿Qué? [silencio]
+H2: ¿Qué quere?
+H1: Que si lo quieres con mantequilla.
+H2: Me parece que sí.
+H1: Pues ya sa[palabra cortada]... sabes lo que tienes que hacer. [silencio]
+H2: ¡Uh!, ¡qué me meo! [risas]
+H1: [solapamiento de turnos] [risas]
+H2: [risas] [ininteligible] [fin de solapamiento de turnos] [silencio] ¿Qué pasa? [silencio] [risas]
+H1: Deja ahí [tos] la galleta y vete a ver al señor Roca.
+H2: [risas] Sí.
+H1: No, da... ahí no, te aconsejo que la pongas encima del plato, antes que encima de la mesa.
+H2: [risas]
+H1: Perfecto, y el cuchillo también. [solapamiento de turnos] Y ahora tranquilamente te vas.
+H2: ¡Ay...! Sí, tranquilamente. [silencio] ¿Dónde está la luz? ¡Ah!, aquí.

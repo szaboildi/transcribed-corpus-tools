@@ -1,0 +1,22 @@
+#archivo: ccon029b
+#fecha de grabación: 25-3-91
+#fuente: conversación telefónica familiar
+#localización: Segovia
+#términos: coche
+#H1: mujer, 20 años
+#H2: varón, 50 años. Padre de H1
+H1:¡Hola, papá!
+H2:Que soy yo otra vez.
+H1:Sí.
+H2:Mira, que no tienes que decirla nada a mamá, que me llevan, ¿eh?
+H1:Anda, pues mira qué bien.
+H2:Sí, porque como hay niebla y así, yo prefiero... prefiero que no venga.
+H1:Ya, yo es que digo... he pensado antes que a lo mejor, como es la reunión pues los que haya[palabra cortada] os hayan llevado esta mañana pues ya no iban o... algo así.
+H2:Exactamente, es que eso... eso pasa.
+H1:Ah, eso es lo que ha pasado, pero bueno, que ya te traen y nada.
+H2:Exactamente.
+H1:Que llegaréis aquí a las nueve y media o así.
+H2:Exacto.
+H1:Vale, pues nada.
+H2:Hasta luego.
+H1:Hasta luego, papá.

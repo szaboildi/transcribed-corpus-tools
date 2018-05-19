@@ -1,0 +1,71 @@
+#archivo: PJUR005H
+#fecha de grabación: 21-11-91
+#fuente: radio
+#localización: Madrid
+#términos: heredero, documento, paga, contrato laboral, poder, jurídico, plusvalía, abogado
+#H1: varón, edad desconocida,abogado
+#H2: mujer, edad desconocida
+#H3: varón, edad desconocida, locutor
+#H4: mujer, edad desconocida
+#H5: varón, edad desconocida
+#H6: mujer, edad desconocida
+#H7: mujer, edad desconocida
+[texto no transcrito]
+H1: [solapamiento de turnos] Vamos a la pregunta.
+H2: Buenas tardes [fin de solapamiento de turnos]. Mire, [duda] ¿se puede hacer una segunda... ay, a ver si ahora no me acuerdo,
+H1: [afirmación]
+H2: ...un segundo poder teniendo hecho otro anteriormente para una separación?
+H1: Bien.
+H2: Para dar el poder a otro abogado.
+H1: Bueno, pues, si es tan amable, eh... escúcheme por antena y cuelgue, [solapamiento de turnos] por favor.
+H2: Sí, sí [fin de solapamiento de turnos].
+H1: Por supuesto que se puede hacer, revocando evidentemente el poder anterior, y haciendo constar ese nuevo poder y otorgando uno nuevo. Lo que sí es importante es saber para qué se otorga, valga la redundancia, ese documento... ese documento notarial. Si es a efectos de una mera ratificación ante un convenio... ju[palabra cortada]... un convenio regulador ante un juzgado, pues, se puede hacer de igual forma. Si es un poder general para pleitos, previamente habrá tenido que obtener el nuevo [vacilación] abogado, la venia de ese compañero que haya dirigido técnica y procesalmente ese asunto en su primera faceta.
+H3: Nueva pre[palabra cortada]... llamada para nuestro abogado. Buenas tardes.
+H4: Sí, hola, buenas tardes.
+H3: Haga su pregunta, [solapamiento de turnos] por favor.
+H4: Mire... [fin de solapamiento de turnos] es[palabra cortada]... esta pregunta le... yo tengo [duda] una casa y tengo tres hijos, tengo uno soltero.
+H1: [afirmación]
+H4: Quería saber si en caso de que el soltero no se casara, pues, que si en caso de que yo muriera, pues si... se quedaría para él.
+H1: Bien. Pues escúcheme por antena, si es tan [solapamiento de turnos] amable.
+H4: Sí [fin de solapamiento de turnos], muchas gracias.
+H1: En principio todos los hijos tienen iguales derechos ante los causantes o progenitores, antes sus padres, salvo que alguno de los hijos renuncie a la herencia y a su parte proporcional de... en favor del otro hermano. Usted lo que sí puede hacer es ha[palabra cortada]... realizar la mejora en favor de uno de esos hijos. Pero bajo ningún concepto puede, exceptuando el... en base al artículo ochocientos cincuenta y seis y siguientes del código civil, el hecho de que usted desheredara a alguno de los hijos. Pero no creemos que este el caso que usted pregunta. Por lo tanto tiene que haber igualdad de condiciones, teniendo en cuenta esa mejora que usted puede hacer para... para su hijo. No hay que olvidar, por último, que si hay más bienes, usted puede evidentemente designar a cada uno de sus hijos un bien distinto, léase... bien mueble o léase bien inmueble, como es un piso.
+H3: Repito el teléfono: cinco treinta y cinco treinta once para hablar con nuestro abogado del barrio, ahora aprovéchense que tenemos unos... unos minutos para eso. Como esta llamada que ya tenemos. Buenas tardes.
+H5: Buenas tardes, [solapamiento de turnos] [ininteligible]
+H3: Haga [fin de solapamiento de turnos] su pregunta, [solapamiento de turnos] por favor.
+H5: Sí, mire [fin de solapamiento de turnos] yo es que... estoy trabajando en... una pequeña empresa [solapamiento de turnos] ¿no?
+H1: Sí... [fin de solapamiento de turnos]
+H5: ...entonces el contrato ya se me acaba dentro de pocos días.
+H1: [afirmación]
+H5: Entonces claro, yo no quiero renovar, [solapamiento de turnos] pero...
+H1: Bien [fin de solapamiento de turnos].
+H5: ...ellos a mí sí me quieren renovar. Entonces yo quería saber si tenía derecho a paro o a alguna paga extra.
+H1: Pues escúcheme por antena, si es tan amable.
+H5: Vale.
+H1: Us[palabra cortada]...
+H5: [solapamiento de turnos] Hasta luego
+H1: Vamos allá [fin de solapamiento de turnos]. Primero, usted tiene la obligación laboral y contactual de que si no quiere renovar [silencio] realizar la notificación, el preaviso, de al menos quince días, para que la empresa tenga conocimiento de ello. En segundo lugar a usted, en esa baja voluntaria, tendrá los derechos correspondientes a la parte proporcional, además del salario de ese mes usted que haya trabajado, a la parte proporcional en conformidad con el tiempo que haya usted llevado a cabo la actividad laboral en esa empresa, y partes proporcionales, habría que ver el contrato laboral, de las pagas extraordinarias de Navidad y, vuelvo a decir, posiblemente de verano.
+H3: Cinco treinta y cinco , treinta once, el teléfono. Nueva llamada. Aprovechen ahora. Buenas tardes, sí buenas tardes.
+H6: [duda] Es a mí, [solapamiento de turnos] buenas tardes.
+H3: Sí, sí, a usted... [fin de solapamiento de turnos] a usted es.
+H6: Mire, [duda] quería saber si en una comunidad de propietarios [duda] hay algo establecido para saber quién es el... el vecino que tiene que ser el presidente.
+H1: [solapamiento de turnos] Sí.
+H6: Es [fin de solapamiento de turnos] decir si por... por... haber sido [solapamiento de turnos] el último
+H1: Está entendido [fin de solapamiento de turnos].
+H6: ...en comprar el piso...
+H1: [afirmación]
+H6: [duda]
+H1: Está entendido... [duda] si es tan amable me escucha por antena.
+H6: De acuerdo, gracias.
+H1: Gracias a usted por su llamada.
+H3: Esta señora puede ser que sea de las últimas que ha entrado en la comunidad. Porque la pregunta va encaminada por [solapamiento de turnos] ahí
+H1: Sí [fin de solapamiento de turnos], lo que pasa es que lo que debe de haber es esa normativa interna que es en primer lugar la... [sic] correspondientes estatutos de la comunidad de propietarios y en segundo lugar la... la normativa de reglamento interior de ese edificio. Eh... ahí sí que constará, evidentemente, que... si hay un turno rotativo, si hay un turno relativo a las letras de las viviendas, o si hay un turno además voluntario, que eso siempre es aceptable. En los estatutos de la comunidad de propietarios de ese edificio, constará la correspondiente actuación para designar al presidente, y, en este caso, administrador o secretario que lleve a cabo las funciones en esa junta de comunidad de propietarios.
+H3: Pero no importa que se haya comprado ahora el piso... o... hace un año o hace dos.
+H1: No tiene nada que ver porque lo que sí importa es esos estatutos que estén establecidos de la comunidad de propietarios.
+H3: Nueva llamada, buenas tardes.
+H7: Tardes, [solapamiento de turnos] mire, señor
+H3: Hala, pregunte [fin de solapamiento de turnos].
+H7: ...abogado ¿hereda de un cónyuge del otro sin estar divorciados? Al morir el uno o el otro.
+H1: Bien, pues escúcheme por antena, si es tan amable.
+H7: Sí.
+H1: Vamos a contestarle a su pregunta y un poquito más si nos da tiempo. En primer lugar hay que decirle que si los cónyuges tienen una convivencia y una unión matrimonial, diríamos de constante y habitualidad, en donde no existe regularización, separación o disolución, divorcio, si hay un testamento recíproco y en favor de cada uno de ellos, evidentemente que son sus correspondientes beneficios de derecho de ese testamento. Siempre teniendo en cuenta que es un tercio del usufructo vidual. [sic] Si hay hijos los herederos forzosos son los descendientes. En el supuesto que usted pregunta de que haya un... un divorcio, pues le añadimos una cosita más. Si hay un divorcio, evidentemente que no hay un testamen[palabra cortada]... salvo que se teste a favor de la ex-esposa, no hay ese derecho a poder solicitar [silencio] la correspondiente declaración de herederos si no se ha testado y a tener los beneficios que marca nuestro vigente código civil en el capítulo de... de... relativo a las sucesiones, puesto que se disuelve el vínculo matrimonial.
+H3: Bien, pues ahí están las contestaciones que hoy ha realizada a las llamadas de ustedes eh... amigos [interrupción de la grabación]

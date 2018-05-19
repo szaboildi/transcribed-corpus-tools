@@ -1,0 +1,15 @@
+#archivo: PINS008E
+#fecha de grabación: 23-12-91
+#fuente: grabación directa en talleres de Inspección Técnica de Vehículos
+#localización: Tres Cantos, Madrid
+#términos: firma, seguridad, revisión
+#H1: varón, 25 años, propietario de vehículo
+#H2: varón, c. 25 años, controlador de la I.T.V.
+H1: Ya me... me lo han hecho.
+H2: Vale. A ver, fírmalo aquí. [silencio] En caso que te lo hagan y no te quedes convencido por lo que sea te puedes acercar [ininteligible] para que lo veamos aquí, ¿eh?
+H1: Vale. Yo... voy inmediatamente, tío, antes de que cierren.
+H2: Sí. No... pero vamos, digo que en caso de que no... estés convencido pues si... quieres venir por aquí para que lo veamos, pues... ya por tu seguridad, para quedarte más... a gusto.
+H1: Sí, sí, sí. Ahora no... como no hay gente, ¿no? En un pis pas.
+H2: Ven por la mañana mejor que estamos nosotros.
+H1: Vale. [texto no transcrito]
+H1: Hasta luego y gracias.

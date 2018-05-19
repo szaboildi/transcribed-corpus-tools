@@ -1,0 +1,80 @@
+#archivo: APUB035C
+#fecha de grabación: 14-1-92
+#fuente: radio
+#localización: Madrid
+#H1: varón, locutor, edad desconocida
+#H2: varón, representante de empresa de telefonía, edad desconocida
+#términos: teléfono, conversación múltiple, diversión, tarifa, operadora, situación, horóscopo, tarot, chiste
+H1: ... Una compañía participada de la Compañía Telefónica Nacional de España. Señor Lastra, buenas tardes.
+H2: Buenas tardes, [solapamiento de turnos] ¿qué tal?
+H1: ¡Vaya lío! [fin de solapamiento de turnos], ¿no? Vaya lío hemos tenido ocasión de escuchar durante [solapamiento de turnos] unos instantes, ¿no?
+H2: Pues sí. [risas] [fin de solapamiento de turnos] Sí, sí.
+H1: ¿Para qué sirve este... este [extranjerismo]"partyline"[fin de extranjerismo]? ¿Cuál ha sido la idea eh... que les ha llevado a ustedes a ponerlo en funcionamiento aquí, en España?
+H2: Pues mira, esto es sencillísimo. ¿Para qué sirve? Para pasarlo... bomba. Y... entonces, la segunda parte es eh... cómo lo hemos puesto en marcha, bueno, pues eh... esto es una idea que... viene de... de otros países eh... que han comenzado con este servicio hace un tiempo, no mucho; hace solamente pocos años...
+H1: [afirmación]
+H2: Eh... cuatro o cinco años, [solapamiento de turnos] como Holanda...
+H1: Sí... [fin de solapamiento de turnos]
+H2: [solapamiento de turnos] Efectivamente...
+H1: Sí... [fin de solapamiento de turnos]
+H2: ... lo has dicho; Inglaterra y Estados Unidos, y entonces, la tecnología... para poner en marcha esto pues ha venido de Holanda, es uno de los socios de esta empresa y lo hemos puesto en marcha pues eh... digamos, para que la gente... lo pase bien con el [extranjerismo]"partyline"[fin de extranjerismo], [solapamiento de turnos] pueda llamar...
+H1: ¿Cuándo... [fin de solapamiento de turnos] cuándo ha empezado a entrar en servicio [solapamiento de turnos] éste eh...?
+H2: El día uno [fin de solapamiento de turnos] de este mes; el primero de año.
+H1: ¿Y ya tiene... digamos que una considerable tasa de participantes?
+H2: Sí, sí, sí; muy alta, ha sido una respuesta pues... pues eh... diría yo "fulminante" en el mercado...
+H1: ¿Cuánta gente llama todos los días?
+H2: [onomatopeya]¡Buf![fin de onomatopeya] ¡Miles!
+H1: ¡¿Cómo que miles?!
+H2: Miles.
+H1: ¡¿Miles de personas dispuestos[sic] simplemente a mantener una conversación sin saber con quién [solapamiento de turnos] la mantienen?!
+H2: Sí, sí. [fin de solapamiento de turnos] Muchos miles.
+H1: ¡Madre mía!
+H2: Sí, sí.
+H1: Ya hemos dicho que hay una tarifa, que es de cincuenta y ocho pesetas; bueno, es algo más de lo que cuesta un minuto de llamada interurbana...
+H2: Sí; un poco más, sí.
+H1: [afirmación] Y... Bueno, no hay nadie; no hay ningún monitor, no hay... [solapamiento de turnos] No hay...
+H2: Sí, sí. [fin de solapamiento de turnos]
+H1: ¿No hay ningún [solapamiento de turnos] director de operaciones?
+H2: Sí. Sí, sí. [fin de solapamiento de turnos] Sí hay, sí.
+H1: [solapamiento de turnos] Ah, ¿sí lo hay?
+H2: Hay... hay una... [fin de solapamiento de turnos] Hay... Aquí hay una cosa: hay una operadora...
+H1: [afirmación]
+H2: ... que... constantemente está... digamos, pasando por el teléfono de grupo a grupo para ver si les ofrece algo, en fin; imagínate tú pues que hay alguien que... no se está comportando muy bien, entonces a esa persona se le se saca del grupo, se la advierte; si hay niños, por ejemplo, pues se les advierte también que esto no es para niños, naturalmente, pues los niños tienen... No por nada, sino que los niños tienen un comportamiento diferente, eh... Y también hay una cosa, la operadora y... pregunta a veces, ¿no?, eh... si alguien... si dos personas se quieren separar del grupo, para mantener una... conversación separada... Imagínate tú, no sé, que ahí se está hablando pues de coleccionar sellos...
+H1: [solapamiento de turnos] [afirmación]
+H2: ... y hay dos [fin de solapamiento de turnos] personas que dice: "Oye, tú y yo, pues nos separamos... y hablamos a solas" y tal, pues eso se le pide a la operadora y inmediatamente lo hace y se mantiene una conversación separada.
+H1: Sí; me ha parecido escuchar una chica que estaba contándole a no sé quién que había roto recientemente con su novio...
+H2: [solapamiento de turnos] Sí, sí. [risas]
+H1: O sea, [fin de solapamiento de turnos] que a lo mejor ése podía ser el inicio de una bella amistad, como...
+H2: Sí, sí.
+H1: ... como en "Casablanca", ¿no? [risas]
+H2: Sí, sí; hacer amigos eh... se puede hacer en [extranjerismo]"partyline"[fin de extranjerismo] y si... Y simplemente reírse, con[palabra cortada]... contar chistes, eh... ver... qué sé yo, eh... qué está pasando ahora en... Sevilla o en Bilbao... lo que sea. Es decir, lo curioso de este servicio y lo magnífico es que cada vez que uno llama es una situación diferente.
+H1: [afirmación]
+H2: Nunca hay una situación igual a la anterior.
+H1: O sea, que no se impone ningún tipo de argumento y que cada uno sugiere [solapamiento de turnos] lo que quiere, ¿no?
+H2: Nada. [fin de solapamiento de turnos] Nada.
+H1: Vamos a... vamos a oír un poco más. Vamos a oír. [texto no transcrito]
+H1: Bueno, ya ven ustedes cómo se están produciendo unas conversaciones que en este caso lo que tienen que ver -y mucho- bueno, pues es con la capacidad de diversión de la gente joven que... me da la sensación estaban intentando ver la posibilidad de... de encontrarse, o de... bueno, pues de conocerse, ¿no? También me imagino que el ligue debe constituir un argumento... recurrente en este tipo de llamadas, ¿verdad?
+H2: Bueno, eh... nosotros no le llamamos "ligue"; es... es hacer amigos, porque no solamente es chico y chica, sino... pues hay veces que son dos amigas...
+H1: [solapamiento de turnos] Sí, sí...
+H2: ... que se hacen [fin de solapamiento de turnos] en el teléfono...
+H1: Claro.
+H2: ... y que son de la misma ciudad, y que... quedan para... para ir a una discoteca, en fin, lo que sea; o sea, lo que es hacer amigos en general, es ése uno de los objetivos de... del [extranjerismo]"partyline"[fin de extranjerismo].
+H1: [afirmación] Eh... También está el tema de la astrología y de las cartas, del tarot, eh... ¿es otro servicio también de... de "Audiotex", ¿no?
+H2: Bueno, nosotros hemos puesto en marcha el... eh... "Telehoróscopo", que es el... nueve cero tres - tres tres tres... cuatro cuatro cuatro, y desde cualquier punto de España también se puede llamar y te dan las predicciones, como tú mismo acabas de... de mencionar. El tarot es algo que va... vamos también a... a lanzar; es un servicio de tarot.
+H1: Ahí sí que hay, me imagino, que una adivinadora o un [solapamiento de turnos] adivinador...
+H2: Sí, sí. [fin de solapamiento de turnos]
+H1: ... que se encarga de darle satisfacción al comunicante, ¿no?
+H2: Sí, sí; te echan las cartas eh... por teléfono.
+H1: [afirmación] ¿Hay previstos también... nuevos servicios, [solapamiento de turnos] aparte de los dos mencionados?
+H2: Sí. [fin de solapamiento de turnos] Sí, sí; hay una batería de servicios muy grande, que vamos a lanzar este año, muy ambiciosa, eh... Te puedo contar uno que va a gustar, yo creo, muchísimo, es el "Telechiste", donde tú vas a poder oír los chistes ganadores de concursos...
+H1: [afirmación]
+H2: ... vas a poder contar tu propio chiste y participar en concursos... en fin, una cosa... sumamente divertida.
+H1: ¿Podemos decir el número de teléfono de este [extranjerismo]"partyline"[fin de extranjerismo], por si alguno lo quiere utilizar?
+H2: Sí, claro, con mucho gusto. Sí, sí, es el nueve cero tres - tres tres tres... tres tres tres. [solapamiento de turnos] Es muy fácil.
+H1: Ahá. [fin de solapamiento de turnos] Éste es para... esa conversación, digamos que distendida y divertida sobre cualquier tema. Y luego, para el tema del horóscopo y del... tarot y todo eso, eh... ¿cuál es el otro número?
+H2: El horóscopo es el nueve cero tres - tres tres tres... cuatro cuatro cuatro.
+H1: Muy bien. Es un número fácil, es... [solapamiento de turnos] eh...
+H2: Sí, sí. [fin de solapamiento de turnos]
+H1: No en... no en vano es la Compañía Telefónica Nacional de España, la que ha puesto en funcionamiento eh... todo ese servicio a través, como decimos, de "Audiotex, que es quien se encarga de... de organizar; es la empresa eh... [vacilación] concesionaria de... de este servicio que se encarga de organizar todos estos juegos y todos estos contactos. Gracias eh... José Luis Lastra, por habernos acompañado y por habernos dado acceso a este nuevo servicio.
+H2: Muchísimas gracias a tí y un saludo a todos.
+H1: Adiós. Buenas tardes.
+H2: Adiós, adiós.

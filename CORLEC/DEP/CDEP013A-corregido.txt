@@ -1,0 +1,59 @@
+#archivo: cdep013a
+#fecha de grabación: 7-5-91
+#fuente: Radio. Onda Cero. Programa: "Si así os Parece".
+#localización: Madrid
+#términos: deporte, ciclismo, Vuelta a España, barco, avión
+#H1: varón, locutor
+#H2: varón, locutor
+#H3: varón, locutor
+#H4: oficial de puente de un barco
+H1:... Santos, muy buenos días.
+H2:Hola, buenos días, Luis, saludos.
+H1:Me tienes sobre ascuas por aquello de la sorpresa. ¿Es posible hoy o todavía no es posible?
+H2:No, no. Hoy no.
+H1:Hoy no, ¿no?
+H2:Hoy no porque... bueno, pues, acabamos de desembarcar prácticamente los vehículos, eh... yo ayer hice una escapadita a Madrid pero ya estoy aquí con el resto de compañeros y... y bueno, pues eh... hay bastante lío hoy.
+H1:Hay lío, hay lío. ¿Hay plante o no hay plante? por fin.
+H2:Hoy las sorpresas han sido desagradables todavía.
+H1:Sí.
+H2:Yo estaba ayer en el aeropuerto de Mallorca para tomar un vuelo a Madrid y me dio una pena tremenda, al filo de las nueve de la noche, ver prácticamente tirados pues a los grandes corredores de esta Vuelta, los que nos tienen que dar el espectáculo a partir de ahora que llega la montaña, los Anselmo Fuerte, Fabio Parra, Miguel Induráin, todos ellos repito, tirados en el aeropuerto por estas extrañas circunstancias de... de bueno, las neutralizaciones, los intereses comerciales para que vayan a determinada ciudad que paga más dinero, paga menos dinero y todo eso está muy bien pero siempre que se garantice que los corredores pueden estar a las ocho, nueve, en la siguiente ciudad de destino.
+H1:Claro, porque tengo entendido J.J. que...
+H2:Algunos han llegado pasada la una.
+H1:Exactamente, te iba a decir, que era la una de la madrugada y que algunos corredores todavía no habían llegado a sus hoteles de Barcelona, ¿no? Y tampoco está tan lejos, Palma de Mallorca de Barcelona, ¿eh?
+H2:No, ¿sabes lo que pasa? que... que al final siempre estamos a ahorra una peseta. Hablo en general, en este país cuando... cuando organizamos algo y lo que había hecho la organización era fletar un avión pero el mismo avión para que hiciera dos viajes.
+H1:Ya.
+H2:Entonces, claro, salía el avión a las siete de la tarde, tenía que llegar a Barcelona, descargaba por así decirlo, lo limpiaban y tenía que volver vacío a Palma para hacer un segundo viaje. ¿Qué ocurre? Que como este tipo de vuelos que se contratan son [extranjerismo]charter[fin de extranjerismo] pues tú sabes que cuando hay cierto... cierta saturación en el aeropuerto pues intentan dar prioridad a los vuelos regulares.
+H1:Claro.
+H2:A este avión no le dieron prioridad en Barcelona, tardó muchísimo en llegar a Palma y el segundo viaje que tenía que hacer, que era precisamente el de los corredores porque curiosamente, organización y... y aparato de la Vuelta llegó a las ocho de la tarde a Barcelona pero los corredores que son los importantes pues llegaron bastante más tarde.
+H1:Total que los participantes en esta Vuelta Ciclista a España tienen hoy un enfado justo, lógico y además elevado, ¿no?
+H2:Está clarísimo; tienen toda la razón pero es que otro... otro... otra gran parte de la vuelta vino en barco, en tres barcos,
+H1:[afirmación]
+H2:Y esos sí han llegado bien, a las siete de la mañana. Y... hoy vamos a escuchar a Tino Ron que se fue a cubierta a las doce de la noche. El sonido que van a oír nuestros oyentes es del barco, de uno de los tres barcos, digo a las doce de la noche hablando con Ángel Cea, que era el oficial de puente del Barco "Ciudad de Sevilla" en el que viajaban nuestros compañeros y la inmensa mayoría de la Vuelta. Creo que es otro aspecto anecdótico de este... curioso traslado a la Península, eh... y de Valencia a la isla que hicimos hace dos días en 48 día[palabra cortada], en 48 horas quiero decir, ha habido que hace dos desplazamientos de este tipo y vamos a escuchar lo que le decía Ángel Cea...
+H1:Vamos, vamos a escuchar eso que podríamos calificar de Tino a medianoche.
+H2:Exacto, Tino a medianoche en la cubierta del barco hablando con el oficial de puente.
+H3:Bueno, pues uno de los problemas de intendencia que ha tenido la Vuelta, si se le puede llamar problema es el desplazamiento de las casi dos mil ochocientas personas que seguimos a la gran ronda ciclista nacional a la isla de Mallorca, donde ha finalizado en la jornada de ayer, una contra reloj que por cierto, en lo deportivo, dejó bastante clarificadas las cosas de cara al futuro. Pero no va a ocuparnos ahora lo deportivo y sí esas otras cosas que se mueven en torno a un gran acontecimiento como es la Vuelta Ciclista a España. Estamos con don Miguel Cea, oficial de puente de este barco del "Ciudad de Sevilla" que nos lleva hacia Barcelona. En estos momentos [ruido]
+H1:Ay, J. J. estamos perdiendo la señal de esa entrevista grabada... Ahora.
+H3:Y todos sus cálculos sobre los mapas, sobre las cartas marinas echados para llevarnos a buen puerto. Eh... buenas noches, don Miguel.
+H4:Hola, buenas noches, ¿qué hay?, ¿qué tal?
+H3:Bueno, en principio vamos a ver, ¿qué... qué ruta estamos siguiendo ahora mismo, qué rumbo llevamos?, ¿cómo vamos a hacer este viaje... hacia... hacia Barcelona?
+H4:Pues mira, en principio salimos del... del puerto de Palma a las... a las once y cuarto de la noche, eh... ahí normalmente sólo ponen rumbos prácticos para... bajar a recalar a Cala Figueras y una vez allí en Cala Figueras franqueando el Toro, un islotito que hay cerca, ponemos ya el tres diez, al Oeste, prácticamente y hasta llegar al [ininteligible] que es la... el faro más... más meridional de... de [ininteligible] y allí ya vamos rumbo directo al Norte, prácticamente [ininteligible] hasta... hasta Barcelona. Esperamos llegar a las siete de la mañana allí [ininteligible].
+H3:Hasta las siete de la mañana vamos a tener que andar algunas millas marinas, ¿cómo... cómo está la mar? Parece que se mueve un poquito esto, más que cuando veníamos en dirección a Palma de Mallorca.
+H4:Sí, tenemos... tenemos... viento del... del Suroeste, pero vamos, va a ser bastante asequible. En el momento que doblemos Dragonera, nos... lo vamos a tener por la aleta, por la aleta de aquí de babor y no va... no va a haber ningún problema. O sea, prácticamente no... no se va a mover el... el barco.
+H3:Todo lo contrario. Puesto que incluso nos va a ayudar a navegar.
+H4:Exactamente. Vamos a coger... bueno, pues una tomada, no cerrada pero... bastante, bastante buena, sí.
+H3:[duda] Hoy hubo... eh... un auténtico follón para meter los coches, todos los medios de comunicación, los equipos ciclistas, todos queríamos meter nuestros coches aquí adentro, ¿qué características reúne este barco que usted ahora mismo pilota eh... para ocupar y... y llevar a bordo todos los instrumentos, todo el aparataje y todas las personas que vamos aquí adentro?
+H4:Pues bueno, es que no sé exactamente a qué... a qué te... a qué te refieres, o sea, ¿a medios, dices, de carga, descarga...? Bueno, el barco éste, toda la... toda la cuestión de carga eh... entra todo rodado, o sea que se mete todo carga rodada, eh... y bueno, todo... bien se hace, los que no llevan cabeza tractora, los módulos éstos pues se meten con... con [ininteligible] o sea, unas cabezas tractoras especiales que... que hay para ello y el resto pues entra por su... por su propia rueda, vamos, o sea, [extranjerismo]roll on, roll on[fin de extranjerismo] [ininteligible] o sea, el tipo de... de carga ésta, ¿no? entra rodando y sale rodando.
+H3:En cuanto a las características específicas del barco en que... en que navegamos, este "Ciudad de Sevilla" eh... ¿qué podemos contar? de... de éste... de ésta nuestro habitáculo, hasta que lleguemos a Barcelona.
+H4:Bueno, pues mira, el barco éste tiene... tiene un... una capacidad de garaje de 524 metros lineales, eh... tiene... bueno, en cuanto a parking tenéis cuatrocientas[sic] noventa y seis metros, tenemos y 480 metros útiles, en general luego de carga abajo. Se debe compaginar siempre la carga aquí. Solamente tenemos un garaje alto que va alquilado a... a los coches, a los turismos y... y luego una parte baja que va dedicado a la carga, a la carga pero vamos, que... eh... se puede meter también coches de pasaje si... si eso, si es necesario, ¿no? y... ya te digo, normalmente se compaginan los dos tipos de carga... Se suele llevar más... más... más coches de pasaje que... que carga, pero bueno, como la carga es más grande, pues suele ocupar más... más módulos, ¿no?
+H2:Bueno, pues eran algunas de las características...
+H1:Algunas curiosidades.
+H2:de ese barco en el que se ha transportado parte de la Vuelta Ciclista a España.
+H1:Como se nota que Tino es gente marinera, ¿eh?
+H2:Estuvo dos años.
+H1:¿Eh?
+H2:Nos ha contado el otro día tranquilamente en cubierta, que estuvo dos años en un barco de pesca.
+H1:Sí, sí, sí. Por eso lo digo. La gente asturiana, marinera.
+H2:Bueno, a ver si tenemos...
+H1:¿Hay, hay etapa? ¿no? J.J. ¿Hay etapa?
+H2:Hay etapa en principio pero es que no ha llegado la mayoría de los equipos. A las once y media intentaremos dar más detalles. A lo largo de toda la mañana y mañana si es posible, camino de Andorra, la sorpresa.
+H1:Bueno, pues vamos a ver. Esperamos eh... estamos sobre ascuas para esa sorpresa. Ahora llega el momento de despedir esta conexión, gracias J. J. gracias compañeros, enviados especiales a la Vuelta Ciclista España, inmediatamente noticias en Onda Cero. Mañana, a las nueve y cinco de la mañana, más en "Si así os Parece".

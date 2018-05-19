@@ -1,0 +1,22 @@
+#archivo: ALUD002A
+#fecha de grabación: 3-91
+#fuente: radio
+#localización: Madrid
+#H1: varón, edad desconocida
+#H2: mujer, edad desconocida
+#términos: censo, alquiler, pregunta, indiscreción, traslado
+H1: ¿Verdad, señora?
+H2: Pues sí.
+H1: Pues no, señora, no. Entonces su hijo no es el cabeza de familia. ¿Me quiere decir usted de qué viven en esta casa, por favor?
+H2: Bueno, pues la verdad es que vivimos de Manolo.
+H1: Manolo será otro hijo, ¿verdad?
+H2: Pues... no. Manolo es el inquilino. Le tenemos alquilado un cuarto, allá abajo...
+H1: Bueno, bueno, señora; mejor lo dejamos... y ponga usted lo que quiera. Vamos a ver. A ver, ¿por qué no ha contestado usted a esta otra pregunta, señora? ¡Dígame por qué no la ha contestado!
+H2: AH, no, no, yo es que a eso me niego, ¿eh? a esa pregunta si que no...
+H1: ¡Pues tiene usted que contestarla, señora mía!, ¡Pero si es el dato principal! ¡Tiene usted que decirnos con qué frecuencia se hace el acto sexual en esta vivienda! ¡Lo necesitamos para las estadísticas de demografía, por favor! Y eso es todo, señora. No me haga perder más tiempo; me voy ya, porque...
+H2: Pero si es que...
+H1: Pe[palabra cortada]... pe[palabra cortada]... pero nada, señora. Y en un plazo de 4 días tiene usted que entregar el censo completamente relleno en el Ayuntamiento, ¿eh?, que quede bien claro.
+H2: Oiga, eh... espere un momento, si es que... ¿lo puedo entregar en el Ayuntamiento de Toledo?
+H1: ¡Pero señora, en el Toledo, no! ¡En el de aquí, por favor, en el de aquí, hombre! Pero... pero...
+H2: Es que... Verá usted, nos vamos a vivir mañana a Toledo, ¿sabe? Y pues...
+H1: ¡Vaya, hombre...!

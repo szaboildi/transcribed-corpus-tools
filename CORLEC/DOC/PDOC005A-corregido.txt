@@ -1,0 +1,13 @@
+#archivo: PDOC005A
+#fecha de grabación: 07-11-91
+#fuente: televisión
+#localización: Madrid
+#términos: contaminación, residuos, ecologista, naturaleza, atmósfera
+#H1: varón, c. 27 años, locutor de televisión
+#H2: varón, edad desconocida, ecologista
+#H3: varón, edad desconocida, ecologista
+H1: "Donde no se vean, porque tarde o temprano terminan hediendo". Esa es la razón que esgrime [extranjerismo]Greenpeace[fin de extranjerismo] para oponerse frontalmente a los proyectos del gobierno de crear en toda España tres nuevas plantas de incineración.
+H2: Estamos preocupadísimos porque lo que hoy en día se hace y se pretende hacer es... esto tirar los residuos por todos lados, esto... meterlos debajo de la alfombra que es lo que se hace o incinerarlos ¿no? De esas tres posturas quizá la más grave y la que nos oponemos frontalmente es la incineración por considerarla pues extraordinariamente contaminante, en primer lugar, y después bueno despilfarradora y carísima.
+H1: Según [extranjerismo]Greenpeace[fin de extranjerismo] el cuarenta por ciento de los residuos que entran en una incineradora pasa a la atmósfera en forma de cenizas, la incineración, por tanto, no elimina en absoluto el problema de las basuras.
+H3: Básicamente porque pensamos que la incineración no es un método adecuado para deshacerse de los residuos y tiene... problemas graves de emisiones a la atmósfera, producción de cenizas tóxicas y producción de agua contaminada.
+H1: Asociaciones de vecinos y grupos ecologistas de toda España, se han reunido esta mañana en Madrid para pedir que se incentive la producción industrial limpia y el reciclaje de residuos. El progreso no sólo genera comodidad, sino también inmundicia. El mensaje que ha querido transmitir [extranjerismo]Greenpeace[fin de extranjerismo] hoy con este acto es que hay que llegar a un equilibrio entre el progreso y respeto a la naturaleza. Para Telemadrid Javier Mayoral.

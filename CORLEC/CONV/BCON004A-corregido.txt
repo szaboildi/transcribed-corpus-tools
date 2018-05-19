@@ -1,0 +1,171 @@
+#archivo: BCON004A
+#fecha de grabación: 5-7-91
+#fuente: tienda de ropa femenina
+#localización: Madrid
+#términos: vestido, falda, pantalón, traje chaqueta, escote, talla, pecho, precio, modelo, estilo, sujetador, señora, alfiler, tela, dibujo, conjunto, blusa, camisa, rodilla, forro, tipo
+#H1: mujer, 27 años, profesora
+#H2: mujer, c.45 años, dependienta
+H1: [tos] ¡Hola!, buenas tardes.
+H2: ¡Hola!
+H1: Quería ver que tenía de faldas... largas principalmente.
+H2: De faldas largas, pues mira, te voy a enseñar ésta.
+H1: ¡Ah! Muy bonita. ¿Qué precio tiene ésta? [silencio]
+H2: Trece mil novecientas.
+H1: Es preciosa. Y tallas. ¿Qué tallas tiene?
+H2: Pues de momento... tú tienes la cuarenta y [solapamiento de turnos] dos, cuarenta y cuatro ¿no? [silencio] Sí.
+H1: ... y cuatro, cuarenta y... y... y... Sí [fin de solapamiento de turnos].
+H2: Bueno, de momento sí tienes, ésta sería tu talla que es una cuarenta y cuatro.
+H1: Sí. ¿Y otros modelos?
+H2: Y otros modelos que también haya de tu talla, verás.
+H2: No, ese color no me gusta.
+H2: ¿Larga?, digo "¿blanca?"
+H1: Bueno. [silencio]
+H2: [ininteligible]
+H1: No. Ésta es muy bonita. ¿Y el precio de ésta?
+H2: El precio de ésta, trece mil [solapamiento de turnos] novecientas.
+H1: ...cientas [fin de solapamiento de turnos].
+H2: Otra que nos queda, sí, sería tu... tu talla es una un poco más pequeña pero que a lo mejor te valdría.
+H1: También es muy bonita, me dice también el precio [risas].
+H2: Igual [silencio]. Y ésta blanca, igual. La misma
+H1: Sí.
+H2: ...pero en blanco.
+H1: [afirmación]
+H2: Tienes ésta. Este color es muy mono, éste otro estampado
+H1: Sí
+H2: ...también es mu[palabra cortada]... una tela muy... fresquita [silencio]. Catorce mil novecientas. Y... más modernitas, aquí, ésta.
+H1: ¡Ah!, ésta es muy bonita. ¿Qué precio tiene ésta?
+H2: Catorce mil [solapamiento de turnos] novecientas.
+H1: novecientas [fin de solapamiento de turnos], es igual... no, no es igual a la otra.
+H2: Trece y catorce.
+H1: Sí, sí pero...
+H2: Y ésta [solapamiento de turnos] larga, nos queda
+H1: Pensé que era el mismo dibujo pero otro color [fin de solapamiento de turnos].
+H2: ...sólo ésta.
+H1: No, ésa ya [solapamiento de turnos] no me gusta.
+H2: En azulón. [fin de solapamiento de turnos]
+H1: ¡Preciosa! [silencio]
+H1: Muy bien. Y...
+H2: Esto es lo que tienes en largo. [silencio]
+H1: Vamos a ver, ¿y conjuntos?
+H2: [duda] Conjuntos, [duda] tienes [silencio] [solapamiento de turnos] lo que está en el escaparate...
+H1: [duda] No, ésta no [fin de solapamiento de turnos].
+H2: No.
+H1: Bueno, a ver este verde, [solapamiento de turnos] tampoco.
+H2: Pero [fin de solapamiento de turnos] tienes... tienes chaquetita, ¿eh?
+H1: Vamos a ver, de vestir, más de vestir. [silencio]
+H2: ¿Con falda larga también?
+H1: No, eso ya me da igual, me interesa que sea bonito. Quiero saber... ver modelos por ahora. [silencio]
+H1: [duda] Sí.
+H2: Es que es... [duda] es para ti, ¿sabes, [solapamiento de turnos] o sea, esto es [ininteligible].
+H1: Ya [fin de solapamiento de turnos].
+H2: Tienes éste,
+H1: No, ése no me gusta.
+H2: ...que es muy joven. Tienes éste, pero todos los conjuntos que hay son tipo traje chaqueta que... que para ti no.
+H1: Ya.
+H2: Estos son [solapamiento de turnos] menos joven.
+H1: ¿Éste qué precio tiene? [fin de solapamiento de turnos] [silencio]
+H2: Estos son veinticinco... veintinueve.
+H1: ¿Me permite un momentito la blusa? [silencio]
+H1: Pero tallas no tienen suficientes, tiene treinta y ocho.
+H2: Pues mira, eh... [duda] nos queda [silencio]. [solapamiento de turnos] No.
+H1: No [fin de solapamiento de turnos] [risas] [silencio]
+H2: Una cuarenta la que... la que más... es una cuarenta [solapamiento de turnos] y de poca talla.
+H1: Sí [fin de solapamiento de turnos]
+H2: ¿Sabes? [silencio]
+H2: Y camisas para ti pues sí... [duda]
+H1: No. Sí, estaba viendo porque me [solapamiento de turnos] ha llamado la atención ésta.
+H2: Sí. No [fin de solapamiento de turnos] pero éstas son un poco serias. Para ti sería una de éstas.
+H1: Bueno, depende para qué también ¿no? [risas].
+H2: Sí, bueno también depende del gusto de... oye, yo, lo que te estoy enseñando... no sé, porque te veo muy jovencita, pero...
+H1: [risas] Sí, pero ya no soy tan jovencita [risas]. Sí ésa es muy bonita.
+H2: [interrogación] Ésta, sí. [silencio]
+H1: Vestidos, me interesaría ver entonces ya que no hay conjuntos... [silencio]
+H2: Y vestidos... [silencio] vestidos, tienes éste, que es muy mono.
+H1: No. [silencio]
+H2: ¿Pantalón? ¿Quieres?
+H1: No. No... no.
+H2: Éste es [ininteligible]. Y de muy así... muy... muy de verano, ¿te gustan?
+H1: No... no... no, es para vestir. Eh...
+H2: ¿Muy vestido?
+H1: Sí. [silencio]
+H2: Pues muy... muy vestido... ¿te gusta este estilo? [silencio]
+H1: [tos] Es corto, ¿verdad?
+H2: Sí, son cortitos. [silencio]
+H2: Bueno, tampoco es [vacilación]...
+H1: Sí.
+H2: ...a la rodilla [solapamiento de turnos] más menos, ¿eh?
+H1: A la rodilla ¿Sólo [fin de solapamiento de turnos] tienen, en rojo, éste, no? [solapamiento de turnos] ¡Ah!, blanco también.
+H2: Rojo y blanco [fin de solapamiento de turnos], lo que pasa es que el blanco es una cuarenta y dos...
+H1: Sí, pero no me convence mucho, no.
+H2: Y... más de vestir [silencio], esos nada porque son muy chicos.
+H1: No. Esos no me gustan.
+H2: ¿Estos [solapamiento de turnos] no te gustan?
+H1: Esos no me gustan [fin de solapamiento de turnos].
+H2: Son mu[palabra cortada] ... muy monos puestos, ¿eh?
+H1: ¿A ver? Ah, me había parecido otra cosa. No, me había parecido otra cosa. [solapamiento de turnos] Éste es bonito
+H2: Solamen[palabra cortada]... [fin de solapamiento de turnos] si la tela ya viste, [solapamiento de turnos] porque es una tela muy...
+H1: Sí... sí, eso sí. [fin de solapamiento de turnos]
+H1: ¿Qué precio tiene este vestido?
+H2: [silencio] Diecisiete seiscientas.
+H1: ¿Éste, qué tienen... éste rosa... [solapamiento de turnos], ¡ah!, bueno, en este rosa en verde?
+H2: Éste y... e... est[palabra cortada]... en... [vacilación] [fin de solapamiento de turnos] me parece que en verde es pequeño. No te quiero... [silencio] me parece, ¿eh? Es distinta hechura de todas formas, ¿eh? Te lo voy a enseñar. Éste es para ir sin sujetador. El verde, ¿eh?
+H1: [afirmación]
+H2: Porque por detrás [solapamiento de turnos] se ve...
+H1: ¡Ah!, sí [fin de solapamiento de turnos]. No, éste ya no me gusta.
+H2: ...por detrás se ve. [silencio] [interrogación].
+H1: Sí, no me gusta [solapamiento de turnos] éste... el color este.
+H2: El fucsia, no [fin de solapamiento de turnos]. El fucsia... tiene un escote normalito. Pero el verde, no. El verde... el verde necesita ir sin sujetador.
+H1: Bueno, bien. [silencio] ¿Y estos?, ¿no son vestidos? o...
+H2: [vacilación] ¿Estos?
+H1: Sí.
+H2: No, [solapamiento de turnos] para ti son muy serios.
+H1: ¡Ah! [fin de solapamiento de turnos] Es que me habí[palabra cortada]... me había llamado la atención [solapamiento de turnos] el color.
+H2: No [fin de solapamiento de turnos].
+H1: No, si es verdad, es cierto. [silencio] Es muy serio. [silencio]
+H2: Y éste lo mismo, éste es un poco más... [solapamiento de turnos] más de señora.
+H1: Sí [fin de solapamiento de turnos]. Sí... sí... sí.
+H2: Éste único, pero si no te gusta, no, los vestidos escotados, nada, porque éste es un ...
+H1: No, sí me gustan escotados [solapamiento de turnos] pero... es que depende del escote.
+H2: Éste es un vestido muy lindo [fin de solapamiento de turnos] y tiene su chaquetita que es una monada. [silencio]
+H1: Ya, sí. [silencio]
+H1: [duda] Éste [duda], el que está [solapamiento de turnos] detrás...
+H2: ¿Éste? [fin de solapamiento de turnos]
+H1: Éste... éste.
+H2: ¿Ese?
+H1: ¿Es pantalón o...
+H2: No.
+H1: Es que me había parecido pantalón.
+H2: Espera, espera. Éste es muy... muy escotado, ¿eh?, muy transparente, muy escotado. [silencio]
+H2: ¿Te gusta?
+H1: No, sí, gustar si me gusta. Eh... [solapamiento de turnos] Si a mí
+H2: Éste [fin de solapamiento de turnos]
+H1: ...los escotes me gustan [solapamiento de turnos] pero no me gustan todo tipo de escotes, es...
+H2: ...es muy bonito y también es... [fin de solapamiento de turnos]. Tiene que sentar bien, ¿eh? Es un vestido que puesto hace que [ininteligible] ya... te queda a ti [solapamiento de turnos] muy bonito
+H1: Sí, ceñido [fin de solapamiento de turnos].
+H2: ...es una preciosidad. Pero que transparenta pues [duda] todo lo que tú quieras.
+H1: Sí. Que hay que tomar [solapamiento de turnos] prevenciones, ¿no?
+H2: [interrogación] [fin de solapamiento de turnos]. Todo lo que tú quieras. Tienes que ponerte un forrito. Y el escote [duda] queda así muy... muy bajo, ¿eh?
+H1: ¿Muy bajo?
+H2: Se ve y se ve.
+H1: [afirmación] [solapamiento de turnos] sí [ininteligible] entonces.
+H2: Se ve y se ve [fin de solapamiento de turnos]. Tienes que ponerte aquí un alfilercito y esperar... tú sí lo llenarías porque tienes pecho.
+H1: Sí.
+H2: Pero...
+H1: Entiendo, sí. Entonces no me interesa porque sería incómodo, ¿no? Pero es muy bonito realmente. ¿Qué precio tiene este vestido?
+H2: Eh... Me [solapamiento de turnos] parece que son veintinueve, ¿eh?
+H1: Aproximadamente [fin de solapamiento de turnos].
+H2: ... veintinueve... ya, por ahí.
+H1: Es muy bonito. Bueno [solapamiento de turnos] pues...
+H2: Esto como se ve [fin de solapamiento de turnos] es puesto, ¿sabes? porque
+H1: Claro, sí... sí... sí.
+H2: ...a las... de las que hemos visto puesto, claro, cada una tenéis un cuerpo, luego cada una le hace de... distinta forma.
+H1: Entiendo... entiendo, que es más delicado. Muy bien, pues muchas gracias.
+H2: De nada. [silencio]
+H2: Espere.
+H1: ¡Ah!, que hay que abrir.
+H2: Hoy sí, hoy sí [solapamiento de turnos] [ininteligible].
+H1: ¡Ah, no!, al revés [fin de solapamiento de turnos]
+H2: ...la puerta.
+H1: ¡Ah!, muy bien, gracias, ¿eh?
+H2: Adiós, [solapamiento de turnos] buenas tardes.
+H1: Adiós [fin de solapamiento de turnos].

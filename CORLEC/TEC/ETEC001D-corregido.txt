@@ -1,0 +1,434 @@
+#archivo: ETEC001D
+#fecha de grabación: 07-03-91
+#fuente: teléfono de empresa
+#localización: Madrid
+#términos: puesta en marcha, estación, lista, señal, base de datos, formato, filosofía, protocolo, acumulador, equipo de demostración, operario, pantalla, comando
+#H1: varón, ingeniero industrial, 28 años
+#H2: mujer, telefonista, 25 años
+#H3: varón, ingeniero superior, 36 años
+#H4: varón, ingeniero industrial, 32 años
+#H5: varón, ingeniero superior, 28 años
+#H6: varón,ingeniero técnico, 32 años
+H1: Esto, eh... hay que andarse con un ojo...
+H2: ¡[siglas]ABB[fin de siglas] Industria, buenas[solapamiento de turnos] tardes!
+H1: Hola[fin de solapamiento de turnos] buenas tardes, por favor, me pone con... Francisco Ciudad.
+H2: Sí, ¿quién le llama, por favor?
+H1: Sí, Alejandro.
+H2: Un momentito[ininteligible] [ruidos].
+H3: ¿Sí?
+H1: Eh... Paco...
+H3: Sí, dime.
+H1: ¡Hola! ¿Qué tal...?
+H3: Dime.
+H1: Oye, cómo que te diga, que ya te digo [risas]
+H3: Tú dime... [risas].
+H1: Yo te digo [risas]. Oye, entre otras cosas...
+H3: Sí.
+H1: Eh... [duda] aparte que luego te paso a Antonio...
+H3: Vale.
+H1: ...que está deseando hablar contigo [risas]. Sí, sí, te voy a pasar [risas].
+H3: [ininteligible].
+H1: ¡Ah! Con Guillermo, ¿está Guillermo ahí?
+H3: Sí.
+H1: Ah, luego... habla Guillermo, digo Antonio con él. Mira, el otro día nos mandasteis el armario de Barcelona, ¿no? Bueno, un armario... supuesto ¿no? en principio, y.. entonces nos mandabais también con la hoja información de... Lérida, Monzalbarba, Sevilla y Málaga.
+H3: ¡Ah!
+H1: ... qué queríais.
+H3: Que queríamos, exacto.
+H1: Sí... [duda] lo de Málaga, ¿por qué?
+H3: Por que es lo de [siglas]RO.TA.ZA.[fin de siglas], ¿no?
+H1: ¡Ah! ya, pero... [duda].
+H3: Y.. vamos, eso es por el [extranjerismo]planning[fin de extranjerismo], ¿sa[solapamiento de turnos]bes?
+H1: Ya[fin de solapamiento de turnos], lo que pasa es que ésa todavía no... está [duda] no está en obra... entonces...
+H3: Vale, o sea que ésa... la quitáis a lo mejor y... interesa meter otra antes que ésa.
+H1: Sí, mira, lo que vamos a hacer es, intentar hacer el... uno facilito, que es el de Arahal... [duda] Arahal... Huelva.
+H3: [afirmación].
+H1: Pasa que la única información... es la de Sevilla.
+H3: Vale, bueno.
+H1: [interrogativo] [onomatopeya]Buá[fin de onomatopeya], de todas formas, eso ya es... otro cantar.
+H3: Ya, bueno, yo eso te lo pido, ¿sabes por qué? Porque la puesta en marcha de éstas...
+H1: [afirmación]
+H3: ... del... [duda] del Monzalbarba y de Lérida, es los tres meses del Tarragona, Barcelona y Gerona, ¿sabes?
+H1: ¡Ah, ya, ya!
+H3: Tres meses después.
+H1: [duda].
+H3: Y, tres mese después de ésas, es la otra, la de Sevilla y Málaga; es lo que teníamos previsto en el [extranjerismo]planning[fin de extranjerismo].
+H1: Ya.
+H3: Entonces, claro, para ir... de tres en tres meses... las puestas en marcha, los armarios... tienen que irse haciendo casi con la misma cadencia, ¿sabes?
+H1: Sí.
+H3: En [duda] la eh... en la fábrica. Esto es lo único que... que te pedía eso, pero si...tú ves que una estación... por ejemplo como dices:" Málaga", ahí no se está haciendo nada ni... eso tiene previsión de meterse ahí, ¿sabes? [risas]... pues me mandas otra.
+H1: [risas] Vale, vale [risas].
+H3: ¿Eh? ¿Qué bien os lo pasáis, ¿eh?
+H1: Ah, [risas] sí, [risas] un poc[palabra cortada]...[risas], vale, te voy a [risas] te voy a dejar con Antonio, porque si no... [risas], es... es José Antonio; estás muy lejos, oye, se te oye... lejísimos.
+H3: [ininteligible].
+H1: ¡Ah! [risas] bue[palabra cortada]... [risas] enchufa la antena [risas], bueno, te paso con Antonio.
+H3: Vale.
+H1: Vale, ha[palabra cortada]... hasta luego.
+H3: Hasta luego.
+H1: Toma.
+H4: Buenas tardes.
+H3: ¿Qué pasa, Antonio?
+H4: Hola.
+H3: Qué te cuentas...
+H4: No, decía Alejandro que... que... eh... [duda] era para hablar con Guillermo...
+H3: Sí.
+H4: Y era para decirle lo... lo último de la lista de [siglas]ABB[fin de siglas].
+H3: Vale.
+H4: De la de... , vamos, de Mafumet.
+H3: [afirmación].
+H4: Porque ya hemos pasado a limpio... todas las señales para dársela a [siglas]SAINCO[siglas].
+H3: Ya.
+H4: Entonces ya las tienen ellos, la están metiendo en base de datos y espero que no se modifique nada más.
+H3: Muy bien, ¿quieres que te pase con él?
+H4: [duda] sí, pásamelo.
+H3: Vale.
+H4: [onomatopeya] ¡Bueno!
+H4: A ver, Guillermo... [ruidos].
+H5: ¿Sí? ¿Antonio?
+H4: ¿Guillermo?
+H5: Sí...
+H4: Hola, buenas...
+H5: Muy buenas. Cuéntame.
+H4: [duda] Mira...
+H5: [afirmación]
+H4: Te iba a decir, la lista de señales, ¿eh?
+H5: [afirmación]
+H4: Ya... hemos... [duda] hemos... [silencio] [onomatopeya]¡ay![fin de onomatopeya] metido todas las señales en... formato de base de datos.
+H5: Que mal te veo ya ¿eh?, se te van las cosas de la cabeza.
+H4: Sí... [risas], ¿sabes?[solapamiento de turnos] entonces...
+H5: ¿Habéis metido[fin de solapamiento de turnos] entonces todo en formato de base de datos, dices?
+H4: Sí, es que tenemos todas las señales... más o menos metidas en formato de base de datos.
+H5: Pero... [duda] ¿cómo formato de base de datos? Yo no entiendo eso...
+H4: No, con eso quiero decir... que ya está todo definido.
+H5: [afirmación].
+H4: Porque ya se le ha entregado a [siglas]ABB[fin de siglas] para que empiece a meterl[palabra cortada]... , a meterlo en la base de datos y demás.
+H5: A [siglas]SAINCO[fin de siglas].
+H4: Perdón a [siglas]SAINCO[fin de siglas][solapamiento de turnos]¿eh?.
+H5: [afirmación][fin de solapamiento de turnos].
+H4: Entonces... yo tengo... todas las modificaciones que afectan a la lista vuestra de [siglas]ABB[fin de siglas].
+H5: Sí...
+H4: Las tengo todas aquí apuntadas. [solapamiento de turnos]Entonces.
+H5: [afirmación][fin de solapamiento de turnos] ¿Son muchas?
+H4: Pues son algunas, sí.
+H5: [onomatopeya].
+H4: Sí son algunas, porque... últimamente metieron más señales... , luego quitaron otras...
+H5: Ya.
+H4: Y... [duda] no... no sé, no sé como hacerlo; no sé si (hay que estar) por teléfono o... o ir... acercarme un momento ahí mañana.
+H5: Como tú veas, yo...
+H4: Tú... ¿qué prefieres?
+H5: ¿Eh? Me da igual, pero... pues si... si... si se pueden leer por teléfono, pues te ahorra[palabra cortada]... nos ahorramos el paseo, ¿no? Como quieras. Po[palabra cortada]... si ves que son muchas, tú sabes más o menos las que son, yo es que no se cuántas son.
+H4: Sí, pero es que (son)... [duda], vamos te lo digo porque como tenga aquí notas...[solapamiento de turnos] falta ...
+H5: Vale, pues...[fin de solapamiento de turnos].
+H4: ... tal cosa, se pasa a tal sitio... [duda].
+H5: Ya.
+H4: [vacilación]... hay hojas completamente tachadas.
+H5: Ya, claro.
+H4: Entonces...
+H5: [afirmación].
+H4: Yo casi prefiero ir allí, ¿sabes?
+H5: Vale, pues nada, si no hay problema... [interrogativo].
+H4: Entonces mañana es viernes, yo no tengo nada que hacer.
+H5: [afirmación].
+H4: ¿Tú tienes algo que hacer mañana?
+H5: Eh... bue[solapamiento de turnos]no...
+H4: Bueno[fin de solapamiento de turnos], algo que hacer sí, pero...
+H5: ¿Eh? Sí, claro [risas].
+H4: ¿Tienes... ?
+H5: Estaba esperando que me llamara José, por si vamos a Poblete y tal, pero... no creo porque... [ininteligible] que le tienes cerca, se lo puedes preguntar.
+H4: A ver, espera un momento... ¿José? Mañana ¿vas a Poblete?
+H6: [ininteligible] ¿Quién es, Guillermo?
+H4: Sí.
+H6: Dile que tengo que hablar con Guillermo ahora que a ver si me garantiza... , está comiendo, que a ver si me garantiza... que mañana está parado y vamos, y vamos que [ininteligible] se queda aquí.
+H4: Bueno... , mira, me dice que... está pendiente ahora mismo de bajar a hablar con Chema porque ha ido a... ha ido y estaba comiendo.
+H5: [afirmación].
+H4: Está esperando que vuelva de comer.
+H5: [afirmación].
+H4: Y que si (le ha visto a él antes) él quiere ir mañana.
+H5: Ya [afirmación].
+H4: Entonces...
+H5: Ya, [solapamiento de turnos] pues...
+H4: [onomatopeya][fin de solapamiento de turnos].
+H5: Depende de eso, ¿sabes? O sea, si... tengo que irme a Poblete, no puedo estar aquí, claro.
+H4: [afirmación] [silencio]. Bueno, te advierto que tampoco [ininteligible] en un día, [solapamiento de turnos]porque...
+H5: ¿Que tampoco?[fin de solapamiento de turnos].
+H4: Que tampoco... viene... , o sea si, por ejemplo, mañana no hay problema, yo me acerco allí.
+H5: [afirmación].
+H4: Que hay problema...
+H5: [afirmación].
+H4: Pues... eh... [duda] me acerco el lunes.
+H5: Ya, claro, [afirmación]. [solapamiento de turnos]O sea...
+H4: No[fin de solapamiento de turnos], te quiero decir que la parte de... [siglas]SAINCO[fin de siglas] ya la hemos hecho.
+H5: Ya, ya, ya. [solapamiento de turnos]hombre...
+H4: Luego[fin de solapamiento de turnos] mucha gente está trabajando, ¿ves?[solapamiento de turnos][duda].
+H5: A mí[fin de solapamiento de turnos] me corre más o menos prisa por... terminar las de Barcelona, que las tengo paradas en función de... que éstas queden definitivas, ¿sabes?.
+H4: Sí, pero eso es igual [onomatopeya]claro[fin de onomatopeya], si tú te vas mañana, tampoco vas a [solapamiento de turnos]tabajar.
+H5: Claro[fin de solapamiento de turnos], no, ya, ya lo sé. Vamos, si me voy mañana, sí por eso no podemos[risas]. ¿Eh?
+H4: Pues, (bueno) hacemos eso;[vacilación]. Luego... cuando hable José con éste...
+H5: Claro, ya quedamos.
+H4: Si... no os vais, yo me acerco mañana, y si... os vais, pues ya me acerco el lunes, ¿hacéis puente vosotros?
+H5: Eh... sí, obligatorio.
+H4: Pues el miércoles.
+H5: Porque... nos cortan la luz, o no se qué rollos están haciendo aquí de obras.
+H4: [afirmación].
+H5: O sea que nos obligan, que es lo mejor que hay.
+H4: Desde luego, una cosa buena puede ser ésa, que... [duda] que... seguramente no haya que modificar más.
+H5: Ya. ¡Ah!, ya. Oye, y estas modificaciones que me dices, ¿de qué son, de quitar señal o de filosofía de... algo?
+H4: Pues... eh. . hay al[palabra cortada]... [vacilación] por ejempl[palabra cortada]... por ejemplo alguna, alguna señal que se haya colado[solapamiento de turnos]ya...
+H5: Ya[fin de solapamiento de turnos].
+H4: O grupo de datos... que eliminamos completamente...
+H5: [afirmación].
+H4: Eh... [duda] de parámetros.
+H5: [afirmación].
+H4: Luego se reparten en listas entre acumuladores y no se qué.
+H5: Ya, o[solapamiento de turnos]...
+H4: Pero vamos[fin de solapamiento de turnos]...
+H5: Sea que de... de filosofía de todo eso de los partes y todo eso ¿no? se queda así y ya es así ¿no?
+H4: Sí, eso (no se mueve) así.
+H5: Claro, porque es que a mí ya... si hubiera que cambiar en filosofía me empezaría a afectar [risas] a lo protocolos y eso ya me preocupa más.
+H4: No, en cuanto a filosofía... no.
+H5: [afirmación].
+H4: Hay... eso, algún cambio de numeración y cosas de ese tipo.
+H5: Ya. Vale. [afirmación]. Muy bien, eh... pues entonces quedamos en eso, luego cuando me llame José ...
+H4: De acuerdo.
+H5: Me... dices... [duda] en función de eso, de paso mañana o el miércoles, ¿no?
+H4: De acuerdo.
+H5: Oye... [duda] ¿me puedes pasar a Alejandro?
+H4: Sí, un momento.
+H5: Vale.
+H1: ¿Ya has terminado? Ya estás. ¿Guillermo?
+H5: ¿Si?
+H1: ¡Hola!
+H5: [solapamiento de turnos]Oye...
+H1: O[palabra cortada]...[fin de solapamiento de turnos]oye eh...
+H5: No, yo primero, (muchacho).
+H1: ¡Ah! ¿Tú primero?
+H5: Yo he sido el que he pedido vez, que (quería) hablar contigo, ¿no?
+H1: Sí.
+H5: Que... el [extranjerismo]Rotork[fin de extranjerismo].
+H1: Qué.
+H5: Te empiezo a dar la bara con [extranjerismo]"Rotork"[fin de extranjerismo], que necesito un aparato, macho.
+H1: ¿Que ya has terminado con el [extranjerismo]FISHER[fin de extranjerismo]?
+H5: Sí, prácticamente.
+H1: [afirmación] Vale, voy a ver si veo a... Meneses y le pido un [extranjerismo]Rotork[fin de extranjerismo].
+H5: [afirmación], vamos, [ininteligible] aquí ya, ¿no?... es decir...
+H1: Eh... ya, oye y... entre... lo que queda, ¿si no hubiera un [extranjerismo]Rotork[fin de extranjerismo]?
+H5: Si no hubiera un [extranjerismo]Rotork[fin de extranjerismo], me harías polvo.
+H1: ¿Un [extranjerismo]"Prover"[fin de extranjerismo]?
+H5: Me harías polvo, no, no yo quiero [risas].
+H1: Quieres un [extranjerismo]Rotork[fin de extranjerismo][risas].
+H5: Déjate de [extranjerismo]"Prover"[fin de extranjerismo] macho.
+H1: ¿El [extranjerismo]"Prover"[fin de extranjerismo] no le quieres?
+H5: Y... [duda] para ahora mismo no, pues el [extranjerismo]"Prover"[fin de extranjerismo] es el que menos prisa me corre.
+H1: [afirmación] Ya.
+H5: Yo quiero, o sea, me corre prisa el [extranjerismo]Rotork[fin de extranjerismo].
+H1: [afirmación].
+H5: Porque quiero terminar el [extranjerismo]Rotork[fin de extranjerismo] y meterme con el [siglas]V.SAT[fin de siglas], ¿sabes?, con el... del satélite.
+H1: [afirmación], vamos con el protocolo... de [ininteligible].
+H5: Sí, eso, yo le llamo [siglas]V.SAT[fin de siglas] [risas], o del [extranjerismo]"Teledyne"[fin de extranjerismo].
+H1: [afirmación].
+H5: ¿Eh? Y... es que los otros me corren menos prisa, ¿sabes?
+H1: Ya.
+H5: De manera que tienes que hacer lo imposible por que sea un [extranjerismo]Rotork[fin de extranjerismo], macho.
+H1: [onomatopeya]Vale... [duda] porque es [interrogativo] y... en esto sería una [extranjerismo]master[fin de extranjerismo] [vacilación] bueno, un... un [siglas]FEDE[palabra cortada]... [fin de siglas]... ¿cómo es?
+H5: [duda] No sé[solapamiento de turnos]eso...
+H1: U[palabra cortada]... [fin de solapamiento de turnos] una [siglas]C.C.U. [fin de siglas].
+H5: Sí, una [siglas]C.C.U.[fin de siglas]...
+H1: Una[extranjerismo]master[fin de extranjerismo]...
+H5: No sé, lo que tuvo Paco aquí, yo no... no sé lo que fue.
+H1: Vale.
+H5: ¿Cómo se llama? Espérate...
+H1: Sí.
+H5: ¿Cómo se llama lo que tú tuviste aquí de [ininteligible].
+H3: ¿Cómo?
+H5: ¿Lo que tú tuviste aquí de [extranjerismo]Rotork[fin de extranjerismo] para probar? ¿Cómo se llamaba?[ininteligible].
+H1: Antonio, ¿no pediste un [extranjerismo]Rotork[fin de extranjerismo] a... a este a...?
+H4: ¿Un [extranjerismo]ROTORK[fin de extranjerismo]?
+H1: A, bueno, a Pepe.
+H4: ... [ininteligible] ¿Que no os ha comunicado nada?
+H1: No.
+H4: [ininteligible] ¿Tú también estás hablando con [siglas]ABB[fin de siglas]?
+H1: Sí.
+H4: ¿Tenéis a Paco ahí?
+H1: No, ya me lo he dejado.
+H5: ¿Oye, Alejandro?
+H1: Me dice Paco que lo que hay que pedir es el equipo de demostración que ellos tienen.
+H1: ¡Ah!, es un equipo ya preparado, ¿no?
+H5: Sí, e... lo que tiene es una [extranjerismo]master[fin de extranjerismo] y unas cuantas eh... [solapamiento de turnos][afirmación]
+H1: ¿Cómo pro[palabra cortada]...[fin de solapamiento de turnos]... ?
+H5: ... Válvulas , para probar y eso, [solapamiento de turnos]¿sabes?
+H1: [afirmación][fin de solapamiento de turnos].
+H5: El equipo de demostración.
+H1: ¿Cómo era? A ver, me...
+H5: ¿Cómo se llama el operario, el que me dijiste? [ruido] sí, sí... si , pero ¿cómo se llama el hombre aquél... aquél que... que...
+H1: Luis Pastor.
+H5: Sí, Joaquín Pastor.
+H1: Eso, Joaquín Pastor. Me dice... José Antonio que ... que eso ya se lo comunicaron...
+H6: De todas maneras que eso que va a tardar porque lo necesita el hombre porque [ininteligible].
+H1: ¡Ah!
+H6: ... De los equipos y (todo eso)lo lleva mucho[ininteligible].
+H1: ¡Oh! No.
+H6: ¿Sabes? [ininteligible].
+H1: [afirmación] [duda], dice que... que se lo dijeron, por parte de Santiago Estebaranz que lleva esto de [extranjerismo]Rotork[fin de extranjerismo].
+H5: [afirmación].
+H1: Y que... parece ...
+H6: Me dijo que...
+H1: Parece... sí, que era un poco difícil, [solapamiento de turnos]por...
+H6: [ininteligible][fin de solapamiento de turnos].
+H1: Sí, espera[risas], es que estaba hablando[risas], que era un poco difícil porque parece que era... era su equipo de muestras para vendedor, [voces], pero vamos, de todas formas se lo volveré a preguntar.
+H5: Le dices que no vuelves a comprar un equipo de [extranjerismo]Rotork[fin de extranjerismo], si no [ininteligible].
+H1: [risas] No se lo creen porque es que... en España [risas] son los que más funcionan, y... ¿entonces no te vale ningún otro equipo?[risas].
+H5: Hombre, es que... (en fin, o sea, es...) me vale, pero... pero me haces polvo.
+H1: [afirmación].
+H5: Me... rompes un(a) planificación buena porque... ése... son los [duda] éstos son los que son (todos)pueden estar continuamente [duda].
+H1: Ya...
+H5: Los de [siglas]R.V.[fin de siglas] como muestras son que sólo hay que enviarlo de vez en cuando, ¿sabes?
+H1: Ya, ya.
+H5: Es diferente, ¿no?
+H1: [afirmación].
+H5: Pues éstos son los que más prisa me corren.
+H1: [afirmación].
+H5: ¿Eh? Si no... , pero vamos, tú esto lo tienes que tener como sea, macho.
+H1: Vale.
+H5: Si no, me mandas un [extranjerismo]"Rosemount"[fin de extranjerismo].
+H1: [risas] ¿un [extranjerismo]"Rosemount"[fin de extranjerismo]?
+H5: Sí.
+H1: Vale, ese... a lo mejor ya ha estado, vamos por...
+H5: (Bueno) si tienes un [extranjerismo]"Rosemount"[fin de extranjerismo] me lo mandas, en cualquier caso, pero el [extranjerismo]Rotork[fin de extranjerismo] lo necesito... inmediato, vaya.
+H1: [afirmación].
+H5: O sea, tienes que hacer lo imposible.
+H1: Vale.
+H5: ¿Vale?
+H1: ¿Que más necesitas?
+H5: Eh... [duda] no necesito ya nada más, necesito ahora que me cuentes lo que ibas a contarme tú.
+H1: ¡Ah! Sí, bueno que si... recordabas nuestra cita en Córdoba.
+H5: Recuerdo nuestra cita en Córdoba y alguien me comentó que iba a ser el veinticinco.
+H1: Sí.
+H5: Ah, bien, Javier ¿no?
+H1: Estás bien informado.
+H5: Estoy bien informado y... y... [duda] el veinticinco, el veinticinco me viene peor [ininteligible].
+H1: ¿Cómo, cómo?
+H5: [risas] El veinticinco me viene peor.
+H1: ¿Por qué?
+H5: Pues por ser lunes, macho...
+H1: Pero... . de eso de trata.
+H5: Ya[risas].
+H1: ¡Hombre![risas].
+H5: Pero... yo hubiera preferido que fuera viernes, aunque sea.
+H1: Ya, pero es que...
+H5: Porque así, porque luego estuve pensando y que era mejor ir el día antes, ¿no?
+H1: ¿Por qué?
+H5: Yo, porque si no... llego muy tarde, ¿sabes? Porque está más lejos de lo que yo pensaba, entonces llego muy tarde, y si llego muy tarde...
+H1: Sí.
+H5: Pues a lo mejor no me da tiempo el mismo día.
+H1: ¡Ah!
+H5: ¿Sabes?
+H1: Claro pues, pues por eso...
+H5: Entonces si me lo pones un lunes, me toca irme el domingo, macho.
+H1: El domingo.
+H5: Claro. Entonces...
+H1: Hombre, depende, también... se puede hacer una cosa, si no se termina, pues se termina el... el martes.
+H5: Claro, entonces yo prefiero ¿eh?, prefiero, que además a ti te va a venir mejor, macho, porque sacas un día más ¿eh? ir el lunes y hacer la prueba el martes, ¿o eso no puede ser?
+H1: Y... cómo digo yo que voy el lunes...
+H5: Claro, claro.
+H1: [duda](o lo) explico [risas] para... hacer 400 kilómetros [risas].
+H5: Bueno, vale, pues escúchame...
+H1: Sí.
+H5: Escúchame, yo llego allá a media tarde y... [duda] y probamos a media tarde.
+H1: [duda] Bueno, mejor a media mañana.
+H5: ¿Eh?
+H1: Mejor a media mañana.
+H5: [onomatopeya]Brrr[fin de onomatopeya].
+H1: A ver, pero tú sí sales, tú sí sales por la mañana a la hora que llegas allí a [siglas]ABB[fin de siglas]...
+H5: ¿Sí?
+H1: Pero, tú ¿a qué hora llegas?
+H5: Imagínate, si salgo... a la hora que llego a [siglas]ABB[fin de siglas]... y ¿cuánto se tarda ahí, macho? ¿Cinco horas , no o tres?
+H1: Cinco horas.
+H5: Pues llego a las... 2.
+H1: [risas] [interrupción de la grabación]
+H1: A la hora de comer[risas] ¡Jolín!
+H5: Claro, ¡joder!, [ininteligible] más.
+H1: Y... ¿por qué no te vas el... domingo? Porque no... quieres ¿no?
+H5: Porque me partes el domingo, hombre.
+H1: ¡Ah!
+H5: No quiero pero... [duda].
+H1: ¿Y si sales el. . lunes pronto?
+H5: Si salgo el lunes pronto pues me vo[palabra cortada]... pu[palabra cortada]... [vacilación] pues entonces ya lo hago el lunes todo, macho.
+H1: Claro.
+H5: ¿Eh? [interrogativo] Y... [duda] y enton ces me toca volverme por la noche, que es lo que no quiero, porque no me gusta conducir de noche.
+H1: [afirmación]¡Ah! Pero... ¿no vamos a volver al día siguiente?
+H5: Claro, [risas]. Ento[palabra cortada]... entonces si nos vamos al día siguiente, te digo:"Entonces ¿para que voy a madrugar... el lunes"? [risas] Y el lunes a media mañana, macho, [risas] ¿comprendes mi razonamiento? [risas] ¿Eh?
+H1: Ya, es que...
+H5: Vamos a ver, tú lo pudes hacer bien, es decir que vas a ir el lunes, luego llegamos el lunes por la tarde y... que nos hemos retrasado por lo que sea [risas]. Esto va a quedar [ininteligible]. Yo lo veo bien, ¿eh?
+H1: Bueno.
+H5: Tú di: "Voy a llegar el lunes a las 12" y nos plantamos a las 4 [risas] ¿no? Di... :"Pues, oye, es que... pues nos hemos retrasado en Madrid y había un atasco descomunal, no se qué, no se cuantos", y ya está, macho.
+H5: ¿No?
+H1: Sí.
+H5: ¿Sí o no?
+H1: Sí, algo así...
+H5: Oye, te doy un día más macho, que me tenías que estar agradecido.
+H1: [afirmación]. No si el... problema es que... no parezca que... [risas] que un día entero...
+H5: Lo hemos perdido.
+H1: Me lo he tomado así con...
+H5: Pero... si hacemos eso no parecería ¿no? ¿o sí?
+H1: Bueno... depende a que... si aparecemos por allí o no.
+H5: No, yo ya te digo sí, aparecer sí.
+H1: Hombre, yo te puedo echar la culpa o decir: "Es que éste me ha fallado, éste... ".
+H5: No, no, yo te dejo que me pongas verde, macho.
+H1: ¿Si?
+H5: Sí, sí [risas], es igual [risas], [vacilación] eh... no sé, mira, o sea que tú quieres, o sea lo que sí seguro es que va a ser el veinticinco, ¿no?
+H1: Sí.
+H5: Eso sí que es seguro.
+H1: [duda].
+H5: ¿No?
+H1: Sí.
+H5: Pues... [duda] pues eso, no sé.
+H1: Hombre... [duda], tú también... [duda], podríamos hacer otra cosa.
+H5: ¿Qué es?
+H1: ¡Ay! No, iba a decir una tontería y era que, bueno que el lunes podía ir yo haciendo algo... [duda] con tu paquete.
+H5: ¿Y que yo llegara más tarde?
+H1: Pero... claro, y entonces yo iba haciendo all[palabra cortada]... [vacilación] algo por allí, iba chequeando las salidas, que... es lo que no tiene riesgo.
+H5: ¿Por qué?[ruido] (Es que) tú quieres aparecer antes por ahí.
+H1: Claro, para figurar.
+H5: Ya, bueno, si quieres hacer eso...
+H1: Lo que pasa que... no tengo... [siglas]P.C.[fin de siglas].
+H5: No tienes [siglas]P.C.[fin de siglas], claro... [duda], eso es un fallo porque... , yo te dejaría el mío, pero si es el viernes... pues no sé [silencio]. [vacilación] ¿Sabes? Que te lo tendrías que llevar el jueves, ¿no?... o el viernes.
+H1: [duda] Yo... voy para allá el sábado por la mañana.
+H5: El sábado por la mañana [silencio] [canta] [onomatopeya]pumprumpunpunpun[fin de onomatopeya].
+H1: ¿Cómo lo ves?
+H5: [onomatopeya]Prrrrrrrruuuuuuu[fin de onomatopeya] [canta] No lo veo.
+H1: [risas].
+H5: Bueno, sí podríamos hacer eso, si lo que quieres hacer es figurar, pues podríamos hacer eso.
+H1: Hombre, y... ya de paso... yo aprendo... un día antes me voy por allí, te veo, me enseñas a eh... [duda] a manejar el programa, que más o menos yo sé... cómo configurar la pantalla, vamos sé... si hay que poner una [siglas]B.H.2[fin de siglas] o, con las hojas de... de las señales , y entones voy chequeando... [duda] todas las salidas.
+H5: [afirmación].
+H1: Y entones ese ya es un trabajo... que hemos hecho, y ya simplemente tendríamos que... [duda] que... hacer comandos contigo.
+H5: Ya, se puede (hacer).
+H1: Se puede hacer[risas].
+H5: [onomatopeya] Sí, bueno, podríamos hacer eso [risas]. Bueno, vale, pues ya hablaremos[ininteligible].
+H1: Ya hablaremos la siguiente semana.
+H5: La semana que viene hablamos y quedamos (de firme).
+H1: [afirmación].
+H5: Lo que sí es seguro es que es el veinticinco, ¿no?
+H1: Sí [risas], (creo que sí) [risas], y...
+H5: Y... qué... ¿Adamuz no va a estar disponible?
+H1: No, ... es q[palabra cortada]... [duda]... bueno, es que eso nunca se sabe porque... Adamuz, bueno, igual que... que hoy mismo me han dicho... : "Vete a Poblete"...
+H5: Sí.
+H1: Pues... puede ocurrir que ese mismo día... tengan Adamuz parada también.
+H5: [afirmación] Ya.
+H1: Es que eso es imprevisible, incluso puede pasar, muy raro, que... resulta que... que Córdoba se quede inoperante, vamos o... que empiece a ser operativa y... se ponga Adamuz disponible .
+H5: Ya... [afirmación].
+H1: Es que... [risas], aquí... funcionamos de una manera...
+H5: Ya.
+H1: Muy rara.
+H5: Bueno, muy bien, pues entonces [ininteligible] ya hablaremos la semana que viene.
+H1: La semana que [borrado involuntario].
+H5: [afirmación].
+H1: Y... creo que no tenía... mucho más que decirte, salvo... que... intentaré buscarte un [extranjerismo]Rotork[fin de extranjerismo].
+H5: No, intentarás no, tienes que hacer lo imposible, macho.
+H1: Vale, hare(lé), haré lo imposible por encontrar un [extranjerismo]Rotork[fin de extranjerismo].
+H5: Vale, es que... [ininteligible].
+H1: [afirmación], bueno, Guillermo.
+H5: Bueno, pues nada Alejandro.
+H1: Te voy a dejar.
+H5: Vale...
+H1: Vale.
+H5: Bueno...
+H1: Hasta luego, Guillermo.

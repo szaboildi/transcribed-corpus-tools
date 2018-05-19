@@ -1,0 +1,9 @@
+#archivo: EDOC011B
+#fecha de grabación: 14-07-91
+#fuente: televisión, documental que sirvió de prueba en un juicio
+#localización: barcelona
+#términos: seguridad pública, domicilio, derecho, delincuente, sospecha
+#H1: mujer, juez, c.32 años
+#H2: varón, juez, c.35 años
+H1: Por otra parte... [duda] entendemos igualmente que no responde a... [vacilación] las necesidades que, en principio, son pretendidas [ininteligible] mantenimiento de la seguridad pública.
+H2: Resulta que prácticamente se puede... [vacilación] entrar en el domicilio de un ciudadano sin mandamiento judicial, sin más que una mera sospecha, que evidentemente es algo... [vacilación] absolutamente subjetivo. Y esto yo creo que ha de [vacilación] preocupar a los ciudadanos, porque con eso no es que se vean mermadas las garantías o los derechos... de los delincuentes, sino que se ven mermados las garantías y los derechos de cualquier ciudadano. Porque delincuente es quien una sentencia dice que es delincuente, es decir, es... [vacilación] quien es condenado por delito. Pero... cualquier ciudadano puede ver invadido su domicilio sin una previa... [vacilación] comprobación por una instancia independiente... como es un juez, por la sencilla razón de que exista... una situación... de sospecha.

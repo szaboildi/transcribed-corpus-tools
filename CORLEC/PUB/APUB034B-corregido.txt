@@ -1,0 +1,69 @@
+#archivo: APUB034B
+#fecha de grabación: 19-12-91
+#fuente: radio
+#localización: Madrid
+#H1: mujer, médico, edad desconocida
+#H2: varón, locutor, edad desconocida
+#H3: mujer, edad desconocida
+#términos: enfermedad, clínica, hombre, mujer, problema óseo, problema muscular, recuperación, rehabilitación
+H1: Lo que ocurre es que, probablemente, para la entrevista eh... es más dadivosa la... la mujer que el hombre...
+H2: [afirmación]
+H1: Más expresiva...
+H2: [afirmación]
+H1: Y... y, bueno, en una palabra, ya lo he comentado, más dadivosa en este aspecto. Por eso se suelen traer... más pacientes femeninos que masculinos; pero no por el hecho que... que tengamos más mujeres que hombres en la clínica.
+H2: Ya comentaba yo en otro programa con usted, doctora, la diferencia que podía haber entre enfermedades más frecuentes en su consulta... de señoras o de caballeros y me decía usted que prácticamente a un cincuenta por ciento...
+H1: [solapamiento de turnos] Más o menos.
+H2: Un pro[palabra cortada]... [fin de solapamiento de turnos] Un problema de... de huesos...
+H1: [solapamiento de turnos] [afirmación]
+H2: ... de... de... [fin de solapamiento de turnos] de reuma[sic], de artritis, eh... etcétera, etcétera, pues eh... lo sufrimos ¿al cincuenta por ciento, [solapamiento de turnos] podríamos decir?
+H1: Un poco más [fin de solapamiento de turnos] la mujer que el hombre.
+H2: Quizá, ¿no?
+H1: Sí, sí, sí; un poco más la mujer que el hombre. Esto lleva consigo un... un tema como es un period[palabra cortada]... período -menstrual, me refiero, naturalmente- en la mujer, con lo cual, al retirarse el mismo, pues hay unas... secuelas... que el hombre pues ya no... no... no padece, naturalmente.
+H2: [afirmación] [afirmación]
+H1: En ese... en problemas óseos... En problemas musculares, más el hombre, ¿eh?
+H2: [afirmación]
+H1: Pero... en problemas óseos, concretamente, es más la mujer, [solapamiento de turnos] ¿eh?
+H2: Y quizá [fin de solapamiento de turnos] eh... la mujer... Porque en algunos casos hemos tenido testimonios de mujeres muy jóvenes; quizá la mujer también encomienza[sic] antes con esos problemas óseos en... con una edad más... más baja, ¿no?
+H1: Sí, bueno; es que... yo pienso que como ahora la Medicina está como mucho más avanzada en todo -en cuanto a diagnóstico, claro-
+H2: [afirmación]
+H1: ... antes, se sufría una serie de... de... de enfermedades... que bueno, yo creo que iba todo en... en un... en una patología [solapamiento de turnos] concretamente;
+H2: [solapamiento de turnos] Ya. Se englobaba. [afirmación]
+H1: Se estaba nervioso... [fin de solapamiento de turnos] O... u otra cosa. Y hoy no, pues hay una serie de datos que determina... Pero... pero vamos, yo pienso que más o menos esto ha pasado a lo largo de... de la Humanidad, claro.
+H2: [afirmación] Saben ustedes que clínica "Cores" se encuentra en la calle José Ortega y Gasset, en el número seis, en la primera planta, derecha. Y que hay un teléfono, imprescindible para que usted eh... pida una mayor información o para que pida usted una cita previa. El teléfono es el cuatro treinta y uno cincuenta y seis noventa y siete. Cuatro treinta y uno cincuenta y seis noventa y siete. Hablábamos de la diferencia entre señoras y caballeros; quizá al cincuenta por ciento en muchas enfermedades, pero que, casualmente, casi siempre hablamos más con ellas, pacientes que han pasado por la clínica de la doctora Cores, de Josefina Cores. En este caso, es doña Carmen... Carmona, a la que tenemos al teléfono, creo... doña Carmen, buenos días.
+H3: Buenos días, eh... José Luis.
+H2: ¿Cómo está usted?
+H3: Pues ahora bastante bien... gracias.
+H2: Me alegro mucho. ¿Cómo estaba usted?
+H3: Pues mire, le voy a decir la verdad. Yo llevaba veintitrés años padeciendo.
+H2: ¿Veintitrés años eh... [solapamiento de turnos] padeciendo qué?
+H3: Pues sí. Pades[palabra cortada]... [fin de solapamiento de turnos] Padeciendo de dolores; desde que nació mi hijo... el último,
+H2: [afirmación]
+H3: ... me quedé mal de la espalda y... me quedé artrosis, que era artrosis, y así seguí. Y ya, pues estos últimos años, llevaba diez años lo que era pues como... inválida en la cama, pues que no me podía mover para nada, ¿no?
+H2: Pero Carmen, veintitrés años es mucho tiempo, ¿no?
+H3: Sí, sí; pues... Pero, claro, pero... Yo me iba a hacer la rehabilitación al... al hos[palabra cortada]... al hospital, a donde me decían...
+H2: [afirmación]
+H3: Y a mí, pues... [onomatopeya] Yo, francamente, me ha ido... eso pues más, acentuando más la cosa, ¿no?
+H2: [afirmación]
+H3: Bueno, pues llegué al extremo de que hace... cosa de un año, me he adelgazado... adelgacé diecisiete kilos.
+H2: Ya...
+H3: Pero... padeciendo, de dolores.
+H2: Ya, ya, ya... [solapamiento de turnos] ya...
+H3: No [fin de solapamiento de turnos] comía nada.
+H2: Ya...
+H3: Me quedé... sin reservas de ninguna clase.
+H2: [afirmación]
+H3: Bueno, cuando me vio la doctora se quedó pues... sorprendida, porque... Dice: "Espero... espero que sí; que la pueda sacar adelante, [solapamiento de turnos] pero..."
+H2: ¿Cómo [fin de solapamiento de turnos] acudió usted a la doctora? ¿Cómo... cómo se enteró de que existía [solapamiento de turnos] Cínica "Cores"?
+H3: Por la radio. [fin de solapamiento de turnos] Y nada más oírla...
+H2: Ah...
+H3: ... la voz de ella me tranquilizó mucho.
+H2: Ahá...
+H3: Fíjese, sólo el oírla... Le dijo a mí marido, digo: "Esto me tranquiliza mucho, porque sólo de oírla..."
+H2: Ah...
+H3: Es que yo he estado yendo a la acupuntura de los chinos; he estado a curanderos; he estado [solapamiento de turnos] yendo...
+H2: [afirmación] [fin de solapamiento de turnos]
+H3: ... a infinidad de sitios. [solapamiento de turnos] Y [ininteligible]
+H2: Y la doctora le dijo [fin de solapamiento de turnos] que era... la doctora le dijo que era un caso difícil porque estaba muy avanzado.
+H3: Sí.
+H2: [solapamiento de turnos] Claro.
+H3: Y me dijo [fin de solapamiento de turnos] que era muy difícil, que haría todo lo posible... Y por cierto, ha luchado mucho con...

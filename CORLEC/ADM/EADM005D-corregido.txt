@@ -1,0 +1,173 @@
+#archivo: EADM005D
+#fecha de grabación: 07-04-91
+#fuente: conversación telefónica en empresa
+#localización: Madrid
+#términos: hotel, alquiler, coche, carnet de conducir, válido, europeo, seguro, documentación, barco, puerto, traslado, puente aéreo, clase, turista, horario
+#H1: mujer, telefonista, 27 años
+#H2: mujer, relaciones públicas, 32 años
+#Ha: mujer, telefonista, 24 años
+#Hb: varón, cliente
+#Hc: varón, comercial, 36 años
+#Hd: mujer, departamento de logística, 29 años
+Ha: ¡Ibercolor!
+H1: ¿Está Marisa?
+Ha: ¿Marisa?
+H1: Sí.
+Ha: ¿De parte de quién?
+H1: De Teresa, de "Cilag".
+Ha: [ruido] [ininteligible].
+H1: Gracias... [ininteligible]... ¡en tu poder!
+H2: [risas] ¡En mi poder! [risas].
+H1: ¡Bien, bien!
+H2: Mira, referente a lo del alquiler...
+H1: Sí.
+H2: ...en el supuesto de que lo quisierais ani[palabra cortada]... [vacilación] anular allí...
+H1: Sí.
+H2: ...eh... lo [ininteligible] y no habría problema.
+H1: Fenómeno.
+H2: ¿Eh? Lo que pasa que tendríais que... [duda] que avisar, claro.
+H1: Claro.
+H2: ¿Eh?
+H1: ¿Con tiempo, quiere decir?
+H2: Por tiempo, ¡no...!
+H1: No, avisar con tiempo, ¿no?
+H2: Pues avisar en... [duda], por ejemplo, como vosotros vais a llegar a Creta...
+H1: Sí.
+H2: ...en un día... [duda] antes de lo que... [duda] el coche estaba previsto que lo recojáis...
+H1: Sí, sí.
+H2: ...suponiendo que..., por ejemplo, en el mismo hotel pudierais hacer algún alquiler más barato...
+H1: Sí.
+H2: ...pues desde el mismo hotel lo podéis anular.
+H1: Llamamos y andan[palabra cortada]...
+H2: Es que he visto que es que teníais allí amigos...
+H1: Sí.
+H2: ...que a lo mejor... pues teníais un coche a vuestra disposición.
+H1: Sí.
+H2: ...y que en ese caso no tendríais que anular.
+H1: Qué bien, qué bien.
+H2: Y luego referente a lo del carnet de conducir...
+H1: Sí.
+H2: ...eh... en... [duda] [ininteligible]...
+H1: Sí.
+H2: ...porque los carnets [ininteligible] es válido...
+H1: [afirmación].
+H2: ...pero yo no sé si... [vacilación] porque le estado preguntando a esta niña... [ininteligible] El carnet de conducir era europeo... [ininteligible] Os lo dirán. O sea, en todo caso, como eso no es un coche tuyo que te lo llevas... [solapamiento de turnos]¿no?
+H1: Pero es que[fin de solapamiento de turnos] yo lo estuve mirando, pero es sólo para el seguro.
+H2: ¡Claro! Y como es, además, un coche alquilado, que es un coche griego...
+H1: Claro.
+H2: ...pues huelga; el seguro ya lo tendrá... en reglamentación lo tendrán ellos.
+H1: Claro.
+H2: Y, desde luego, indiscutiblemente, en el carnet de conducir... él que compruebe el suyo, porque a lo mejor... [ininteligible] diez años, ¿eh?
+H1: Sí.
+H2: Pues a lo mejor no es igual, le tendrán que dar un papel donde se lo revaliden.
+H1: Ya, ya, ya.
+H2: Porque como Grecia también es de la Comunidad... pues todos somos... [ininteligible]
+H1: Iré entonces esta tarde a ver si están en... [duda] en tráfico.
+H2: Llama a ver, por si acaso. Pero vamos, yo creo que no... [duda] [ininteligible].
+H1: Vale, vale.
+H2: Más que nada por la tranquilidad.
+H1: Sí, sí, sí.
+H2: No es que... [vacilación]...
+H1: Ya.
+H2: ...[ininteligible] y lógicamente quieres que te cubra el seguro... [ininteligible].
+H1: Marisa.
+H2: Dime.
+H1: Y por fin el barco de Naxos, ¿a qué hora sale?
+H2: Pues mira..., espérate, porque... como la documentación que ellos me mandan...
+H1: Sólo por curiosidad... [risas].
+H2: Sí, sale eh... ¿Cuál era ese, el de... [duda] los camarotes?
+H1: Sí, de Atenas a... [vacilación] a Naxos.
+H2: Sí, pues sale a las occho de la tarde.
+H1: ¡Ah! ¡Vale...! Y siete horas, ¿no?
+H2: Sí, lo que pasa que es que en los bonos no ponen la hora, porque mira, te voy a contar cómo va... [vacilación] ¡Ah! ¡Mira! Lleváis un... [duda] papelito...
+H1: Sí.
+H2: ...que va dentro de la documentación, donde pone Compañía Europea... [ininteligible].
+H1: ...[ininteligible] ¿Todo el viaje?
+H2: Todo el viaje. Y aquí te pone... [duda] todo lo que te cubre.
+H1: ¡Ah! ¡Fenómeno!
+H2: ¿Eh? Es que... eh... [vacilación] asistencia...
+H1: Perdona un segundo. Voy a atender una llamada.
+H2: Vale.
+H1: "Cilag", dígame.
+Hb: Sí, buenas tardes. Quiero hablar con Agustín Sánchez.
+H1: Un momentito, por favor. Lo tengo todo... [ininteligible]. [teléfono]. ¿Marisa?
+H2: Sí.
+H1: Sí.
+H2: Pues... muchas cosas... [duda] regreso...
+H1: Sí, sí.
+H2: Repatriación o transporte de... falle[palabra cortada]... por transporte... de... ¡por fallecimentos!...
+H1: [onomatopeya].
+H2: ... y cosas muy feas que no vienen al caso! Pero que nunca están de más.
+H1: Sí. No, no, no está de más. Eso es verdad.
+H2: Eh... En la póliza ya te dije todo lo que cubre.
+H1: Muy bien.
+H2: Y luego... [vacilación] te voy a contar cómo es la documentación.
+H1: Sí.
+H2: A parte de los billetes, (vienen) dos carnets de [ininteligible] todo ello incluido.
+H1: ...[ininteligible] ¿...los horarios de recogidas?
+H2: Sí, sí, sí. Lleva... los horarios y todo.
+H1: Vale.
+H2: ¿Eh? Y luego el... [duda] el... [ininteligible] ¿sabes?
+H1: Sí, para que... [vacilación] los griegos lo entiendan.
+H2: Exactamente.
+H1: Sí.
+H2: Luego, eh... por ejemplo, lo del barco, pues pone en el bono eh... doce de junio, barco... [ininteligible] a las ocho menos cuarto.
+H1: La hora que nosotros queramos, seguramente, ¿no?
+H2: Pues seguramente.
+H1: Un segundito, Marisa, por favor.
+H2: Vale.
+H1: "Cilag", dígame.
+Hc: Hola, buenos dí[palabra cortada]... [vacilación] buenas tardes.
+H1: Hola.
+Hc: ...[ininteligible] de "El Corte Inglés".
+H1: ¿De?
+Hc: Julián García, de "El Corte Inglés".
+H1: Un momentito. [ininteligible] de "El Corte Inglés".
+Hd: ¿Cómo?
+H1: Julián García, de "El Corte Inglés".
+Hd: Vale, gracias.
+H1: Vale... [ruido]. ¿Marisa?
+H2: Sí. Y bueno, luego tenéis otro que es... traslado, el día doce de junio, traslado desde el puerto al hotel[ininteligible].
+H1: [afirmación].
+H2: En [ininteligible].
+H1: Vale.
+H2: El quince de junio, traslado del hotel... [ininteligible] un papelito te lo irán quitando, según vaya... [ininteligible] ¿eh?
+H1: Sí.
+H2: Y luego... [ininteligible]
+H1: Vale, vale.
+H2: ¿Eh?
+H1: Vale.
+H2: Y el que sea, pues os ponéis de acuerdo, ¿eh?
+H1: Vale.
+H2: Yo te mando el bono para que tú... [duda] lo puedas presentar, pero ya cuando volváis, pues ya... [ininteligible], ¿eh?
+H1: Muy bien.
+H2: Bueno, pues nada más, hija. ¡Me he quedado de agusto...! ¡Que tú no te puedes ni imaginar!
+H1: ¡Ay! ¡Yo también! [risas].
+H2: [risas].
+H1: Muchas gracias, Marisa.
+H2: [ininteligible]. Bueno...
+H1: Oye...
+H2: Dime.
+H1: Yo tengo dos cositas por aquí.
+H2: ¡Ah! Pues dime.
+H1: Mira... [duda] Jose Luis Sotoca..
+H2: Sí.
+H1: Eh... tenía un... [vacilación] puente aéreo a Barcelona...
+H2: Sí.
+H1: ...abierto... entonces [vacilación] ha cambiado de tarifa, otra vez.
+H2: ¡No!
+H1: Sí, se lo sacamos en clase "C", pero él al final ha viajado en turista, me parece.
+H2: ¡Ah! Ya, ya, ya te entiendo.
+H1: Claro.
+H2: Ha volado en clase inferior.
+H1: Eso es.
+H2: Sí, sí.
+H1: ¿Te lo mando?
+H2: Lo mandas para revol[palabra cortada]... devolverte el dinero, claro.
+H1: Vale, vale. Y... otra cosa. Lo de Rafael Oliva, que me comentabas esta mañana que... iba a Tenerife...
+H2: Sí.
+H1: Lo de... ¡Pues mantenemos la lista de espera en "C"...
+H2: Sí.
+H1: ¿Eh? Y conforme... [duda] al día siguiente, lo de Las Palmas, ¿vale?
+H2: Vale, de acuerdo.
+H1: Y otra cosita. Oye, Marisa... [duda]...

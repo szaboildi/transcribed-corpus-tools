@@ -1,0 +1,99 @@
+#archivo: cdep005a
+#fecha: 26-I-91
+#fuente: radio. Cadena Cope
+#localización: varias ciudades españolas
+#términos: baloncesto, falta, canasta
+#H1: varón, c. 40 años, comentarista deportivo
+#H2: varón, c. 40 años, comentarista deportivo
+#H3: varón, c. 40 años, comentarista deportivo
+#H4: varón, c. 40 años, comentarista deportivo
+#H5: varón, c. 40 años, comentarista deportivo
+#H6: varón, c. 40 años, comentarista deportivo
+#H7: varón, c. 40 años, comentarista deportivo
+#H8: varón, c. 40 años, comentarista deportivo
+#H9: varón, c. 40 años, comentarista deportivo
+#H10: varón, c. 40 años, comentarista deportivo
+#H11: jugador de fútbol
+H1: Nos vamos a buscar rápidamente, el tiempo que resta para el final del partido en Lugo, Dyc-Breogán, Elosua-León.
+H2:Dos diecisiete, cincuenta y siete, cincuenta y siete y una jugada que puede ser decisiva en el partido, acaba de producirse. Lanzamiento de uno más uno de Manuel Sánchez, convierte el primero, marca el se[palabra cortada], falla el segundo, coge el rebote [extranjerismo]Rilley[fin de extranjerismo] marca y empata y en ese momento [extranjerismo]Coleman[fin de extranjerismo] que estaba con cuatro personales, le hace personal. Un tiro libre adicional pues, para [extranjerismo]Rilley[fin de extranjerismo] que puede [duda] cambiar el marcador, poner por delante por un punto al conjunto lucense y además la ausencia de [extranjerismo]Coleman[fin de extranjerismo] que había sido el hombre más eficaz del cuadro visitante con dieciocho puntos y sobre todo una gran eficacia en los rebotes defensivos. [música] [publicidad]
+H1:Para cinco partidos que... ya están en la segunda parte o acaban de iniciar la segunda parte en estos minutos que llevamos eh... de ese período ¿qué destacamos en cuanto a lanzamiento de tres puntos en Granollers?
+H3:Como es habitual ese lanzamiento siempre rápido y eficaz en momentos difíciles de [extranjerismo]Joan Creus[fin de extranjerismo] que lleva ya tres supercanastas.
+H1:¿En Badalona?
+H9:Gil, del Atlético de Madrid.
+H1:¿En la Casilla?
+H5:Que acaba de anotar su primera supercanasta un especialista, [extranjerismo]Mark Simpson[fin de extranjerismo].
+H1:El líder, el hombre que marcha en primer lugar en esta especialidad, en Murcia...
+H6:A Luis Álvarez
+H1:¿Y en Manresa?
+H7:Dani Pérez y José Carlos Cabrera. Ambos tienen la muñeca caliente.
+H1:Los triples en cada cancha y en la cancha y en donde quieras, disfruta del sabor auténtico de zumos Juver en mini-[extranjerismo]brik[fin de extranjerismo] [publicidad]
+H1:Había una circunstancia del juego que recoger en Bilbao, la lesión del jugador del Balbi, Rivas
+H5:Que yo creo que además ha sido... eh... fundamental para el desarrollo del partido porque el Balbi tenía cinco puntos de ventaja, Rivas, se... produjo un movimiento en la rodilla derecha que ahora está tratando de recuperar calentando sobre el fondo de la pista después de haberse aplicado hielo. Parecía más hábil un principio y a partir de ese instante el Caja Bilbao empezó a respirar. [extranjerismo]Simpson[fin de extranjerismo] tuvo un marcaje menos pegajoso, era el hombre que había destinado Yulve para desequilibrar el juego ofensivo del Caja, el juego de [extranjerismo]Mark Simpson[fin de extranjerismo] y a partir de ese instante y como digo, [extranjerismo]Mark Simpson[fin de extranjerismo] ha conseguido dos supercanastas y una jugada espectacular que acaba de culminar con un mate con veintitrés puntos ya a su favor después de que había estado inédito en esta segunda mitad. Gana el Caja Bilbao cincuenta y nueve, cincuenta y seis tres arriba el conjunto de Manu Moreno.
+H1:¿Ha habido cambio en el Atlético de Madrid, partido Atlético de Madrid-Valencia de fútbol?
+H4:Un cambio absolutamente sorprendente. Se ha retirado [extranjerismo]Paolo Futre[fin de extranjerismo], ha entrado en sustitución Juan Zavas y me da la impresión de que no es por lesión y jue[palabra cortada] el propio jugador, [extranjerismo]Paolo Futre[fin de extranjerismo] quizá pueda haber peligro intentaba Pietro Gómez colocar la pelota, despejó la defensa, saque de esquina, el propio Paolo Futre, Luis Malvar, se ha ido como una auténtica exhalación y no ha dicho esta boca es mía.
+H1:[solapamiento de turnos] [ininteligible]
+H8:El portugués que se ha... [fin de solapamiento de turnos] el portugués que se ha ido como una auténtica bala, muy enfadado, cara larga, no ha querido decir nada, se ha metido en el vestuario, pero evidentemente no le ha gustado nada al jugador rojiblanco del Atlético de Madrid.
+H4:Se sacó el córner sin consecuencias, Paz García, que no está teniendo la personalidad suficiente como para restar, quitar, la guerra subterránea que hay en el rectángulo de juego. Todo exactamente igual diecisiete y medio de esta segunda parte. Empate a cero en el marcador.
+H1:Quizá habría que apuntar que [extranjerismo]Futre[fin de extranjerismo] jugó el pasado miércoles con su selección Portugal en Atenas, precisamente, en Grecia, ante la selección de Grecia, partido que ganó la selección griega por tres goles a dos y habrá entendido Ivis que el cansancio acumulado del jugador portugués puede ser determinante, en estos últimos minutos ¿hay jugada de peligro?
+H4:[ininteligible] Despejó al final Eloy Olalla, el colegiado que indica córner nuevamente los eh... jugadores valencianistas que están protestando al colegiado navarro, Paz García que está teniendo una desastrosa actuación y quizá igual que el Estudiantes en su viaje a [extranjerismo]Panathinaikos[fin de extranjerismo] a tierra griega, le está pasando factura a [extranjerismo]Paolo Futre[fin de extranjerismo]. Sacó el córner Bernardo [extranjerismo]Schuster[fin de extranjerismo] ha sido entrado, Donato el colegiado que no dice absolutamente nada, el público que pide penalty, el balón que se pierde por la línea lateral, tendrá que sacar de nuevo de banda, el Valencia club de fútbol yo no sé compañeros pero a mí me está dando la impresión de que Paz García está perdiendo los papeles y esa guerra subterránea está aflorando en cualquier momento en el terreno de juego.
+H8:Está claro, está claro Luis que ahora mismo Paz García no está ni mucho menos bien, hay gritos de "fuera, fuera", para algunos o para el colegiado Paz García. Por parte del Valencia hay que destacar que están calentando los hombres suplentes Torres, Bosio, Nando y Cenoi.
+H4:Al final Roberto Solozábal que ha cedido al guardameta Abel, que saca rápidamente Alejandro para la parte izquierda para Juan Carlos. Jugada de ataque del Atlético de Madrid.
+H1:Un momento que vamos al final del partido Lugo Dyc-Breogán, Elosua-León.
+H2:Veintinueve segundos para que termine el partido y el último minuto ha sido dramático para el cuadro visitante que se ha quedado sin tres de los jugadores claves. Ahora se adelanta por un punto un lanzamiento de uno más uno, Roca, el Dyc-Breogán se ha quedado sin [extranjerismo]Schlegel[fin de extranjerismo], sin [extranjerismo]Coleman[fin de extranjerismo] y ahora en este instante, hace un par de segundos sin eh... Eras que ha sido uno de los hombres más importantes del equipo a lo largo del encuentro. Gana por uno el Dyc-Breogán, ahora por dos, sesenta y uno, cincuenta y nueve, veintiocho segundos para que termine el partido, habrán de buscarse un lanzamiento y acertar de seis veinticinco los jugadores del Elosúa para ganar este encuentro que en algunos momentos han tenido decantado claramente a su favor, llegado...
+H4:Gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol... del Atlético de Madrid.
+H1:¿Quién marcó?
+H4:Marcó Manolo, Atlético de Madrid uno, Valencia cero.
+H1:Volvemos a Lugo, adelante.
+H2:Faltan ahora siete segundos, va a haber un lanzamiento,... tiempo muerto acaba de pedir el entrenador del equipo lucense, lo anula ahora Gustavo Aranzana protesta, pero parece... el que lo pide es Gustavo Aranzana, por lo tanto tiempo muerto, siete segundos, sesenta y uno, cincuenta y nueve y ha habido una personal que yo no sé si se va a tirar o no, porque el Dyc-Breogán sólo ha cometido seis personales a lo largo de este primer tiempo y la situación de lanzamiento del jugador visitante era dudosa por lo tanto, podría ser banda. Sesenta y uno, cincuenta y nueve, dos puntos arriba el Dyc-Breogán, siete minutos, ocho décimas para que termine el partido y sigue el tiempo muerto.
+H1:Pues atención porque faltan siete segundos para que concluya ese partido, mientras explicamos como ha sido el gol del Atlético de Madrid, Luis Jiménez.
+H4:Lanzamiento precioso de [extranjerismo]Schuster[fin de extranjerismo], juego de Pizarra, toque cortito de Pizo Gómez, desmarque de Manolo pierna izquierda, pase al guardameta, coge Manolo [extranjerismo]Otxotorena[fin de extranjerismo] se anima el público, juega el Valencia ataca Fernando, cuidado Quique es el que [ininteligible] lanzar y al final bloca el guardameta Abel. Veintiuno, segunda parte, Atlético de Madrid uno, Valencia cero.
+H1:Pues vamos a buscar esos siete segundos que restan en Lugo para que termine el partido Dyc-Breogán, Elosua León, una jugada de ataque para el equipo de Gustavo Aranzana.
+H2:Pues sí, una jugada de ataque porque el jugador, el perdón, eh... ah... el árbitro [extranjerismo]Mit Iana[fin de extranjerismo] tiene el balón en la banda, se lo va a entregar al número catorce del cuadro visitante, Herreras que acaba de salir a la cancha, recordamos que está jugando sin tres de sus titulares el equipo visitante, [extranjerismo]Schlegel[fin de extranjerismo], Eras y [extranjerismo]Coleman[fin de extranjerismo]. Ahora faltan seis segundos, se ha renovado el juego, lanzamiento, es el veinticinco... el rebote para el equipo lucense, se va a acabar el partido. Se acaba el partido... no. Vamos a ver, personal intencionada... el lanzamiento fue desde mucho más allá de la línea de seis veinticinco, falta un segundo exacto para que termine el partido, la segunda falta personal del eh... jugador Guerrero, va a haber... no sé si la han dado intencionada... uno más uno, uno más uno, señala el árbitro queda un segundo, va a lanzar además un hombre muy eficaz, vamos a ver si en este caso no fallan los pronósticos...
+H1:En cualquier caso, Miguel Ángel la [solapamiento de turnos] actitud
+H4:se [fin de solapamiento de turnos] convierte, convierte, convierte eh... el jugador del eh... conjunto lucense Peña...
+H1:Sí, el partido está sentenciado, Miguel Ángel, decía que eh... en cualquier caso la actitud de los hombres de Gustavo Aranzana era lógica, jugarse un triple,
+H9:Efectivamente.
+H1:por cuanto eh... estaban sus americanos fuera.
+H9:Esa era... esa era la opción y no tenían opciones de juego interior, y por lo tanto tenían que lanzar desde el perímetro.
+H1:Adelante, adelante, Paco.
+H4:Nada, que ha convertido el segundo y que acaba de terminar el partido, sesenta y tres cincuenta y nueve, cuatro puntos arriba y yo quisiera si me lo permitís, hacer en primer lugar un canto al conjunto visitante que se ha bati[palabra cortada]
+H1:[solapamiento de turnos] Adelante, adelante
+H4:que ha batido [fin de solapamiento de turnos] el cobre de una manera impresionante, que no se ha entregado en ningún momento, que ha sabido aguantar con esas tres expulsiones, producto de una defensa muy agresiva y de un público espléndido, tanto el lucense, como el visitante, unos setecientos aficionados leoneses dieron eh... ambiente y dieron alegría al pabellón. Ha sido un partido de auténtico guante blanco, malo, el encuentro malo, con fallos sobre todo en ataque, pero que se ha decantado, no digo para el mejor, para el que tuvo, en los últimos instantes, más suerte [solapamiento de turnos] porque
+H1:¿Quién [fin de solapamiento de turnos] ha sido el máximo anotador del partido?
+H4:Pues, el máximo anotador del partido, ha sido [extranjerismo]Rilley[fin de extranjerismo] con diecinueve puntos, seguido de [extranjerismo]Schlegel[fin de extranjerismo] y [extranjerismo]Coleman[fin de extranjerismo] con dieciocho [solapamiento de turnos] y e[palabra cortada]
+H1:un dato [fin de solapamiento de turnos] un dato, Paco muy importante, ¿cuántos triples ha conseguido [extranjerismo]Schlegel[fin de extranjerismo]?
+H4:[extranjerismo]Schlegel[fin de extranjerismo] dos, lo mismo que Manuel Sánchez.
+H1:Gracias, Paco Rivera, cerramos circuito, ¿cuánto queda para el final del partido en Orense?
+H10:En Orense quedan exactamente dos segundos y seis décimas. Setenta y uno, setenta y cuatro, pero creo que esto está sentenciado porque el equipo... el equipo oscense va a disfrutar de dos lanzamientos sobre la canasta orensana.
+H1:Pues ahora volvemos, en seguida volvemos. Repasamos marcador, en Granollers.
+H3:En pleno dominio local a tres treinta y seis para el final, ochenta cincuenta y ocho, no se lo creen ni los más viejos del lugar.
+H1:¿En Badalona?
+H9:Uno treinta y cuatro para que acabe el partido, todo decidido, veintisiete arriba, el Juventud sobre el Atlético de Madrid.
+H1:¿En Bilbao?
+H5:Quedan siete minutos, seis arriba el Caja Bilbao sesenta y nueve, sesenta y tres.
+H1:Murcia.
+H6:Cuatro minutos para el final, Juver cincuenta y cuatro, Puleva cincuenta y nueve.
+H1:Manresa.
+H7:Dos minutos para llegar al final del partido, ocho dos, para [siglas]TDK[fin de siglas], siete cinco, Caja Canarias.
+H1:Un instante porque recogemos últimas noticias, servicios informativos de ese asunto que les dábamos en el flash, el nuevo ataque que estaba sufriendo, Tel-a-viv, Alfonso Ojea.
+H10:Sí, parece que Irak ha lanzado hoy dos nuevos ataques contra Israel y las sirenas han comenzado a sonar en esta ciudad israelí a las nueve de... de esta noche, hora española. Cuatro millones y medio de ciudadanos han corrido a los refugios, provistos de... con sus respectivas máscaras anti-gas, Sonsoles González. [texto leído][texto no transcrito][fin de texto leído]
+H1:Esas eran las noticias que nos llegan de la guerra del Golfo, vamos a buscar de nuevo deporte, ¿terminó el partido en Orense?
+H4:[ininteligible] Madrid [solapamiento de turnos] expulsión en el partido de fútbol
+H10:Sí terminó [fin de solapamiento de turnos]
+H1:Ahora vamos con esa expulsión. ¿Terminó el partido en Orense?
+H10:Sí, terminó, efectivamente, eh... con el resultado de setenta y uno para [extranjerismo]Caixa[fin de extranjerismo] Orense, setenta y seis para Huesca en la Magia.
+H1:¿Máximo anotador de partido?
+H10:[ininteligible] treinta y tres puntos.
+H1:¿Cuánto logró para [extranjerismo]Ben Jackson[fin de extranjerismo]?
+H10:Eh... treinta puntos.
+H1:¿Cómo han estado Fajardo y Ferreiro?
+H10:Eh... Fajardo francamente bien, eh... Ferreiro muy mal.
+H1:Gracias, José Manuel Fernández Sobrino, nos vamos a esa expulsión en el Vicente Calderón.
+H4:Ha sido Tomás, por una entrada absolutamente terrorífica sobre un jugador rojiblanco que se levanta sin ningún tipo de complicación, ha sido Juan Vizcaíno y el jugador Tomás que se retira ya del terreno de juego a punto ya de ser abordado por nuestro compañero Javier, [solapamiento de turnos] [ininteligible]
+H8:[ininteligible] [solapamiento de turnos]
+H4:el... el burro de turno.
+H8:Bueno Tomás, tarjeta roja, la entrada ha sido a tu juicio merecedora de amarilla?
+H11:Hay que ayudar un poco al Atletic para que gane esta liga.
+H8:Creo que ha sido claro y concreto, hay que ayudar un poco al Atletic para que gane esa liga.
+H4:Pues aquí están las palabras juez del Atlético de Madrid. Balón de [extranjerismo]Schuster[fin de extranjerismo], dejando para Roda que ha sustituido a Manolo intentando el pase sobre, Juan Zavas, ha sido entrado por detrás, por Eloy Olalla, cuidado que puede ser la segunda expulsión. Tarjeta amarilla para Eloy Olalla, tiene que serlo roja. Efectivamente el colegiado se la va a enseñar la tarjeta [ininteligible] al que le han protestado, al que le han penalizado la tarjeta, efectivamente, tarjeta, la primera por una entrada, la segunda para el Gijonés del Valencia por protestar, por lo tanto, el Valencia, en el minuto veintiséis de esta segunda parte, se queda con nueve hombres, primero fue Tomás, entrada, la primera r[palabra cortada] la primera amarilla, la segunda roja por entrada Vizcaíno, Eloy, la primera por juego violento y la segunda por protestar y Eloy Olalla que se dirige hacia el túnel del vestuario. El público que le pita, el juego que está, momentáneamente detenido, no se puede reanudar el partido porque sigue el jugador del Atlético de Madrid, Paz García, se da cuenta de esta circunstancia, Bernardo [extranjerismo]Schuster[fin de extranjerismo] que tendrá que repetir de nuevo este lanzamiento. A muy pocos metros de la frontal del área, parsimonia, no tiene ninguna prisa, [solapamiento de turnos] [ininteligible]
+H1:Por lo tanto, [fin de solapamiento de turnos] por lo tanto que en un minuto el Valencia pierde dos hombres o lo que es lo mismo, la situación para el equipo de Víctor Espárrago, se complica, muy muy mucho. [música]

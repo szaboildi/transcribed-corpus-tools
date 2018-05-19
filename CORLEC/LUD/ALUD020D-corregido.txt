@@ -1,0 +1,179 @@
+#archivo: ALUD020D
+#fecha de grabación: 21-12-91
+#fuente: televisión
+#localización: Madrid
+#H1: varón, presentador, c.45 años
+#H2: mujer, actriz, c.35 años
+#H3: mujer, actriz y humorista, c.43 años
+#H4: mujer, actriz, c.47 años
+#términos: concurso, tiempo, dinero, pregunta
+H1: ¿De quién era el retrato más conocido de [extranjerismo]Oscar Wilde[fin de extranjerismo]? [silencio]
+H2: Era el... retrato de [extranjerismo]Dorian Grey[fin de extranjerismo]
+H1: Muy bien. "Se casó, se embarcó..." Deje de aplaudir, señora Sardá, y le fue fatal.
+H3: [risas]
+H1: ¿Qué día era? Digo que "se casó, se embarcó" y le fue fatal. ¿Qué día era? Eh... el día... el día de la semana, ¿qué día de la semana era? "Se casó, se embarcó..." y... Y nada; muy mal. [silencio]
+H1: Eh... ¿Cuándo "ni te cases [solapamiento de turnos] ni te embar[palabra cortada]..."?
+H3: ¡El martes!, [solapamiento de turnos] el martes. [solapamiento de turnos] El martes. Venga, ¿que no es el martes?
+H1: ¡El martes! Muy bien, muy bien. Eh... Julieta, ¿cómo se llama ese manjar que los dioses gustaban y que hacía inmortales a quienes lo comían? [silencio]
+H4: Eh... ambrosía.
+H1: Ambrosía, más dulce que la miel. ¡Muy bien! Ana, ¿cuál es el animal que lleva silla y no puede sentarse en ella?
+H2: Si no la lleva, ¿quién? Puede ser el canguro... saliendo de la bolsa... el canguro, [solapamiento de turnos] puede sentarse...
+H1: No, no, no, no, no, no. [fin de solapamiento de turnos] Eh... un animal que lleva silla y... que no se puede sentar.
+H2: ¡Ah! ¡El caballo!
+H1: ¡El caballo! Claro que sí. Rosa, el teatro dramático popular en la literatura japonesa, eh... ¿qué nombre tiene?
+H3: Ka[palabra cortada]... ka[palabra cortada]... "Kapazo". No...
+H1: No; "kapazo", no.
+H2: [risas]
+H3: No, ya sé... [vacilación] "Kabuki". [solapamiento de turnos] "Kabuki"
+H1: ¡"Kabuki"! [fin de solapamiento de turnos] Muy bien. Le gusta bromear. Hay algo que cuanto... más grande es, menos se ve. Julieta. [silencio]
+H1: Cuanto más hay, menos se ve. ¿Qué puede ser?
+H4: ¿El aire?
+H1: El... No. [silencio]
+H1: Ana, dime. [silencio]
+H1: Lo más gran[palabra cortada]... Cuanto más hay, me[palabra cortada]... ¿Rosa?
+H3: Cuanto más hay, menos se ve... Nada.
+H1: ¡Pues la oscuridad, mujer!
+H3: ¡Ah, claro! [solapamiento de turnos] ¡Claro que es entre la oscuridad! Fíjate tú... Perdón...
+H2: [risas]
+H4: [risas]
+H1: Vamos a ver. Ana, Ana. ¿Quién...? [fin de solapamiento de turnos] Ana. Perdona. Eh... ¿Quién era el amo del jardín literario donde nacieron "Las flores del mal"?
+H4: [extranjerismo]Baudelaire[fin de extranjerismo]
+H1: Exacto. Rosa, un [extranjerismo]"pompier"[fin de extranjerismo]
+H3: [solapamiento de turnos] ¡¿Qué...?!
+H1: ... es un... [fin de solapamiento de turnos] Un [extranjerismo]pompier[fin de extranjerismo], es un [solapamiento de turnos] bombero en francés...
+H3: ¿Sí? [ininteligible] [fin de solapamiento de turnos]
+H1: Un [extranjerismo]pompier[fin de extranjerismo]. Pero, ¿Qué otra cosa es un [extranjerismo]pompier[fin de extranjerismo], además de un... de un [extranjerismo]pompier[fin de extranjerismo]?
+H3: Un pom[palabra cortada]... Ay, Dios mío, lo que se me ocurre a mí...
+H1: No, pero di... di... Di [solapamiento de turnos] cosas...
+H3: No; [fin de solapamiento de turnos] diría u[palabra cortada]... un culito, un [extranjerismo]pompier[fin de extranjerismo], [solapamiento de turnos] [ininteligible]
+H1: No, no, [fin de solapamiento de turnos] no.
+H3: ¡Que lo diga Julieta!
+H1: Julieta, ¿qué...?
+H4: Una... una pintura... [señal de tiempo]
+H1: ¡Muy bien! Un estilo de pintura academicista. Correcto. Julieta. "No es buey, pero tiene cuernos. No es paraguas, pero sale con la lluvia." ¿QUé es? [silencio]
+H1: Tiene cuernos... [silencio] Sale con la lluvia... ¿Ana?
+H2: ¿El caracol?
+H1: ¡El caracol!
+H2: [solapamiento de turnos] [risas]
+H3: ¡Ah, muy bien, reina!
+H1: Muy bien. [fin de solapamiento de turnos] Ana, seguimos contigo. ¿Al son de quién desfilan más matrimonios?
+H2: Ah, sí, eh...
+H4: [solapamiento de turnos] [risas]
+H2: [ininteligible] [fin de solapamiento de turnos]
+H1: A ver, di, di.
+H2: [ininteligible], que corre el tiempo. Pues eh... de... "La marcha nupcial", que es de... una música de [extranjerismo]Mendelhson[fin de solapamiento de turnos], de "El Sueño de una noche de verano."
+H1: Bueno, bueno; no queríamos saber tanto. Rosa, ¿quién era [extranjerismo]Margot... Channing[fin de extranjerismo]?
+H3: Yo.
+H2: [risas]
+H4: [risas]
+H1: Bueno. Pues muy bien, pero... ¿algún detalle más?
+H3: Di[palabra cortada]... dilo tú.
+H2: [ininteligible] Ah, eh... [solapamiento de turnos] [extranjerismo]Falcon Crest[fin de extranjerismo]
+H4: Ella dice... [fin de solapamiento de turnos]
+H2: ¿[extranjerismo]Falcon Crest[fin de extranjerismo]?
+H3: No. [señal tiempo]
+H2: ¡Ah! No.
+H1: Bueno, no; la respuesta [solapamiento de turnos] estaba bien.
+H3: Hombre, [fin de solapamiento de turnos] estaba bien, ¿eh?
+H1: [solapamiento de turnos] La respuesta estaba bien.
+H3: Bueno; porque tú [fin de solapamiento de turnos] sabes que era una broma; que yo sabía muy bien que era [extranjerismo][ininteligible][fin de extranjerismo] [solapamiento de turnos] la protagonista de [ininteligible]. Lo hemos hecho de broma.
+H1: Exacto. Vale, ¡no perdamos tiempo! Julieta, [fin de solapamiento de turnos] no perdamos tiempo. ¿Qué animal vertebrado tiene alas... ¡pero no tiene plumas!? Tiene alas, no tiene plumas y es feo. Dicen que es feo.
+H4: Alas, que no tiene plumas... Tiene alas, ¡pero no tiene plumas...!
+H1: Y es vertebrado.
+H4: Y es vertebrado... ¡Ah! El murciélago.
+H1: ¡El murciélago! Muy bien. Ana, en la mitología romana, "Caco" era el dios ¿de?
+H3: [risas] ¡Ay!
+H2: [risas] No decís el femenino. [risas] [duda]
+H1: Dime.
+H2: Supongo que... si ahora se dice los "cacos" a los ladrones, [solapamiento de turnos] chorizos y demás...
+H1: Exactamente, ¡muy bien! [fin de solapamiento de turnos] Dígame, doña Rosa. "De China vengo y en Murcia vivo, como moreras, seda fabrico..." ¿Qué... qué soy?
+H3: ¿Qué [extranjerismo]digu[fin de extranjerismo]?
+H1: L[palabra cortada]... lo que oyes.
+H3: ¡Gusano!
+H1: Un gusano, pero, ¿de qué tipo?
+H3: De seda.
+H1: De seda, muy bien.
+H3: [risas]
+H1: Julieta, eh... ¿quién lleno un hueco teórico teatral con "El espacio vacío"?
+H4: [extranjerismo]Peter Bruch[fin de extranjerismo]
+H3: [solapamiento de turnos] ¡Ay...!
+H1: ¡Muy bien! Ana, [fin de solapamiento de turnos] ¿cuál es el santo más fiero? [silencio]
+H2: Eh... ¿León? ¿San León?
+H1: ¡San León! Eh... Rosa...
+H3: ¿Qué? Pretendo que no...
+H1: [extranjerismo]Gina Lollobrigida[fin de extranjerismo] fue "La mujer más guapa del mundo"; [extranjerismo]Joan Collins[fin de extranjerismo], "La chica [ininteligible] rojo" y [extranjerismo]Catherine Deneuve[fin de extranjerismo], "La sirena del [extranjerismo]Mississippi[fin de extranjerismo]", pero ¿quién fue "El ángel azul"?
+H3: Y eh... ¿a nosotras tres dónde nos dejas?
+H2: [risas]
+H4: [risas]
+H1: Bueno, no; pero ¿quién fue el ángel azul? No... no... ¡No pierda usted tiempo, [solapamiento de turnos] por...!
+H3: [extranjerismo]Marlene Dietricht[fin de extranjerismo] [solapamiento de turnos] ¡Y a nosotras, ¿dónde nos dejas?!
+H1: Muy bi[palabra cortada]... [fin de solapamiento de turnos] [solapamiento de turnos] [señal fin de tiempo] Donde ustedes quieran... Además, es que se acabó. ¡Se acabó el cuestionario! Hemos perdido algo de tiempo, pero yo creo que hemos ganado en buen humor. A mí me hubiera gustado preguntarle a Julieta, eh... Fellini, Romeo y el mosqueperro Dartacan, ¿amaron a quién?
+H4: [ininteligible] ¿Romeo?
+H1: Sí.
+H4: Y el mosque[palabra cortada]... A Julieta.
+H1: A Julieta, claro...
+H4: [solapamiento de turnos] ¡Ah...!
+H3: ¿Verdad que habéis hecho un home[palabra cortada]... homenaje?
+H2: [risas]
+H1: [risas] [fin de solapamiento de turnos] Muy bien. Como... como he dicho, yo creo que ha sido un cuestionario lleno de buena intención, de excelente humor y... No está mal, trescientas mil pesetas en un marcador ¡y...! doscientas ochenta mil en el otro. Claro, que... sumadas estas dos cantidades lucen muchísimo más. Observen cómo lucen. Así. Quinientas ochenta mil... de momento; porque nuestras tres concursantes lo han hecho espléndidamente bien, pero no van a dejar aquí su labor, ni mucho menos, ya que ahora mismo les vamos a plantear, inmediatamente, a ellas y siempre, siempre a ustedes, otro habitual espacio... del programa... "El tiempo es oro". EL espacio no es otro que... "¿De quién hablamos?" [música]
+H1: Ana, Rosa, Julieta, mucha suerte. ¡Aplíquense, por favor! Aplíquense y resuélvanlo enseguida. Vamos, entonces, con el juego... Ustedes, como siempre, participen. [música]
+H1: Bien, el primer dato va para... Ana Marzoa, y dice así: [texto leído]"He dado de qué hablar"[fin de texto leído]
+H2: [silencio] Eh... Una mujer. [señal de error]
+H1: Dato número dos, Rosa María Sardá, [texto leído]"Una para todos es mi esencia"[fin de texto leído]
+H3: Puede ser un perfume o un mosquetero. [señal de error]
+H1: Solamente vale decir una cosa.
+H3: Ah.
+H1: Dato... No, no. Dato número tres, Julieta Serrano, [texto leído]"Soy como cualquier otra, pero les cuesta creerlo"[fin de texto leído] [silencio]
+H1: Dato número cuatro, Ana. [texto leído]"Muchos han intentado ser yo, pero bastantes menos lo han conseguido"[fin de texto leído] [silencio]
+H2: ¿[ininteligible]?
+H1: Dato número cinco. Señora Sardá: [texto leído]"Mi inteligencia me obliga a ser nuevamente yo misma"[fin de texto leído]
+H3: Puede ser una tía... Una mujer que...
+H1: ¿Y cuál es su respuesta? [silencio] ¿Una tía, una mujer...? [risas]
+H3: [risas] [señal de error]
+H3: [solapamiento de turnos] Las mujeres son tías, ¿eh? Y tíos (los hombres)
+H1: En todo... No, en todo caso, no es ninguna de las dos cosas, [fin de solapamiento de turnos] no. Eh... dato número seis, Julieta: [texto leído]"No represento lo que soy"[fin de texto leído] [silencio]
+H1: Rosa María...
+H3: [solapamiento de turnos] Perdón...
+H1: ... tiene [fin de solapamiento de turnos] un ataque de risa...
+H3: [risas] Rebuzno, [ininteligible]
+H1: [risas]
+H4: [risas]
+H2: [risas]
+H3: Perdona, eso no [solapamiento de turnos] [ininteligible]
+H4: [ininteligible]
+H3: Qué desastre.
+H1: No, no; dato número siete, dato número siete. [fin de solapamiento de turnos] vamos con Ana. [texto leído]"Realmente... Realmente, un papel no me sirve para envolver"[fin de texto leído]
+H2: ¿Qué? [risas]
+H1: "No me sirve para envolver"
+H2: [risas] La conciencia. [señal de error]
+H1: Dato número ocho. Señora Sardá: [texto leído]"Grandes, grandes... no ha habido tantas"[fin de texto leído] [silencio] Aunque sí algunas.
+H3: ¿Por qué me mira así, que me desconcierta? No lo digo. Creo que lo sé, pero yo no lo puedo decir.
+H1: ¿No?
+H3: ¿Grandes, grandes?
+H2: [risas]
+H3: Dice ¿No ha habido tantas?
+H1: No.
+H3: Sabrina. [señal de error]
+H1: [risas] Dato número nueve. Julieta, yo creo que de aquí no pasa ya, ¿eh? [texto leído]"Un buen mutis puede ser mi gloria"[fin de texto leído]
+H4: [silencio] Yo no sé... ¿el teatro o...? [señal de error]
+H1: Bueno, Ana; dato número diez: [texto leído]"¡Cómo me encarta[sic]...[fin de texto leído] No, "me encarta" no; "me encanta", [texto leído]"¡Cómo me encanta el reparto!"[fin de texto leído]
+H2: [silencio] El... teatro, una... [señal de error]
+H1: No, no, no...
+H4: Caliente, caliente...
+H1: Once, once, Rosa... [texto leído]"Finjo, pero no soy hipócrita, porque lo hago...[fin de texto leído]
+H3: [solapamiento de turnos] ¡Ya!
+H2: ... bajo las luces, a la vista de todos, y con mi auténtico nombre pregonado"[fin de texto leído]
+H3: ¡Claro, porque me lo han dicho ellas! [pitidos de censura]
+H1: Dicen que se lo habían dicho...
+H4: ¡Si ya nos lo habíamos dicho ya!
+H1: Bueno, no, no, no; pero un momento, un momento...
+H2: No...
+H1: ... que nos queda un dato... Nos... nos queda un dato...
+H3: Oye, [ininteligible] ¿ahora tenemos que decir el nombre?
+H2: [solapamiento de turnos] [risas]
+H4: [risas]
+H1: ¡No, no, no, no, no! ¡Qué va, qué va! [fin de solapamiento de turnos] Ahora, lo que a mí me toca... Eh... es que... supongo que... que el procedimiento habitual de "El Tiempo es oro" se les ha olvidado. Lo que a mí me toca ahora es decir el último dato que tengo...
+H3: ¡Ah! ¡Ah... [ininteligible]!
+H1: ... por si hay algún espectador que todavía no...
+H3: Era la actriz. [silencio] ¡Ay!
+H1: Bueno. ¡Sí! ¡Sí! Era... el personaje era la actriz, y el último dato que tenía decía: [texto leído]"Ustedes son lo que yo. Reciban por ello nuestra gratitud y nuestra admiración"[fin de texto leído], porque, lógicamente, éste era eh... el personaje, éste... ésta era la respuesta. Ochenta mil pesetas, han conseguido ustedes con... con este juego. Ochenta mil pesetas que van a subir al marcador. Observen cómo. Ya son seiscientas sesenta mil. Y como esta noche tenemos aquí a tres grandes actrices, y esta noche hemos querido que tenga un cierto aire teatral, nos ha parecido más que oportuno convertir en protagonista de nuestro espacio "¿De qué hablamos?" precisamente a la actriz.

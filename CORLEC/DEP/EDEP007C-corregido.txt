@@ -1,0 +1,46 @@
+#archivo: EDEP007C
+#fecha de grabación: 07-07-91
+#fuente: televisión, retransmisión en directo de un partido
+#localización: Alcobendas, Madrid
+#términos: número, cambio, jugada, equipo, liga, balón
+#H1: varón, locutor deportivo, c.33 años
+#H2: varón, periodista deportivo, c.28 años
+#H3: varón, entrevistador deportivo, c.25 años
+#H4: varón, deportista, c.24 años
+H1: ...Buscando la espalda a Rubén, [ruido] pero... [duda] es lo mismo, sale al lateral, hace la rotación, pero no hay nadie que vaya... Ahora hace la diagonal el número diez, pero... [vacilación] el compañero, número siete, González, prueba el tiro a puerta.
+H2: Están a ver si consiguen el gol de la honrilla. Rocha... pues como no se quite Pepín, [ininteligible] lo van a tener más que complicado. Rocha...
+H1: Fíjate ahora concretamente la... [duda] la jugada de... de Santos tenía tapándole a Miguel y haciendo la ayuda a Rubén. O sea que [vacilación] es lo que realmente cuenta. Seguimos cero a cero. Tarjeta amarilla...
+H2: ...para Santos.
+H1: ...para Santos.
+H2: ...En la segunda para un jugador portugués, la tercera del partido porque... en el [extranjerismo]Interviu LLois[fin de extranjerismo] la vio Alvaro.
+H1: Y parece ser que va salir Hilario.
+H2: Va a salir Hilario, efectivamente.
+H1: Hilario [ininteligible].
+H2: [solapamiento de turnos]Moviendo la bola [ininteligible]...
+H2: Y va a ver cambio en la portería de [extranjerismo]Interviu[fin de extranjerismo][fin de solapamiento de turnos]...
+H1: Y también va a salir... Fernando, también... efectivamente, los dos... dos instituciones dentro del... [duda] [extranjerismo]Club Interviu LLloi[fin de extranjerismo].
+H2: Puede robar Rubén... lo va a hacer [ininteligible].... Miguel aparecía por allí... cuando... se va[palabra cortada]cuando se vaya a la portería... Miguel metió el píe, Miguel Piñeiro es... [ininteligible]... en el doble cambio en [extranjerismo]Interviu Lloi[fin de extranjerismo] en cuanto... que haya oportunidad de la torre no va a llegar arriba... Hilario, [ininteligible] ahí está, Hilario... El aplauso del público para [ininteligible], también para Hilario... y también entrará Fernando por Pepín.
+H1: Pero para ello tiene que apercibir a la mesa...
+H2: Mañana de homenajes, hoy.
+H1: Sí, señor.
+H2: En el municipal de Alcobendas.
+H1: Bueno, le llamaremos a Hilario [extranjerismo]Dustin Hoffman[fin de extranjerismo], por eso de un pequeño gran hombre, ¿no?. Se lo merece después de tantos años.
+H2: Toda una leyenda en el equipo... [vacilación] madrileño, Hilario.
+H1: Y Fernando Martín, que compartió la portería con grandes porteros como Baena, Varela... [duda] y ahora... [vacilación]...
+H2: Eran otros tiempos. Eran... [duda] los tiempos históricos de un [extranjerismo]Interviu LLois[fin de extranjerismo] que prácticamente lo ganaba todo porque era el único que se dedicaba... [vacilación] a esto en serio, el resto de los equipos, afortunadamente para el fútbol sala en nuestro país, han ido evolucionando y ahora el nivel ya es altísimo... En la liga... Ahí está el cambio... también los aplausos para Pepín... El cambio... de Fernando...
+H1: Fernando Martín...
+H2: ...por Pepín [pausa]
+H1: Vemos cerca de nosotros a [ininteligible], estábamos hablando de él. No se ha perdido el encuentro de la final de... de la liga; está con sus ex-compañeros. ¡Era un porterazo!
+H2: Juega Miguel, el saque de banda para [extranjerismo]Interviu LLoi[fin de extranjerismo]. De la Torre juega con Rubén... Miguel va a... a llegar bien, Rubén... se le echó a los pies [ininteligible]... le falto picardía ahí a Rubén, tenía quizá... haberla pegado de primera... y [ininteligible], un... [duda] buen portero, lo está demostrando a lo largo de toda la mañana cuando el balón a banda. Cinco cuarenta y siete para el final del partido. Siete cero, victoria rotunda del equipo español en la final de la copa de Europa de Campeones de liga... que les estamos... [vacilación] contando y cantando en directo por Antena tres televisión, cuando son las doce y veintiséis minutos de la mañana. Joaquín Alvareda con Pepín.
+H3: Pepín, menos trabajo todo lo demás...
+H4: Sí, [risas] el trabajo [ininteligible], sí, menos trabajo todo lo demás.
+H3: ¿Y en esta ocasión como se justifica el sueldo?
+H4: ¿Eh? Pues no lo sé. ¡Eso yo ya... [duda]! Yo tengo que salir a hacer lo que pueda y si... [duda] es mejor así ganar sin... trabajo, mucho mejor.
+H2: [ininteligible] Hilario, fuera.
+H3: El partido realmente fácil...
+H4: Sí, bastante fácil. Hay... vamos, ha dicho Ángel[ininteligible].
+H3: Muchas gracias.
+H1: Sería bonito que Hilario consiguiese un gol.
+H2: Pepín que se va duchar por higiene [risas]... porque no desde luego por lo que ha sudado. Juega Miguel... ¡a punto estuvo de marcar Hilario!... Rubén... De la Torre... y en el cor[palabra cortada] recorte de Rubén fuera, ¡al palo!
+H1:...A los hierros, vamos; a los hierros le llamamos.
+H2: Remate de Rubén, un jugador que lleva ya tres partidos intentando el gol y que todavía no lo ha conseguido. Ahí lo ven que en el recorte Rubén la pega con la izquierda... y el balón que fue... al lateral... de la red.

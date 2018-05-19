@@ -1,0 +1,104 @@
+#archivo: BPUB034A
+#fecha de grabación: 23-11-91
+#fuente: televisión
+#localización: Madrid
+#términos: bicicleta, muñeca, oso, nave espacial, teclado, silla, juguete, tienda
+#H1: varón, edad ignorada, locutor
+#H2: mujer, c.35 años, presentadora
+#H3: varón, c.55 años, presentador
+#H4: muñeco
+#H5: niña, edad ignorada
+#H6: niño, edad ignorada
+H1: Se llama: [canta] [extranjerismo]"Toys are us"[fin de extranjerismo]. Cuando esta noche te vas a acostar, [ininteligible] y sus ayudantes se van a trabajar. Arriba y abajo, libros y bicis, naves espaciales, ositos y muñecas, [extranjerismo][ininteligible][fin de extranjerismo] tiene un millón de juguetes para ti... [solapamiento de turnos] [extranjerismo]"Toys are us"[fin de extranjerismo], [extranjerismo]"Toys are us"[fin de extranjerismo], [extranjerismo]"Toys are us"[fin de extranjerismo]. [deja de cantar]
+H1: [texto leído] [extranjerismo]"Toys are us"[fin de extranjerismo], la tienda de juguetes más grande del mundo. [fin de solapamiento de turnos] [fin de texto leído] [música]
+H2: [ininteligible] aquí en [extranjerismo]"Toys are us"[fin de extranjerismo], la tienda de juguetes más grande del mundo. Es una maravilla, ¿eh?
+H3: Sí señora.
+H2: Es una auténtica maravilla.
+H3: La verdad es que yo estaba pensando hace rato... porque digo: [extranjerismo]"Toys are us"[fin de extranjerismo]
+H2: Sí.
+H3: [extranjerismo]"Toys are us"[fin de extranjerismo], el... el... el sueño...
+H2: Sí. [ruido]
+H3: A alguien se le ha caído un diente.
+H4: [risas]
+H3: ...el sueño dorado
+H2: Sí.
+H3: ...de cualquier ciruelo [solapamiento de turnos] o de cualquier ciruela
+H2: Sí señora, sí señora. [fin de solapamiento de turnos]
+H3: ...es una tienda como ésta.
+H2: Sí.
+H3: Donde hay cientos de miles de todos esos juguetes que hemos soñado en la vida.
+H4: [solapamiento de turnos] ¡Toma!
+H2: Sí... [fin de solapamiento de turnos]
+H3: Y ellos [silencio]
+H2: Sí...
+H3: ...los quieren.
+H2: Ya lo sé... ¿qué te [solapamiento de turnos] pasa?
+H3: Y... [fin de solapamiento de turnos] [extranjerismo]moi...[fin de extranjerismo], yo... [extranjerismo]moi[fin de extranjerismo]...
+H2: Sí.
+H3: ...no los tuve.
+H2: Pero [solapamiento de turnos] Miliki
+H3: Ésa es la [fin de solapamiento de turnos] suerte que tienen los ciruelos
+H2: Pero ésa es la suerte que tenemos y ahora, mañana, en Madrid, mañana
+H3: Mañana.
+H2: ...tenemos ya [extranjerismo]"Toys are us"[fin de extranjerismo].
+H3: ¡Ya, no me digas!
+H2: ¡Mañana!, en Madrid tenemos ya [extranjerismo]"Toys are us"[fin de extranjerismo] abierta... las puertas [solapamiento de turnos] abiertas.
+H3: No me digas [fin de solapamiento de turnos] que por casualidad van a abrir [extranjerismo]"Toys are us"[fin de extranjerismo] mañana en Majadahonda junto a la estación de ferrocarril, [solapamiento de turnos] de tren.
+H2: Por [fin de solapamiento de turnos] casualidad, no.
+H3: No me digas que...
+H2: [solapamiento de turnos] Es que es verdad.
+H3: No me digas que por casualidad, al lado de la estación del tren
+H2: Sí.
+H3: ...hay un [extranjerismo]"Toys are us"[fin de extranjerismo] como éste, [solapamiento de turnos] inmenso,
+H2: Sí señor, sí señor. [fin de solapamiento de turnos]
+H3: ...lleno de [solapamiento de turnos] juguetes
+H2: Sí señor... mañana, mañana.
+H3: y de... muchas cosas más [solapamiento de turnos] porque aquí hay
+H2: Fíjate, esto es... [fin de solapamiento de turnos]
+H3: ...hasta sillas para [vacilación]
+H2: Sí.
+H3: ...para disfrutar de la ilusión del niño
+H2: Así es.
+H3: ...¿eh?, es esto, [extranjerismo]"Toys are us"[fin de extranjerismo]
+H2: Muy bien, Miliki.
+H3: Oye,
+H2: ¿Y sabes una cosa?
+H3: No [silencio] la sé. [solapamiento de turnos] Si no la dices.
+H2: Si tú... [fin de solapamiento de turnos], te la voy a decir ahora mismo.
+H3: Dímelo.
+H2: Tenemos ya
+H3: Sí.
+H2: ...nuestra maquilladora, Carmen, y a nuestro peluquero, Juanjo, haciendo unos peinados preciosos, ¡un peinado y un maquillaje de maravilla!
+H3: [afirmación]
+H2: ¿Eh...? Los tenemos aquí a los dos,
+H3: ¡Fenomenal!
+H2: ...¿eh...?, trabajando.
+H3: [solapamiento de turnos] ¡Extraordinario!
+H2: Y vamos [fin de solapamiento de turnos] a empezar con el "Te lo cambio", que me [solapamiento de turnos] gusta [ininteligible]
+H3: Vamos a ver ¿quién... quién... quiere [fin de solapamiento de turnos] hacer... negocio conmigo?
+H2: ¡Venga, vamos allá!
+H3: ¿Quién... quién?
+H2: Mira... mira [solapamiento de turnos] aquí hay un ciruelo
+H2: ¡Bien, bien!, ¡marchando! [fin de solapamiento de turnos]
+H3: ...que trae un dibujo y tú también traes otro dibujo... venir[sic] aquí los dos. Pero tiene que ser rápido, porque ahora sí que entramos en una velocidad tremenda, los dos. Habéis dicho que queréis hacer negocio conmigo y yo ahora mismo os cambio vuestro dibujo... este dibujo es el tuyo... ¡oye, qué bien!, es un monstruito precioso, [silencio] como muchos de los monstruitos que se venden aquí porque hay unos juguetes preciosos de... de... ¿y tú, a... ¡ay, qué muñeca más preciosa has pintado, está muy bonita!... te la cambio a ti también, te la cambio por la... mira, tú, por ejemplo... vamos a empezar por la dama... tú puedes escoger ahora mismo entre esa sillita verde donde hay una... un... juguetito y una... tortuga y además tienes una tarjeta; aquí tienes un juego electrónico y otra tarjeta, ¡eh...!. Además de eso, aquí a la derecha, tienes un coche y una tarjeta; ahí tienes una muñeca o una tarjeta, ¿cuál quieres escoger?, ¿cuál escogerías tú?
+H5: La muñeca.
+H3: ¡La muñeca! Tú escoges la muñeca con la tarjeta y [ininteligible] su tarjeta y algo más, además de la muñeca. ¿Y tú, cuál escogerías?
+H3: Éste, éste, el cochecito ese, ¿eh?. Ese coche con su tarjeta, pero en esa tarjeta también hay premio. Bien, aquí, ahora mismo, yo... [silencio] la muñeca, te la cambio, te la cambio. Te la cambio. ¿Hacemos negocio tú y yo? Te la cambio. Vamos a ver, tú lo puedes cambiar por ejemplo... mira, yo te regalo [silencio] esto, que es precioso, ¿eh?, un juego precioso, divertidísimo, sí, me la cambias por la verde, ¿me la cambias por la verde? [silencio] La muñeca. ¿Me la cambias por la tortuguita aquella, la "ninja" aquella que hay allí?, ¿eh? No quieres, no quieres. Fíjate, te iba a regalar esto. ¿Y si te regalo eso y además te regalo unas [ininteligible] así, te... lo cambiarías?
+H4: ¡Huyuyuy!
+H3: ¿O todavía no? Todavía no te conviene, ¿no? No te conviene, o ¿sí te conviene?
+H3: No te conviene, no quieres cambiar. Oye, ¿y si te regalo eso y además, [silencio] te regalo un juego electrónico, esto... lo cambiarías?
+H3: ¡Sí! Sí lo cambias, ¿seguro?, ¿me cambias la muñeca por lo que hay allí en aquella sillita verde?, ¿seguro, [silencio] seguro? Bueno, pues de momento, sujeta el juego electrónico, esto, la [ininteligible]... Y tú, que has escogido el coche, ¿me lo cambias por la muñeca? [silencio] ¿Eh? Mira... mira lo que te doy además, mira, lo que te estoy dando ya, mira [silencio] esto, además te lo doy, pero claro, no te gusta la muñeca. ¿Y si te lo cambio por este juego electrónico que está aquí, lo cambiarías [silencio] o no? Tú eres un poco de ideas fijas, tú quieres quedarte con el coche, ¿verdad?, ¿seguro?, ¿seguro?, ¿eh? Bueno, pues entonces, ¡venga!, vamos a ver qué es lo que hemos ganado. ¿Con qué te has quedado tú al final? Con la tortuga esa que está ahí en la silla verde, ¿verdad? Vamos a ver que es lo que hay en esta tarjetita. Esto ya, desde luego, es tuyo. Vamos a ver que es lo que hay, ¿qué dice aquí que hay aquí?, ¿qué es lo que te ha tocado?
+H5: Una bicicleta.
+H3: ¡Una bicicleta! ¡Eh...! [música]
+Todos: [aplausos]
+H3: ¡Qué maravilla! Mira qué cara pone el ciruelo. Te has emocionado tú y bueno, tú te has quedado con el coche, ¿verdad? Porque yo sé que desde el principio tú dijiste: "este coche me gusta"... pues entonces mira a ver qué es lo que dice que hay en esa tarjeta para ti, ¿qué hay?
+H6: Un teclado.
+Todos: [solapamiento de turnos] [aplausos]
+H3: ¡Un teclado... para hacer música!, [solapamiento de turnos] Bueno, bueno, bueno...
+H4: ¡Madre mía, lo que se ha llevado! [fin de solapamiento de turnos].
+Todos: [aplausos] [fin de solapamiento de turnos]
+H3: Míralo, aquí lo tienes, el teclado, aquí lo tienes, el teclado, que éste ya es tuyo y la bici te la vamos a dar ahora porque aquí en [extranjerismo]"Toys are us"[fin de extranjerismo] hay [silencio] cientos de miles de bicis, las mejores del mundo. ¿De acuerdo? ¿Estáis contentos los dos? ¿ Le[sic] damos un aplauso fuerte a los dos?
+Todos: [aplausos]
+H3: ¡Venga! y... seguimos en el "Super...
+Público: [argot]Guay...[fin de argot]"
+H3: ¡Hey...! [música]

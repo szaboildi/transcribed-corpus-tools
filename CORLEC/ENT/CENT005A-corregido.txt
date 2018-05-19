@@ -1,0 +1,51 @@
+#archivo: cent005a
+#fecha de grabación: 26-1-91
+#fuente: radio
+#localización: Madrid
+#términos: baloncesto
+#H1: varón, c. 45 años, locutor
+#H2: varón, c. 27 años, jugador baloncesto
+#H3: varón, c. 45 años, locutor
+H1:... que no... que no importa que te cuides ¿no?
+H2:Sí, la verdad, bueno, hay campos como los griegos en los que... hay que jugar con casco.
+H1:Oye... eh... te dieron dos puntos ¿no?
+H2:No, no. Al final [solapamiento de turnos] no me dieron
+H1:Ah, ¿no? [fin de solapamiento de turnos]
+H2:ningún punto.
+H2:porque no se llegó a abrir la c[palabra cortada] eh... el cuero cabelludo, entonces no... no hizo falta, pero vamos, sangraba a borbotones.
+H1:Bueno, cuéntanos un poco como fue esta auténtica odisea de Estudiantes Caja Postal [solapamiento de turnos] en [ininteligible]
+H3:Agustín. [fin de solapamiento de turnos]
+H1:¿Sí?
+H3:Lesi[palabra cortada] lesión de Rivas. Parece importante, rodilla izquierda en la casilla se retira y parece que es importante.
+H1:En seguida estamos allí. Cuéntanos un poco cómo fue esa... esa odisea.
+H2:Pues, el viaje muy bien, muy vigilado, y... y nada, llegamos al campo y aquello era... pues como la Nevera, ya sabes tú, no sé es el campo de... de la cantera de Estudiantes
+H1:[afirmación]
+H2:pero... pero a tope. O sea, y gente pues, con colección de monedas allí, y vamos, tirando todo el partido y nada, pero bueno, una gran experiencia, yo me lo pasé muy bien.
+H1:Sí, espera un momento que Miguel Ángel Panigua quiere hacerte al respecto una... una pregunta también.
+H3:Sí... Nacho, yo... no, no era más que una pregunta era corroborar tus palabras porque, jugasteis con el [extranjerismo]Panacenaikos[fin de extranjerismo] ¿verdad?
+H2:Sí.
+H3:Bueno, pues este equipo tiene a gala ser la afición más sanguinolenta de la... del baloncesto griego. Todavía mucho más agresiva que las dos de Salónica y supongo que os harían toda la parafernalia que suele hacer el... el equipo griego, que es [duda], poneros incluso motoristas [duda], por delante,
+H2:Sí, [solapamiento de turnos] sí, sí.
+H3:furgones [fin de solapamiento de turnos] de la policía, protección de escudos y todo esto ¿no?
+H2:Sí.
+H3:Con lo cual claro, el miedo escénico es tremendo.
+H2:Sí, pero... ya te digo que vamos, tampoco fue muy allá toda la cosa. Fue... sólo las monedas, lo único claro es que claro, me han dado, no pasa nada ¿no? no ha sido nada, pero como... como se suele decir esta ve[palabra cortada] estas cosas, cuando estas cosas pasan pues si te da en un ojo, pues puede ser la cosa muy grave ¿no?
+H1:[afirmación] Oye, eh... ¿pasasteis miedo en un... en algún momento o no? Miedo yo no sé si físico
+H2:No
+H1:o... o... el otro miedo cuando ves [solapamiento de turnos] que los árbitros
+H2:No, no. [fin de solapamiento de turnos]
+H1:están tirando para casa.
+H2:Eso sí. Los árbitros... hombre pasamos miedo cuando íbamos veintitrés abajo, y... les... la eliminatoria veíamos que se nos escapaba ¿no?
+H1:[afirmación]
+H2:pero... hombre, miedo físico no, la verdad es que no, pero... pero más miedo a los árbitros que a las monedas, desde luego.
+H1:[afirmación] Eh... ibais con ese miedo escénico que se llama por la cercanía a la... a la zona del conflicto, al Golfo Pérsico, pero me da la impresión que cuando te metes en esas canchas auténticas neveras como tu dices, o encerronas, como dicen otros, pues, dejas de pensar en l[palabra cortada], en la guerra del Golfo y más que misiles lo que te preocupa son los, los misiles en forma de moneda que te pueden llegar desde la grada ¿no?
+H2:Sí, desde luego. Además allí la gente estaban en huelga general, me parece por l[palabra cortada] por lo... por la... por la guerra del Golfo, están bastante asustados allí y a lo mejor es que iban al campo a desahogarse un poco ¿no?
+H1:El equipo ha pagado hoy el... el viaje, el partido
+H2:Sí.
+H1:y la guerra síquica ¿no?
+H2:Sí, yo creo que... más que la guerra síquica... pues el cansancio. La gente estaba un poco cansada y... bueno, ya ves, hemos tenido bastante suerte, creo yo, al final hemos jugado mejor que ellos, pero... o sea los últimos dos minutos los hemos jugado mejor que ellos, pero vamos, hemos ido debajo del marcador todo el rato y ya te digo que al final... he[palabra cortada] hemos tenido suerte.
+H1:Al final se consiguió esa última canasta y... y la clasificación, que era de lo que se trataba. Gracias Nacho Zofrán y buenas noches.
+H2:A ti.
+H1:¿Algo más Juan Pablo desde Madrid?
+H3: Pues nada más, que Nacho Zofrán no es el único que recibió... las iras del público griego, que hay alguno más lastimado, alguno con un ojo morado y cosas así, pero bueno, que el resto están bien.
+H1:Bueno, en cualquier caso no cayó ningún misil que era de lo que se trataba y... la eliminatoria está salvada, el equipo en los cuartos de final aunque ahora le tocará el Juventud Montegara. Gracias Juan Pablo, cerramos circuito. Nos vamos a buscar rápidamente el tiempo que resta para el final de partido.

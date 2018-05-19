@@ -1,0 +1,116 @@
+#archivo: BNOT038B
+#fecha de grabación: 8-12-91
+#fuente: televisión
+#localización: Madrid
+#términos: Constitución, acto oficial, derogación, ocupación simbólica, realojo, tráfico, retención, accidente, noticia cultural, película, opositor, plaza, compra navideña
+#H1: mujer, edad c.40 años, periodista
+#H2: mujer, edad ignorada, periodista
+#H3: varón, edad ignorada, periodista
+#H4: mujer, edad ignorada, periodista
+#H5: varón, edad ignorada, periodista
+#H6: varón, c.35 años, periodista
+#H7: varón, edad ignorada, periodista
+#Ha: varón, edad ignorada
+#Hb: varón, edad ignorada
+#Hc: varón, c.50 años
+#Hd: niño, edad ignorada
+#He: niño, edad ignorada
+#Hf: varón, edad ignorada, político
+#Hg: varón, edad ignorada, político
+#Hh: varón, edad ignorada, político
+#Hi: varón, edad ignorada, político
+#Hj: varón, edad ignorada, político
+#Hk: varón, edad ignorada, político
+#Hl: varón, edad ignorada, político
+#Hll: varón, edad ignorada, político
+#Hm: varón, edad ignorada, político
+#Hn: varón, edad ignorada, vecino de Madrid
+#Hñ: mujer, edad ignorada, vecina de Madrid
+#Ho: varón, edad ignorada, vecino de Madrid
+#Hp: mujer, edad ignorada, vecina de Madrid
+#Hq: varón, edad ignorada, vecino de Madrid
+#Hr: mujer, edad ignorada, vecina de Madrid
+#Hrr: varón, edad ignorada, vecino de Madrid
+#Hs: varón, edad ignorada, vecino de Madrid
+#Ht: varón, edad ignorada, vecino de Madrid
+#Hu: mujer, edad ignorada, vecina de Madrid
+#Hv: varón, edad ignorada, vecino de Madrid
+#Hw: varón, edad ignorada
+#Hx: mujer, c.30 años, turista madrileña
+#Hy: mujer, c.30 años, turista madrileña
+#Hz: mujer, c.55 años
+#Ha1: mujer, c.55 años
+#Hb1: varón, edad ignorada
+#Hc1: varón, c.40 años
+#Hd1: hembra, c.40 años
+#He1: hembra, c.65 años
+#Hf1: hembra, edad ignorada
+#Hg1: hembra, c.60 años
+#Hh1: hembra, c.35 años
+#Hi1: varón, edad ignorada, deportista
+#Hj1: varón, edad ignorada, deportista
+H1: Muy buenas tardes, señoras y señores. Bienvenidos en esta... jornada festiva al informativo de Madrid de Televisión Española. Hoy tenemos, desde este momento, casi media hora para contarles datos y anécdotas de una jornada en la que como saben se conmemora el décimo tercer aniversario de la Constitución. En ella se recogen los derechos y deberes de todos los ciudadanos españoles o de los que viven en el país. Les contaremos actos oficiales y comentarios extraoficiales; les hablaremos... de una ocupación simbólica, la protagonizada este mediodía por vecinos de Vallecas para pedir que sigan los realojos y que se derogue el "decreto Boyer"; también les hablaremos de gestas cuasi heroicas determinados en Madrid y otros asuntos y, por supuesto, del puente de la Constitución. Y ya de madrileños han elegido esta primera jornada del puente para irse, a esta hora, y según nos comunica la Dirección General de Tráfico, hay atascos en casi todas las carreteras de salida todavía: en la Nacional U[palabra cortada]... uno, la de Burgos; en la Nacional cuarta, la de Andalucía, en la quinta, de Extremadura; en la sexta, de Extremadura y en la Comarcal quinientas uno entre Villaviciosa y... Brunete. Se lo vamos a contar después del sumario. [música] [texto leído][texto no transcrito][fin de texto leído]
+H1: Como acaban de escuchar, en varias ciudades madrileñas se celebran hoy el día... se celebra hoy el día de la Constitución, por ejemplo, en Leganés donde, al mediodía, ha comenzado un homenaje al decimotercer aniversario de la Constitución, el escenario elegido es el antiguo Regimiento Saboya, que será dentro de unos años, como ya saben también, la nueva sede de la Universidad Carlos Tercero. En Leganés está Lurdes Repollés.
+Ha: Pues el valorar como la... Constitución pues posibilita una... sociedad más libre, más igual, más justa y más solidaria.
+Hb: Lo más importante es que conozcan los valores, que impregnan... la Constitución española, que son los valores que todos los españoles hemos querido que sean nuestros valores comunes: la tolerancia, la solidaridad, el respeto a las minorías, la lucha contra la desigualdad. [texto leído][texto no transcrito][fin de texto leído]
+H2: Los vecinos de Leganés han celebrado este día de la Constitución de una forma muy especial y es izando la bandera en este centro que dejó de ser ya un acuartelamiento militar para pasar a formar parte de la Universidad Carlos Tercero. [texto leído][texto no transcrito][fin de texto leído]
+Hc: La cosa más bonita que tenemos, los españoles.
+Hd: No sé... como... un día de fiesta con los músicos.
+He: Un liblo muy glande donde... to[palabra cortada]... es[palabra cortada]... están escritos todos los... derechos de los españoles. [texto leído][texto no transcrito][fin de texto leído]
+H1: Dentro de seis año... perdón, dentro de seis horas, comenzará en la Puerta del Sol, y va a ser mucho tiempo, desde luego, un... acto tradicional que se celebra desde hace varios años: la recepción oficial que el Gobierno madrileño ofrece a político[sic] locales, regionales y estatales. Eso será a las ocho. Ahora Ángel Urrecieta nos ofrece numerosas declaraciones de los políticos madrileños que valoran e[palabra cortada]... el aporte de la Constitución a nuestra Comunidad en estos trece años.
+H3: Hoy, el edificio sede de la presidencia de la Comunidad aquí, en la Puerta del Sol, se ha vestido de gala con motivo del día de la Constitución. Esta tarde se celebrará la habitual recepción que organiza el Consejo del Gobierno Autónomo a la que es habitual que acudan distintos ministros del Gobierno y personalidades de las instituciones del Estado. [texto leído] La Constitución reconoce el pluralismo político. [fin de texto leído]
+Hf: Es un proyecto, un proyecto nacional, proyecto que hay que desarrollar. También la Constitución está llena de buenas intenciones y esas intenciones que y... eh... están concedidas en la Carta Magna tienen que desarrollarse. [texto leído] Instrumento fundamental de la participación política. [fin de texto leído]
+Hg: El servicio es imprescindible, el acato a la Constitución es absolutamente necesario y yo creo que juntos todos podremos caminar hacia un futuro mejor. [texto leído] Mecanismo para lograr el consenso. [fin de texto leído]
+Hh: Entrar en una vía de acuerdos y de... consenso en el campo político, cosa que históricamente... España nunca había sufrido. [texto leído] La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades. [fin de texto leído]
+Hi: Nada más y nada menos que hacer posible la convivencia democrática entre... todos los españoles [texto leído] El fundamento del Estado democrático es la dignidad del hombre libre. [fin de texto leído]
+Hj: Es yas, si no estoy... si no recuerdo mal, y hablo, naturalmente, de memoria, la segunda Constitución española que más tiempo ha durado hasta ahora en la historia de nuestro país. [texto leído] Garantiza la libertad de conciencia. [fin de texto leído]
+Hk: La aportación fundamental que ha realizado la Constitución es servir de una referencia de convivencia pacífica y democrática para el conjunto de los pueblos y nacianolidades del Estado español. [texto leído] Garantiza igualmente el derecho a la salud. [fin de texto leído]
+Hl: Es lo que ha hech[palabra cortada]... ha hecho posible el que España se incorpore a Europa y se incorpore al mundo en la perspectiva que podemos hacerlo en este momento. [texto leído] El derecho a la vivienda entre los derechos por conseguir. [fin de texto leído]
+Hll: Que hay artículos como que todo español tiene que tener trabajo, todo español tiene que tener vivienda, etcétera, etcétera, y eso es todavía la meta de algo que se sigue sin cumplir. [texto leído] Derecho a la información. [fin de texto leído]
+Hm: Que no es que sea un lujo para los españoles pero que si se mirara... las cosas desde hace algunos años pues estaríamos muy contentos de poder tener esta Constitución. [texto leído] Todos los políticos dirigen su mensaje hacia los jóvenes principalmente, que han de recoger la llama de lo que en mil novecientos setenta y ocho se llamó la "Constitución de la concordia". [fin de texto leído]
+H1: Fue hace trece años cuando veintiséis millones de españoles censados y con derecho a voto aprobaron la Constitución, actua[palabra cortada]... líneas recogen derechos y deberes fundamentales, algunos de ellos los acaban de escuchar. Son muchos, así que hemos... extrata... resumido cinco de los artículos en los que muchos madrileños, y, sin duda, la mayoría de los españoles tienen puesta sus esperanzas de futuro. Son estos: [texto leído][texto no transcrito][fin de texto leído]
+H1: Hay... si no me falla la memoria, ciento sesenta y nueva... ciento sesenta y nueve artículos en nuestra Constitución. En esta jornada especial, hemos pulsado también lo que se suele llamar "opinión de la calle", es decir, la de ustedes y el resto de los vecinos. Estos son algunos de los comentarios recogidos hoy en el centro de Madrid:
+Hn: Pues no lo sé porque no lo entiendo. Yo todavía quiero saber qué es lo Constitución[sic], que me lo expliquen.
+Hñ: Una cosa para todos, ¿no?, digo yo, no sé.
+Ho: Supongo que se cumple [silencio], un poscentaje elevado de ciudadanos sigue la Constitución.
+Hp: Supongo que es la Carta Magna de todos los españoles y es la... la regla por la cual nos tenemos que... [silencio] que llevar.
+Hq: Que todo el mundo la debe de ai... de acatar, y el que no, pues que se vaya fuera [vacilación] a otro lado.
+Hr: La Constitución sirve para... para... muchas leyes que no teníamos en tantos años de Dictadura.
+Hrr: Que está muy bien. Significa "democracia", que podía haber... que debía de haber venido antes y que podía ser mejor.
+Hs: Es absolutamente necesaria. Reformable, pero necesaria.
+Ht: Representa los derechos que tenemos los españoles en... [silencio] hacia esa... que tenemos nosotros, los españoles como ciudadanos.
+Hu: Se ha hecho la Constitución, se han diseñado los puntos pero no se han... no se han mejorado. Estamos igual que hace... un montón de años.
+Hv: Si se cumple, porque todavía está toda de... sin desarrollar del todo, entonces no... yo creo que se va cumpliendo poco a poco. [música]
+H1: Les vamos a hablar ahora de tráfico, el puente... de la Constitución que fialmente comenzó ayer por la tarde, a las tres, pero en los que muchos madrileños han aprovechado esta jornada para... utilizar sus vehículos y salir a la calle. La mayoría ha esperado desde primeras horas, han comenzado las salidas muy temprano y se ha producido, en general, retenciones en casi todas las carreteras, por supuesto retenciones de salida. En una de ellas, en la "Nacional seis", ha estado Olga Miguel.
+H4: Los madrileños que han decidido salir a primeras horas de la mañana por aquí, por la carretera de La Coruña, apenas ha tenido problemas puesto que a esa hora el tráfico era fluido, pero, según han ido pasando las horas, el tráfico se ha ido complicando y en algunas ocasiones han existido retenciones. [texto leído][texto no transcrito][fin de texto leído]
+Hw: Es aconsejable [silencio] mantener en todo momento la distancia de seguridad entre vehículos para evitar, en lo posible, aquellas colisiones por alcance que suelen producirse en este tipo de conducción, recomendar, por supuesto, la utilización del cinturón para los vehículos turismos y el casco para los ciclomotores y, por supuesto, eh... hay que tener mucho cuidado con el consumo de alcohol. [texto leído][texto no transcrito][fin de texto leído]
+H1: Y más datos sobre el puente porque, además de los madrileños que han utilizado el vehículo privado para salir de la ciudad, otros miles están utilizando en estas horas los transportes públicos: decenas de aviones, trenes y autobuses han... partido ya repletos de convecinos. Por ejemplo, un dato: de la estación "Sur" de autobuses se ha marchado ya cien mil madrileño[sic]. Nos lo cuenta con más detalle César Podomingo.
+H5: Desde primeras horas de esta mañana, muchos madrileños viven en una actividad febril, pero no se crean que es en las calles madrileñas, porque si han salido de sus hogares, habrán podido comprobar que no existe casi apenas tráfico rodado, pero, en cambio, aquí, en la estación "Sur" de autobuses, se ha convertido en un verdadero hormiguero de personas en busca de ese preciado billete que le ayude a salir de Madrid. [texto leído][texto no transcrito][fin de texto leído]
+Hx: Complicadísimo. Mira, son las... eh... nueve y veinte, tendríamos que haber salido a las nueve y no hay manera. Eh... está todo... está atascadísimo, hay unos humos que no se soportan, estamos todos con los ojos llorosos, y bastante... bastante horrible. [texto leído][texto no transcrito][fin de texto leído]
+Hy: Pues pesadísimo, pesadísimo. Pero bueno, la culpa la tenemos nosotros que venimos tarde a coger el billete, no sé. [texto leído][texto no transcrito][fin de texto leído] [música]
+H1: Pasan trece minutos de las dos de la tarde. Varia[sic] decenas de personas de Vallecas han aprovechado esta jornada festiva para realizar una ocupación simbólica en el "Museo Reina Sofía". Con ella trataron de reivindicar el mantenimiento de la política de realojos y la derogación del "Decreto Boyer". Desde el "Reina Sofía" nos informa Antonio Castro. [texto leído][texto no transcrito][fin de texto leído]
+Hz: Queremos una vivienda digna porque nos hace falta... no estamos aquí por de... por capricho.
+Ha1: Y no tengo agua y hay muchas ratas en el patio.
+Hb1: No se acuerdan de las promesas que les hacen al pueblo... [texto leído][texto no transcrito][fin de texto leído]
+Hc1: Hay una contradicción entre el mercado de la vivienda y el mercado salarial que desde luego [duda] no se puede permitir más. Eh... y en esa línea estamos las asociaciones para coordinar nuestros esfuerzos y hacer que el noventa y dos realmente sea un año de lucha y no un año de espectáculos teatrales. [texto leído][texto no transcrito][fin de texto leído]
+H1: En esta fechas navideñas, las compras han comenzado ya a disparar la cuenta de gastos. Para evitar posibles abusos, la Unión de Consumidores ha hecho públicos algunos consejos que debemos tener en cuenta a la hora de comprar. Son estos: [texto leído][texto no transcrito][fin de texto leído]
+H1: Este informativo ha querido pulsar también la opinión de los madrileños para conocer si nuestros vecinos siguen estas recomendaciones o, por el contrario, como ocurre todos los años, se ha... se... se realizan las compras navideñas a última hora. César Pordomingo estuvo en la pasada tarde por diversos lugares comerciales de nuestra ciudad y esto es lo que encontró: [texto leído][texto no transcrito][fin de texto leído]
+H1d: Hasta que no den las vacaciones a los niños no... no empiezo ya... porque me gusta venir con ellos y eso.
+H1e: Pues no han empezado todavía, bueno ya... estoy mirando la... los regalos para los nietos, porque tengo ocho nietos. [texto leído] La mayoría sólo compra los alimento típicos de esta época. [fin de texto leído]
+Hf1: Turrón.
+Hg1: ¡Ah!, nueces, he comprado. [risas] [texto leído] Sin embargo, siempre hay quien no compra nada de nada. [fin de texto leído]
+Hh1: Yo no hago compras navideñas.
+H5: ¿Y eso por qué?
+Hh1: Porque no... Hago las compras normales de siempre. [texto leído][texto no transcrito][fin de texto leído] [música]
+H1: Las últimas horas en Madrid han sido de lo más accidentadas. Cuatro muertos y diecisiete heridos en veinticuatro accidentes de tráfico. El último accidente mortal se produjo poco antes de las ocho de la mañana, en él murió un joven. Nos lo cuenta Javier de la Oliva. [texto leído][texto no transcrito][fin de texto leído]
+H1: Como hemos... podido comprobar hace unos minutos en el día de la Constitución se... convierte en este día también para muchos colectivos en una jornada reivindicativa, como ocurre con los opositores sin plaza de la enseñanza que están reclamando ante el Congreso la resolución de sus demandas. Desde Neptuno nos ofrece las primeras imágenes Antonio Castro.
+H6: Efectivamente, a última hora, en este día de la Constitución, está ante el Congreso de los Diputados unos seiscientos opositores sin plaza, venido[sic] de toda España, se manifiestan reclamando la plaza que ellos lograron al aprobar las pruebas; han salido del Ministerio y han llegado hasta Neptuno donde la policía los mantiene confinados y fuertemente vigilados. Por el momento no se ha registrado ningún incidente y en el Congreso han terminado obviamente los actos del día.
+H1: Pasan... diecinueve minutos de las dos de la tarde. Les vamos a contar ahora otra[sic] noticias que han ocurrido o se van a producir en las próximas horas en nuestra ciudad. [música] [texto leído][texto no transcrito][fin de texto leído] [música]
+H1: Y más deportes. Doble duelo entre vascos y madrileños en la Primera División. La "Real Sociedad", entrenada por [extranjerismo][ininteligible][fin de extranjerismo], viene al Bernabéu, mientras que el "Atlético de Madrid" viaja a San Mamés para enfrentarse a un "Atlético de Bilbao" en plena recuperación. [texto leído][texto no transcrito][fin de texto leído]
+H1: Y una curiosidad deportiva, los datos son los siguientes: un madrileño de Alcalá de Henares, Juan Vicente Martín, tratará... antes de que acabe el mes, de atravesar el macizo de... Sierra Nevada a bordo de un trineo tirado por perros. Las imágenes, mucho más elocuentes, sobre las condiciones del viaje, son éstas:
+H7: Éste [ininteligible] es aquí un poco tímido, porque lo suyo no es aparecer ante televisión, sino correr por la nieve, es Maier. Maier no es un perro cualquiera, sino una complicada mezcla de razas para seleccionar lo mejor de sus cualidades y, además, Maier es el capitán que habrá de conducir a doce de sus compañeros a través de un viaje de doscientos Kilómetros por toda Sierra Nevada.
+Hi1: Confío en la respuesta que me dé el perro guía, en compenetrarme con él y... bueno, pues si fuese necesario, yo asumo el papel de guía, me pongo delante de ellos, encabezo... encabezo el tiro y... que espero solventar el problema así. [solapamiento de turnos] [música] [texto leído][texto no transcrito][fin de texto leído] [fin de solapamiento de turnos]
+Hj1: Bueno yo... yo estoy seguro de que... de que cuando la gente lo vea, le... le va a gustar, se va a interesar por ello y[sic] incluso se puede una cierta afición. [solapamiento de turnos] [música] [texto leído][texto no transcrito][fin de texto leído] [fin de solapamiento de turnos] [música]
+H1: Las imágenes que acaban de... ver, por supuesto, han sido rodadas en Madrid. Vamos a darle... noticias culturales. Las películas que se van a estrenar este mes de diciembre están dirigidas a niños, aunque algunas, como "Terminator Dos", donde predomina la violencia, pueden atraer más a los mayores que a los pequeños. Antonio Castro nos habla los estrenos más destacados de este fin de semana. [texto leído][texto no transcrito][fin de texto leído]
+H1: El "Festival de Otoño" acaba de hacer públicas las cifras de espectáculos y espectadores de la última edición que finalizó el veinticuatro de noviembre. En total, setenta y dos mil madrileños. Nos va a contar más datos ahora Antonio Castro. [texto leído][texto no transcrito][fin de texto leído]
+H1: A [ininteligible] y no a Antonio Castro. En estos momentos hay retenciones en general en la "Nacional Uno", en la "Nacional Cuarta", en la "Quinta", en la "Sexta" y en la "Comarcal Quinientos uno". Retenciones, por supuesto, en... la salida. Los va[palabra cortada]... los vamos a dejar por hoy aquí. El lunes les contaremos más noticias de Madrid. Hasta entonces, y en nombre de todo el equipo, que tengan... un feliz puente de la Constitución. [música] [solapamiento de turnos] [música] [texto leído][texto no transcrito][fin de texto leído] [fin de solapamiento de turnos] [música]

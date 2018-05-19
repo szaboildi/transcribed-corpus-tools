@@ -1,0 +1,57 @@
+#archivo: AENT009B
+#fecha de grabación: 17-4-91
+#fuente: televisión
+#localización: Madrid
+#H1: mujer, presentadora, c.35 años
+#H2: varón, tenista, c.20 años
+#términos: entrenador, tenis, triunfo, edad, dinero, timidez
+H1: ... porque nuestro próximo invitado lo ha aprendido todo absolutamente de su padre. Es su padre y además es su entrenador. Sergi Bruguera, buenas noches.
+H2: Buenas noches.
+H1: ¿Estás cómodo?
+H2: Sí.
+H1: ¿Cuánto...? Ponte de pie, Sergi, que te vean... A ver... Porque es que es altísimo, ¿cuánto mides?
+H2: 1,87
+H1: 1,87, la criatura. Bueno, siéntate. Eh... Sergi Bruguera, que lo aprendió, decíamos, todo de... de su padre, de Lluis Bruguera que es su padre y su entrenador desde hace algunos años. ¿Es duro, Sergi, que tu padre sea también tu entrenador, o es una ventaja en este caso?
+H2: Bueno, yo creo que las 2 cosas, ¿no?. A veces es... es una ventaja porque siempre lo tienes ahí, que sabes lo que has de hacer en cada momento, pero también es duro porque no tienes ningún momento tranquilo para... para dejarlo, ¿no?
+H1: [afirmación]
+H2: Siempre está ahí.
+H1: ¿Es verdad que alguna vez has llorado en la pista cuando él te esta[palabra cortada]... estaba enseñando a jugar al tenis?
+H2: Sí, bastantes, pero cuando era más pequeño.
+H1: ¿Cuántos tienes ahora?
+H2: Bueno, ahora 20.
+H1: 20. Ya no llora en la pista por eso.
+H2: No, no. Ya no.
+H1: Pero debe... Yo imagino que el... primer día que le ganaste a él, a Lluis Bruguera, que fue un... un buen tenista en su momento, el primer día que... su hijo le gana... no sé si igual se enfadó y todo, o si... ¿Cómo lo recuerdas aquel día?
+H2: No, no, la verdad es que... no, no me acuerdo bien. Me parece que cuando empezaba a jugar mejor, que ya le podía ganar, ya no quería jugar conmigo.
+H1: ¿¡Ya no quería jugar contigo!?
+H2: No, no.
+H1: Bueno, el caso es que Sergi Bruguera, hasta hace... poco tiempo, pues estaba en el número trescientos no sé cuánto de la [siglas]ATP[fin de siglas], de la Asociación de Tenistas Profesionales del mundo, y que de pronto le tenemos ya colocado en el número 15, que es una clasificación extraordinaria, y que además es el campeón de España, aparte de tener una actuación excelente en el Trofeo Godó, que acabó hace nada, 48 horas, el domingo pasado, en el que ganó nada menos que al número 2 mundial, [extranjerismo]Boris Becker[fin de extranjerismo]. Tenemos unos... imágenes muy cortitas, Sergi, y luego seguimos hablando del Godó. Ahí están. [ruido] [partido de tenis]
+H1: Desde el año 69 no ocurría que 2 españoles se enfrentasen el final de Godó. Y aquella ocasión creo que fue entre Orantes y Santana, y esta vez fue entre Emilio Sánchez Vicario y... y Sergi Bruguera. No... no ganaste finalmente el último partido. Pero sin embargo... la ovación fue para tí, está clarísimo. ¿Por qué, Sergi? Seguro que has pensado por qué. Razones, a ver. Lista de razones.
+H2: No las sé, igual... yo que sé; durante todo el torneo jugué... muy bien, ¿no?, hice un buen tenis y igual la gente disfrutó con... con... con el tenis que hice y... y les gustó. Y entonces por eso, pues... premiaron igual el torneo que había hecho.
+H1: La verdad es que tienes una excelente reputación en las pistas, seguro que... que lo sabes, aunque pongas así cara [vacilación] de ingenuo. Dicen que es un... un perfecto caballero. Por ejemplo, durante el Godó tuvo varios gestos como... que el árbitro dio fuera... dio un [extranjerismo]out[fin de extranjerismo] a una pelota del contrario, y él dijo: "No, le he visto que era dentro, y el punto debe ser para él". Eso no es nada normal, ¿no?, en los circuitos de tenis normalmente.
+H2: No, bueno, normal, no. No sé a veces si... si... si que hay gente que... que también lo hace. [silencio] Sí, hay gente que también lo hace.
+H1: [afirmación] Bueno, el caso es que... tras esa clasificación, estando ya en el número 15, eh... Sergi Bruguera pronto va a empezar a ganar muchos millones, ¿no?. Yo no sé si ya tienes pensado comprarte casa en... en Mónaco, o en Andorra...
+H2: No lo sé. No, no, no; todavía estoy... estoy aquí y... ya veremos lo que pasa en un futuro, ¿no?. A mi me gu[palabra cortada]... a mí me gusta ganar millones; supongo que a todo el mundo, ¿no?. Y... pero yo juego para... para ser bueno en el deporte que hago, y (después) ganar títulos que... que es mucho más importante, ¿no? que el dinero.
+H1: Ya. Pero este puede ser el año, ¿no?, éste es el año de arrancada, empezar a ganar muchísimo dinero, ¿no?. Se ha acabado la sequía, el desierto.
+H2: No, bue[palabra cortada]......
+H1: Por ejemplo, publicidad, a ver. ¿Te han... ofrecido ya hacer algún tipo de publicidad, Sergio?
+H2: ¿Publicidad? No...
+H1: Todavía no.
+H2: No.
+H1: Ni a todo...
+H2: Sólo, bueno; tengo contratos... tengo [extranjerismo]sponsors[fin de extranjerismo]; eh... contrato de ropa y... de raqueta. Sólo eso.
+H1: Todo se anda[palabra cortada]... ¿Y por qué será, me pregunto, que los tenistas todos habláis tan poquito y sois tan tímidos? Debe (haber) alguna razón en el deporte, ¿no?. En... en concreto en el deporte del tenis que os hace así... ¿o es... o es que [vacilación] siempre nos enfrentamos con gente muy joven?
+H2: No lo sé. Igual sí, no lo sé yo...
+H1: ¿Tú eres tímido en tu vida personal, Sergi?
+H2: Hombre, no sé, con la gente que conozco, no. Estoy hablando, pero aquí en la tele, pues [risas]. Sí, con la gente que no conozco, también un poco.
+H1: Además tampoco te han hecho muchas entrevistas, más bien... empiezas ahora, ¿no?
+H2: Sí.
+H1: [afirmación]. Y es verdad que te gusta mucho la pasta, ¿no?
+H2: La pasta italiana, sí. Me gusta mucho. [silencio] Me gusta mucho...
+H1: Yo a ver si picaba en lo de la pasta, pero no. Dijo italiana, así. Fíjense, se toma un plato de espaguetis, me han contado, antes de... de todos los partidos, ¿no?
+H2: Bueno, sí, porque... la pasta me gusta mucho y encima es buena, ¿no?, tiene hidratos de carbono, que es lo que me dicen; y entonces yo, pues la como normalmente antes de... 2 horas antes o así de jugar el partido, pues lo... los máximos que pueda, no sé, para... para tener reservas, ¿no?
+H1: [afirmación]
+H2: ... parael partido.
+H1: Después de aquellas semanas de problemas, Sergi, con el... llamado "clan de Pato Álvarez", en el que estaba, lógicamente, Emilio Sánchez Vicario y su hermano Javier... [duda] se te vetó en... en... algún encuentro en aquella ocasión, hasta que se ha impuesto el buen criterio, incluso Emilio... te ha pedido en público varias veces disculpas; supongo que tu última racha, haber ganado en Estoril, haber llegado al final del Godó, ya te consolida para siempre... en el tenis español, ¿no?
+H2: Bueno, no sé... espe[palabra cortada]... yo no... Lo que me quiero considerar es en el te[palabra cortada]... el te[palabra cortada]... a nivel mundial, ¿no?; si estoy bien a ni[palabra cortada]... a nivel español, mejor que mejor, pero a mí lo que me interesa es... estar bien en... en el circuito [siglas]ATP[fin de siglas], que están... donde están todos los mejores jugadores del mundo, y eso es lo que me interesa a mí, llegar lo más arriba posible en ese aspecto.
+H1: Como (antes ha estado) en el número 15, y con la... fuerza que le echa al asunto y la voluntad que le pone y un entrenador como el que tiene, seguro que... puede darnos muchas alegrías al país. Una pequeña pausa para la publicidad y nos encontramos también con el señor Bruguera y su timidez en la alcoba.

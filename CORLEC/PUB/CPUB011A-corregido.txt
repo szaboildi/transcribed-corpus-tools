@@ -1,0 +1,13 @@
+#archivo: cpub011a
+#fuente: radio
+#localización: Madrid
+#términos: rebaja, compra, precio
+#H1: varón, locutor
+#H2: varón, locutor
+#H3: mujer, locutora
+H1:Son las diez de la mañana. A estas horas se abren las puertas del "Corte Inglés", aquí en la Península, una hora más tarde en Canarias y naturalmente usted está pendiente del "Corte Inglés" porque estamos en los últimos, pero últimos días de rebajas, así que aproveche y vea lo que tenemos.
+H2:Últimos días de rebajas en "El Corte Inglés".
+H3:Aproveche estos días. Hay precios aún más bajos en todo.
+H2:La moda, los muebles, el menaje, deportes.
+H3:Últimos días de rebajas...
+H2:En el Corte Inglés.

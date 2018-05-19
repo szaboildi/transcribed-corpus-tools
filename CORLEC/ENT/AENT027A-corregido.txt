@@ -1,0 +1,79 @@
+#archivo: AENT027A
+#fecha de grabación: 30-8-91
+#fuente: Cursillo de Verano, a la salida de clase, directo
+#localización: Soria
+#H1: mujer, 24 años, filóloga
+#H2: mujer, 30 años, filóloga
+#H3: mujer, 30 años, filóloga
+#H4: mujer, 26 años, filóloga
+#H5: varón, 47 años, profesor de informática
+#H6: mujer, 45 años, profesora
+#H7: mujer, 24 años, filóloga
+#H8: varón, 28 años, filólogo, profesor de Lengua
+#H9: mujer, 24 años, filóloga
+#H10: varón, 30 años, filólogo, profesor de Semántica
+#términos: curso, gente, examen, corpus
+H1: Esto es una entrevista para los "corpus cotilleros" número uno [ininteligible]. ¿Qué opina usted del curso que acaba de realizar y que hoy finaliza?
+H2: Que me voy, que me voy...
+H1: [tos] Pero... ¿le ha aportado algo especial, o... [ininteligible]?
+H3: Muy interesante.
+H1: Muy interesante. ¿Y a usted?
+H4: [duda] Muy bueno, muy bueno. [risas]
+H1: Pero bueno, ¿no me pueden decir ni siquiera... de qué ha tratado el curso?
+H4: No, que estoy muy nerviosa. Mañana tengo un examen de "C"... No; estoy muy nerviosa.
+H1: ¿Un examen de qué?
+H4: De "C".
+H1: ¿De "C"?
+H4: ¡"C"!
+H1: Vamos a preguntar al profesor. Señor profesor, ¿qué opinión... [risas] ? Tenemos entendido que usted es el profesor de una asignatura que se llama "C". ¿Nos puede explicar un poco... cómo ha sido el curso y cómo se han portado sus alumnos?
+H5: El... curso ha sido... extraordinario. Ha sido excelente.
+H1: ¡Qué bien!
+H5: Esperaba que... que la gente fuera así.
+H1: Maravilloso.
+H5: No me ha extrañado lo más mínimo, porque conocía el material humano... del que disponíamos.
+H1: Muy bien, muy bien. [ruido]
+H1: Vamos a entrevistar... a Chani. Vamos a ver, Chani.
+H6: Vamos a ver.
+H1: ¿Y a tí que te ha parecido este curso y... su final... y todo esto?
+H6: ¡Pero que no hemos terminado! [solapamiento de turnos] El curso, muy bien; el final todavía no lo sé.
+H1: Bueno, es el úl[palabra cortada]... último [fin de solapamiento de turnos] día de clase y...
+H6: El último día de clase.
+H1: ¿Qué tienes que comentar de la gente? ¿Te han dado mucho la lata?
+H6: No, en absoluto.
+H1: ¿No te han dado la lata?
+H6: La gente ha sido amabilísima... yo me he sentido muy a gusto.
+H1: Nos encanta; eso nos encanta. Bueno, voy a seguir con mi crónica, porque todo el mundo tiene que dar su opinión... [silencio]
+H1: Vamos a ver. Vamos a ver. Usted, corresponsal mallorquín.
+H7: [risas]
+H1: ¿Qué le ha parecido el curso que hoy termina? [silencio]
+H1: [ininteligible] Por favor, respóndanos algo; diga: "bien", "mal", "nada", algo.
+H7: No sabe, no contesta. [ininteligible] corpus en mallorquín... Parece que...
+H1: Bueno, pues... usted...
+H8: Si no apagas eso, no hablo.
+H1: Usted, dénos su opinión sobre el mallorquín.
+H7: Pues a mí este mallorquín me parece que... [duda] bueno, pues que... quince días... bueno, pero un poco plasta algunas veces, ¿eh?
+H1: Bueno, bueno. Yo voy a seguir con mi crónica, porque os, esto no puede ser. Vamos a ver, estoy realizando una entrevista para el "corpus cotilleos [siglas]S.A.[fin de siglas]".
+H9: [gritos]
+H1: [risas] ¡Por favor! ¿Qué le parece a usted el curso... qué le ha parecido a usted el curso que hoy termina?
+H9: Fantástico, fantástico. Estoy... encantada de que acabe [risas].
+H1: Se nota que usted colabora en el "corpus" decididamente, porque hasta ahora ¡es la única que me ha respondido! [risas] Dígame usted más cosas, por favor.
+H9: Pues... vamos a ver, vamos a ver... Eh... creo que la gente es un poco rara, porque no habla...
+H1: Sí, sí...
+H9: Habla... en cuanto ve una... una... una cosita como ésta [ininteligible] Nos dirigimos a una iglesia fantástica llamada "Santo Domingo".
+H1: Románica, creo.
+H9: Románica, creo; sí.
+H1: [solapamiento de turnos] Muy bien, muy bien.
+H9: Creo que es una de las muestras [fin de solapamiento de turnos] ¡únicas!
+H1: Vamos a ver, vamos a ver por aquí, qué opina su compañera... ¡Compañe[palabra cortada]... ! [risas] [ruido]
+H1: Bueno, yo... yo voy a seguir porque t[palabra cortada]... tiene que aparecer todo el mundo... en esta crónica. [risas] Luego... luego la voy a poner en alto. Antonio ha salido, luego saldrá otra vez. [corte en la grabación]
+H1: Señor eh... Alejandro Fajardo.
+H10: Mire, ahora usted me va a confesar lo que ha grabado...
+H1: Creo que usted...
+H10: Nos vas a decir todo lo que nos has grabado...
+H1: Creo que usted es profesor de Semántica en la Universidad de La Laguna. ¿Qué le ha aportado este curso?
+H10: Yo... yo soy un soriano, que pasaba por aquí; o sea... usted está equivocada. Está equivocada.
+H1: ¿Yo estoy equivocada?
+H10: Sí; yo he oído hablar de ese famoso profesor de La Laguna... Con mucha reputación, pero... me halaga que usted me confunda con él, pero... lamento no... poder...
+H1: ¿Se está usted haciendo el desinteresado, el desentendido, o qué?
+H10: No, no; ¡Dios me libre! Yo, más quisiera...
+H1: Bueno, vamos a ver; vamos a ver que es lo que... vemos por aquí...

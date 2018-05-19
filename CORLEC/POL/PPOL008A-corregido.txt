@@ -1,0 +1,29 @@
+#archivo: PPOL008A
+#fecha de grabación: 06-12-91
+#fuente: televisión
+#localización: Castilla La Mancha
+#términos: sindicato, terrenos, administración pública, gobierno regional, Castilla La Mancha, parlamentario
+#H1: varón, edad desconocida, locutor de televisión
+#H2: varón, edad desconocida, locutor de televisión
+#Ha: varón, edad desconocida, político
+#H3: varón, edad desconocida, periodista
+#H4: mujer, edad desconocida, periodista
+#Hb: varón, edad desconocida, sindicalista
+#Hc: varón, edad desconocida, político
+#H5: mujer, edad desconocida, periodista
+[texto leído][texto no transcrito][fin de texto leído]
+H1: [texto leído] "Los terrenos de titularidad pública no podrán dedicarse a la especulación y su fin habrá de ser exclusivamente social". [fin de texto leído] Un argumento que se incluye... se incluirá en el debate que desde ayer se mantiene en las cortes regionales en lo que es el último pleno del actual período de sesiones. [silencio]
+H2: [texto leído] "Los terrenos de propiedad pública en Castilla La Mancha, tanto de la administración regional como municipal y del estado, no podrán destinarse a ninguna clase de especulación, ya que en caso de que se dediquen a la construcción de viviendas, éstas deberán ser de promoción pública o de interés social". Es te principio se incluye en la ley de presupuestos en Castilla La Mancha para mil novecientos noventa y uno, aprobada hoy en las cortes regionales. [fin de texto leído]
+Ha: Que en terreno público, bien sea de ayuntamientos, de la Comunidad Autónoma, de la Administración del Estado o de empresas públicas, que se incorpore ese terreno a la urbanización o a la edi[palabra cortada]... edificación no puedan construirse cosas distintas que viviendas con algún tipo de protección o edificaciones con un fin social. Es decir, queremos que el terreno público, sometido al proceso de urbanización, no pueda producirse un proceso especulativo.
+H2: [texto leído][texto no transcrito][fin de texto leído]
+H1: Tenemos ya una comunicación en directo con las cortes de Castilla La Mancha. Ahí está Juan Lobera. Muy buenas tardes, ¿cuál es la última hora de este debate en las cortes regionales?
+H3: Eh... buenas tardes. El portavoz de grupo socialista Anastasio López Ramírez, en rueda de prensa posterior a la votación de los presupuestos, ha criticado la actitud al Partido Popular, al que acusó de presentar enmiendas con grandes contradicciones entre sí, y no querer alcanzar acuerdos con el [siglas]PSOE[fin de siglas]. López Ramírez ha llegado a calificar de "mentiroso" al presidente regional del [siglas]PP[fin de siglas], José Manuel Molina, por su actitud frente a la exposición adicional que regula el uso de interés social de los terrenos de titularidad pública. Por su parte el consejero de economía, Isidro Hernández Perlines, ha valorado también el debate, destacando el amplio gra[palabra cortada]... grado de consenso conseguido en la mayor parte del articulado de la ley.
+H2: De acuerdo Juan Loberas, muchas gracias por esta comunicación en directo con las Cortes de Castilla La Mancha. Tras dos meses de negociaciones entre los sindicatos y la administración regional, a última hora de la tarde de ayer se llegaba por fin a un acuerdo para la firma del convenio del personal funcionarios de la Junta de Castilla La Mancha.
+H4: [texto leído] A este acuerdo se ha llegado, según el consejero de administraciones públicas, Sido Torres, porque "ha habido voluntad de diálogo por ambas partes". [fin de texto leído]
+Hb: Estos acuerdos so[palabra cortada]... eh... son eh... fruto de ese diálogo, de esa voluntad del gobierno regional y los valoramos muy positivamente por... lo que... supone de... eh... [silencio] posibilidad de seguir avanzando en la modernización de la administración regional. [texto no transcrito]
+Hb: Con respecto a los funcionarios eh... se... [duda] fija un incremento sobre la masa salarial del cinco por ciento de la misma para laborales... que para laborales eh... en los mismos términos en que la administración lo ha establecido mediante el acuerdo con los sindicatos a nivel nacional.
+H4: [texto leído] A través de... este acuerdo, el consejo de gobierno de Castilla La Mancha podrá arbitrar los mecanismos de la Administración Central. [fin de texto leído]
+Hb: Fue primer punto del acuerdo. Eh... se ha... [duda] incluido una enmienda transaccional apoyada por todos los grupos parlamentarios eh... en el día de hoy, y de acuerdo, también, con los sindicatos eh... para posibilitar que el... se puedan arbitrar por parte del consejo de gobierno los mecanismos necesarios para que eh... el incremento de la Administración [duda] Central ha pactado con los sindicatos, en Castilla La Mancha también sea posible y se pueda llevar a efecto sin eh... conflictos interpretativos. [texto no transcrito] [interrupción de la grabación]
+Hc: ...abajo y con la vida normal en su [interrupción de la grabación]
+H4: [texto leído] El gobierno regional ha sido el primer ejecutivo autónomo en recoger como resolución administrativa la valoración de su trabajo. [fin de texto leído]
+Hc: En el decreto al que me he estado refiriendo anteriormente eh... se da el mayor espaldarazo legal que hasta ahora se ha hecho de la figura de los trabajadores sociales. El alta... [interrupción de la grabación] [texto no transcrito]

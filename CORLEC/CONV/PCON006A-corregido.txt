@@ -1,0 +1,174 @@
+#archivo: PCON006A
+#fecha de grabación: 08-07-91 a #fecha de grabación: 29-07-91
+#fuente: grabación de contestador automático privado
+#localización: Madrid
+#términos: contestador, teléfono, comunicación, hola, saludo, número de teléfono, hasta luego
+#H1: varón, 24 años, guitarrista, madrileño
+#H2: varón, 28 años, biólogo, madrileño
+#H3: varón, 29 años, empresario, madrileño
+#H4: varón, 25 años, lingüista, madrileño
+#H5: varón, 25 años, impresor, madrileño
+#H6: varón, 25 años, filólogo, madrileño
+#H7: varón, 23 años, biólogo, madrileño
+#H8: varón, 25 años, filólogo, madrileño
+#H9: varón, 22 años, estudiante, madrileño
+#H10: varón, 24 años, técnico, madrileño
+#H11: varón, 27 años, físico, andaluz
+#H12: mujer, 23 años, bióloga, madrileña
+#H13: varón. 36 años, estudiante, granadino
+#H14: varón, 23 años, estudiante, chino
+#H15: mujer, 65 años, madrileña
+#H16: mujer, 50 años, madrileña
+#H17: mujer, 25 años, filóloga, alicantina
+#H18: varón, 25 años, topógrafo, madrileño
+#H19: mujer, 25 años, filóloga, madrileña
+#H20: varón, 25 años, madrileño
+#H21: mujer, 25 años, filóloga, madrileña
+#H22: mujer, edad desconocida
+#H23: mujer, 24 años, Tarrragona
+#H24: mujer, 26 años, barcelonesa
+#H25: varón, 26 años, enólogo, barcelonés
+#H26: varón, 25 años, técnico, madrileño
+#H27: mujer, 25 años, filóloga, Albacete
+#H28: mujer, 25 años, profesora, barcelonesa
+#H29: varón, 25 años, filólogo, madrileño
+#H30: mujer, 28 años, filóloga, madrileña
+#H31: varón, 25 años, programador, madrileño
+#H32: varón, 32 años, profesor, madrileño
+H1: Hola, soy el contestador automático de [extranjerismo]Wilow[fin de extranjerismo]. [canta]Tengo una cosita colgando, y no sé qué me va a pasar, tengo una cosita colgando y ya es hora de que llegues, capullo...[deja de cantar]. [interrupción de la grabación]
+H2: Con gusto o disgusto, cabrón. Pero qué... que mensajes más... chorras pones. Que... luego te llamaré, no obstante y... llamaré donde tus padres, porque ahora mismo no... no quiero nada. Necesito unos brazos fuertes y peludos como los tuyos que me ayuden a cargar un armario, y...luego te llamaré. [interrupción de la grabación]
+H2: Eres un chorizo. Cuando hueles trabajo te piras, desapareces del mapa. [interrupción de la grabación]
+H2: Mañana... me acaba de llamar David, hemos quedado entre las cinco y media y las seis para seguir con... con los libros, por si... te apetece y... no sé. Si hay algo más ya te llamaré. Hasta mañana. Bueno. Por la mañana voy a un... entierro, que se ha muerto el abuelo de Jesús, Por si... te apetece pégame un toque. Adiós. [interrupción de la grabación]
+H3: Pedro, soy Lulo, estoy en Barcelona, voy a estar aquí un mes. Después de aquí me voy al [extranjerismo]Rai[fin de extranjerismo], a [extranjerismo]Munich[fin de extranjerismo], a la feria de... [extranjerismo]Caravans[fin de extranjerismo]. En Alemania. Vendré el día veintidós de noviembre, ya he hablado con Álvaro y demás. Te mandaré... por... giro telegráfico a tu casa, el dinero de la asociación, al igual que se lo [vacilación] hacer a Álvaro. Oye Inma, está bien, la han operado y ya está mejor. No te preocupes, estoy vivo. Vale, socio. Que te cuides. Hasta ahora. Dale recuerdos a todos. [interrupción de la grabación]
+H4: ¿Dígame?
+H1: [ininteligible]
+H4: [solapamiento de turnos] Sí...
+H1: Eh... [fin de solapamiento de turnos] eh.
+H4: Qué...
+H1: Ese Perix.
+H4: ¿Qué pasa tronco?
+H1: Hola "pollo". Buenos días nos dé Dios.
+H4: Buenos días.
+H1: ¿Cómo vamos?
+H4: Bien...
+H1: Recién levantado.
+H4: Sí...
+H1: Pues venga ¿no...? Hace un día estupendo Pedro...
+H4: ¿Qué hora es? [interrupción de la grabación]
+H5: Cada día le pones una cosa distinta a tu contestador, perro asqueroso. Que... si no te localizo intenta llamarme, si... si estás en casa, o si vas a estar, ¿vale? Soy David, por si... no te habías enterado. Hasta luego. [interrupción de la grabación]
+H6: Porque me daría un poco por culo ir con la lluvia por ahí. De todas maneras, llámame. Y... hablamos ahora. Hasta ahora. [interrupción de la grabación]
+H2: Soy [extranjerismo]Ritchie[fin de extranjerismo], tengo que hablar contigo, así que si vuelves antes de que yo vaya para allá espérame. Yo voy enseguida. [interrupción de la grabación] [extranjerismo][texto no transcrito][fin de extranjerismo] [interrupción de la grabación]
+H7: Pedro, soy Gerardo. Que he leído en El... en El País Dominical, una historia que sale aquí que te dan una beca para escritores, que te dan ochocientas mil pelas... y tal. Y... y tienes que mandar nada más que un... diez folios de poesía... al... ¿cómo se llama esto? [silencio] La Dirección... Ge[palabra cortada]... La Dirección General del Libro. Te dejo el teléfono por si quieres llamar y que te informen más. A ver, ¿dónde está? Dirección General del Li[palabra cortada]... del Libro, aquí. Es: [texto leído] "cinco tres dos, doce veintidós" [fin de texto leído], y tal. Y... si quieres te leo el rollo: [texto leído] "lanzarse a la... aventura de escribir una novela sin tener dinero suficiente para regalarse un año sabático es algo, a los que pocos se atreven. La solución al problema pueden ser las ayudas a la creación literaria que ofrece cada año la Dirección General del Libro con una dotación de [vacilación] mil pesetas... [ininteligible] los españoles que demuestren experiencia y preparación como para acometer el proyecto, siempre y cuando se [vacilación] circunscriba al campo de la narrativa, poesía, ensayo o traducción" [fin de texto leído]. Eh... [texto leído] "[extranjerismo]Curriculum Vitae[fin de extranjerismo], memoria explicativa de la propuesta, una muestra de la obra, diez folios para poesía y veinticinco para el resto y fotocopia del [siglas] D.N.I. [fin de siglas] constituyen los requisitos básicos. En el caso de conseguir la subvención el autor deberá comprometerse a escribir su obra en el plazo de un año, y en el supuesto que fuera publicada, la Dirección General del Libro propone además adquirir ejemplares por un valor de doscientas mil" [fin de texto leído] "pelas" [texto leído] "para bibliotecas y centros culturales" [fin de texto leído]. Pues... eso. Hasta luego. [interrupción de la grabación]
+H1: Joder Perix, no se oye nada, tío, el contestador. Porque he oído el pitido, que si no, sigo esperando colega. Te llamo para ver qué tal estás de tu pulmón, chaval... A ver si lo has estropeado más, o qué te han dicho. Dame un toque luego. [interrupción de la grabación]
+H8: Pedro soy [siglas] J.R. [fin de siglas]. [extranjerismo]Stop[fin de extranjerismo]. Llámame lo antes posible. Asunto... eh... París. [extranjerismo]Stop[fin de extranjerismo]. Un abrazo. [interrupción de la grabación]
+H9: Pedro, soy Benito. Oye, cuando... cuando quieras me llamas para hacer lo de... eh... ese planeamiento del área de... relaciones exteriores, ¿Vale? Un saludo. Hasta pronto. [interrupción de la grabación]
+H10: Perico, no hay forma de localizarte eh... Un abrazo. Luis. [extranjerismo]Ciao[fin de extranjerismo]. [interrupción de la grabación]
+H11: Oye Pedro, soy Manuel. Eh... esta mañana no me he dado cuenta que es que a las tres tengo yo una clase de inglés mañana. Y por la mañana es que no vamos a estar en la universidad ninguno de nosotros, que tenemos que hacer unas cosas a la Complutense. Así es que... no sé... si... si necesitas mandarlo mañana, a partir de las... cuatro y media estoy yo otra vez de vuelta, en Eurotra. ¿Vale? Y s i no... pues... no sé, llámame allí. ¿De acuerdo? Hasta luego. Eh, de todas formas creo que Luis sabe mandar un... [extranjerismo]Mel[fin de extranjerismo], o sea que si vas a las tres es posible que te lo pueda hacer él. Pero vamos, como prefieras. Hasta luego. [interrupción de la grabación]
+H2: Eso es repetido, cabrón... Eres imposible, tío. Te he llamado dos o tres veces desde Tarifa. No estabas. He ido a tu casa, ahora cuando he llegado, viernes, hoy, no sé, a las... ocho y cuarto o por ahí y... no estabas. O sea que cuando te dignes a aparecer... ya he llegado. [interrupción de la grabación]
+H12: Perico, soy Nuria. Eh.... llámame a casa, ¿vale? [interrupción de la grabación]
+H1: [vacilación] ...este mensaje... ya me gusta más, Perix, ya me gusta más... Y además se te oye muy bien, tío. ¡Qué putada! No tengo llaves de mi casa y no está mi viejo. Hasta las nueve no puedo entrar, colega. ¡Qué mal rollo! Ahora voy a tener que vagabundear por las putas calles. Nos vemos, tronqui. Espero que estés mejor de tu pulmón. [interrupción de la grabación]
+H13: Pedro, soy Paco. Esta es la primera vez que intento dar contigo, mañana... será la segunda. Espero tener un poco más suerte. Hasta luego. [interrupción de la grabación]
+H2: [vacilación] ...no seas mentiroso, que en este momento no estás, si no estás nunca. Que... tienes que abrir una cuenta en el banco me han dicho... [silencio] Bueno. Nada más. [interrupción de la grabación]
+H4: Ricardito, ¿estás por ahí, capullo?
+H2: Sí.
+H4: Hola capullo.
+H2: ¿Qué pasa?
+H4: ¿Qué pasa tío?
+H2: Eso digo yo.
+H4: ¿Dónde te metes?
+H2: He estado desaparecido.
+H4: [afirmación] Muy bien.
+H2: ¿Dónde andas?
+H4: Estoy en casa de [extranjerismo]Willow[fin de extranjerismo], sobado. Vamos a ir al cine.
+H2: ¿A qué cine?
+H4: Pues no sé, no sabemos qué cine, a ver si... nos espabilamos un poco, tío, y nos decidimos. ¿Tú qué haces?
+H2: Pues no lo sé.
+H4: ¿Eh?
+H2: Que no sé, depende.
+H4: Pues cuando hayamos decidido una película, te damos un toque.
+H2: Bueno.
+H4: ¿Vale?
+H2: [afirmación]
+H4: Yo esta noche me tengo que pasar por el [extranjerismo]Le Ki[fin de extranjerismo] a ver a Luis. Me tiene que dar la pasta para... para mañana y eso.
+H2: [afirmación]
+H4: ¿Vale?
+H2: Bueno, vale. Tú llámame cuando... sea.
+H4: Sí... si además nos tenemos que decidir ya. Son las nueve y veinte... me parece que no vamos a ir al cine, eh... ya. La hora que es, tío.
+H2: No, claro.
+H4: Muy rápido habría que... Bueno, tú estás en casa ¿no?
+H2: Sí.
+H4: Vale, yo te llamo. [interrupción de la grabación] [extranjerismo][texto no transcrito][fin de extranjerismo] [interrupción de la grabación]
+H14: Pues, Pedro, soy Rafa. Pues te he llamado tantas veces, pero tú... tú me dio ese teléfono, es incorrecto, no sé. Creo que se ha cambiado el... el primer cifra. [interrupción de la grabación]
+H15: Nunca estáis en casa. Adiós. [interrupción de la grabación]
+H3: Eh... Pedro, soy [siglas] J. [fin de siglas], llámame, estoy en tu casa, para lo del libro. ¿Vale? Hasta luego. [interrupción de la grabación]
+H16: Pedro Luis, que te acerque a LA Paz.
+H4: Vale.
+H16: Que si no papá se va a enfadar.
+H4: Vale.
+H16: ¿Me oyes?
+H4: Sí...
+H16: ¿Si me oyes?
+H4: Sí...
+H16: Nada que como has puesto el contestador...
+H4: Ya... pero se ha puesto solo.
+H16: Ah... Que... ¿cómo andas?
+H4: Bien.
+H16: Es que ayer, cuando te oyó decir lo de las molestias, pues no veas. Que te obligue y que te obligue y que te obligue, para que te vayas más tranquilo...
+H4: Vale, vale, María.
+H16: ¿De acuerdo churri? [solapamiento de turnos] Estoy
+H4: [afirmación] [fin de solapamiento de turnos]
+H16: ...aquí en Reina Victoria.
+H4: Ah, vale, vale.
+H16: Hala.
+H4: Hasta luego.
+H16: ¿A qué hora vendrás a comer?
+H4: Pues a las tres.
+H16: ¿Sobre las tres?
+H4: Sí.
+H16: Vale.
+H4: Hasta luego.
+H16: Hasta luego, hijo. Oye... ya no me oye. [interrupción de la grabación]
+H17: Hola, Pedro, soy Yolanda. Te llamaba para ver qué tal estabas y para felicitarte. Un beso, cuando llegues a casa llámame, hasta luego. [interrupción de la grabación] [ininteligible] [interrupción de la grabación]
+H18: Perico, soy Vicente. Que... no hay manera de localizarte, pero bueno, que... esta tarde te veo. No quería nada en particular. Hasta luego. [interrupción de la grabación]
+H19: Pedrillo, hola, soy Carmen. Que siento muchísimo no poder ir esta noche, pero la verdad es que, como te comenté, tengo otro compromiso. Lo siento de verdad, oye. Muchísimas felicidades, que tengas un viaje... estupendo. Y bueno, ya nos veremos en Soria. Un besazo muy fuerte. Hasta luego, Pedro. [interrupción de la grabación]
+H20: Pedro, soy... Paco, el amigo de Juancho. Fran[palabra cortada]... Paco... Paco... Paco [argot] tuco [fin de argot]. Oye que... llámame a casa, al tres dos cero seis dos seis uno. Quiero hablar contigo, hasta luego. [interrupción de la grabación] [extranjerismo][texto no transcrito][fin de extranjerismo] [interrupción de la grabación]
+H21: Hola, soy Patricia, creo que hoy es tu cumpleaños, así que muchas felicidades. Estoy en Valdemorillo porque no estoy trabajando ahora, es que tuve un accidente y estoy de baja, así que... bueno, si quieres hablar conmigo, pues me puedes llamar aquí. Un beso, adiós. [interrupción de la grabación]
+H22: Hola [extranjerismo]Jim[fin de extranjerismo] soy Carmina, llámame. [interrupción de la grabación]
+H23: Hola Pedro, soy Anabel. Sé perfectamente que ya te has ido a París o... no sé qué te has ido al extranjero para mucho tiempo, para un mes. Pero simplemente llamaba para decirte... bueno que espero que te vaya todo muy bien... en París... y espero que cuides ese pulmón, eh, bueno, o ese pulmón, o el corazón, [vacilación] no me acuerdo ahora. Pero espero que lo cuides, que dejes de fumar y que te cuides mucho. Un besito, Pedro. [extranjerismo]Ciao[fin de extranjerismo]. [interrupción de la grabación] [ininteligible] [interrupción de la grabación]
+H24: Pedro, soy Lupe. Pues te llamaba para ver cómo estabas, que me dijo Yolanda que habías estado jodidillo estos días. Pues nada, intentaré llamarte, ¿vale? Es julio, día veintidós. [interrupción de la grabación] [interrupción de la grabación]
+H25: Oye, Pedro. Que... ya está bien, te estoy llamando siempre y nunca estás en casa, joder. A ver si... que tengo aquí una entrada para ir a una fiesta de música salsa el sábado veintisiete, por la noche. A ver si me llamas, ¿vale? [extranjerismo]Ciao[fin de extranjerismo]. [interrupción de la grabación]
+H4: ¿Dígame? [interrupción de la grabación]
+H26: [extranjerismo]Ritchie[fin de extranjerismo], soy Javier. Te llamaba para... que vinieras a las fiestas de la Paloma. PEro si no estás, te jodes y te aburres. [interrupción de la grabación]
+H27: Oye Pedro, soy Aurora. Eh... si pasas por tu casa antes de ir a Soria eh... acuérdate de llevarte calzado cómodo para la excursión. porque va a ser más dura que el año pasado. Prepárate. Hasta luego. [interrupción de la grabación]
+H1: Cuando llegues a casa, dame un toque. A ver si... nos movemos por la Violeta o algún lado, ¿vale? Que mañana tengo que currar todo el puto día en el cuartel... Venga, nos vemos. [interrupción de la grabación] [texto no transcrito] [interrupción de la grabación]
+H2: Pedro si... llegas y no me ves, ves al servicio y según estás meando, pues verás un papelote con una nota y dentro un [extranjerismo] diskette [fin de extranjerismo]. Sigue las instrucciones y tendrás tu premio. [silencio] Hasta luego. [interrupción de la grabación] [texto no transcrito] [interrupción de la grabación] [texto no transcrito] [interrupción de la grabación]
+H6: Lamentablemente no [ininteligible] esta fiesta, por lo cual no voy a poder ir. Si estás mañana por aquí, por la mañana llámame a casa. Hasta luego. [interrupción de la grabación]
+H5: Hola, Perico, soy David. Que ya he vuelto de mi viaje. No sé si estás en Madrid o si no estás en Madrid, pero bueno, si estás... pégame un grito. Vale. Yo estoy... pues por las mañanas y por las tardes en casa, imagino. ¿Vale? Bueno, hasta luego. [interrupción de la grabación]
+H5: Hola [extranjerismo]Richar[fin de extranjerismo], soy David. Cuando... imagino que cuando veas... oyas... [sic] oigas esto. Ah... eh... oye. [interrupción de la grabación]
+H5: Hola, soy otra vez, que se ha cortado. Que... cuando puedas me llames. No sé si vendrás a comer. Si vienes a comer no... este mensaje no sirve para nada. Este mensaje se autodestruirá en diez segundos. uno, dos, tres, [onomatopeya]pum[fin de onomatopeya] [interrupción de la grabación]
+H12: Eh... [extranjerismo]Ritchie[fin de extranjerismo] soy Nuria. No te he llamado antes, no he podido. Llámame a casa en cuanto... escuches el mensaje, ¿Vale? Hasta luego feo. [interrupción de la grabación] [texto no transcrito] [interrupción de la grabación]
+H12: [extranjerismo]Ritchie[fin de extranjerismo], soy Nuria. Para variar no estás en casa. Estoy esperando a que me llames, ¿vale? Voy a estar toda la tarde en casa esperando ¿vale? Hasta luego, gordi. [interrupción de la grabación]
+H15: Oye si... si va Ricardo por ahí, soy Tomasita, que llame a casa, que tengo que hablar con él, hasta luego. [interrupción de la grabación]
+H4: Ricardito [silencio] soy Pedro. Oye, mañana... hoy es... martes, mañana por la mañana te llamaré a ver si me puedes hacer un favor. A un amigo al que le tienen que sellar el billete de avión, y entonces la idea es la siguiente: enviártelo por "Seur" urgente, mañana mismo, y tú te acercaras el jueves un... un momento a la agencia de viajes a sellarlo. Entonces te llamaremos mañana a ver si puedes hacerlo o no. ¿De acuerdo? Vale [extranjerismo]Ritchie[fin de extranjerismo], pues... hasta mañana entonces. ¿Dónde estarás golfo? Bueno, como quedan sesenta y cinco pelas, te voy a recitar un versito. [silencio] [canta] Por... la noche... [deja de cantar] Ay. Me han interrumpido, era... [canta] Sale el sol por la mañana, por la mañana sale el sol, por la tarde los mosquitos y por la noche salgo yo [deja de cantar]. [onomatopeya] Hasta mañana. [interrupción de la grabación] [extranjerismo] [texto no transcrito] [fin de extranjerismo] [interrupción de la grabación]
+H4: Ricardo, soy Pedro. Que... no te preocupes ya de nada que lo han arreglado por otro lado y no hay que... no tienes que hacer nada. Así que sigue durmiendo tranquilamente y hasta el domingo, hasta luego. [interrupción de la grabación] [ininteligible] [interrupción de la grabación]
+H5: [extranjerismo]Ritchie[fin de extranjerismo] por qué has cambiado el mensaje del Perico. Bueno. Que... era para Pedro, que... que si has venido a Madrid que me pegues un grito. Yo ahora... yo ahora me iré por la tarde, pero luego, intentaré volverte a llamar. Hale, si estás durmiendo, que tengas felices sueños, y si no has llegado, que tengas buen viaje. Hasta luego. [interrupción de la grabación]
+H4: Ricardo, ¿estás ahí? Ricardo. No estás, tío. Voy a ver si estás en tu casa. [interrupción de la grabación]
+H5: Eres un coñazo, Perico, con tu asqueroso aparato. [interrupción de la grabación]
+H28: Hola, soy Marta, llamaba sólo para saber cómo estabas. Un besote, [extranjerismo]ciao[fin de extranjerismo]. [interrupción de la grabación]
+H4: Ricardo, ¿estás en casita? No está. [interrupción de la grabación]
+H29: Pedro, soy Antonio. LLámame cuando puedas, eh. Un abrazo, hasta luego. [interrupción de la grabación]
+H27: Pedro, que... no podemos quedar esta tarde. Quedaremos en... seguramente el viernes a las cuatro de la tarde. ¿Vale? Hasta luego... Oye, ¿sabes quién soy? Soy Aurora, eh. Hasta luego. [interrupción de la grabación]
+H24: Hola Pedro soy Lupe. Te llamaba para ver cuando quedábamos para lo de las fotocopias. Que... bueno no sé... el... el jueves si vas a ir o yo voy a ir. De todas maneras... [interrupción de la grabación] [texto no transcrito] [interrupción de la grabación]
+H30: Hola Pedro, soy Mise. Ya tengo aquí tu cheque. Cuando quieras puedes pasar a recogerlo. [extranjerismo]Ciao[fin de extranjerismo]. [interrupción de la grabación]
+H31: LLámame a casa, Perix. Soy Fer. [interrupción de la grabación]
+H6: Hola, Pedro. Soy el tío... Juancho, llámame... cuando puedas. Hasta ahora. [interrupción de la grabación]
+H18: Perico, soy Vicente. ¿Estás por ahí? [silencio] Si no estás, bueno, pues llámame... hoy después de las once, si no me llamas mañana que quiero hablar contigo... de algo urgente. ¿Vale? Hasta lueguito. [interrupción de la grabación]
+H6: Muy bien, Pedro. Ya veo que no estás. LLámame a casa de Paco a lo largo del día de hoy. Hasta luego. [interrupción de la grabación]
+H18: Eres la leche. [ininteligible] ¿Estás o no estás? Bueno pues si no estás soy Vicente otra vez. Que... yo quiero hacer mi cumpleaños... mañana, aparte de las fiesta que pueda... hacer la semana que viene. Y lo quería con la familia, aquí en mi casa, así que... si... eso llámame antes de... mañana, por la tarde, para... contar contigo. ¿Vale? Hasta luego. [interrupción de la grabación] [texto no transcrito] [interrupción de la grabación]
+H18: Cómo que no estás. Si me han dicho que ibas a estar toda la tarde, pendón. Oye, yo voy a estar un ratito. LLámame si puedes. Si no... a partir de las nueve y media aquí en casa. ¿Vale? Hasta luego. [interrupción de la grabación] [texto no transcrito] [interrupción de la grabación]
+H32: Hola, soy yo Javier. LLámame cuando puedas. [silencio] Mañana. [interrupción de la grabación]
+H31: Perix, soy Fer. LLámame a casa cuando llegues. [interrupción de la grabación]
+H18: Pedro, soy Vicente. Era solamente para confirmar lo del... el sábado. Si vas a ir y... y bueno por la hora y todo, [ininteligible]. LLámame cuando puedas. Ah, y... no sé le has comentado a [extranjerismo]Ritchie[fin de extranjerismo] y a... a toda esta gente, pero vamos, que... contaba con ellos, si no se lo has comentado, díselo. ¿Vale? Hasta luego. [interrupción de la grabación]
+H3: Peris, soy Lulo. Luego, sobre las nueve y media estaré en la reunión. Otra cosa, eh, la anterior llamada, que se ha cortado, era mía, o sea, no te preocupes. Apúntate... te doy el número de teléfono por si acaso hubiera [vacilación] algún cambio en la reunión. Dos cincuenta sesenta, sesenta y tres. ¿Vale? Hasta luego socio. [interrupción de la grabación]
+H8: Pedro, soy [siglas]J.R.[fin de siglas], que llegaré un poco más tarde. [interrupción de la grabación]
+H3: Pedro, soy Lulo. A las ocho y media, como muy tarde las nueve estoy en tu casa. No falles porque voy para allá, ¿vale? Hasta luego. [interrupción de la grabación]

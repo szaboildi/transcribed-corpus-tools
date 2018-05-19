@@ -1,0 +1,67 @@
+#archivo: cedu020e
+#fuente: clase de conversación
+#localización: Colegio Nacional en Segovia
+#términos: juego, juguete
+#H1: profesora, mujer, 25 años
+#H2: varón, 6 años
+#H3: mujer, 6 años
+#H4: mujer, 6 años
+#H5: varón, 6 años
+H1:... de los juguetes que tenéis en casa ¿cuáles os gustan más?
+H2: A mí...
+H3: A mí [solapamiento de turnos] las muñecas.
+H2: A mí lo que [fin de solapamiento de turnos] ... a mí lo que me han regalado.
+H1: ¿Qué te han regalado?
+H2: Uno... cuatro "clicks" que... que tenían un ca[palabra cortada]... que tienen un cañón.
+H1: ¿Y a vosotros?
+H3: A mí me gustan las muñecas. Y la muñeca la [ininteligible] esa que tengo y el Nenuco.
+H1: ¿Y [solapamiento de turnos] a ti?
+H4: A mí [fin de solapamiento de turnos] el Nenuco aunque no le tenga y... y algunos juegos.
+H1: ¿Y te lo vas a pedir para...?
+H4: No sé.
+H1: ¿Cuáles tienes? ¿qué muñecos tienes?
+H4: Pues tengo a unas muñecas, tengo un osito... un osito azul eh... y tengo también... uno... tenía una muñeca india que luego la... está estropeada y las tiramos a la basura porque estaba estropeada y tenía... otro muñeco de... de trapo pero lo tiramos a la basura porque ya estaba muy... muy pas[palabra cortada]... ¡bah! pachucho y...
+H3: Y muy pasado.
+H4: Tenemos un coche... capota y también tenemos pues una silla y yo tengo un cajón ahí, un cajón grande eh... aquí en un sitio... que tiene muchas muñecas viejas.
+H1: ¿Y... y vosotros? ¿Tú con qué te gusta más jugar?
+H2: Yo con los fuertes que nos regalan los reyes.
+H1: ¿Los fuertes de los indios?
+H2: [afirmación] No, americanos.
+H1: ¿Americanos?
+H2: [afirmación]
+H1: ¿Quiénes son los buenos?
+H2: Todos. [risa]
+H1: Todos y ninguno, ¿no?
+H2: Todos porque yo sólo tengo los americanos...
+H1: Pero los indios son también buenos ¿no?
+H2: No [solapamiento de turnos] porque no
+H1: ¿Tú qué crees? [fin de solapamiento de turnos]
+H2: tengo indios.
+H1: ¿Pero si los tuvieras?
+H4: Yo tengo una bolsa de indios [solapamiento de turnos] y de americanos.
+H2: Un amigo tiene [fin de solapamiento de turnos] el fuerte y los americanos y los indios, también.
+H4: Yo tengo una bolsa [solapamiento de turnos] llena de americanos
+H2: Y la cabaña de los indios.
+H4: y de indios en un cajón.
+H1: Y... y vamos a ver ¿ os gustan los juegos así... el Monopoli...
+H3: A mí sí. A mí sí, me encanta.
+H2: Un chico de mi barrio le tiene.
+H4: Yo tengo un Palé. Yo tengo un Palé...
+H1: Explicadle...
+H5: Y yo [ininteligible].
+H1: Explicadle a Alberto, a ver cómo se juega al Monopoli. a ver, ¿quién...? ¿tú se lo explicas, Virginia?
+H4: Yo no sé cómo se juega.
+H3: Yo no sé tampoco.
+H1: ¿Tampoco?
+H3: A mí me gusta pero no me le pedí para Reyes.
+H4: Yo sé cómo se juega al Palé.
+H1: ¿Al Palé?
+H2: ¡Y yo!
+H4: Sí le tengo. Pues...
+H1: A ver, explica.
+H3: Mi hermano le tiene y yo jugué un día con él.
+H4: Pues hay dineros, hay billetes ¿no? Y hay unas tarjetas que las tienes que comprar.
+H5: ¡Ah! [solapamiento de turnos] Eso ya lo tengo...
+H4: Las tarjetas te las [fin de solapamiento de turnos] tienes que comprar. Unas tarjetas que las tienes que comprar y... y también hay... un... un tablón muy grande que hay la cárcel. Hay dos sitios de cárcel. Caes por ejemplo en esta esquina [solapamiento de turnos] y...
+H5: Que hay una cárcel...
+H4: y te vas a la cárcel y tiene que pasar tres bazas y luego sales cuando pasen tres bazas tienes que salir.

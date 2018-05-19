@@ -1,0 +1,150 @@
+#archivo: cnot035a
+#fecha de grabación: 13-6-91
+#fuente: radio, Onda Madrid. Programa "A Todo Madrid"
+#localización: Madrid
+#términos: consumo, mercado, fruta, precio, hortaliza, hospital, huelga, transporte, Hacienda
+#H1: varón, locutor
+#H2: varón, comerciante del Mercado de Carabanchel
+#H3: varón, locutor
+#H4: mujer, locutora
+#H5: mujer, locutora
+#Ha: mujer, c. 40 años, transeúnte
+#Hb: varón, c. 25 años, huelguista
+#Hc: mujer, c. 40 años, transeúnte
+#Hd: mujer, c. 25 años, transeúnte
+#He: varón, c. 30 años, huelguista
+#Hf: varón, c. 30 años, huelguista
+#Hg: mujer, 40 años, transeúnte
+#Hh: mujer, 25 años, huelguista
+H1:... "A Todo Madrid" son cuatro horas de radio y en esas cuatro horas hay cabida para diferentes argumentos, noticias... eh... comunicaciones en directo también, con muchos puntos de la ciudad como ahora que nos vamos a un mercado que está en la calle General Ricardos y que es el mercado de Carabanchel. Demetrio Álvarez, muy buenos días.
+H2: Buenos días Juan Luis.
+H1: Por cierto que... ayer conocíamos el índice de precios al consumo, parece ser que ha subido como ya conocerán todos nuestros oyentes, unas décimas y que la cesta de la compra ha tenido en parte la culpa. ¿Eso se... se nota en el día a día de [solapamiento de turnos] los mercados?
+H2: Bueno es que el mes... [fin de solapamiento de turnos] sí, en el mes de mayo es hasta lógico, ¿eh?
+H1: ¿Lógico?
+H2: Es lógico en el mes de mayo porque... la demanda es mucho mayor. Ten en cuenta que hay muchas celebraciones.
+H1: Sí.
+H2: Hay... el poder adquisitivo sigue siendo el mismo pero el gasto es... superior.
+H1: Claro. Porque hay muchas comuniones también y...
+H2: Efectivamente. el consumo aumenta en todos los temas. En alimentación y en... vestido, en calzado... en todo.
+H1: Pero...
+H2: Hay que ponerse un traje para la comunión.
+H1: Fíjate, Demetrio que, curiosamente, lo que pasa es que cuando llega el calor se come menos, ¿no? O se come más fruta o más verdura que en principio es más barato.
+H2: Bueno, digamos que... los alimentos se preparan de distinta manera. Más bien es eso, ¿eh?
+H1: [afirmación] Para... buscar una comida más refrescante, ¿eh?
+H2: [afirmación]
+H1: Y ahora que llegaba el calor pues más aún. 32 grados centígrados previstos para el día de hoy, así que vamos a [solapamiento de turnos] recomendar
+H2: Ayer [fin de solapamiento de turnos] ayer ya tuvimos buen día, ¿eh?
+H1: Sí, sí. Vamos a recomendar algo fresquito si podemos. O ligerito ¿no? Aunque cada uno luego elige lo que quiere dentro de su... cesta de la compra.
+H2: Claro.
+H1: ¿Qué tiene para hoy... el mercado de Carabanchel?
+H2: Pues mira. Hoy... sabes que... inauguramos el autoservicio el día 18 de mayo
+H1: [afirmación]
+H2: Entonces pues allí se puede conseguir de todo. Los precios eh... son muy asequibles y bueno, ahora sería muy largo de... de enumerar, ¿no? el capítulo de ofertas. Pero en... alimentación, en cuanto a pescados la merluza se mantiene a mil trescientas pesetas el kilo, el salmón oscila entre las 850 y 1250. Los boquerones entre cua[palabra cortada] 400 y 500 ha pasado un poco, en carnes la pierna de cordero 720 pesetas, la paletilla de cordero 750, el filete de ternera 670 y la chuleta de cerdo a 590.
+H1: [afirmación]
+H2: Son precios bastante asequibles.
+H1: Sí y además no han variado demasiado.
+H2: No han variado [ininteligible].
+H1: Con respecto a días anteriores.
+H2: Frutas, pues las naranjas han subido un poco, a 139 pesetas dos kilos del tipo [ininteligible] La pera de agua ha bajado de 195 a 149, eh... la manzana tipo golden ha bajado en el precio anterior una peseta, 168. Eh... los espárragos se mantienen a 195. Las cerezas no están muy altas de precio, están muy bien, muy bien. Son cerezas muy buenas a 189 pesetas
+H1: [afirmación]
+H2: se pueden adquirir bien. y la verdura pues seguimos con el tema de las judías verdes, se mantienen a 189 pesetas, la alcachofa a 130, la acelga ha subido un poco a 75 pesetas y la lechuga a 80 pesetas las dos piezas.
+H1: Muy bien, pues mucha lechuga, mucho tomate para la verdura y para el gazpacho también, Demetrio, ¿eh?
+H2: Claro, claro.
+H1: Que es algo muy... muy nuestro. ¿Qué consejo damos desde hoy? Que yo sé que a Demetrio Álvarez le gusta recomendar [solapamiento de turnos] buenas cosas
+H2: Bueno, Juan Luis.[fin de solapamiento de turnos] No sé, no sé qué decirte porque... uno ya no sabe que es lo que se debe aconsejar o no aconsejar puesto que... vosotros a través de los medios de comunicación de... prensa, radio, televisión, constantemente estáis informando sobre temas de consumo que me parece muy bien, ¿eh? me parece estupendo
+H1: [afirmación]
+H2: Que la sociedad se vaya concienciando de que una buena alimentación no consiste en la cantidad sino que lo que se consuma pues tenga pues la cantidad suficiente en calorías y vitaminas.
+H1: Claro que sí. pues ese el consejo para hoy, que se busque la calidad también.
+H2: Claro, luego... luego ocurre que bueno, cada época del año como tú bien has dicho antes, por circunstancias climatológicas, el cuerpo humano requiere otro tipo de preparación de los alimentos, ¿no? algo fresquito ahora y algo más caliente en invierno ¿no?
+H1: [afirmación]
+H2: Quizá hay un fallo terrible por parte del consumidor, no sé si por esnobismo o por rubor, no lo sé, que ha abandonado un poco, estarás de acuerdo conmigo, el consumo de la legumbre. [solapamiento de turnos] Y
+H1: Sí.[fin de solapamiento de turnos]
+H2: creo que es un error. la... la... los... los... garbanzos, las judías, las lentejas se pueden preparar de muchísimas maneras. Y además el contenido vitamínico creo que es muy importante, ¿no?
+H1: [afirmación]
+H2: [ininteligible]
+H1: Los platos de cuchara como se suele decir. Pues Demetrio Álvarez, un abrazo fuerte para todos los comerciantes del mercado de Carabanchel en la calle General Ricardos, 250 y... ahí está ese supermercado también para que puedan aprovecharse de él todos los eh... clientes de esta zona de Madrid.
+H2: Efectivamente.
+H1: Un abrazo Demetrio y gracias.
+H2: Igualmente.
+H1: [solapamiento de turnos] Muy buenos días.
+H2: Hasta luego Diego.[fin de solapamiento de turnos]
+H1: Hasta luego. [música]
+H1: ... "A Todo Madrid" que busca ahora noticias eh... que llegan desde diferentes puntos de la región madrileña, saludamos a Luis Fernando Durán, nos cuenta qué pasa por el sur metropolitano de Madrid, buenos días, Luis Fernando.
+H3: Hola, buenos días.
+H1: Para dentro de muy pocos minutos una... protesta vecinal ante las puertas del hospital de Leganés Severo Ochoa.
+H3: Bueno, en este caso no es vecinal, es de los propios del Hospital Severo Ochoa de Leganés.
+H1: ¡Ah, bien!
+H3: Enfermeras y médicos que protestan por la falta de personal, se avecinan las votaciones y... hay que re[palabra cortada]... hay que recortar la plantilla según... el Hospital Severo Ochoa de Leganés te dicen los propios profesionales de este centro sanitario que desde luego si se marcha más gente no va a dar de sí a esa importante demanda de vecinos que... que pasan por este hospital. Así que problemas... la sentada es en protesta por... eh... la escasa plantilla que hay ahora mismo para atender a... los casi trescientos mil pacientes de este área sanitaria y ahora que llegan las vacaciones pues las cosas se complican, ¿no? y por eso es por lo que los propios... sindicatos de enfermeras han convocado esta sentada para protestar para que se contrate a más gente en este Hospital Severo Ochoa de Leganés.
+H1: Un hospital cuyo paciente desgraciadamente más famoso, Sergio Argentina, va a ser trasladado a otro centro sanitario.
+H3: Pues sí. Hay que decir en primer lugar que... permanece en estado estacionario el niño Sergio Argelina que fue, recordemos, le cayó encima un... un columpio, una esfera armilar el día 24 de mayo. Está en el Hospital Severo Ochoa de Leganés, estaba ingresado en la UFI y va a ser trasladado al Hospital Doce de Octubre porque parece ser que ayer perdía sangre y le van a realizar un [extranjerismo]scanner[fin de extranjerismo] que se lo pueden realizar mucho mejor en el Hospital doce de Octubre. Por eso el traslado y decir que bueno, que el niño ni empeora ni mejora. Continúa en estado estacionario como hemos dicho.
+H1: [afirmación] Eso en Leganés, pero hay otras localidades que seguro también tienen cosas que contarnos esta mañana.
+H3: Me imagino que a lo mejor habéis dado ya cuenta de los sucesos ocurridos en Para anoche, Juan Luis, donde hubo una reyerta entre vecinos y Policía Nacional.
+H1: Bueno, pues aún no, Luis Fernando, estábamos esperando que nos pudieras detallar más desde allí qué es lo que pasó.
+H3: Pues bueno, en principio los datos que manejamos desde la zona sur son los siguientes: que sobre las diez de la noche... José Dalas , un empresario de Parla llamó la atención a un joven que al parecer consumía drogas cerca de su establecimiento, cerca de... de su empresa que está en la calle Salamanca de Parla. A continuación parece ser que este... este joven que consumía droga se fue y vino con dos o tres amigos y empezó a... bueno, a insultar a... a este vecino. Este vecino se sintió acosado y rodeado y cogió una... una escopeta de perdigones y empezó a disparar a... a estos jóvenes, aunque parece se que hizo disparos intimidatorios, que en ningún caso... disparó contra el cuerpo de estos chavales. El caso es que se armó el follón, ya te puedes imaginar, la escopeta sonando por allí, los vecinos que se ven en la calle, un revuelo increíble, la policía que llega y como resultado de toda esta pelea, dos policías heridos, no graves, heridos leves, con un par de... de heridas, con un par de contusiones y también dos vecinos heridos. Eso es lo que podemos comentaros por el momento de esta reyerta ocurrida anoche en la calle Salamanca y... y por el momento eso son los datos que tenemos, insisto, Juan Luis.
+H1: [afirmación] Una... circunstancia bastante lamentable que sucedía anoche en esta localidad del sur de la comunidad. ¿Algo más para hoy, Luis Fernando?
+H3: Pues, bueno [ininteligible] te puedo decir de forma curiosa si tengo tiempo que los vecinos de Alcorcón van a poder colaborar en un libro sobre la historia de Alcorcón que prepara el Ayuntamiento. El Ayuntamiento de Alcorcón ha pedido la colaboración de los vecinos y aquel vecino que tenga una foto de hace mucho tiempo de Alcorcón o que conozca detalles históricos sobre alcorcón se puede dirigir al Ayuntamiento porque se va a hacer un libro y el Ayuntamiento pretende que sean los propios vecinos los que colaboren para realizar este libro histórico de la localidad.
+H1: Una buena manera de fomentar la participación vecinal. Buen día, Luis Fernando y hasta mañana.
+H3: Vale, hasta luego.
+H1: Nos vamos a la parte Oeste de la comunidad Montserrat Velázquez, [solapamiento de turnos] ¿qué hay de nuevo por allí?
+H3: Buenos días, Juan Luis. [fin de solapamiento de turnos]
+H1: Buenos días. [silencio] Decía que qué hay de nuevo, Montserrat.
+H4: Pues mira, contarte que... para empezar, que los trabajadores del Casino de Torrelodones, una noticia que ya adelantábamos hace unos días, pues se han decidido a denunciar a la empresa ante la Comisión Nacional del Juego en la que acusan a esta empresa de apropiarse de las propinas y de no haber notificado el reparto de las mismas. Esto según el comité de empresa es ilegal por lo que han convocado huelga para los próximos días 14, 15, 21 y 22, es decir, los dos próximos fines de semana y si la empresa no cambia de actitud estas huelgas se pueden extender hasta el mes de julio. Por otra parte nos vamos a Pozuelo donde ayer la línea de autobuses que cubre el trayecto Aluche, Pozuelo, Majadahonda y Las Rozas efectuó su primera parada en Pozuelo, en la calle antonio Becerril, el mes pasado el ayuntamiento no dio autorización a la empresa que cubre este servicio, la empresa LLorente, para que parara en Pozuelo, en una calle que estaba en obras y ahora esta nueva parada ha sido decisión de la empresa junto con el consorcio de transportes. El Ayuntamiento, o mejor dicho, el Alcalde José Martín Crespo y su equipo de Gobierno pues no quieren saber nada de estos asuntos porque Pozuelo es el único pueblo con más de diez mil habitantes que no está integrado en el consorcio de transporte y esto se debe según el alcalde a que de esta manera puede seguir haciendo lo que quiera dentro del casco sin contar con la comunidad de Madrid. así que luego que no se queje.
+H1: [afirmación]
+H4: Y por otra parte, en las Rozas... el Ayuntamiento ha procedido a la [ininteligible] de cuarenta y dos viviendas sociales, ejecutadas en las Matas, en un terreno colindante al barrio de RENFE y adjudicadas el pasado mes de junio de... 1990 que junto a las 33 construidas en la calle Jabonería de las Rozas. Sin embargo los... los adjudicatarios todavía no pueden tomar posesión de los pisos porque el IRIMA no ha calificado aún las viviendas como de protección oficial y no se espera que de momento lo haga. Y por último un aviso para los vecinos de Pozuelo que es que ha comenzado la campaña de vacunación antirábica de los animales domésticos, así que los interesados podrán ir a vacunar a sus perros o a sus gatos el... los días 19 y 25 de 11 a 2 en el patronato de cultura.
+H1: De acuerdo, pues eh... gracias, Montserrat Velázquez, allí no hay problema con irregularidades en voto por correo el próximo sábado se proclaman los alcaldes para los próximos cuatro años, ¿verdad?
+H4: Sí, bueno, en Po[palabra cortada] en Pozuelo eh... se denunció una de las mesas por seis... seis votos que no... no estaban censados, o sea, votaron seis personas que no estaban censadas, simplemente con el certificado de empadronamiento y eso está denunciado ante la Junta pero de momento no han recibido contestación.
+H1: [afirmación] Bueno, pues habrá trabajo entonces por delante el próximo sábado sobre todo para atender a tantas y tantas localidades que también hay por allí.
+H4: Pues sí, a todas horas y a todo momento.
+H1: Hasta mañana, Montserrat.
+H4: Hasta mañana.
+H1: Buen día. Terminamos... en este recorrido por la región madrileña contándoles una compra. En Rivas [ininteligible] la sociedad cooperativa PSV se... ha hecho con el veinte por ciento del suelo de Rivas [ininteligible] para construir nueve mil viviendas sociales. Más adelante intentaremos hablar con los responsables de esta operación o bien con el alcalde de Rivas [ininteligible] PSV va a construir lo que ellos denominan ciudad jardín Madrid. Estén... a parte de las nueve mil viviendas sociales habrá dos campos de golf, un hipermercado, hoteles, polígonos industriales, una universidad privada y cuatrocientas hectáreas de zonas verdes. El 20 por ciento del suelo de Rivas [ininteligible] queda de propiedad privada, ha sido comprado por PSV que construirá esta ciudad-jardín, como así lo denominan y PSV que mira hacia el Este porque el próximo lunes se colocará ya definitivamente la primera piedra de ese monumento conocido como la esfera armilar y que se pretende esté finalizado para el próximo año de 1992. 15 minutos tan solo para las once de la mañana. "A Todo Madrid". [música] [texto leído][texto no transcrito][fin de texto leído]
+H1: Nos situamos ante una de las delegaciones del Ministerio de Hacienda que estos días está siendo visitada por miles y miles de madrileños que o bien acuden para informarse de cómo...llenar perfectamente esos documentos que debemos entregar a Hacienda o bien para ya hacer entrega de la declaración sobre todo si es positiva, si hay que pagar. [texto no transcrito] ... el día en que acabe el plazo. Para esa jornada también está convocada, al igual que hoy, una nueva jornada de huelga por parte del personal de este ministerio y Blanca [ininteligible] suponemos que lo estarán notando mucho los madrileños que despistados se hayan acercado hoy a esa Delegación de la calle Guzmán el Bueno. Buenos días.
+H5: Muy buenos días. Notan en principio pues un despliegue policial impresionante en la calle Guzmán el Bueno. hemos contado seis vehículos entre los de la Policía Nacional y los de la Guardia Civil. También hay un riguroso control policial a la entrada, revisión de los bolsos o carteras que portan los ciudadanos y también notan la presencia de piquetes informativos porque nos dicen que más o menos el cincuenta por ciento de los trabajadores laborales y funcionarios de esta delegación, la principal delegación provincial de Madrid, pues están en huelga y el otro 50 por ciento está atendiendo al público. Estos piquetes recorren el edificio, un edificio enorme, son unos 200 las personas que con periódicos en la mano van golpeando los... las barandillas o las paredes con las propias manos gritando: "huelga, huelga, huelga". También notan los que hasta aquí se acercan las largas colas que existen en las ventanillas de información, en las de compra y en las de entrega de impresos. Pero mejor que nos lo cuenten los que lo han padecido. Perdón, por favor, estamos en directo preguntando si ha notado usted la incidencia de la huelga a la hora de venir aquí a la Delegación.
+Ha: Yo en mi depa[palabra cortada] en el departamento que he estado no pero lo he notado eh aquí abajo en recepción de documentos.
+H5: ¿Usted venía a entregar el [siglas]IRPF[fin de siglas] o no?
+Ha: No, no. Yo llevaba para un asunto particular.
+H5: Muchas gracias. Vamos con otras personas que salen del edificio. Perdón, por favor, ¿usted ha notado la incidencia de la huelga a la hora de hacer aquí las gestiones que le traían?
+Hb: No, estoy en huelga yo.
+H5: Está usted en huelga. ¿Recordamos que a las doce se van a concentrar en la Plaza de Cuzco?
+Hb: Sí.
+H5: Ustedes que están dentro... yo por lo que he visto hay gente trabajando pero otros muchos que van recorriendo el edificio. ¿En cuánto valora más o menos la incidencia?
+Hb: La incidencia es bastante poca para lo que tenía que ser.
+H5: ¿Usted es funcionario o personal laboral?
+Hb: Laboral.
+H5: Y están ustedes mayormente los... de personal laboral en huelga más que los funcionarios, ¿no?
+Hb: Sí. Estamos... laboralmente estamos...los laborales estamos más en huelga que los funcionarios. Los funcionarios, eh... tienen otro... otro sistema y... claro, lógicamente pues están mejor que nosotros. En algunos aspectos. En el económico no.
+H5: Pero algunos funcionarios sí apoyan a sus compañeros de contratación laboral.
+Hb: Pero un porcentaje muy bajo.
+H5: Pues muchísimas gracias. Recordamos que esta huelga la convocan los sindicatos, todos los que están presentes en este Ministerio: Comisiones, [siglas]UGT, CESIF, USO[fin de siglas] y la [siglas]CGT[fin de siglas]. Y... siguen saliendo más trabajadores con pegatinas, suponemos que van directos a esa concentración de medio día ante la sede del Ministerio de Hacienda. Señora, ¿usted venía a hacer aquí alguna gestión, a esta Delegación?
+Hc: Sí, sí.
+H5: ¿Ha conseguido ha[palabra cortada]... realizarla pese a la huelga?
+Hc: Sí, sí, sí. Yo he conseguido lo que quería.
+H5: ¿Era entregar su declaración? por curiosidad.
+Hc: No, no, no, no. No, era otra cosa.
+H5: Muchas gracias. Otros asuntos parece que ser que tienen más prioridad que la... delega[palabra cortada]... la entrega de la declaración. Esta señorita que sale con un impreso de... de la declaración, ¿venías a comprar el impreso o a entregarlo?
+Hd: A entregarlo.
+H5: ¿Y lo has entregado sin problemas?
+Hd: Sí, sin ningún problema.
+H5: ¿No has notado entonces la incidencia de la huelga que están manteniendo?
+Hd: Bueno, sí se nota, pero vamos... en mi caso como era negativa pues no hay mucha gente.
+H5: ¿Te ha salido negativa? ¿A devolver?
+Hd: Bueno, no, no. Ni me tienen que dar ni doy.
+H5: Bueno. Está en paz y por eso salía tan satisfecha. Muchas gracias. Vamos a hablar con más personas que salen de esta... Delegación. ¿Son ustedes trabajadores o público que venía...?
+He: Trabajadores, trabajadores.
+H5: También en huelga, evidentemente.
+He: Sí, sí, sí. Estamos en huelga porque la mayoría de los auxiliares llevamos seis años aquí, entramos ganando cincuenta y ocho mil pesetas y ganamos setenta mil pesetas líquidas. Creo que lo dice todo, vamos. Ni subidas... ni subida de la inflacción ni nada, no...
+Hf: [ininteligible] año perdiendo poder adquisitivo. Esto es una vergüenza.
+H5: Muchas gracias. Otra persona de las que se encuentran en huelga y que de fondo se pueden escuchar los gritos. Son las personas que como digo recorrían el edificio. Otra señora que sale de la Delegación. Perdone, ¿usted es... público o trabajadora de la... de la casa?
+Hg: No, público.
+H5: Público ¿y ha conseguido hacer usted las gestiones que le traían hasta aquí?
+Hg: Sí, de momento sí he conseguido.
+H5: ¿Era algo relativo a la declaración de la renta o... o eran otros asuntos?
+Hg: Sólo coger un papel.
+H5: ¿Y se lo han dado?
+Hg: Sí.
+H5: Contenta está esta señora también porque lo ha conseguido. Lo... nos contaban los trabajadores que han intentado también acercarse a la... al pasillo en el cual se encuentra el despacho del Delegado de Hacienda y que ahí la policía les ha impedido pasar a informar a sus compañeros trabajadores y funcionarios y que en el resto del... del edificio pues han podido hacer esa labor de información ya con más tranquilidad y que el público lo ha comprendido lo que estaban haciendo. En estos momentos están saliendo pues esas 200 personas de los piquetes informativos y desde aquí se van a ir en marcha hacia el Ministerio de Hacienda. Con megafonía incluida, como se puede escuchar y con las pegatinas de [siglas]UGT[fin de siglas], Comisiones y los demás sindicatos convocantes.
+Hh:[ininteligible][ruido]
+H5: Dice que no decimos la verdad, esta señorita, [solapamiento de turnos] pues bueno, no...
+H1: Que no. Pues no sé [fin de solapamiento de turnos] no... no sé qué quiere qué... qué digamos. Pero bueno, son casos aislados, ahí están las voces de protesta de los trabajadores recuérdelo por si hay alguna incidencia que pueda afectar al tráfico a las doce concentración de estos trabajadores en la Plaza de Cuzco frente al Ministerio de Economía y Hacienda y por lo que nos están contando los ciudadanos que esta mañana iban hasta Guzmán el Bueno a la... principal de todas ellas no se está complicando demasiado eh... la trato al público y sobre todo las gestiones que día tras día realizan miles y miles de madrileños siempre relacionadas con... con la renta y más aún en estos días aunque parece Blanca, como bien decías que seguimos dejándolo todo para el final y que el 20 será cuando notemos el colapso, ¿verdad?
+H5: Pues así se... teme. Lo que pasa que también el día 20, como tú decías, esta huelga que... se mantiene hoy durará también los días 19 y 20. Así que los rezagados también se pueden ver implicados en la entrega de estas declaraciones. También recordamos que éstas, se pueden entregar en oficinas bancarias en banca pública y privada y que eso puede aliviar un poco a los tardones que no les quieran... que quieran esperar hasta el último momento. Mientras tanto recordamos que los trabajadores están aquí y que las personas que hasta la delegación de Guzmán el Bueno se acerquen pues verán toda esta serie de inconvenientes pero que parece ser que el seguimiento de la huelga no está siendo todo lo suficiente que pretendían los sindicatos y que hay algunos trabajadores que sí están en sus puestos de trabajo.
+H1: Gracias Blanca Landázari, no dejen para el final estas obligaciones con Hacienda y por otra parte recuerden que a las doce y media hoy dentro de "A Todo Madrid" iniciaremos un... eh consultorio fiscal, les ayudaremos durante los próximos días a que puedan solucionar sus dudas mientras están eh con los impresos dándole vueltas a los números para ver si su declaración es positiva o negativa si puede desgravar tal o cual concepto. Será a las doce y media y con la ayuda de ustedes seguro que podremos conseguir un espacio de radio interesante así que vayan llamándonos ya por teléfono si es que tiene algo que preguntar a nuestro contestador automático el 4 4 2 3 5 7 7. Huelga en este... entre este colectivo el día 19 y 20 también están convocadas más jornadas de paro y atención porque en Caja Madrid el mismo día 20 también se ha convocado la segunda huelga de la historia en esta entidad bancaria madrileña así que mejor que lo haga usted esta semanita, se quede ya tranquilo y por lo menos no verá cómo se encuentra con los inconvenientes de oficinas cerradas o... piquetes informativos a la puerta de esas delegaciones de Hacienda. [música]

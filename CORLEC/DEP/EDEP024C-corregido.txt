@@ -1,0 +1,90 @@
+#archivo: EDEP024C
+#fecha de grabación: 19-01-92
+#fuente: diversos fragmentos de partidos de fútbol radiados
+#localización: Madrid y provincias
+#términos: gol, empate, disparo, pelota, juego, saque, defensa, portería
+#H1: varón, locutor deportivo, c.40 años
+#H2: varón, locutor deportivo, c.45 años
+#H3: varón, locutor de deportes, c.35 años
+#H4: varón, locutor de deportes, c.40 años
+#H5: varón, locutor deportivo, c.40 años
+#H6: varón, locutor deportivo, c.45 años
+#H7: varón, locutor deportivo, c.36 años
+#H8: varón, locutor deportivo, c.40 años
+#H9: varón, locutor deportivo, c.32 años
+#H1: varón, locutor deportivo, c.40 años
+#H11: varón, locutor deportivo, c.40 años
+#H12: varón, locutor deportivo, c.26 años
+#H13: varón, locutor deportivo, c.30 años
+#H14: varón, locutor deportivo, c.28 años
+#H15: varón, locutor deportivo, c.40 años
+#H16: varón, locutor deportivo, c.32 años
+H1: ¡Gol... en Carranza...!
+H2: ¡Informa... [vacilación] Finisterre!
+H1: ¡Marcó el conjunto de Víctor Espárrago al Sevilla, se abalanza... [vacilación] en el estadio gaditano... gol conseguido por el exjugador amarillo, Alfonso Tortijo, de cabeza, tras el saque... [duda] de una falta que a él mismo le realizaron... y fue botada por Pablito Bengoechea! ¡En Carranza, minuto veinte de juego de la primera mitad... Cádiz cero, Sevilla uno, marcó Cortijo!
+H2: ¡Desde Cádiz, informó Finisterre, seguros generales, agencias en toda España! [música] [interrupción de la grabación]
+H3: El minuto diecinueve decía de la primera parte, con el marcador empate a cero. De momento, lo mejor en Zorrilla, la entrada, yo creo que la mejor de la temporada, sorprendentemente.
+H4: ¡Gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol... de Carlos Tartierre!
+H2: ¡Informa Finisterre!
+H4: ¡Diecinueve minutos de la primera mitad, un... [duda] [extranjerismo]corner[fin de extranjerismo] que se bota a la derecha de la meta defendida por Biti! ¡Ha sido Salazar el encargado de dejar el largo hacia atrás, a la frontal del área! Viene de Carrera, potente [extranjerismo]Chesari[fin de extranjerismo] ¡dispara con su pierna derecha... y bate raso a la parte izquierda de la meta, defendida por Biti! ¡Diecinueve y medio, primera mitad, en el Carlos Tartieri, Real Oviedo cero, Albacete uno!
+H2: ¡Desde Oviedo, informó Finisterre! ¡Seguros generales, agencias... en toda España! [interrupción de la grabación]
+H5: ¡Gol, gol... en Palamós!
+H2: ¡Informa... Finisterre!
+H5: ¡Moreiras acaba de... [vacilación] hacer ventaja para el Avilés... de un libre directo... desde fuera del área... lanzó raso y el guardameta del Palamós no ha podido hacer nada para atajar semejante trallazo! ¡Minuto veinte de este primer tiempo, Palamós cero, Avilés uno!
+H2: Desde Palamós, informó Finisterre, seguro generales, agencias en ¡toda España!... [interrupción de la grabación]
+H2: [música] ¡Vamos ahora en Radio Informativa a conocer tiempo de buen resultado con zumos Juver, la fruta que se disfruta!
+H6: En un minuto se han movido varios marcadores. Así actualizamos nuestro marcador, ¿en Atocha?
+H7: Veintiún minutos, primera mitad Real Sociedad cero, Mallorca cero.
+H6: ¿En la Romareda?
+H3: Veintiún minutos de juego en la primera parte, Real Zaragoza cero, Burgos cero.
+H6: En el Carlos Tartieri...
+H4: ¡Veintiún minutos de la primera mitad, Real Oviedo cero, Albacete uno!
+H6: ¿En el Príncipe Felipe?
+H8: ¡Ventidós minutos de partido, Atlético de Madrid cero, Deportivo de La Coruña cero!
+H6: ¿En el Sadar?
+H9: Venticinco minutos del primer tiempo, Osasuna dos, Logroñés cero.
+H6: ¿Ramón de Carranza?
+H1: Veintitrés minutos de partidos, Cádiz cero, Sevilla uno.
+H6: ¿En Zorrilla?
+H3: Veinte minutos primer tiempo, Real Valladolid cero, Atlétic de Bilbao cero.
+H6: Segunda división, ¿en las Llanas?
+H10: Minuto veinte del primer tiempo, Sestao cero, Eibar uno.
+H6: ¿Mérida?
+H11: Veintidós minutos de la primera mitad, Mérida cero, Figueras cero.
+H6: ¿Nova [ininteligible]?
+H12: Veintiún minutos de partido, empate a cero, Sabadell cero, Betis cero.
+H6: ¿La Rosaleda?
+H13: Ventidós de la primera parte, Málaga cero, Real Murcia cero.
+H6: ¿San Mamés?
+H14: Pasan ventitrés minutos de la primera parte, Bilbao Atlétic uno, Racing de Santander cero.
+H6: ¿Palamós?
+H5: Ventidós de la primera parte, Palamós cero, Avilés uno.
+H6: ¿En Castalia?
+H15: Ventidós minutos, primer tiempo, Castellón cero, Compostela cero.
+H2: Ahí estamos... para que no se quede usted a cero, para que ¡disfrute la fruta con zumos... [vacilación] Juver! [música][publicidad]
+H2: ¿Dónde?
+H12: ¡Gol, gol, gol, gol, gol, gol, gol, gol... en... Sabadell!
+H2: ¡Informa Finisterre!
+H12: ¡Minuto ventidós de partido, se adelanta el conjunto local, cabezazo de Ramón en el punto de [extranjerismo]penalty[fin de extranjerismo]... se adelanta el conjunto local, el Sabadell...! ¡Uno a cero, ventidós de la primera parte!
+H2: ¡Desde Sabadell con Ramón, informó Finisterre, seguros generales, agencias en toda España! [publicidad][música]
+H6: No puede el Atlético de Madrid, hasta ahora, con el Deportivo de La Coruña y eso que necesita imperiosamente los puntos, Luis Jiménez...
+H16: Y una falta que puede tener su cierto peligro, va a ser botada por el Deportivo de La Coruña, colocado en la medular del terreno de juego ocupado por el Atlético de Madrid... se dirige a [ininteligible], también [ininteligible]... al final... [duda] al final va a ser el jugador Rubio búlgaro el que pone la pelota en juego... El balón cortado por Donato, (Cana) tira, ¡fuera...! ¡Qué peligro tenía... [vacilación] esta acción de los jugadores de Marco Antonio Boronar!... No puede del atlético de Madrid. [ruido] ¡Efectivamente, no pueden los jugadores del Atlético de Madrid que juegan por mediación moviendo la pelota por mediación de [ininteligible] [extranjerismo]Schuster[fin de extranjerismo], tocando Pana... el líbero, el canario Juanito... intentando el pase largo, sorprendiendo punta de velocidad... de Juan Sabas y la pelota que llega sin ningún tipo de complicación al guardameta Liaño, que está indicando al resto de compañeros que se vayan hacia adelante... Va a botar... [duda] este saque de puerta, uno más para el deportivo. ¡Pocas oportunidades las del Atlético de Madrid! El público poco a poco se va enmudeciendo aquí en el Príncipe Felipe... ¡Pateó largo el balón que va a llegar, después de haber tocado en semifallo por Roberto Solozábal hacia el guardameta Abel Resino! ¡Poco fútbol, menos oportunidades, ningún gol en el Príncipe Felipe de Cáceres! ¡Ventiséis minutos disputados... empate a cero en el marcador entre Atlético de Madrid y Deportivo de La Coruña!
+H6: Y la sorpresa, que ya cada vez es menos, ¡el Albacete está ganando en el Carlos Tartieri de Oviedo, Pedro Ernesto!
+H4: ¡Y le está ganando con un orden tremendo en defensa, se nota muchísimo en falta... precisamente... [vacilación] a [ininteligible] el Canataz en el Real Oviedo, se nota su compatriota el croata [ininteligible], también dirigiendo, llevando la batuta del Real Oviedo, cuando juega nuevamente... el conjunto de Benito Floro! Da con la cabeza... [vacilación] uno de sus jugadores, balón que va a recuperar, sacará de banda... El público encrespado porque hace cuestión de escasos minutos... un penalty clarísimo, clarísimo, clarísimo... [vacilación] o[palabra cortada]... [vacilación] que se... realizó sobre el rumano [extranjerismo]Dacatus[fin de extranjerismo] no ha sido ni tan siquiera pitado... [duda] Más todavía, ha sido precisamente mostrada la tarjeta amarilla al jugador roman[palabra cortada]... rumano. ¡Balón que viene a... lam[palabra cortada]... [vacilación] al terreno del Real Oviedo para Antonio, Antonio que intenta dejar atrás, intenta que llegue ese balón, luego... largo hacia su capitán Cataly, corriendo a proteger la pelot... Gordiagán que ante la presión de Cataly, lanza... mete!
+H7: ¡Gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol, gol... en Atocha!
+H2: ¡Informa... Finisterre!
+H7: ¡Marcó la Real Sociedad su primer gol en este partido...! ¡Minuto... ventiséis de la primera mitad, falta libre directo a la frontal del área, Carlos Xavier por el exterior de la misma mete la pelota al palo corto... cuando... [vacilación] los movimientos de los compañeros que intentaban rematar de cabeza engañaron a toda la... [duda] defensa, toda la saga Mallorquista! ¡Gol espectacular, primero de la tarde...! Real Sociedad uno, Carlos Xavier, Mallorca cero.
+H2: ¡Desde San Sebastián informó Finisterre! ¡Seguros generales, agencias en toda España! [publicidad][música]
+H6: En Zaragoza, cero, cero; Zaragoza cero, Burgos cero, Jesús Zamora.
+H3: Cuando se cumplen ahora ventiséis minutos de juego de esta primera parte, el Zaragoza sigue intentándolo con la iniciativa en el desarrollo del juego pero sin conseguir superar con la facilidad que desearía esa muralla de centrocampistas del conjunto burgalés. Ahora va... [duda] a poner un balón en movimiento desde la lateral izquierda, un saque de banda a cargo de Esteban, buscando precisamente la presencia de Pollers que no puede alcanzar el esférico porque ha sido empujado, ha sido claramente desplazado... [vacilación] y el balón ahora rápidamente para Gai. Gai que buscaba a Pardeza, sin embargo se ha interceptado... [vacilación], se ha colocado perfectamente en esa situación Emilio y ha logrado salvar la situación de peligro para el Burgos. De momento, una cartulina amarilla, la que ha visto hace un par de minutos el... [vacilación] defensor catalán del Real Zaragoza Chavi Aguado, por una entrada verbal y el... [duda] marcador, ese resultado de empate a cero que continua sin... moverse. ¡Atención que se va ahora paquete Higuera, constituido como exterior derecha por banda, atención que puede centrar, le dobla en la acción Gai y el centro de Gai al segundo palo... acude Mateu, también Pollet... ha tocado Pollet!... Pero finalmente toda la ventaja es para el portero Alduallen, una vez más infranqueable, detiene el esférico y balón para el Real Burgos, aunque ha robado Dario Fanco. Combina con Mateu, se puede ir el rumano, sigue... [duda] Mateu intentando combinar con el argentino, la pelota que se va fuera de banda y aquí no pasa nada. Ventisiete minutos y medio de juego de la primera parte, en la Romareda... todo continua igual, Real Zaragoza cero, Burgos cero.
+H2: ¡Tiempo de jueg! [publicidad] [música] [texto no transcrito]
+H6: Recuerden que la Real está ganando en el Mallorca por uno cero, que el Albacete gana en Oviedo cero uno, que el Osasuna le gana al Logroñés dos cero, que el Sevilla está ganando en Cádiz cero uno... y que en el resto de los encuentros empate a cero. En Valladolid, Valladolid Atlétic, club de Bilbao, Alejandro Romero.
+H3: En el minuto ya ventiocho de juego de la primera parte... no hay medio campo en el Valladolid ha conseguido borrar en la pizarra y también sobre el desarrollo del partido, Iñaqui Sáenz... a los hombres del profesor Maturán en la parcela ancha, con la presencia de cinco hombres... está afianzando poco a poco. El Atlétic en Zorrilla, el Valladolid va a entregando, va cediendo sus terrenos... y de momento las oportunidades más claras para el Atlétic de Bilbao. Un remate de Asier... [vacilación] y una jugada entre Valverde y Ciganda apuntar en el haber del Atlétic, en el debe... tan sólo un remate de Fonseca, la primera oportunidad del partido. Pero, como digo, el Atlétic está jugando más y mejor ahora, va a botar una falta, en su zona de volantes, hay está el balón que viene largo por el centro... buscaba la incorporación, bien de Ciganda o bien de Valverde, ha cortado en defensa el Valladolid, lo hace por mediación de Cuaresma que juega arriba para Roberto Martínez en el medio campo, ¡falta...! ¡Recibió la entrada... [vacilación] por detrás del jugador del Atlétic de Bilbao, la falta... [duda] que se produce un poquito más allá de la línea divisoria de ambos campos, cuatro metros en el campo del Atlétic...! ¡Va a botar Cuaresma, escorada prácticamente sobre la línea de banda derecha de ataque del Real Valladolid Deportivo, allá se va Cuaresma con la pierna derecha, balón que viene a la frontal, recibe Minguela, coloca dentro para Roberto Martínez, saca la defensa... conecta, fuera...! ¡Conectó, según llegaba, desde atrás... [duda] Guerrero y el balón se fue fuera a la izquierda de la portería de Iru! ¡Ha sido la segunda oportunidad en que el Valladolid ha tirado a puerta, aunque el lanzamiento del medio campista del volante se fue fuera! ¡Rápido el contragolpe ahora del Atlétic, apertura que trataba de situar arriba ahora Larrazábal roba al Valladolid, cuidado con la jugada de Roberto... en el lateral va a centrar le pide Fonseca, balón al punto de [extranjerismo]penalty[fin de extranjerismo]... no llego Guerrero, se pasó de vueltas! ¡Pachi... sacó la defensa del Atlétic, controla en el medio campo Ciganda saca por el centro arriba para Valverde, el ritmo es trepidante, ahora devuelve Valverde para Ciganda... la combinación en par, tenemos para Valverde...¡ ¡Roba bien ahí! ¡El Valladolid ahora por mediación de Caminero que saca para Cuaresma y éste juega por el centro templando gaitas sobre la demarcación de César Gómez! ¡Camino ya del minuto treinta, treinta ya de la primera parte en Zorrilla, el partido va ganando un poquito en cuanto a espectáculo pero el marcador no se mueve! ¡Valladolid cero, Atlétic de Bilbao cero!
+H6: ¡Quién le iba a decir al Cádiz que un hombre... [vacilación] criado en la cosecha del equipo de Ramón Blanco Cortijo iba a sentenciar o cuando menos iba a marcar el único tanto hasta ahora en el duelo andaluz! ¡Cádiz cero Sevilla uno, Santiago Cordero!
+H1: Aunque durante la semana había comentado a los micrófonos de la cadena Cope que le hubiese gustado y me está gustando de momento conseguir algún buen resultado y buen gol en el estadio gaditano. Por cierto, que aquí si ya se ha sobrepasado el minuto treinta de encuentro, estamos en el treintaidós... de la primera mitad, hay una falta en el círculo central favorable al Sevilla que se ha hecho dueño y señor de... el... terreno de juego... porque el Cádiz no encuentra... el golpe de juego, el ritmo suficiente para hacerse con el partido y para intentar igualar la contienda. Aunque ahora recupera el conjunto amarillo, es Mateos el que patea despejando... sin control el balón, lo para con el pecho Diego, envía para Prieto, éste no puede Conectar con Rafa Par porque se anticipó la pierna de Mateos buscando a Arteaga, lanzando a Quico por el centro, ha... [duda] de cabeza golpeado Diego, enviando para sus compañeros en la zona ancha, Carbajal... robando el esférico enviando y cortito para Ramón que deja por la parte de la derecha para Rafa Par que mete en profundidad [solapamiento de turnos]para la defensa local...
+H12: ¡Gol, gol, gol, gol, gol, gol, gol, gol, gol, gol... en Sabadell!
+H2: ¡Inform...a Finisterre!
+H12: ¡Minuto treintaidós de la primera parte, jugada por la izquierda de Zurdi, se mete en el área de Fernández, batiéndole por bajo, dos a cero en el marcador, treintaidós minutos de partido!
+H2: ¡Desde Sabadell informó Finisterre, seguros generales, agencias en toda España! [publicidad][música]
+H6: El Betis pierde dos cero en Sabadell... ¡semana calentita! ...si el equipo verdiblanco hoy no consigue puntuar en la Nova Creualta ¡y difícil lo tiene! Vamos de nuevo a Cáceres, Atlético de Madrid, Deportivo de La Coruña, Luis Jiménez.
+H16: Ha ordenado presión en todo el terreno de juego el entrenador del Atlético de Madrid, ha introducido su primer cambio, ha retirado al lateral derecho Tomás Reñones, ha dado entrada al vallisoletano Gavi Molla, jugando al ataque precisamente... es Molla tocando para [extranjerismo]Schuster[fin de extranjerismo]... ¡Balón atrás para el disparo donostieño!... Donati intentaba intentaba mandar sobre Gabi Molla, ha cortado perfectamente [ininteligible] intentado mandar sobre la posición de Fran... éste para Luis López Recarte... ¡que bien le ha salido el primer quiebro... ante la presión de Donato! Falta que se va a cobrar el colegiado, ley de la ventaja... ¡La pelota para el Atlético de Madrid deja para Molla... Manolo... y fuera de juego... [vacilación] fuera de juego clarísimo de el extremeño Manolo... a este servicio de... [duda] el jugador procedente del Rayo Vallecano Juan Sabas...! ¡El público que protesta, brazos en jarra que se queda... el pequeño delantero del Atlético de Madrid ante la mirada atenta del juez de línea! Sigue jugando el Deportivo de La Coruña, balón que está llevando en ataque Antonio... ¡la presión de Toni, ha robado del centro del terreno de juego, concretamente Juan Sabas, deja para [extranjerismo]Schuster[fin de extranjerismo],...muy lento el alemán, perdió en el centro del campo, balón que sigue llevando en ataque el Deportivo de La Coruña, balón par Jose Ramón intentando combinar con [ininteligible], jugando ya en terreno del Atlético, balón para la punta derecha de ataque, buscando a Mariano, va a colgar la pelota, pierna derecha, puede haber peligro... [vacilación] la pelota conectada en última instancia por Fran, sigue el peligro, mandó de nuevo Antonio, ha cortado la defensa del Atlético de Madrid por mediación de Juanito, hubo fuera de juego previo del jugador del Deportivo de La Coruña, no cocedio el [ininteligible] ...[duda] de la ventaja...! Ha protestado Roberto Solozábal y la primera tarjeta amarilla que se va a llevar un jugador del Atlético de Madrid, a diez minutos para llegar a la... [interrupción de la grabación]

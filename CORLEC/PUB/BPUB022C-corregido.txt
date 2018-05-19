@@ -1,0 +1,75 @@
+#archivo: BPUB022C
+#fecha de grabación: 20-1-91
+#fuente: televisión
+#localización: Madrid
+#términos: millón, vale, compra, apartado, correo, vídeo
+#H1: varón, c.30 años, presentador
+#H2: mujer, c.30 años, concursante
+#H3: un loro que canta
+[texto leído][texto no transcrito][fin de texto leído]
+H1: Clarísimo, ¿no? Y ¡atención!, porque hoy recibimos [silencio] a la primera concursante "[extranjerismo]Skip[fin de extranjerismo]" de "Vídeos de primera".
+Todos: [aplausos]
+H1: Aquí está. Mercedes Martín, bienvenida. [solapamiento de turnos] Buenas noches.
+H2: Muchas gracias. [fin de solapamiento de turnos]
+H1: Gracias por concursar. Mucho me temo [silencio] que esta carta es suya. [solapamiento de turnos] ¿Correcto?
+H2: Eso es [fin de solapamiento de turnos]. Correcto.
+H1: Muy bien, usted es de Segovia.
+H2: [afirmación]
+H1: Si consigue el millón de pesetas, ¿a qué me invita?, ¿a cochinillo o cordero?
+H2: A lo que tú prefiera.
+H1: Pactemos. Cordero. ¿De [solapamiento de turnos] acuerdo?
+H2: Está hecho [fin de solapamiento de turnos].
+H1: ¿Qué ha hecho Mercedes? Pues enviarnos el vale de compra... la prueba de compra de cualquier producto "[extranjerismo]Skip[fin de extranjerismo]" y los datos personales al apartado de correos trescientos treinta y tres de Aranjuez. Esta noche vamos a tener que apostar por uno de los tres vídeos: "[extranjerismo]Skip[fin de extranjerismo] micro", "[extranjerismo]Skip[fin de extranjerismo] líquido" o "[extranjerismo]Skip[fin de extranjerismo] polvo", que llevarán, por supuesto, los nombres de los vídeos en cuestión. Si aciertas el vídeo que ha votado la gente como número uno, te llevas un millón de pesetas, [silencio] si tú votas por el que finalmente quedó en segundo lugar, te llevas cuatrocientas mil y entregas otras cuatrocientas mil a este vídeo [silencio] que quedó en segundo lugar y si fallas y votas por el que quedará en tercer lugar, te llevas doscientas mil tú y otras doscientas mil el vídeo clasificado en tercer lugar. Con "[extranjerismo]Skip[fin de extranjerismo]", todo el mundo gana. ¿De acuerdo?
+H2: De acuerdo.
+H1: Que tengas mucha suerte.
+H2: [solapamiento de turnos] Muchas gracias.
+H1: Y tranquila [fin de solapamiento de turnos]. Y a continuación, en "Vídeos de primera" una excepción nueva. He sudado tinta, ¿eh? y bueno, le he puesto el nombre de "Etcétera, etcétera". [texto no transcrito]
+Público: [solapamiento de turnos] [aplausos]
+H1: ¡Qué programa! ¡Qué programa! [fin de solapamiento de turnos] Un loro que canta el "Po ron pon pero", un señor que se carga un listín telefónico. ¿Me acompaña, que vamos rápidamente a la final? Un aplauso para... [solapamiento de turnos] Jesús. Vamos ahí. ¡Perfecto!
+Público: [aplausos]
+H1: [ininteligible] Y aquí está [fin de solapamiento de turnos] Mercedes Martín. ¿Nerviosa, Mercedes?
+H2: No.
+H1: [solapamiento de turnos] No. ¿Tranquila?
+H2: Tranquila. [fin de solapamiento de turnos]
+H1: Bueno, yo te invito a que veas los tres vídeos finalistas de esta noche, a que te concentres y a que pienses que gracias a "[extranjerismo]Skip[fin de extranjerismo]", puedes conseguir hasta un millón de pesetas en premios.
+H2: [afirmación]
+H1: ¿De acuerdo?
+H2: De acuerdo.
+H1: Ahí están los vídeos. [música]
+H1: "[extranjerismo]Skip[fin de extranjerismo] polvo": "Más difícil todavía" de Juan Pedro Carmona, Lanzarote.
+Todos: [aplausos] [música]
+H3: [canta] Po... Po ron pon pon Po ron pon pero... pero [deja de cantar]
+H1: "[extranjerismo]Skip[fin de extranjerismo] micro": "Maloro Escobar" de José Blanco Gil, La Coruña.
+Todos: [aplausos] [música]
+H1: Y "[extranjerismo]Skip[fin de extranjerismo] líquido", "El rompelistines" de Jesús Bosque, Barcelona.
+Todos: [aplausos]
+H1: Gracias. Bueno, ¿han jugado ya desde sus casas? ¿Sí? ¿Tienen ya [extranjerismo]in mente[fin de extranjerismo] la votación, el resultado? Bueno, me alegro. Mercedes, tres vídeos magníficos.
+H2: [afirmación]
+H1: Sensacionales, pero sólo puede ganar uno. Te veo muy nerviosa, ¿eh? [solapamiento de turnos] Estás así un poco
+H2: Sí [fin de solapamiento de turnos]
+H1: ...Bueno, ¿te hemos tratado bien aquí en Madrid?
+H2: Muy bien, fenomenal.
+H1: ¿Sí?
+H2: Sí... sí.
+H1: Bueno, si usted quiere venir aquí al plató, como Mercedes hoy, es muy sencillo. ¿Qué hay que hacer para concursar? Tú que lo sabes todo.
+H2: Pues mandar el... la prueba de compra, [solapamiento de turnos] de cualquier producto "[extranjerismo]Skip[fin de extranjerismo]"
+H1: Exactamente. [fin de solapamiento de turnos]. Datos personales.
+H2: Exactamente.
+H1: La edad no la pusiste.
+H2: No.
+H1: ¿Eh?
+H2: Sí.
+H1: Al apartao de correos trescientos treinta y tres de Aranjuez. ¿Correcto?
+H2: Sí... sí.
+H1: Bueno, ¿por qué vídeo votas? ¡Atención! Por el eh... "Micro", eh... por el "Líquido" o por "Polvo", "[extranjerismo]Skip[fin de extranjerismo]" micro, "[extranjerismo]Skip[fin de extranjerismo] líquido" o "[extranjerismo]Skip[fin de extranjerismo] polvo"?
+H2: "[extranjerismo]Skip[fin de extranjerismo] micro".
+H1: ¡"[extranjerismo]Skip[fin de extranjerismo] micro"!, es decir, "Maloro Escobar". ¡Atención!, vamos a ver. ¡[extranjerismo]And the winer is[fin de extranjerismo]: [silencio] "[extranjerismo]Skip[fin de extranjerismo] micro", "Maloro Escobar" de Fernando Gil, La Coruña!
+Todos: [aplausos]
+H1: Felicidades. Y bésense, venga [ininteligible], perfecto. Vamos a ver, sensacional. Primer día y millón de pesetas. Doble millón, un millón de pesetas y un aplauso para nuestro amigo... José y para [extranjerismo]Jimy[fin de extranjerismo] también un aplauso
+Todos: [aplausos]
+H1: Que conste que quinientas mil son para el loro del "Po ron pon pero". Clarísimo. Y otro millón de pesetas para Mercedes.
+H2: Gracias.
+H1: ¡Sensacional!
+Todos: [aplausos]
+H1: Anímense. Les espero aquí en el plató de "Vídeos de primera". Me envía la carta rápidamente con un vale de compra de cualquier producto "[extranjerismo]Skip[fin de extranjerismo]" y también con los datos personales. Apartado de correos: trescientos treinta y tres de Aranjuez. ¿De acuerdo? Sean buenos, [ininteligible] fieles, hasta la próxima semana. Gracias a todos. Muy [solapamiento de turnos] buenas noches. Gracias.
+Público: [aplausos] [fin de solapamiento de turnos]

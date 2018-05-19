@@ -1,0 +1,62 @@
+#archivo: clud001a
+#fecha de grabación: 14-1-91
+#fuente: concurso televisión 1. Llamada telefónica
+#localización: Madrid
+#términos: suerte, premios
+#H1: mujer, c. 25 años. Locutora
+#H2: varón, c. 40 años, concursante
+#H3: mujer, c. 40 años, concursante
+H1:Cuatro llamada...
+H2:¿Diga?
+H1:¡Hola, buenas noches!
+H2:¡Qué sí que es [ininteligible]!
+H1:Por favor, ¿puedo hablar con Esperanza Quirós Puente?
+H2:Sí, ahora mismo.
+H1:Muchísimas gracias. [silencio] ¡Qué tranquilito...!
+H3:¿Diga?
+H1:Esperanza, ¿es usted?
+H3:Sí, sí.
+H1:¿Sabe de dónde la llamo?
+H3:¡Ay, claro que lo sé! Estaba pendiente.
+H1:¿No me diga?
+H3:¡Ay, que sí!
+H1:Eso es que igual tenía usted una premonición de que la podíamos llamar, ¿o no?
+H3:Sí, sí. Es que estaba diciéndole a mi hija: "Ahora me llaman". "Mamá, estás loca". Digo, "¡Ay! sí, me van a llamar".
+H1:Pues de loca nada, ¿eh? Dígale que de loca nada, que... bueno. Vamos a ver Esperanza, ¿nos ha mandado muchas cartas? diga.
+H3:Una, la primera.
+H1:¿Una?
+H3:Una nada más.
+H1:Pues su día de suerte, ¿eh?
+H3:Sí. Y el nueve.
+H1:¡Qué memoria! Ya... ya lo dice usted todo. ¡Vamos a ver!
+H3:Sí, sí.
+H1:Efectivamente. Aquí tenemos su carta, el código de barras de "Lenor" y el número nueve.
+H3:Nueve, sí.
+H1:¿Ha estado siguiendo el programa?
+H3:Sí, sí.
+H1:Sí. Y ¿recuerda quién lleva el número nueve?
+H3:Pues el número nueve se ha llevado un coche.
+H1:Pero ¡si es que ya me lo dice todo! mujer. [solapamiento de turnos] ¡Calma!
+H3:No, si es que te advierto, [fin de solapamiento de turnos] me daba la sensación que me iban a llamar.
+H1:Desde luego. Pues el número nueve lo lleva Inmaculada Águeda Casado que va a ver usted en su televisor, enseguida.
+H3:Sí, sí.
+H1:¿Ya la ha está viendo?
+H3:Si es que he estado pendiente.
+H1:¿La ve aquí?
+H3:Sí.
+H1:Pues... Inmaculada ha jugado en el as de copas y se ha llevado, pues bueno, si ya lo sabe, pe[palabra cortada], pero da igual, ¡pero qué alegría! ¡Cuatrocienta[palabra cortada], digo, perdón, cuatro millones cuatrocientas treinta y tres mil... quinien[palabra cortada] ya hasta me confundo [silencio]. Ya de los nervios, de la alegría, de todo, de... [ininteligible]
+H3:No me lo creo. Pues usted no sea como su hija que no se lo cree, que esto... esto es cierto. Dígame.
+H3:¿Sí?
+H1:Esperanza. ¿Ya tiene una idea de qué va a hacer con éste dinero? Porque ya que tenía la intuición de que le podíamos llamar, igual ya ha hecho hasta planes con el dinero.
+H3:Hombre, claro. Mis hijos que... que le hace falta darles a todo algo.
+H1:¡Qué bien! ¡Qué suerte! Pues Esperanza [solapamiento de turnos] para usted
+H3:[ininteligible]
+H1:ni cuesta de Enero ni nada. Pues, muchísimos besos, que me alegro un montón...
+H3:Igualmente, [solapamiento de turnos] y gracias.
+H1:y que... y que... [fin de solapamiento de turnos] y que me siga escribiendo.
+H3:Muchas gracias a todos.
+H1:A usted. Hasta siempre, Esperanza.
+H3:¡Hala!
+H1:Adiós.
+H3:Adiós.
+H1:Pero... pero... después de la alegría y de la emoción de Esperanza, todavía hay más. Sí, sí. Porque, eh... ya tenemos el nombre de nuestro ganador. Ya saben que hemos realizado un sorteo de tres millones entre todos los sobres recibidos por los comerciantes, y aquí tenemos el acta notarial con el nombre de nuestro ilustre notario, Francisco de la Haza Cañete, y dentro, [onomatopeya]tachín, tachín[fin de onomatopeya] mucha atención, ¡qué nervios, qué suspense! Tenemos el sobre de "Lenor" con el nombre de nuestro ganador, en este caso ganadora. Blanca Expósito Zayas que vive en la calle San Rafael de Valencia. Blanca, si me está viendo en estos momentos, mi más sincera enhorabuena y ya sabe que esos tres millones son suyos y que "Lenor" se pondrá en contacto con usted para enviárselos lo antes posible. Me alegro muchísimo y... pues, nada, que lo disfrute. Y bueno, pues por mí parte nada más. Muchísimos besos, ya saben que les quiero y que el próximo Lunes paso lista y no me pueden faltar, claro. Por cierto, esta vez hay novedades, así que si quieren concursar en nuestra llamada presten muchísima atención a las palabras de Regina.

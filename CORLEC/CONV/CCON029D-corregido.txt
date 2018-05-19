@@ -1,0 +1,166 @@
+#archivo: ccon029d
+#fuente: conversación telefónica entre amigas
+#localización: Segovia
+#términos: clase, cita
+#H1: mujer, 25 años
+#H2: mujer, 25 años
+H1:Dígame.
+H2:Hola, ¿está Loli?
+H1:Sí, soy yo.
+H2:Hombre. ¡Qué alegría! Soy Carmen.
+H1:¡Carmen! ¡Sí! No te había conocido.
+H2:¿Qué tal?
+H1:Bien ¿Y tú?
+H2:Pues bien también. ¿Qué te cuentas?
+H1:Pues nada, hija, pues, en estos momentos justos estoy esperando a que venga la madre de un niño a recogerle porque... eh... ya han salido todos los niños y sólo queda éste. Bueno, todos los niños, acaban de entrar otros, así que fíjate. Es que estoy dando clase, ¿sabes?
+H2:Intensivo, ¿no?
+H1:Sí. Hoy tengo hasta las... hasta las diez, maja.
+H2:¿Desde qué hora?
+H1:Desde las cinco. Llevo.
+H2:Jolín.
+H1:Así que fíjate.
+H2:¿Y cuántos días estás en este plan?
+H1:Pues eh... o sea, los martes es mi día de descanso. Así acabo antes,
+H2:Ah.
+H1:y... lo que pasa que los demás días pues, por ejemplo, los miércoles acabo a las nueve y los jueves acabo a las ocho y los viernes acabo a las nueve. O sea que... que bueno. Así. Luego por las mañanas me voy al conservatorio a estudiar y... y luego de cuatro a cinco tengo inglés, o sea que, bueno, hago otras cosas también. Así que eso.
+H2:Jolín.
+H1:¿Qué tal? ¿Estás de vacaciones?
+H2:Sí. Tengo justo esta semana.
+H1:¿Esta semana sólo?
+H2:Sí. Es que nos las dan al revés que...
+H1:Anda.
+H2:que a vosotros.
+H1:Ya.
+H2:Y luego...
+H1:A nosotros el miércoles.
+H2:El mi[palabra cortada], claro, sí.
+H1:Claro.
+H2:A ver. Pues, bueno, yo de todas formas tengo esta semana de vacaciones, pero luego me la voy a tomar,
+H1:Ah, mira, ¡qué bien!
+H2:y me voy a ir a Grecia, maja.
+H1:¿Ah, sí?
+H2:Sí.
+H1:¿Y eso?
+H2:Pues una locura de éstas.
+H1:¿Pero tú sola o con Jorge?
+H2:No, no, no, mira. Con el viaje de fin de carrera de Jorge.
+H1:Anda.
+H2:¿Sabes?
+H1:Oye, ¡qué bien! ¿no?
+H2:Pues sí, hija. Es que... estoy deseando porque es que este año estoy... bueno.
+H1:A tope.
+H2:A tope, sí.
+H1:¿Qué tal? ¿Sigues en la escuela... no era un instituto... o?
+H2:No, en el instituto... Puse la renuncia.
+H1:Ah.
+H2:O sea, que bueno, pues ahora doy clase del Instituto de Idiomas, que estoy contentísima
+H1:Sí.
+H2:porque... es gente mayor,
+H1:Claro.
+H2:y mira, de verdad,
+H1:Por supuesto.
+H2:bueno, me quedo con eso, ¿eh?
+H1:Sí. Yo...
+H2:Yo sé que a tí te encantan los niños.
+H1:No, no, pero yo te entiendo, ¿eh? porque bueno, yo también tengo que contarte muchas cosas cuando nos veamos más tranquilamente.
+H2:Ay, a ver si nos vemos un día de éstos. Yo,
+H1:Sí, mira.
+H2:digo, la voy llamando y así voy pidiendo hora. [risa]
+H1:¡Ay, qué boba eres!
+H2:Ah, una cosa, una cosa.
+H1:Díme.
+H2:Que el piso, ¿qué tal? ¿Ya os lo han dado?
+H1:Pues muy bien. No. [duda] Tengo que contarte también, Nos le dan en junio, guapa. A mediados de junio. La obra la acaban ya, o sea, están a punto de terminarla pero... bueno, pues que se tiene que secar, porque ha estado haciendo muy malo y no sé qué, que los papeles... no sé qué no sé cuántos, bueno, que hasta mediados de junio no nos la dan y casi lo preferimos porque así nos da mucho más tiempo a ahorrar y como no la necesitamos así, ahora mismo pues, pues nos viene muy bien. Y... lo que pasa que justo hoy se la están dando al... al hermano de... de Joaquín, a Fernando, que también se ha comprado una casa, ¿sabes? y se la daban hoy. Esta mañana a la una.
+H2:Pero ¿en la misma urbanización o...?
+H1:No, no, él en otro sitio, bueno, ta[palabra cortada] en San Lorenzo también pero... más lejos que nosotros.
+H2:[afirmación]
+H1:¿Sabes? o sea que... no, todavía no. Vamos tengo que enseñarte muchas cosas...
+H2:Claro.
+H1:Que ya, bueno, he estado haciendo y eso. Pues mira, eh, yo es que el Martes tengo examen de inglés, ¿sabes?
+H2:Sí.
+H1:Y el...
+H2:¿Mañana?
+H1:eh, eso, mañana. [risa]
+H2:Lo siento.
+H1:Hablo como si fuera...
+H2:Lo siento.
+H1:Hablo como si fuera...
+H2:Sinto recordártelo.
+H1:Sí, nada. Luego, el miércoles tengo clase de piano por la mañana y por las tardes es que tengo todo clases. Mañana... hoy voy a quedar con unos niños para darles mañana una clase de seis a siete porque como vienen las vacaciones y tal, para que no estén... Oye, espera un momento que están llamando, ¿eh? [silencio] Mira, era la madre del niño éste que estaba esperando.
+H2:[afirmación]
+H1:Pues que... vamos a ver. El martes,
+H2:Sí.
+H1:yo daré clase a estos niños pues seguramente de seis a siete, así que lo que podemos hacer es que te llamo yo...
+H2:Sí.
+H1:Y... y podemos quedar. O si no, espera un momento, espera un momento para más tranquilidad, el jueves...
+H2:[afirmación]
+H1:cuan[palabra cortada] que ya estamos todos de vacaciones y todo
+H2:Sí.
+H1:pues ¿te llamo yo a la hora de comer y nos vemos por la tarde?
+H2:Vale.
+H1:¿Es que sabes una cosa? Que nosotros también nos vamos a ir, pero, claro, nos vamos esta semana. Nos vamos el viernes, a Murcia. A ca[palabra cortada]
+H2:Sí. No si yo el sábado me voy yo ya, o sea, que también
+H1:Por eso.
+H2:O sea, que os vais a Murcia.
+H1:Sí. ¿Sí que sabes que teníamos unos amigos allí?
+H2:Sí. Sí que me suena.
+H1:¿Sí? Pues eso y bueno, ya te contaré más detalladamente. Y... eso. Pues mira, si quieres el jueves,
+H2:Sí.
+H1:o... o bueno, o... o antes del jueves.
+H2:O cuando, cuando... tú te venga bien, pues eso, pues me llamas
+H1:Sí.
+H2:si me llamas a la hora de comer, si no,
+H1:Vale.
+H2:o eso.
+H1:Y... y... y nos vemos. Además es que mis padres el miércoles se van también.
+H2:Sí.
+H1:Nos vamos todos y mi hermana también se va. O sea que bueno,
+H2:Bien.
+H1:así vamos a estar. Entonces, cuando... pase mi examen y esas cosas yo te llamo.
+H2:Vale, vale.
+H1:¿Vale? ¿Y tú qué tal todo?
+H2:Pues bien. Ah, una cosa que te quería decir, pero bueno, y si no luego otro rato que tenga tiempo,
+H1:Díme.
+H2:Es que quería... hacer encuestas o algo así a niños pequeños,
+H1:Sí.
+H2:para... y entonces digo pues como tú tienes clase con niños, pero...
+H1:Anda, pues, lo que pasa que es que ahora voy a dar las vacaciones.
+H2:Claro.
+H1:Tenías que venirte el miércoles.
+H2:Ya, ya, ya.
+H1:El miércoles de seis a siete...
+H2:Pero de... ¿a qué niño le das clase?
+H1:No, el miércoles de seis a siete tengo un grupo que tienen seis y siete años.
+H2:Y ¿de qué les das? ¿De música?
+H1:De música.
+H2:Ya, ya, ya, ya.
+H1:¿De... de qué es la encuesta o sobre qué la quieres hacer?
+H2:Sí, mira, yo lo que quiero es que me hablen, ¿sabes? para... para... grabarles y tal.
+H1:Ah, pues fíjate, mejor imposible. Vente el miércoles a las seis. Además es la... es la última clase antes de vacaciones y así pues mira, un motivo de... de distinto.
+H2:Y, pero, entonces la clase es de seis a siete.
+H1:De seis a siete.
+H2:Pero, claro, yo tampoco te quiero a tí molestar o... eso.
+H1:Que no, que no te preocupes. Ya verás.
+H2:Bueno, yo voy a las seis y si algún rato pues eso, pues me siento y me callo o...
+H1:Bueno, sí, además ese día, no sé si traerán unas pelotas porque les iba a enseñar a darse unos masajes. ¿Sabes?
+H2:Ah.
+H1:Entonces [duda] pero no sé si se les ha... olvidará o qué porque llevamos con las pelotas desde no sé cuándo, ¿sabes? y... y se les olvidan, entonces no sé si el miércoles traerán las pelotas y... si no, vamos a hacer canciones y juegos por ser el último día, ¿sabes?
+H2:Ah.
+H1:A lo mejor hacemos un dictado o... bueno. Pero vamos, que va a ser... bueno, la verdad es que va a ser como todos los días.
+H2:Bah, pues...
+H1:Pero que si vienes tú al ser el último día,
+H2:Sí.
+H1:pues no rompes el ritmo ni nada.
+H2:Claro.
+H1:¿Vale?
+H2:Ah, pues fenomenal. Pues fenomenal.
+H1:Y mira, y así nos vemos.
+H2:Pues ¿entonces el miércoles a las seis?
+H1:Eso es.
+H2:Vale.
+H1:¿Vale?
+H2:Bueno, pues gracias.
+H1:Bueno.
+H2:Hasta luego, Loli.
+H1:Adiós.
+H2:Adiós.

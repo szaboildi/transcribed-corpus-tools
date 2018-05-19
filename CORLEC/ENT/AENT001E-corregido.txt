@@ -1,0 +1,32 @@
+#archivo: AENT001E
+#fecha de grabación: 3-91
+#fuente: televisión
+#localización: Madrid
+#H1: varón, locutor, c.46 años
+#H2: varón, representante de la Federación Nacional de Donantes de Sangre, c.42 años
+#H3: mujer, locutora, c.30 años
+#términos: sangre, enfermedad, contagio, donación, salvación, valor
+H1:...controles muy exhaustivos en cuanto a cómo está esa sangre que se dona, pero si un enferme[palabra cortada]... una... una persona ha tenido, por ejemplo una enfermedad, eh... hace tiempo, una hepatitis, una tuberculosis, etcétera, y no se detecta en el análisis correspondiente, de alguna manera... ¿esa persona que va a dar, o la que va a recibir pueden estar completamente tranquilas y seguras de que no se va a contagiar, esa otra persona?
+H2: Bien, aunque no soy médico, sí debo contestar en alguna parte, aunque yo recomendaría que para estas cuestiones de índole más técnica, los propios servicios de hematología hay médicos, personas perfectamente capacitadas, sin embargo, dentro de ese reconocimiento hay un cuestionario donde ante los riesgos, ante esas posibles enfermedades, son causa para declarar no apto a la persona. Ante la posible duda, mejor es que no done para evitar el posible contagio, por una enfermedad que no se desconoce y que puede filtrarse en los análisis que se analizan.
+H1: O sea, una persona que ha tenido una enfermedad contagiosa pero que está curad, es mejor que no done.
+H2: Mejor que no done, efectivamente.
+H1: Elena, más preguntas.
+H3: ¿Es cierto que existe un mercado negro de donantes?
+H2: No existe, cuando menos en España... la sangre eh... está totalmente prohibido su venta, y por lo tanto, no hay ningún lugar donde se pueda ofrecer a cambio de dinero. Conviene aclarar, porque puede que alguna persona que nos vea indique que él conoce a alguien que le han cobrado por la sangre, que si ha sido así, no ha sido a la sangre propiamente dicha, sino a los costos o tasa por la manipulación de la sangre; en estos análisis que acabamos de indicar por el propio personal médico, y si es en algún centro privado, si le puede facturar esos costos por la manipulación. En ningún caso por la sangre, porque además no existe ninguna valoración, no hay mercado para la sangre, ni el kilo, ni el litro... no... no se sabe, no existe esa valoración por ella.
+H1: Una... una persona apta para donar sangre, eh... ¿qué cantidad puede donar, y en que tiempo?
+H2: Está estandarizado, son 450 centímetros cúbicos por cada extracción; en realidad es algo menos, porque hay un anticoagulante especial, 60 o 70 centímetros cúbicos de sangre, y con estos requisitos mínimos se puede donar sangre sin ningún problema cada 3 meses, e incluso cada 2, previo consentimiento más específico del médico.
+H1: Dos últimas preguntas, Elena. Una por tu parte, y otra por la mía. Adelante.
+H3: Eh... ¿Pueden existir eh... riesgos posibles, por parte de un donante?
+H1: A la hora de donar, en absoluto. Primero, porque se verifica, como hemos dicho, el estado de salud. Y en segundo lugar, porque además todo el material que se utiliza en la extracción de sangre es de un solo uso, y se desestucha y se destruye en presencia eh... del propio donante. Por lo tanto, no hay ningún riesgo posible de contagio de ningún tipo de enfermedad por el acto de donar sangre.
+H3: Perdón, y entonces ¿a cree... a qué cree, qué motivos son los que influyen en las... en la gente para... para no ser donante?
+H2: Básicamente, la Federación Nacional de Donantes cree que es un problema eminentemente educativo, de educación sanitaria sobre todo, de tal manera que todavía hay demasiados miedos que rodean a la donación de sangre, pues producidos, quizá, por las tradiciones, algunas de ellas arcaicas. Siempre se une el hecho de la pérdida de sangre a una tragedia, cuando en este caso es todo lo contrario, es ayudar a salvar vidas. Debemos ser conscientes de que la donación debe ser además un hecho absolutamente habitual, que no es preciso que haya una gran catástrofe ante la cual todos respondemos de forma espontánea y magnífica, y bien está que se haga en esos momentos, pero el día a día es imprescindible para ayudar a nuestros conciudadanos.
+H1: Señor de Huerta, ¿dónde pueden dirigirse las personas que quieran donar sangres, eh... hay algún teléfono especial, o algún centro?
+H2: Sí, hay un teléfono, de llamada gratuita, es el 900-100 7 99
+H1: Vamos a repetirlo
+H2: Repito, 900-100 7 99, y en cualquier caso, la Federación Nacional de Donantes aglutina las 100 organizaciones ciudadanas que en... en toda España promocionamos la donación altruista de sangre; pueden dirigirse directamente a recabar información, o se si prefiere, de forma muy directa, a cualquier hospital, donde le pueden atender y puede efectuar su donación de sangre.
+H1: Pues señor de Huertas, muchísimas gracias por su presencia aquí, y como decimos nosotros en... en el eslógan, su sangre puede salvar no solamente una vida, sino su vida también. Es posible que pueda salvar la vida de la persona que dona, ¿no?
+H2: Ha habido incluso... yo me atrevería a decir, ha habido un caso pintoresco y curioso, muy brevemente se puede relatar, si usted... Sucedió con una persona muy allegada a nosotros, donde, debe llegar las 80 o 90 donaciones de sangre, de Quintanar de la Orden; donó en un fin de semana, que desplazamos desde Madrid a la... a un pueblo... a este pueblo de la provincia de Toledo, donó un domingo y sufrió un accidente el lunes por la mañana. Se... le ingresaron en Madrid, curiosamente, y en el mismo hospital que le habían realizado la extracción. Como era conocido además, miraron y había durado todavía esas 24 horas justas para que la primera bolsa de sangre que le transfundieran, fue la suya misma.
+H1: Y le salvó la vida.
+H2: De alguna forma, efectivamente.
+H1: Muchísimas gracias, y que sigan ustedes con esta... esta importante labor.
+H2: Muchísimas gracias a usted.

@@ -1,0 +1,49 @@
+#archivo: cadm038a
+#fecha de grabación: 17-6-91
+#fuente: recepción de un centro público
+#localización: Madrid
+#términos: estudios
+#H1: mujer, c. 40 años
+#H2: conserje. Varón, c. 25 años
+#H3: mujer, c. 25 años
+H1: El horario es todavía el de invierno ¿no?
+H2: Hasta el mes que viene sí.
+H1: ¿Hasta el uno de junio?
+H2: De nueve a una y media y de tres a cinco.
+H1: De nueve a una y media y de tres a cinco.
+H2: De tres a cinco. Hola.
+H3: Hola. Mira, quería preguntarle sobre las becas de la Caixa, aquí... ya estuve otra vez en el...
+H2: Sí, pero es que [solapamiento de turnos] aquí
+H3: en información [fin de solapamiento de turnos].
+H2: lo único que... te van a dar de la Caixa es eso.
+H3: Ya, bueno, pero es una pregunta de una cosita de aquí. [silencio]
+H2: Pues ahora la señorita no está. Se ha ido.
+H3: ¿No? ¡Qué faena!
+H4: [ininteligible] a mirar el tablón.
+H3: Pero y... pero si cualquiera de las que hay allí. Si es que no es una cosa expresamente de aquí, es sobre los planes de estudio en Gran Bretaña. Seguro que cualquiera me lo puede decir.
+H2: ¿Sobre los planes de estudio en Gran Bretaña entonces eso no es en becas. [solapamiento de turnos] Eso
+H3: Bueno [fin de solapamiento de turnos]
+H2: ya es en... el departamento de información.
+H3: Ya...
+H2: Para ir a estudiar allí.
+H4: Quiero decir
+H3: Claro.
+H4: que iba a pasar ahí para que nos dijeran: "Mira, tenéis que [ininteligible]"
+H3: Claro. Yo quería hablar con ellas por eso, porque sé que siempre que he tenido una duda se lo he preguntado a ellas y me lo han [solapamiento de turnos] resuelto.
+H2: Tú [fin de solapamiento de turnos] quieres ir a Inglaterra a estudiar.
+H3: Sí. Claro es que esto es para eso.
+H2: Ya.
+H3: Y te piden plan de estudios.
+H2: Sí, donde vas a ir y esas cosas.
+H3: Sí.
+H2: Déjame tu... documentación. [silencio]
+H4: ¿La mía también?
+H2: Si haces el favor. [silencio]
+H2: Ahora mismito acaban de llegar.
+H5: Ahora mismito. Vale, gracias. [silencio]
+H2: Esperar ahí un momentito que os vengan a buscar.
+H3: ¡Ah! [solapamiento de turnos] Vale.
+H2: [ininteligible][fin de solapamiento de turnos] Quédate con eso.
+H3: Vale. Gracias.
+H2: De nada.
+H4: Hasta luego.

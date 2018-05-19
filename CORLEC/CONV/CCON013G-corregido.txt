@@ -1,0 +1,147 @@
+#archivo: ccon013g
+#fecha de grabación: 16-5-91
+#fuente: conversación después de una clase en el bar
+#localización: Madrid
+#términos: justicia, viaje, aborto, Inglaterra
+#H1, H3, H4, H5, H6, H7, H8 alumnos de inglés
+#H1: varón, 40 años. Administrativo de justicia
+#H2: mujer, 24 años, profesora de inglés
+#H3: mujer, 40 años, decoradora
+#H4: varón, 22 años, estudiante de derecho
+#H5: mujer, 30 años, secretaria
+#H6: varón, 28 años
+#H7: mujer, 25 años. Mujer de H6
+#H8: mujer, 30 años
+#H9: mujer, 40 años
+H1: Pues me he quedado excesivamente empotrado en este lado y ahora quiero desplazarme.
+H2: Ah, pues que se vengan... Es que hacemos un corro muy grande.
+H1: Ya les he aburrido, ahora os aburro a vosotros. [risa]
+H3: Pues a ver, empieza.
+H1: No, pues podemos trazar el programa de nuestro... de nuestra visita británica.
+H3: Seguro que no voy a poder...
+H2: Muchas veces da pereza viajar y...
+H1: Si están muy baratos los viajes en avión.
+H2: A Londres está barato ahora.
+H1: Sale 17000 pelas ida y vuelta.
+H3: Fíjate.
+H1: [ininteligible] sí. Más baratos que a París.
+H2: Bueno pero en temporada baja, ¿no?
+H1: No, ahora, ahora, ahora.
+H2: ¿Ahora?
+H4: Es que han bajado.
+H1: Es que hay una reducción de tarifas de hasta el sesenta por ciento.
+H4: Sí, sí, ahora...
+H1: Por 17000 pelas vas y vienes.
+H5: Alquilamos una vannette de esas y nos vamos...
+H1: No, yo para eso un autobús de dos pisos. Hay que ir como propios, ¿no? Como los ingleses, joder. Se lo pedimos al [siglas]PSOE[fin de siglas] que lo tiene para la campaña.
+H5: Pero ya tenemos que tener el carnet especial para conducir.
+H1: No.
+H5: ¿Cómo que no?
+H6: ¿Qué? ¿El carnet internacional? Pero eso te lo sacas aquí...
+H1: Además mira, luego podemos hacer lo siguiente: las chicas se pueden poner un bombo...
+H6: ¿El carnet de conducir internacional?
+H5: Estoy diciendo que alquilamos una vannette y nos vamos todos y nos sale más barato.
+H1: Que no, que no. Mira, hay descuentos... María,
+H5: Digo [ininteligible]
+H1: hay descuentos y subvenciones para... No, no, para personas que van a practicar un aborto. Entonces se ponen unos bombos eh... simulados
+H:[ininteligible]
+H1: Que no, que no, para... para hacer un aborto y te pones unos bombos [ininteligible] y ...
+H2: ¿En serio que hay descuentos especiales?
+H1: Hay sitios de acogida, hay albergues... ¿Vale? [ruido][ininteligible]
+H3: ¡Sólo faltaría más!
+H1: Hombre no. Tú le demuestras lo de la ley de plazos y no hay problema, tía.
+H3: ¡Qué graciosos! ¿Verdad? Vosotros como [ininteligible] y nosotras...
+H1: Nosotros también, ¡che, che, che! ¿He dicho que nosotros no? Yo he dicho que todos.
+H3: Has dicho las chicas.
+H1: He dicho que todos. Melenas... melenas... [silencio]
+H3: [ininteligible] Íbamos a salir en los periódicos.
+H1: No, el otro día una chavalita... Es chungo, de verdad, es chungo. Una chavalita de quince años. Dicen que inhaló monóxido de carbono. Yo estoy convencido que se metió debajo el agua. En una bañera. Con quince años, embarazada deseando [vacilación] abortar, no pudiendo hacerlo y... en una bañera...
+H3: ¿Con cuántos años?
+H1: Quince. Y se ha quedado. Yo estoy convencido que es eso. [silencio] Estaba desesperada, muy cabreada... y se ha quedado abajo, en una bañera. Es jodido, ¿eh? [silencio] Y me acordé de eso. Y había un guardia civil por allí paseando y yo en eso soy un poco morboso. Estaba la amiga que la prestó... gente muy humilde que pasó de una casa a otra que habían hecho un cuarto de baño y... y la tal... Paloma es la muerta, ¿no? sí, y... bueno, pues la otra y tal que era muy amiga suya, llorando y tal muy desconsolada y yo, pues claro, le puse la nota... enfática al asunto porque a mí eso, claro, me pone enfermo. Las consecuencias de las leyes represivas... pasaba un Guardia Civil y se paró, digo, sí... [ininteligible]
+H3: Venga, fúmate un cigarro, anda, y déjate.
+H1: No, que luego me da el ataque.
+H3: Tú sólo fumas una vez [ininteligible] en el descanso.
+H1: No, pues ahora... por lo menos. Ahora había una movida muy guapa ahora de insumisos ahí, en la puerta del Ministerio. Y... como estáis aquí... [risa]
+H2: Pues vete, vete. Oye y ¿qué pasó el otro día en Cuatro Caminos...?
+H1: Un secuestro.
+H2: Un viejo que había secuestrado a su médico...
+H1: Y con razón.
+H2: ¿Cómo... cómo era eso?
+H1: A su médico no, a un forense.
+H2: ¡Ah! cuenta. Es que yo no me enteré.
+H1: Le fueron a desahuciar. Es una causa... es una causa... o está en desahucio o ruina o simplemente que no paga o que está eh... ganada la demanda para restituírsela al propietario porque la tenía alquilada... por mil razones le echan. El hombre tiene 59 años, está prejubilado por una invalidez y... nació allí. Y claro, la querencia y el arraigo que tienes en un domicilio después de 59 años es muy gordo. El tío pilló una pistola, le encañonó al tío y dijo: "Aquí no salgo..." Fue una... enajenación temporal. El hombre no controló y... está preso, está... ha entrado preso esta mañana.
+H2: ¿Ha entrado preso?
+H1: Ha entrado detenido por la policía esta mañana. Eso [ininteligible]... ha recibido declaración el Juzgado esta mañana, el 25, y le han mandado a Carabanchel a... por la tarde.
+H2: Y... pero ¿eso no tendrá que estar mucho tiempo ahí o...?
+H1: No. Luego habrá un informe sicólogo, digo, siquiátrico, en el sentido de que ha habido un trastorno mental transitorio y ya está. Y es una de las... atenuantes importantes...
+H3: Pero ¿por qué le querían echar?
+H1: No sé si por un desahucio, por razón de... de reversión de la propiedad y uso al propietario o por un desahucio administrativo por der[palabra cortada]... o ruina, no lo sé.
+H4: Yo lo que había oído es que ... [ininteligible]
+H3: [ininteligible]
+H4: el piso en el que estaba que no lo tenía en propiedad, un vecino lo había comprado y estaba a ver si lo podía echar.
+H1: Ese es el tema. Será entonces una...
+H4: Entonces la policía fue a...
+H1: un declarativo con... un declarativo de restitución de... del bien, claro.
+H4: echarlo y... aprovechó...
+H1: 59 años.
+H3: [ininteligible] viejito, que te echen...
+H1: Claro. La reacción es natural, es natural. [ruido][ininteligible]
+H1: Muy triste, muy triste. Por eso hay que irse a la Gran Bretaña, allí lo pasan muy bien. Ahora que han ganado la Copa de...
+H2: Parece que haga campaña publicitaria.
+H1: No, ahora que han ganado la Recopa estarán contentos, se les ha readmitido en el club internacional de fútbol que antes por indeseables e impresentables habían sido expulsados. Yo sigo pensando que son indeseables e impresentables. [silencio]
+H3: Hombre, de todo habrá... como en todos los sitios.
+H6: Ayer te calmarías. Veinte minutos después del partido, en el campo...
+H1: Eso lo que prueba...
+H6: Al que gana[palabra cortada]... al que ganara [ininteligible] se tenían que quedar después de que terminara veinte minutos o media hora. Y los otros...
+H7: Y los otros se iban corriendo por la cuenta que les tenía. [risa]
+H1: No, lo que pasa, que en la movida [ininteligible] del estadio [ininteligible] y el estadio ese otro de... el estadio de... Lo que prueba es una máxima que yo siempre he tenido serias dudas de que sea cierta que es la máxima que defienden los anarquistas de siempre, [extranjerismo]Bakunin [fin de extranjerismo] y... [ininteligible] el tema de que la cultura es un arma revolucionaria porque cultiva a las masas y las masas de esa manera pues elevan su nivel... en Inglaterra. Estoy convencido que en Gran Bretaña y en Francia y en Alemania el nivel cultural es superior al nuestro, sin embargo el que haya el salvajismo social que hay en estos países también es superior al nuestro.
+H4: No digas que los [extranjerismo]hooligans[fin de extranjerismo] tienen mucha cultura.
+H1: No, no, no, yo digo los niveles, por lo menos públicos, ¿eh? Y a nivel de inversión...
+H4: Pero los [extranjerismo]hooligans[fin de extranjerismo] esos que ves en Alicante y en Benidorm y demás [ininteligible]
+H1: Bueno, vale, pero entonces... con toda la tradición que tienen, la buena gente, el presupuesto que gastan, ¿por qué no han logrado cultivar esas mentes salvajes? ¿por qué?
+H8: Eso es un problema sicológico que tienen...
+H1: No, no, no...
+H8: La pérdida del Imperio.
+H1: ¿Y los alemanes? ¿También han perdido...? ¿cuál? No han tenido nunca ninguno.
+H8: Pero... no creas que allí se comportan igual.
+H1:[ininteligible] ningún imperio. [ininteligible] ¿Cuál? La República de Weimar. [risa]
+H1: [extranjerismo]Vade retro. Vade retro.[fin de extranjerismo]
+H4: La Universidad Alemana... eh... yo he estado en un curso aquí... [ininteligible] es porque estaba en un seminario de un profesor alemán, de la Universidad de Hannover. Decía que es que, no le cabía en la cabeza que... estuviésemos matriculados 30000 personas en Derecho,
+H1: Claro, claro...
+H4: En la Complutense.
+H1: ¿Y en Gran Bretaña? tío, que hay cuatro tíos abogados
+H4: Es que es... [ininteligible]
+H2: Y tú ¿qué le decías? que a nosotros tampoco pero nos da igual, ¿no?
+H3: Claro...
+H4: Pero es que de setenta millones de personas... y... no habrá más de cuarenta o cincuenta mil personas haciendo Derecho.
+H9: [ininteligible] complicarse la vida.
+H4: O sea, prácticamente la...
+H2: Ya, pero sí está claro que aquí, eso, como... se ha desprestigiado los trabajos manuales que no sé por qué pero...
+H9: Yo conocía a un chico de... Almería que era muy bruto y hablábamos un día y decíamos: " Es que esto es incomprensible porque..." y decía: "Esto no es de entenderlo, es asín y es asín". Y ya está. [risa]
+H1: Es un axioma. Un axioma, claro. [risa]
+H9: Además...
+H2: Como el inglés, ¿no? Esto no es de entenderlo. Es así y es así.
+H1: Como la fe, como la fe.
+H9: No además decía "asín". "Es asín y es asín".
+H1: Es asín.
+H9: "Esto no es de entenderlo". [silencio]
+H1: [extranjerismo]Joan[fin de extranjerismo] Ramón, si tú fueras británico lo tendrías muy chungo, tío. ¿Tú sabes cuántos abogados hay en la... Gran Bretaña?
+H4: Ya pero... [ininteligible]
+H1: [ininteligible] Ahora ya, por la normativa comunitaria tienen que abrir la mano. [ruido][ininteligible] [interrupción de la grabación]
+H2: Resulta que un armario empotrado, ¿sabes lo que vale?
+H6: Muchísimo.
+H2: ¿Vosotros sí que lo sabéis?
+H7: Porque lo estamos padeciendo.
+H2: ¿Lo estáis padeciendo?
+H7: No, lo hemos padecido.
+H2: Lo habéis padecido.
+H7: Es increíble.
+H2: Bueno, pues yo indignada. O sea, de esos de puertas correderas eh... doscientas cuarenta mil...
+H6: ¿De cuántas puertas?
+H2: De tres puertas.
+H3: Ah... de tres puertas.
+H2: Claro, hombre, grandecito... pero es que...
+H3: Es que es muy grande...
+H2: es que si no pues te lo compras... lo bueno del armario empotrado es [ininteligible] porque para algo pequeño pues te compras uno hecho...
+H3: Claro.
+H2: Pues, oye, cuando me dijeron: "Doscientas cuarenta mil"

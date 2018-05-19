@@ -1,0 +1,53 @@
+#archivo: BCON015E
+#fecha de grabación: 20-9-91
+#fuente: radio
+#localización: Madrid
+#términos: canción, santo, madre, banda sonora
+#H1: varón, c.40 años, presentador
+#H2: mujer, edad ignorada
+#H3: mujer, c.15 años
+[canta][texto no transcrito][deja de cantar]
+H1: ¡Hola!, [extranjerismo]My love you[fin de extranjerismo]... ¡hola!, Loli, ¿cómo estás?
+H2: ¡Hola!, buenos días, [solapamiento de turnos] José Luis.
+H1: Bie[palabra cortada]... bien... [fin de solapamiento de turnos] bienvenida, [solapamiento de turnos] aquí estamos.
+H2: ¡Qué difícil [fin de solapamiento de turnos] es hablar contigo!
+H1: ¡Qué alegría!, ¿no?
+H2: Eso digo yo.
+H1: Pues venga.
+H2: ¡Qué difícil es hablar contigo!
+H1: A ver.
+H2: De verdad.
+H1: Cuente... cuente... [solapamiento de turnos] cuente.
+H2: Toda [fin de solapamiento de turnos] la mañana. [risas]
+H1: Venga... venga Loli, cuente... cuente... [solapamiento de turnos] cuente.
+H2: Oye, [fin de solapamiento de turnos] que es el santo de mi madre y quiero felicitarla.
+H1: Pues me parece muy bien... me parece muy bien.
+H2: A mi madre y a doña Carmen Romero.
+H1: ¡Ole!, y a doña Carmen también.
+H2: Con un abrazo para las dos.
+H1: Muy bien.
+H2: Sevilla.
+H1: Gade... vale Loli, [solapamiento de turnos] Sevilla.
+H2: Ponme [fin de solapamiento de turnos] aunque sea un poquito.
+H1: Pero hoy no puede ser porque [solapamiento de turnos] tenemos una lista...
+H2: ¡Hombre!, un poquito [fin de solapamiento de turnos].
+H1: ...tenemos una lista de espera interminable, Loli. No podemos hacer excepciones [solapamiento de turnos] porque sino
+H2: Bueno, pues [fin de solapamiento de turnos] hazte que tú y dale que te pego y nada.
+H1: ...eh... se quejan los demás oyentes. Tenemos que respetarlo para todos lo mismo.
+H2: Bueno, un abrazo, [solapamiento de turnos] José Lu[palabra cortada]...
+H1: Pero [fin de solapamiento de turnos] mañana lo decimos, Loli. No se preocupe.
+H2: Vale...
+H1: Un abrazo fuerte. [solapamiento de turnos] Adiós.
+H2: Adiós [fin de solapamiento de turnos].
+H1: Otra llamada que tenemos en antena. ¡Hola!, buenos días.
+H3: ¡Hola!
+H1: ¿Qué tal?
+H3: Bien.
+H1: ¿Su nombre?
+H3: Miriam.
+H1: ¡Hola!, Miriam. ¿Qué quieres escuchar?
+H3: Pues me gustaría... la banda sonora de "Nueve semanas y media".
+H1: "Nueve semanas y media". Muy bien. Será también mañana, Miriam.
+H3: Vale.
+H1: Un abrazo fuerte.
+H3: Hasta luego. [música]

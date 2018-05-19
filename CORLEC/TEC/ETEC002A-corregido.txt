@@ -1,0 +1,479 @@
+#archivo: ETEC002A
+#fecha de grabación: 18-03-91
+#fuente: teléfono de empresa
+#localización: Madrid
+#términos: controlador, rango, transmisor, presión, entrada, salida, aspiración, impulsión, descarga, documentación, plano, consola, válvula, minuto, pulso, cúbico, caudal, banco, turbina, estación, reinyección, purga, bomba
+#H1: varón, ingeniero técnico, 36 años
+#H2: varón, ingeniero técnico, 28 años
+#H3: varón, ingeniero de proyecto, 40 años
+#H4: varón, ingeniero, 41 años
+H1:... ¡No, qué hermano! ¡Oh, [vacilación] o mi hermano! [risas]
+H2: ¡Vale!
+H1: ¿Está por hay o qué?
+H2: ¡Sí hombre! Sí, ahora se pone.
+H1: ¡Oye, pero no [vacilación] no he llamado al número de teléfono de él?
+H2: Sí, pero [vacilación] estoy cerca.
+H1: ¡Estáis juntos pero no revueltos!
+H2: ¡SÍ! [risas] ¡Vale, te paso, ¿eh?
+H1: Vale, [solapamiento de turnos]gracias.
+H2: ¡Hasta luego![fin de solapamiento de turnos].
+H3: ¿Qué quieres, Ramón?
+H1: Vamos a ver, mira, es que estoy aquí con [extranjerismo]Fisher Porter[fin de extranjerismo]...
+H3: ¡Sí!
+H1: ...ya [vacilación] funcionan los lazos de... perfectamente de [duda] de la [extranjerismo]P.C.V.[fin de extranjerismo]...
+H3: Pero [extranjerismo]Fisher Porter[fin de extranjerismo] esto es [vacilación]...
+H1: ...de los controladores.
+H3: ¡Pero esto es en Za[palabra cortada]... en Tarragona!
+H1: ¡En Tarragona! ¿Vale?
+H3: [afirmación] ¡Sí!
+H1: Eh... te puedo decir, bueno pues cómo está todo...
+H3: ¡Sí!
+H1: ¡Eh? Eh [vacilación] los rangos y todo eso, y también quería hablar contigo sobre los rangos de lo del transmisor de [vacilación], de lo de del [siglas]TA.LE.ZA.[fin de siglas] porque [duda] eh... tiene opción él de cambiar ya los programas, ¿no?
+H3: Sí.
+H1: Entonces, te puedo decir ¿empezamos con [vacilación] el [siglas]TA.BA.GE[fin de siglas] y luego [vacilación]?
+H3: Bueno, yo te lo, te lo comenté, ¿no? Cómo estaban los rangos, ¿o no?
+H1: [vacilación] No lo sé; es que ¡me faltaban de esos! Yo... ¡comentamos! lo que había de [vacilación] de Zaragoza ¡muchísimo! ¿Me oyes?
+H3: Sí.
+H1: Y de lo de ... ha Hasta mañana.
+H3: ¡Hasta mañana! Sí, perdona. ¡Sigue, sigue, sigue!
+H1: ¡Bien! Bueno, pues entonces eh... [vacilación] el tema [vacilación], el tema queda de la siguiente forma: el [vacilación] [siglas]PC[fin de siglas] de entrada, éste era 4 kilos...
+H3: Sí.
+H1: ¿No?
+H3: Espera un momento, ¡un momento, un momento! ¿Eh? ¡Un momento!
+H1: Sí.
+H3: ¡Oye, pásame! ¿Me puedes pasar ahí?
+H2: ¿Eh? ¡No! ¡Ponte aquí!
+H3: ¡No, hombre, no! ¡Joder! [ininteligible] ¡Pásame! ¡No me, no me, no me pu[palabra cortada]...!
+H2: Y luego se corta... ¡Siéntate allí! [silencio]
+H3: ¡Espera que es que de memoria...! ¡Me oyes?
+H1: Sí. Que sí... [ininteligible] ¡...nada!
+H3: Vamos a ver, [siglas]TA.BA.GE[fin de siglas], presión de entrada, de cero a kilos.
+H1: Sí.
+H3: Está mi hermano aquí. Espera un momento, que está Miguel Delís. ¿Miguel Delís?
+H1: ¡Jolín!
+H3: ...¡Ya me lo ha dicho Chema! Bueno, pero ¡ya! ¡Como él es el jefe! ¡Un momento! Me dice Miguel Delís, que lo tengo aquí...
+H1: Sí.
+H3: [ininteligible] un momento que estabas hablando conmigo.
+H1: Sí.
+H3: Si tú tienes en Tar[palabra cortada]... en Lérida...
+H1: Sí.
+H3: ...¡todos del [vacilación] de la documentación de Abengoa del [siglas]MI.PA.ZA[fin de siglas]! ¿Me explico?
+H1: ¿Todos los planos... [interrogación]?
+H3: La dogument[palabra cortada]... la documentación de Abengoa del [siglas]MI.PA.ZA[fin de siglas], es decir, ¡Monzalbarba!...
+H1: Sí.
+H3: ...¡Pamplona, Miranda! ¿Los tienes?
+H1: Mira [vacilación], ¡escucha! ¡Yo tengo... [solapamiento de turnos]prácticamente...
+H3: ¡Espera, espera[fin de solapamiento de turnos], espera, un momento...
+H1: ...sí.
+H1: ...que te lo paso, y así él sabe exactamente... [duda]...
+H1: ¡Venga!
+H3: ...lo que [vacilación] te falta.
+H1: Venga.
+H4: ¿Qué pasa, Ramón?
+H1: Hola, ¿qué tal?
+H4: ¿Qué hay?
+H1: ¡Mira, estuvimos! [vacilación] Y... [duda] ya te lo... [duda], ¡imagino que te lo habrá dicho [risas] por lo de [siglas]DI.SE.PRO.SA.[fin de siglas] que te habrá pedido algo! ¿No?
+H4: Exactamente.
+H1: Sí, bueno [vacilación].
+H4: ¡No! Yo es que tengo aquí un colección, pero era ¡dársela, pero [solapamiento de turnos]es que si se la doy me quedo sin nada!
+H1: Bueno, claro, yo tengo[fin de solapamiento de turnos] ¡escucha! A mí me me enviasteis, primero, la colección de Abengoa...
+H4: Sí.
+H1: ...¡la tengo! Que... [duda] era, ¡me enviasteis de todo!
+H4: Sí, por ahí.
+H1: Es u... [vacilación] un... [vacilación] un esto de color gris...
+H4: Sí.
+H1: ...que digamos que es... [vacilación] el sitio, digamos de lo que es la consola...
+H4: [afirmación].
+H1: ...y han hecho muchas reformas, que la estamos reformando ya.
+H4: Sí.
+H1: Porque ya se lo he dicho a él, digo: "Oye, [onomatopeya] déjame 1cinco días y [duda] y... y te la daré ya toda completa".
+H4: [afirmación].
+H1: Me entiendes, ¿no? Y, eh... [vacilación] tengo, pues [vacilación] eh... pues ¡equipos! ¡Había bastante! Pero...
+H4: [afirmación].
+H1: ...¡lo que me faltaba, que es lo que me pedía a mí era...! [duda] El... digamos... [duda] lo que es el [extranjerismo]Manifold[fin de extranjerismo].
+H4: [afirmación].
+H1: ¿Me entiendes, no? Dice... y lo estuvimos mirando y digo: "¡Chico!"; digo: "No creo que lo tengo". Y había, pues ¡tengo muchos tomos gordos! ¡Bueno...! [onomatopeya] ¡Una montonada! ¡Pues habrá unos seis o siete!
+H4: [afirmación].
+H1: ¡Y en ninguno de esos apareció!
+H4: Pero el [extranjerismo]Manifold[fin de extranjerismo], ¿a qué? ¿En la parte mecánica dices? ¿O qué?
+H1: La parte mecánica ¡y el [extranjerismo]P. and I.[fin de extranjerismo] de los instrumentos.
+H4: ¡Ah, bueno! Bien.
+H1: ¡Me entiendes? Digo: "¡Yo que sepa eso no!" Digo: "Yo te puedo conseguir ¡uno de los viejos del [siglas]TA.LE.ZA[fin de siglas]...
+H4: [afirmación].
+H1: Dice: "Hombre, eso pues a lo mejor...". Digo: "Pues [duda] ¡y eso sí que te lo puedo conseguir!". Pero el [siglas]TA.LE.ZA[fin de siglas] unido con el... con el [solapamiento de turnos][siglas]RO.TA.ZA.[fin de siglas]...
+H4: Sí, sí[fin de solapamiento de turnos].
+H1: ...me parece qu[palabra cortada]... ¡yo no lo he visto!
+H4: [duda].
+H1: Digo: "No lo sé... sé, y si lo tendréis, [vacilación]...
+H4: [afirmación].
+H1: ...lo tendréis allí en[duda]...".
+H4: Sí, sí.
+H1: Eso no lo he, ¡eso yo no le tengo!
+H4: [afirmación].
+H1: Dice: "¡Hombre. ¿seguro?". [ininteligible] Dice: "Aquí hay un montón de li[palabra cortada]..." ¡Empezamos a mirarlos!" Dice: "¡Oye, pues...!", dice: " ¡Te tengo que dar la razón!" Digo: "¡Mira, aquí están todos los libros"!
+H4: [afirmación].
+H1: Y lo miramos y no estaban.
+H4: ¡No, no, no [vacilación]! [solapamiento de turnos]Lo... [vacilación] lo... [vacilación] lo que...
+H1: Entonces ¡no me envíes![fin de solapamiento de turnos]. ¡Porque si me vas a enviar otra vez toda la colección de libros...!
+H4: ¡No, que no! ¡Si es al revés! Si es que como ellos me han traído un montón de cosas, yo era por darlos esta colección, sabiendo que tú [vacilación] o alguien tiene una entera por si luego hace falta para algo.
+H1: Ya.
+H4: O sea, es... [vacilación] es...
+H1: Yo... me falta eso, eso... [duda] me falta.
+H4: Bueno, pero esos son los [extranjerismo]P. and I.[fin de extranjerismo], que eso va a parte; esos sí, esos los tengo yo por aquí por otro lado.
+H1: Es que eso yo no lo tengo, los [extranjerismo]P. and I.[fin de extranjerismo].
+H4: [onomatopeya] Vale, vale.
+H1: Me entiendes, ¿no?
+H4: Sí, sí. Pero vamos, todo lo que es la comun[palabra cortada]... la documentación de Abengoa, en el tomo de Abengoa, esa tú la tienes, ¿no?
+H1: ¡Toda la documenta[palabra cortada]...! ¡Yo tengo [duda] to[palabra cortada]...! A mí me habéis, me habéis, me habéis enviado unos tomos...
+H4: Sí.
+H1: ...gordísimos, ¡además los habéis ¡de todo!
+H4: Sí, sí, sí.
+H1: Tanto de Pamplona [solapamiento de turnos]como en todo.
+H4: Por eso, si yo[fin de solapamiento de turnos], yo era asegurar que tú tenías de todo...
+H1: Sí.
+H4: ...para... [duda] a... si se los dejamos, y en caso de que [vacilación] luego se necesiten por algo [solapamiento de turnos]saber que en un sitio están todos.
+H1: Sí, sí, y además los planos[fin de solapamiento de turnos], perdona, los planos que yo tengo [vacilación] ¡seguro, seguro que [ininteligible] también los tiene! Porque a mí me hab[palabra cortada]... me habéis enviado [solapamiento de turnos]¡tanto planos de Pamplona, como de...!
+H4: Sí, sí. Nosotros teníamos te[palabra cortada][fin de solapamiento de turnos] tres copias, y os mandamos dos y la tercera nos quedamos nosotros.
+H1: ¡Claro!
+H4: Por eso.
+H1: ¡Pero es de todo! ¿Eh?
+H4: Ya, ya.
+H1: Yo lo tengo de todo, exceptuando que eso no está.
+H4: ¡Vale, vale, vale! Bien.
+H1: ¿Me entiendes? Los [extranjerismo]P. and I.[fin de extranjerismo] y todo eso no lo tenemos.
+H4: Vale, vale, era aclarar eso.
+H1: Eso era, entonces nosotros hemos hecho la reforma...
+H4: [afirmación].
+H1: ...que ha sido añadir dos válvulas más...
+H4: [afirmación].
+H1: ...dos transmisores de presión más, que ya me ha dicho Candela, dice: "Oye, yo te envío, porque he conseguido una copia de esas...". Digo: "Tú envíamelas, yo te lo pongo...".
+H4: Vale.
+H1: ¿Me entiendes? "...Yo me hago una fotocopia para mí..."
+H4: [afirmación].
+H1: "...y... [duda] yo te lo pongo a lápiz, te digo el rango y todo esto y tal, y las válvulas que se han motorizado y que de han puesto..."
+H4: [afirmación].
+H1: "...y entonces ya pues [vacilación] lo notificáis vosotros".
+H4: Vale, vale.
+H1: Porque yo no tengo ningún delineante ni nada.
+H4: [afirmación].
+H1: Eso ya he quedado con Candela, que eso ya me lo iba a enviar por mi hermano o como fuera me lo enviaba.
+H4: Vale, vale [solapamiento de turnos]pues ahora...
+H1: Porque claro[fin de solapamiento de turnos], yo ahí si que no puedo modificar nada porque no lo tengo.
+H4: [afirmación].
+H1: El plano ese.
+H4: [afirmación] Vale, vale. Pues era confirmar esto. [solapamiento de turnos]Vale, Ramón.
+H1: Vale, pues perfecto[fin de solapamiento de turnos].
+H4: Bueno...
+H1: De acuerdo...
+H4: [solapamiento de turnos]Vale...
+H1: Vale[fin de solapamiento de turnos]...
+H4: ¡Hasta luego!
+H1: ¡Hasta luego! ¡Adiós!
+H3: ¿Alguna cosa más? ¡Ramón!
+H1: Sí.
+H3: Mi teléfono, es que me han puesto uno, es cinco mil setecientas cuarenta, ¿eh? Lo tienen por ahí.
+H1: Ahora es cinco[duda], ¡si he llama(d)o cinco mil setecientas cuarenta!
+H3: ¡No! Al cinco mil trescientas ochenta y ocho, me has llamado.
+H1: ¡Oye! He marcado... [silencio] ¡Oye! [duda] ¿Seguro?
+H3: ¡Seguro!
+H1: ¿Te llamo ahora a tu teléfono?
+H3: ¡Hombre! Mi... mi teléfono [ininteligible], si no no; ahora estoy en esta mesa, tranquilo,, es que... [solapamiento de turnos]esas cosas...
+H1: ¡No, no, no! ¡Es que he llamado al[fin de solapamiento de turnos]...
+H3: Los otros se han puesto... los otros se han puesto en mi mesa.
+H1: ¡Que yo antes te he llamado al cinco mil setecientas cuarenta, Dámaso!
+H3: [onomatopeya] Pues me ha salido el cinco mil trescientas ochenta y ocho, bueno [ininteligible].
+H1: ¡Pues te lo juro, que te... [duda] vuelvo a llamar!
+H3: ¡Que no me llames, es igual! ¡Tranquilo!
+H1: ¡Oye, no! ¡Que... [vacilación]!
+H1: ¡Ahí... [solapamiento de turnos]hay una equivocación! ¡Eh! ¡Dámaso!
+H3: ¡Que no, que están en la otra mesa![fin de solapamiento de turnos]... Que están en otra mesa, déjalo, es igual, ¡me da igual! ¡Venga, sigue!
+H1: Pero... lueg[palabra cortada]... luego te llamo cuando cortemos, otra vez.
+H3: Venga. Presión de entrada, estación del [siglas]TA.BA.GE.[fin de siglas] de cero a 4 kilos.
+H1: Sí, [vacilación] el [siglas]P.I.C.[fin de siglas] ciento trece, de cero a dieciseis kilos.
+H3: El [siglas]P. and I.[fin de siglas]... ¡Espera, espera, espera, espera...! El presión de aspiración [onomatopeya], ¿estamos en el [siglas]TA.BA.GE[fin de siglas] o en el [siglas]TA.LE.ZA[fin de siglas]?
+H1: Estamos en el [siglas]TA.BA. GE[fin de siglas]. Presión de salida de las bust[palabra cortada]... de las [extranjerismo]Booster[fin de extranjerismo], ¿me oyes?
+H3: Bueno, sí, pero nosotros no [vacilación]...
+H1: De cero a dieciseis.
+H3: Nos[palabra cortada]... nosotros lo que tenemos es presión de aspiración.
+H1: Vale. [vacilación], y [duda] es presión también de banco de turbinas, de cero a dieciseis.
+H3: Sí, ciento veintinueve; sí, [solapamiento de turnos]eso está bien, venga..
+H1: Vale[fin de solapamiento de turnos].
+H3: ¡Luego, presión de impulsión en... [duda] [vacilación]!
+H1: ¡Presión... presión de impulsión de cero a ciento sesenta kilos!
+H3: Sí, ¡[extranjerismo]O.K.[fin de extranjerismo]! [solapamiento de turnos]¡Venga!
+H1: Y luego[fin de solapamiento de turnos]...
+H3: ¿Presión de salida de estación?
+H1: Presión [vacilación] de [duda]...
+H3: ¡De salida de estación...!
+H1: ...¡No! ¡Presión de descarga de [siglas]P.C.V.[fin de siglas], de salida de pe[palabra cortada]... [vacilación] de [duda]...!
+H3: De [duda] exc[palabra cortada]... de estación, de ce[palabra cortada]...
+H1: ...Ciento [duda] ciento cuarenta kilos.
+H3: ¡Sí! Es[palabra cortada]...
+H1: Presión de salida ciento cuarenta kilos.
+H3: ¡Estoy... estoy de acuerdo, Ramón, en eso! ¡Eh!
+H1: ¿Vale?
+H3: ¡Estoy de acuerdo!
+H1: Eh... [duda], ¡perdona! Eh... [duda] luego, la reinyección...
+H3: Aquí decimos de cero a eh... [duda], caudal de reinyección de purgas de cero a veinticinco, ¡a tope!
+H1: ¡No me jodas!
+H3: ¡A tope!
+H1: Hemos puesto [duda] de cero a diez metros cúbicos hora, ¡pero tiene que ser en litro minuto, porque si no este equipo no lo da!
+H3: Bueno, yo le he puesto [solapamiento de turnos]de cero a cero...
+H1: ¡Porque son cien pulsos![fin de solapamiento de turnos]...
+H3: ¡Le he... le he puesto de cero a veinticinco, bueno, qué le vamos a hacer! [risas] Es que esto se dijo así; en los demás sitios se... dijimos de cero a cinco, pero en... [vacilación] en salida, a tope. El... [duda] el equipo va de cero a 2cero.
+H1: ¡Oye, pues bueno, si quieres lo cambiamos nosotros! ¡Lo podemos cambiar!
+H3: ¡Es que habían... ellos habían puesto de cero a cuat[palabra cortada]...!
+H1: ¡Pero ten en cuenta que va este en litro a minuto, si no este equipo no lo puede! ¡Porque son cien pulsos a un litro, y entonces el equipo no lo da!
+H3: ¿Litro a minuto, dices? ¿De cero a veinticinco, has dicho?
+H1: ¡No! ¡Son... [duda] son de cero... de... [duda], me parece que habían puesto de cero a diez metros cúbicos hora, que eso equivale a ciento setenta y seis punto siete litro minuto!
+H3: Sí. ¿Y no puedes poner cero veinticinco? ¿Es factible o no?
+H1: ¡Hombre, claro! Tengo aquí [ininteligible] al de [extranjerismo]Fisher and Porter[fin de extranjerismo] y me... ¡lo cambiamos ahora mismo!
+H3: ¡Ponlo, ponlo! ¡Que ya está mandado todo esto a [siglas]A.B.B.[fin de siglas] y todo esto!
+H1: ¿De cero ...?
+H3: A veinticinco, el máximo.
+H1: [vacilación] Metros cúbicos hora, pero lo que pasa es que aquí [duda] señalará minutos, litro minuto, ¡eh!
+H3: ¡Bueno, es igual! ¡Da lo mismo, hombre!
+H1: Bueno... [duda]
+H3: Serán litros minuto, ¿no?
+H1: De acuerdo; ¿en los demás sitios de cero a cinco?
+H3: Sí, en los de...
+H1: ¿En Barcelona entonces de cero a cinco?
+H3: ¿No quedamos en eso, tú y yo?
+H1: ¡Vale, vale! ¡Sí, sí! Me parece que..., ¡no me acuerdo si era de cero a cinco o hasta diez! ¡No me acuerdo! [ininteligible].
+H3: ¡Era de cero a cinco!
+H1: ¡Vale, pues venga!
+H3: ¡Me parece! ¡Espera un momento [solapamiento de turnos]que te...
+H1: ¡No, no, no! Que... ¡es que no me acuerdo![fin de solapamiento de turnos]...
+H3: ...¡Que te lo digo, joder! Barcelona ¡Espera, que lo tengo todo aquí en la cabeza...! ¿No?
+H1: [afirmación].
+H3: Eh... [duda] (calor) de inyección, ¡no! De cero a diez dijimos.
+H1: Vamos a ver, Barcelona, ¿de cero a diez?
+H3: Sí, porque era mayor caudal...
+H1: [vacilación] Vale.
+H3: Mientras que en Gerona [vacilación], ¡espera un [solapamiento de turnos]momento!
+H1: De cero a cinco[fin de solapamiento de turnos].
+H3: ¡Era de cero a cinco! ¡Hombre!
+H1: Perfecto [ininteligible].
+H3: Dijimos que en las pequeñitas... ¿me entiendes, no?
+H1: Vale, de cero a diez y de cero a cinco. Perfecto, ahora tomaré nota yo.
+H3: ¿Eh? Yo... [vacilación] de cero a diez.
+H1: [ininteligible] ...tomaré nota, ¿eh?
+H3: ¡Venga! ¡Sigue más cosas! Eh... [duda] eso el [siglas]TA.BA.GE.[fin de siglas]!
+H1: ...[ininteligible] de inyección; ¡vale! Ahora el [siglas]TA.LE.ZA.[fin de siglas].
+H3: ¡Espera, que cojo las [ininteligible], que esto... [vacilación]! ¡No veas la cantidad de papeles que llevo encima, igual que tú, peor!
+H1: ¡Vamos a ver, el [siglas]P.T.[fin de siglas] ciento cinco, que es presión de entrada, vamos [solapamiento de turnos]a dejarlo...
+H3: De cero a 6[fin de solapamiento de turnos].
+H1: [vacilación] [onomatopeya] En el otro era de cero a 4. ¿Y por qué no lo ponemos también aquí de cero a [duda] de cero a 4? El [siglas]P.T.[fin de siglas] ciento dos hemos dicho que era de cero a 4.
+H3: [onomatopeya] ¿Sabes por qué lo pongo de cero a 6 éste?
+H1: No.
+H3: Porque ahí, cuando bombee del [siglas]TA.LE.ZA.[fin de siglas], del [siglas]TA.TA.[fin de siglas], ¿eh? Tendré... [vacilación] puedo tener esos kilos. ¿Me explico?
+H1: ¡No, no, no, no! ¡Sin comentarios! Se calibra luego [duda] lo que sea.
+H3: Me explico, ¿no? El porqué.
+H1: Sí, sí, pone [duda] de cero a 6...
+H3: Sabes por qué, ¿no? Por eso.
+H1: Está de cero a 4 kilos, me parece.
+H3: ¡Es de cero a 6, eh! Es pu[palabra cortada]... es por eso, ¿me oyes?
+H1: ¡Vale! ¡No, no, no, Dámaso, si eso es lo de menos! ¡Ahora es la oportunidad!
+H3: ¡De cero a 6!
+H1: ¡Venga, de cero a 6! El [siglas]P.T.[fin de siglas] ciento uno!
+H3: [siglas]P.T.[fin de siglas] [duda]... ¡espera, espera, espera, espérate [onomatopeya] [ininteligible] ...ocho, ciento uno! Dime, ¿cuál es?
+H1: Pues es el va [duda], ese la presión va con turbinas.
+H3: Sí, es[palabra cortada]... [duda].
+H1: ¿Cuánto [duda]? Está desde la diez kilos, creo.
+H3: De cero..., está de cero a dieciseis. Lo... [duda] l[palabra cortada]... [duda]...
+H1: ¿De cero a dieciseis, no?
+H3: Sí, si es lo mismo, que cuando tú bomber..es desde las [duda] la otra parte, si te coge la [extranjerismo]Booster[fin de extranjerismo]...
+H1: Creo que está de cero a diez ahora, pero bueno.
+H3: Sí, pero si te coge la [extranjerismo]Booster[fin de extranjerismo], ¿me oyes?
+H1: ¡Que sí! ¡Que... [duda] no...!
+H3: ¡No, te lo digo! Si te coge la [extranjerismo]Booster[fin de extranjerismo] de ahí te mete a más kilos, porque tú y llegas con los casi sei[palabra cortada]... casi cuatro kilos.
+H1: Sí, ¿el [siglas]P.T.[fin de siglas] ciento cuatro?
+H3: El [siglas]P.T.[fin de siglas]... [duda], espera [onomatopeya] ciento cuatro...
+H1: [ininteligible]...Que ese no sé cual es.
+H3: ¡No, el [siglas]P.T.[fin de siglas] ciento cuatro no [duda] no existe como tal! ¡Eh, Ramón!
+H1: ¿Cómo que no existe como tal?
+H3: Aquí tenemos un [siglas]P.T.[fin de siglas] dieciseis, presión aspiración de [duda] de... [duda] de [vacilación] [siglas]MP[fin de siglas].
+H1: ¡Ah! [siglas]P.T.[fin de siglas] ciento siete, ¿no?
+H3: Sí.
+H1: ¡Un momento, no cuelgues! [solapamiento de turnos]¡Un momento, espera...!
+H3: [vacilación] Eh... [duda][fin de solapamiento de turnos].
+H1: ¡...no cuelgues, un momento, no cuelgues, Dámaso, no cuelgues, eh!
+H3: [afirmación].
+H1: ¡No cuelgues!
+H3: No cuelgo, no, no. [silencio] [onomatopeya] [ruido] [música].
+H1: Vamos a ver Dámaso, ¿me oyes? ¿Oyes? ¿Dámaso? [silbido] ¿Dámaso?
+H3: No me he marchado, ¿eh?
+H1: No, vale.
+H3: Que es que estaba [vacilación]...
+H1: Vale.
+H3: Mira, es que tenemos aquí un [siglas]P.T.[fin de siglas] ciento cinco...
+H1: Sí.
+H3: ...un [siglas]P.T.[fin de siglas] ciento uno...
+H1: Sí.
+H3: ...¿eh? [onomatopeya] Que aquí esta gente... que es el de presión de entrada de turbina... es de cero a dieciseis.
+H1: [solapamiento de turnos]Sí.
+H3: ¿Eh?[fin de solapamiento de turnos]
+H1: [solapamiento de turnos]El [siglas]P.T.[fin de siglas] ciento cinco de cero a 6...
+H3: El se[palabra cortada][fin de solapamiento de turnos]...
+H1: ...¿perfecto?
+H3: El de [vacilación] [siglas]P.T.[fin de siglas] ciento uno, que es de entrada a turbinas [duda] de cero a dieciseis.
+H1: Sí.
+H3: Después tienes ¡otro [siglas]P.T.[fin de siglas] diez6...!
+H1: ¡Hemos dicho: "[siglas]P.T.[fin de siglas] ciento uno y [siglas]P.T.[fin de siglas] ciento cinco"! ¡Ahora...
+H3: Sí, ahora tienes el [siglas]P.T.[fin de siglas] [vacilación] el [siglas]P.T.[fin de siglas] diez6...
+H1: Sí.
+H3: ...que es el que está presión aspiración de bombas principales...
+H1: Aspiración, sí; ¿y éste de cuánto?
+H3: Ese [vacilación] de cero a dieciseis, también.
+H1: Venga.
+H3: Después tienes presión impulsión... [duda] [siglas]MP[fin de siglas]... [duda] eme... bombas principales, de cero a cien. ¿Eh? [solapamiento de turnos]Y [vacilación] presión...
+H1: El ciento siete y el ciento ocho[fin de solapamiento de turnos].
+H3: [vacilación] Los dos... [duda] de cero a ciento. ¡Ya está!
+H1: Sí, eh... [duda] ¿el del [siglas]TA.TA[fin de siglas] te falta?
+H3: El del [siglas]TA.TA[fin de siglas] [duda]...
+H1: De cero a cuarenta y cinco kilos.
+H3: ...no lo vamos a poner porque ese... entre tú y yo [onomatopeya] ¡eso [vacilación] no se va a tener en cuenta!
+H1: No, pero yo si que le voy a poner.
+H3: ¡Bueno...! ¿Ese de cuánto?
+H1: Die[palabra cortada]... de cero a cuarenta y cinco kilos.
+H3: El [siglas]P.T.[fin de siglas], ¿cuánto?
+H1: [siglas]P.T.[fin de siglas]... eh... [duda] yo tengo [duda] [siglas]P.T.[fin de siglas] cuatrocientos uno.
+H3: [siglas]P.T.[fin de siglas] cuatrocientos uno, [solapamiento de turnos]sí, ¿cuánto? [vacilación]...
+H1: Sí, y luego [vacilación] he puesto[fin de solapamiento de turnos].
+H3: ...¿De cuánto?
+H1: De cero a cuarenta y cinco kilos; y el [siglas]P.T.[fin de siglas] ciento cuatro...
+H3: ¡Bueno, eso e[palabra cortada]... eso es una bestialidad! ¡Ahí no vas a llegar nunca a eso!
+H1: Pues... ¿cuánto le ponemos?
+H3: Eso... lo máximo que puedes llegar ahí son... [duda] en el momento que arranques son unos diecisiete kilos...
+H1: Pues dieciseis le ponemos.
+H3: ¡No, ponle más! De cero... [duda] cero [vacilación] cero a treinta, para trabajar en medio de la escala...
+H1: cero a treinta...
+H3: ¡Espera! cero a treinta [vacilación], cero vein[palabra cortada]..., ¡cero...!
+H1: cero a cuarenta y cinco kilos.
+H3: ...cero [duda], eh... [duda], cero a veinticinco[vacilación]., ¡cero, veinticinco, Ramón!
+H1: cero a veinticinco kilos.
+H3: ¿Eh?
+H1: ¡Que calibre y en paz! Sin ningún problema.
+H3: Es que este [siglas]P.T.[fin de siglas] no se ha tenido aquí en cuenta [solapamiento de turnos]antes del [extranjerismo]Display[fin de extranjerismo] eh... [duda]...
+H1: ¡Vale, [ininteligible][fin de solapamiento de turnos]!
+H3: ...¿Me oyes? Desde el [extranjerismo]Dispatching[fin de extranjerismo] no se ha tenido en cuenta.
+H1: ¡Vale! ¡Dámaso, el [siglas]P.T.[fin de siglas] ciento cuatro va a ser el del [extranjerismo]Prover[fin de extranjerismo], ¿vale? Y lo ponemos de cero a dieciseis.
+H3: Sí, pero nosotros no lo tengo... ¡ponlo como te de...! ¡De cero a dieciseis, también! [solapamiento de turnos]¡Yo no lo... [duda], yo no lo tengo aquí puesto!
+H1: De cero a dieciseis... [vacilación][fin de solapamiento de turnos].
+H3: ¿Me entiendes, eh? A nivel de [extranjerismo]Dispatching[fin de extranjerismo]...
+H1: Sí.
+H3: ...que no lo tenemos.
+H1: ¡Oye, lo de Barcelona!
+H3: ¡Espera un momento!
+H1: ¡Un momento que voy a buscar yo también! ¡No cuelgues, eh! ¿Vale?
+H3: Sí.
+H1: ¡No cuelgues! [silencio] [respiración]. ¿Dámaso?
+H3: Sí, espera... Barcelona.
+H1: Barcelona...
+H3: ¡Espera...! [interrupción de la grabación] [interrupción de la grabación]
+H3: ...[ininteligible]...
+H1: [ininteligible] Ni lo tengo yo tampoco puesto...
+H3: ¡No, bueno, yo [vacilación] te lo he puesto ya! Cuando quieras... ya te lo... [duda], ¿eh?
+H1: Sí, me hace falta el [ininteligible] y el de Gerona.
+H3: ¡Barcelona!
+H1: [siglas]P.T.[fin de siglas] doscientos diez, de cero a ciento cero kilos.
+H3: ¡Espera, espera, espera, espera, espera! [onomatopeya] ¡A ver dónde estás, Barcelona! ¡Joder! ¿Dónde está esto? [siglas]P.T.[fin de siglas] doscientos diez, ¿de cero...?
+H1: De cero... [vacilación]...
+H3: ...a ciento cero.
+H1: ... a ciento cero. Y [siglas]P.T.[fin de siglas] doscientos [solapamiento de turnos]catorce...
+H3: Catorce, de cero a diez[fin de solapamiento de turnos].
+H1: ¡A 6, está puesto!
+H3: A diez.
+H1: ¿De cero a diez?
+H3: Sí.
+H1: [ininteligible]... calibrarlo... [vacilación] de cero... ¿a?
+H3: diez.
+H1: Está a 6. ¡Pues mañana hay que calibrarlo! Eh... [duda] ¡Oye, por de[palabra cortada]... por cierto, el caudal que le he puesto, ¿de cero a novecientos? El de... [duda] el de [duda] Tarragona.
+H3: Sí, sí. ¡Espera un momento! ¿El del [siglas]TA.BA.GE.[fin de siglas]?
+H1: El del [siglas]TA.BA.GE.[fin de siglas].
+H3: Sin embargo el [siglas]TA.LE.ZA.[fin de siglas] de cero a cuatrocientos, ¡eh!
+H1: De... [duda], el del [siglas]TA.LE.ZA.[fin de siglas] le dejamos en... [duda].
+H3: ¡cero a cuatrocientos!
+H1: Un momento..., momento [vacilación], [siglas]TA.LE.ZA.[fin de siglas]... de cero a cuatrocientos metros cúbicos hora; cero a cuatrocientos, ¿no?
+H3: ¡Sí..., claro!
+H1: Como está, ¿no?
+H3: ¡Como está y el de [vacilación] y el otro de cero a novecientos, eh!
+H1: ¡Sí, sí, cero a novecientos; ya está, ya está puesto!
+H3: Después aquí tienes...
+H1: ¡El de... [duda] el... [vacilación] el... [vacilación] el cau[palabra cortada]... el ca[palabra cortada]... el caudal de... [vacilación] Barcelona de cero a setecientos!
+H3: ¡Espera un momento, que lo coja! ¡Espera, que es que... [duda] que... [vacilación]! [silbido] ¡Un momento...! ¡Espera a ver... [vacilación]! Lo que pasa que ¿dónde está, coño, esto ahora? Barcelona... [vacilación] [ininteligible] caudal... [vacilación] caudal... de cero a setecientos.
+H1: Vale. ¿Ya nada más?
+H3: ¡Ahí va, la leche...!
+H1: ¿Qué ha pasado?
+H3: Caudal de recepción de purgas, ¿eh?
+H1: Sí, de cero a diez metros.
+H3: De... [duda] de cero a diez, ¿eh?
+H1: ¡Sí, sí! El de Barcelona... y el otro de cero, me has dicho, a... [vacilación] [solapamiento de turnos]que ahora tengo que cambiarlo...
+H3: Sí, sí[fin de solapamiento de turnos].
+H1: ...de cero a veinticinco metros cúbicos hora, ¿no?
+H3: Sí..., sí. Y el caudal de reinyección [extranjerismo]Set point[fin de extranjerismo] nosotros mandaremos el tanto por ciento en apertura total, ¿me entiendes? Que eso tranquilidad, no hay problema.
+H1: Bueno, yo te digo que será en litros minutos.
+H3: [onomatopeya] Después, presión de entrada en turbina... de cero a diez, ¿eh?
+H1: ¿Dónd[palabra cortada]...? Sí, además, hemos comentado que hay que enviarlo.
+H3: De cero a diez los dos, ¿eh?
+H1: En...[vacilación] ¿en dónde? En...[duda]
+H3: La presión de entrada es... [vacilación] de... [duda] turbinas [solapamiento de turnos]es de cero a diez.
+H1: ¿[ininteligible]... presión?[fin de solapamiento de turnos].
+H3: ¡De cero a diez!
+H1: De cero a diez.
+H3: Sí.
+H1: ¿El de Barcelona?
+H3: Sí.
+H1: El otro hemos dicho que era de cero a dieciseis.
+H3: De cero... [vacilación], ¡un momento!
+H1: ¡Tarragona...!
+H3: ¡Sí...!
+H1: Tiene... eh... [vacilación] en todo lo que es Tarragona...
+H3: ¡Sí, sí...!
+H1: ...de cero a dieciseis.
+H3: ¡Sí, sí, sí, sí, sí!
+H1: Vale. En el... [duda], perdona, en el... [duda] Gerona, ¿de cero a diez también?
+H3: ¡Espera un momento, Ramón! Que es que Gerona aún no hemos llegado ahí, pero yo ya me... me adelanto un poco a ver si las tengo.
+H1: Es que me hacen falta, el de Gerona...
+H3: Es que... [vacilación] es que en Gerona... [duda] ¡no, no, no!
+H1: ¿No lo sabes, no? Bueno, tú... [ininteligible] ¡tranquilo!
+H3: Es que en Gerona... [duda] [onomatopeya]...
+H1: ¡Bueno, no te preocupes, oye, ya... [vacilación]! Tú me lo... [vacilación], cuando puedas, me tienes que dar el de Gerona y lo[palabra cortada]... y los de Payeyá.
+H3: No, Payeyá te lo puedo decir...
+H1: Bueno, eh... [duda]
+H3: Payeyá lo tengo, ¡toma! Pero es que Gerona... [duda] ¡Pondremos igual que ahí, lo pones igual, ya está!
+H1: [onomatopeya]
+H3: Los terminales.
+H1: Bueno, ya te lo preguntaré yo el del Payeyá ya, ya, porque este hombre no [ininteligible] va a quedar lo del Payeyá; bueno, ¿Payeyá cuánto sería, a ver, dime?
+H3: Toma, Payeyá lo vas a emplear ya, ¡joder!
+H1: Sí, bueno... [vacilación] [ininteligible].
+H3: ¡Espera un momento...!
+H1: ¿Cómo se llaman?
+H3: Ya te digo los nombres de cómo se llaman, hombre.
+H1: Sí.
+H3: ¡Ahora, joder! ¿Dónde está Payeyá? ¡Aquí! Tienes presión de Barcelona, que es la... [duda] cuatrocientos catorce, de cero a ciento cuarenta, ¡[siglas]P.T.[fin de siglas] cuatrocientos catorce!
+H1: ¿Sí... [interrogación]?
+H3: ¡De cero a ciento cuarenta!
+H1: ¡Sigue, sigue, no, sigue... [onomatopeya]!
+H3: Eh... [duda] presión de Gerona... [siglas]P.T.[fin de siglas] 41cinco... de cero a ciento cuarenta. Presión de Tarragona, que es [siglas]P.T.[fin de siglas] cuatrocientos cero, de cero a ciento cuarenta; y... [vacilación] nada, lo demás es... [duda] temperatura de estaciones...
+H1: ...[ininteligible] ¿Y reinyección?
+H3: Ahí no hay reinyecciones, o sea, hay un tanque pero ése tirará... [duda] no... no se reinyecta, eso... [duda] [solapamiento de turnos]vendrá un camión o algo así para que... [ininteligible]
+H1: Vale... [ininteligible] ¿de Gerona[fin de solapamiento de turnos] no sabes nada?
+H3: Nada.
+H1: Vale.
+H3: Pero lo de Gerona puede hacer lo mismo que en Barcelona.
+H1: Bueno, [onomatopeya] exceptuando la reinyección, de cero a cinco metros cúbicos hora.
+H3: De cero... [duda] a cinco, sí.
+H1: Vale; de acuerdo.
+H3: De todas formas esto... [duda] es que... hasta que no se haga lo de Gerona, pues no... [duda] [solapamiento de turnos]no corre prisa...
+H1: Vale[fin de solapamiento de turnos]; de acuerdo.
+H3: ...¿entiendes?
+H1: Vale, vale entonces, ¡vale...!
+H3: Es que... [duda] es que de Gerona no tengo yo nada, ¿eh?
+H1: Vale, vale, vale...
+H3: Si está por ahí puesto... es que no sé... [duda].
+H1: ¡Vale, vale, vale, vale! De acuerdo.
+H3: [interrogación].
+H1: Vale..., te dejo.
+H3: ¡Hala, adiós!
+H1: ¡Adiós!

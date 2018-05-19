@@ -1,0 +1,98 @@
+#archivo: PJUR005D
+#fecha de grabación: 09-11-91
+#fuente: radio
+#localización: Madrid
+#términos: abogado, juicio, juzgado, ley, alquiler
+#H1: mujer, edad desconocida demandante
+#H2: varón, edad desconocida,abogado
+#H3: varón, edad desconocida, locutor
+#H4: mujer, edad desconocida, copropietaria demandante
+#H5: varón, edad desconocida, arrendatario
+#H6: mujer, edad desconocida, demandante
+#H7: mujer, edad desconocida
+H1: [texto no transcrito] ...se les mandó una carta para que... se fueran, porque lo necesitábamos para mí. Entonces mañana tenemos el juicio y queríamos saber a qué podemos atenernos porque es que el abogado no nos ha dicho nada todavía.
+H3: Bueno.
+H1: Si se irán o no se irán [solapamiento de turnos] o...
+H3: Muy [fin de solapamiento de turnos] [solapamiento de turnos] bien.
+H1: ...estamos [fin de solapamiento de turnos] en nuestro pleno derecho o...
+H3: Bueno, pues en primer lugar escúcheme, si es tan amable, por antena,
+H1: Vale.
+H3: ...y en segundo lugar dar las buenas tardes a todos nuestros queridos oyentes y por descontado a don Luis Sanjurjo.
+H1: [solapamiento de turnos] Gracias, eh...
+H3: Dicho esto... [fin de solapamiento de turnos]
+H3: ...gracias por su llamada, [solapamiento de turnos] le diría que por
+H1: Gracias a usted [fin de solapamiento de turnos].
+H3: ...supuesto, que en conformidad con lo que usted comenta, la ley de arrendamientos urbanos, en sus artículos ciento catorce y siguientes, especifica las posibilidades de aquellas necesidades para los descendientes de... el arrendador o propietario. Si mañana ustedes tienen el juicio, el abogado, compañero, que les esté dirigiendo técnica y procesalmente el procedimiento, valga la redundancia, habrá observado claramente dentro... dentro de la claridad, es decir, en la vida todo, además de tener la razón hay que saberla demostrar, que tienen esos derechos. ¿A qué se pueden atener? Pues se tienen que atener a que mañana es la comparecencia de este juicio, en donde ustedes ratificarán la demanda presentada en su día por su abogado y a través de su procurador, y la contestación de las partes. Esto es lo que yo le puedo comentar a [extranjerismo]grosso modo[fin de extranjerismo], [sic] dentro de unos principios procedimentales, puesto que no tengo conocimiento en concreto de esa situación. [solapamiento de turnos] Pero que sí tiene derecho
+H3: Pero que sí tiene... Eso es [fin de solapamiento de turnos].
+H2: ...a esa solicitud que hacen, pero, vuelvo a reiterar, dentro de lo que marca nuestra ley de arrendamientos urbanos. Por último, muy rápidamente, para esta... [vacilación] señora, también la parte demandada tiene derecho a oponerse y sus razones tendrá, hay que observarlo.
+H3: Y sobre todo, y... que me permita ahora nuestro... señor abogado, hay que saber elegir el buen abogado, para que le tenga a usted informado de todo. Y no le ocurra lo que usted acaba de contar, [solapamiento de turnos] señorita,
+H2: Sí, evidente.
+H3: ...eso es [fin de solapamiento de turnos] primordial. Porque yo no consentiría a mi abogado que no me tuviese informado de las cosas que me debe tener informa[palabra cortada]... sean buenas o sean malas. Hay que saber de todo. Por eso hay que saber elegir. Recuerden esto que les digo. Nueva llamada, buenas tardes. [silencio] Sí, buenas tardes. [silencio] Vamos a ver porque... eh... me parece... Cambiamos si no la... la comunicación. Buenas tardes. Ya tenemos, buenas tardes.
+H4: Hola, buenas tardes, [solapamiento de turnos] Luis
+H3: Vaya [fin de solapamiento de turnos], no la encontraba yo a usted, no la encontraba. La [solapamiento de turnos] estaba buscando
+H4: Buenas tardes [fin de solapamiento de turnos].
+H3: ...por todos los sitios.
+H4: Mira para... una consulta para el abogado. [solapamiento de turnos] A ver qué [ininteligible]
+H3: Venga, haga su [fin de solapamiento de turnos] pregunta.
+H4: Mira, tengo una casa en el pueblo, y entonces lo de abajo pertenece a un familiar mío y lo de arriba es mío, o sea, la pared y quiero darla de llana.
+H3: Sí.
+H4: Porque tengo humedad arriba.
+H3: Sí.
+H4: Y... entonces... no estamos muy bien, con él, no nos hablamos, entonces a ver qué... es lo que podía decirme el abogado.
+H2: Muy bien, pues escúcheme si es tan amable por antena.
+H4: Vale, gracias.
+H2: En primer lugar a través de un abogado, si es que no se hablan mucho directamente, lleven a cabo una negociación para solucionar ese problema. Si ello no es posible, pues deberán de realizar las actuaciones oportunas, siempre y cuando se vea clara y contundentemente que tienen derecho a esa reclamación que usted ha manifestado ahora mismo.
+H3: Nueva llamada para nuestro abogado del barrio, buenas tardes.
+H5: Hola, buenas tardes.
+H3: ¡Hombre un caballero! Bien. Dos señoras o... bueno una señorita y me... imagino que una señora y ahora un caballero. Haga su pregunta por favor.
+H5: Vamos a ver. Es que... lo siguiente: yo voy a solicitar ahora la... pensión de jubilación ¿no?
+H2: Sí...
+H5: Entonces yo tengo un local que está arrendado.
+H2: Sí.
+H5: Y la declaración de renta la hacemos entre mi señora y... por separado ¿no?
+H2: Sí.
+H5: Entonces ahora, en el... en el... impreso que me han dado para la jubilación eh... me figura que ponga los ingresos que tengo. ¿Esos ingresos tengo que ponerlos... el total o el cincuenta por ciento?
+H2: Bien, pues si es tan amable, escúcheme por antena.
+H5: Vale, gracias.
+H2: Hay que tener en cuenta que según sus palabras la declaración de la renta lo hacen ustedes por separado. Por lo tanto, si en esa declaración que hace su esposa, no figura que los ingresos que obtiene son su esposa , son de su esposa, por ese alquiler, evidentemente que entonces tendrá que hacer que los ingresos que percibe son para usted. Ahora bien, si la declaración la hacen ustedes conjunta, porque ese bien inmueble que arriendan y que reciben un ingreso, es un bien ganancial, entonces sí que tendrán que tener en cuenta que es un cincuenta por ciento lo que percibe cada uno.
+H3: Pero tienen que hacerlo en ese caso los dos juntos.
+H2: Los dos juntos, pero es que no lo está [sic] haciendo [solapamiento de turnos] los dos juntos.
+H3: No, no [fin de solapamiento de turnos], ha dicho por separado.
+H2: Eso es. Por lo tanto si los... si eh la renta y el alquiler tiene como titular, propietario arrendador, al este querido oyente, él tendrá que hacer constar los ingresos que percibe él [solapamiento de turnos] totales.
+H3: Totales [fin de solapamiento de turnos]. Correcto. Nueva llamada, buenas tardes. [silencio] Sí, buenas tardes. [silencio] Vaya, pues hoy... nos quiere hacer alguna... faenita las líneas [solapamiento de turnos] telefónicas.
+H2: Son los duendes [fin de solapamiento de turnos].
+H3: Los duendes de teléfono, el caso es que yo lo... lo... lo busco y... y... y nunca... nunca... parece que se me pierde, se me pierde. Buenas [solapamiento de turnos] tardes,
+H6: Sí... [fin de solapamiento de turnos]
+H3: ...a ver si la encontramos. ¿La encuentra usted? ¿La encuentra usted [solapamiento de turnos] o no la encuentra? ¡Ah! Sí, sí, sí.
+H6: Sí, sí, sí aquí está... aquí estoy yo [fin de solapamiento de turnos]. Buenas tardes.
+H2: Buenas tardes.
+H6: Mire usted yo [vacilación] preguntar al abodago
+H2: Venga.
+H6: ...que compré el piso hace tres años.
+H2: [solapamiento de turnos] Sí...
+H3: [afirmación] [fin de solapamiento de turnos]
+H6: Es que el constructor nos cobra[palabra cortada]... me ha cobrado de la parte... [duda] horizontal, esa cosas que se hacen, porque esto, digamos, que era un terreno.
+H3: Sí... sí...
+H6: Me ha cobrado, por lo visto, cosas que no me debía de haber cobrado. A ver si ya ha preescrito, porque hace tres años que hice las escrituras.
+H3: Bueno, muy bien, [solapamiento de turnos] pues...
+H6: No [fin de solapamiento de turnos] quiero más... saber más que eso.
+H3: ...cuelgue y escúcheme [solapamiento de turnos] por antena.
+H6: Bueno [fin de solapamiento de turnos], buenas tardes. Perdone. Adiós. Mire usted, si el [silencio] promotor le ha cobrado a usted, según sus palabras, querida... señora, la división horizontal, es absolutamente antijurídico, reitero, absolutamente antijurídico y tiene usted dentro de esos tres años la posibilidad para reclamar la devolución de esa cantidades. [sic]
+H3: Bien, pues nos queda un minuto, don Víctor Manuel si da... o la última llamada, podemos a ver... la última. Venga, rápidamente.
+H7: [solapamiento de turnos] Dígame.
+H3: Buenas [fin de solapamiento de turnos] tardes.
+H7: Hola, buenas [solapamiento de turnos] tardes.
+H3: Haga [fin de solapamiento de turnos] su pregunta rápida.
+H7: Mire, yo quería preguntarle, que... ha muerto una tía mía, y tenían el contrato con el casero, mi tío y ella, como cuando fallecieran los dos que... que... tenía que volver el piso al casero. Pero es que ahora tiene un nieto y un hijo de la Argentina,
+H3: [solapamiento de turnos] Sí.
+H7: ...que [fin de solapamiento de turnos] han venido y el nieto lleva ya tres años con ella, a cuidarla porque era muy mayor.
+H3: Sí.
+H7: Y... quieren saber si... tienen algún [solapamiento de turnos] derecho o... no.
+H3: Bien, pues escúcheme... [fin de solapamiento de turnos] sí escúcheme, si es tan amable, por antena. En principio, de acuerdo con sus palabras, sí es posible que haya algún derecho de ese descendiente. Lo que ocurre es que hay que ver con más claridad el tiempo de convivencia con la persona que usted [solapamiento de turnos] comenta.
+H3: Y que [fin de solapamiento de turnos] esté empadronado. [solapamiento de turnos] [vacilación]
+H2: Y que [fin de solapamiento de turnos] un certificado que acredite esa convivencia oficialmente [solapamiento de turnos] que es,
+H3: Exactamente [fin de solapamiento de turnos].
+H2: ...como muy bien comentas, el empadronamiento en el ayuntamiento correspondiente.
+H3: Como mínimo dos años.
+H2: Sí, como mínimo son dos años. Lo que pasa es que hay que acreditarlo por el empadronamiento y además con una serie de testigos si ha lugar a ello.
+H3: Gracias, don Víctor Manuel Sedigrás, gracias por su llamada. ¡Ah! No se reserva ninguna localidad eh, e invitación para el circo. Eso no. Reservas por teléfono, en absoluto. Hay que venir personalmente. Y nada más. Esto ha sido todo. Si usted quiere ponerse en contacto con nuestro abogado del barrio, lo tiene que hacer a su... teléfono particular, en plan profesional, al cinco, setenta y uno, noventa y ocho, setenta y uno; cinco, setenta y uno, noventa y ocho, setenta y uno. Bien por la mañana, bien por la tarde, de lunes a viernes, horas de oficina. Si no está él, están sus pasantes. Elija bien el abogado, yo se lo aconsejo. Nada más esto ha sido todo, hasta mañana a las tres, poco más o menos, Club de Oyentes. Amigos, saludos. [texto no transcrito]

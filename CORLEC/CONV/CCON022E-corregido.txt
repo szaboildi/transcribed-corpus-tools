@@ -1,0 +1,402 @@
+#archivo: ccon022e
+#fecha de grabación: 29-3-91
+#fuente: conversación familiar a la hora de comer
+#localización: Segovia
+#términos: alimento, aceite, pescado, marisco
+#H1: varón, 55 años. Procedente de Segovia. Ha vivido toda la vida en Madrid. Comerciante.
+#H2: varón, 47 años. Procedente de Segovia. Profesor
+#H3: mujer, 56 años. Ha pasado muchos años en Venezuela
+#H4: varón, 50 años. Procedente de Segovia. Profesor
+#H1, 2, 3 y 4 son hermanos
+#H5: mujer, 45 años. Procedente de Santander. Esposa de H2
+#H6: mujer, 24 años. Procedente de Segovia. Profesora
+#H7: mujer, 45 años. Esposa de H4. Procedente de Segovia. Profesora
+#H8: mujer, 50 años. esposa de H1. Procedente de Córdoba. Ha vivido toda la vida en Madrid.
+#H9: mujer, 14 años. Hija de H4 y H6. Procedente de Segovia.
+H1:Yo he visto beberse, José Antonio... segando... tú sabes que echaban lomo y chorizo en aceite,
+H2:Sí.
+H1:y había dos dedos de aceite.
+H2:Sí.
+H1:Yo he visto beberse el aceite, después de comerse el lomo.
+H3:Pero si es de oliva.
+H1:¿Segando? ¿Aceite de oliva? Eso es una maravilla.
+H4:Eso... Es energético. Es un... es un... es [ininteligible] energético.
+H1:Ahora, si fuera vegeta[palabra cortada] o animal, pero ¿aceite de oliva? Eso es una maravilla.
+H3:Si dice que se salvaron los mediterráneos por las aceitunas y... y es... una comida frugal pero a base de... sana.
+H1:Nada más que veas que en el extranjero nos hacen la contra al aceite de oliva. Ellos saben por qué.
+H2:Los intereses de... No pero ahora ya se está viendo.
+H5:En Alemania había aceite de oliva y era la más cara que había.
+H4:Lo que pasa que es carísimo.
+H6:Eso.
+H5:La más cara que había.
+H4:Sí, sí.
+H7:Ahora es que los americanos nos han metido el aceite de soja por no sé qué intercambio...
+H5:Ya. Y la margarina y todo eso...
+H7:Claro. No sé qué intercambios hubo...
+H2:Sí, pero ahora resulta...
+H3:¿Tú ves la de palma que dicen que es venenosa?
+H2:Que... nos obligaron a comprar de ese...
+H3:El aceite de palma.
+H4:[ininteligible] A ver, Mari.
+H7:y nos compraban zapatos.
+H3:Es mala, es mala. Entonces da una [ininteligible] Tú ves por ejemplo en el pescado, la sardina, es de lo más sano. Pero también, ¿quién comía sardinas? El pobre. Entonces, en cuanto uno puede dejar la sardina se va por lo que cree que es mejor.
+H1:El chicharro, igual. El jurel, pues son pescados maravillosos.
+H3:Y te piensas que esos son malos porque era lo que comía el pobre.
+H1:Pues yo siempre sé que son buenos porque...
+H5:Oye, el, el besugo
+H1:Que diga Mercedes lo que me...
+H5:ha estado hace años tirado.
+H1:Bueno, pero es que el besugo, hermosa...
+H5:Y sin embargo ahora, fíjate.
+H1:El besugo es... el besugo es pescado caro.
+H5:Es que es la comida de ricos.
+H7:Aquí ni siquiera viene.
+H1:Y antes era igual.
+H5:Y antes no lo quería... No, antes era como la sardina.
+H4:No, el besugo también, también era barato. Sí señor.
+H5:Muy barato.
+H1:¿El besugo también era barato?
+H5:Como la sardina.
+H7:No sé. Yo el besugo...
+H3:Era barato, como el chicharro, sardina.
+H5:Porque yo he comido besugo..
+H4:El besugo, el bacalao, el chicharro, la palometa...
+H5:Cuando era pequeña...
+H7:El besugo rojo, el besugo, ese rojo.
+H6:Tú vivías cerca del mar.
+H5:Sí.
+H4:Mira, ahora el bacalao... el bacalao es más caro que el jamón.
+H5:Y allí era pues co[palabra cortada], pues como la sardina y como el chicharro. Igual. Anda vete ahora a comprar...
+H6:Ahora se ve que se ha extinguido...
+H3:Dígame, madre, el congrio que le gusta tanto.
+H4:Pero ¿sabes qué ocurre con el pescado? Que es que últimamente como ha habido ese problema en España de pesca... Ahora no podemos ir a pescar donde queremos y entonces, claro, lo que ocurre es que no hay pescado. Entonces no hay chicharro, [vacilación] no lo encuentras, no hay boquerones, no hay... no hay besugo. Entonces ha pegado...
+H7:El boquerón a setecientas, a ochocientas y...
+H4:esa subida tan grandísima.
+H1:Fíjate de Mauritania, se tuvo que venir toda la flota.
+H2:¿Y el vino?
+H4:Y al Gran,
+H2:¿El vino?
+H4:al Gran Sol,
+H1:Claro.
+H4:No se puede ir y...
+H2:Y a Terranova de traer el bacalao...
+H1:De Terranova han acortado,
+H2:Y ahora...
+H4:de Terranova han acortado las facturas...
+H5:Y el bacalao, que siempre tenías bacalao, ¿eh?
+H2:De allí venía, de Terranova, de, de la zona esa.
+H5:Las cosas colgadas esas ahí y... y...
+H7:Pero también qué caro, oye.
+H5:Y si hacías garbanzos les echabas un poco, con patatas, con lo que fuera, frito y ahora vete a... a...
+H1:¿Sabéis?
+H5:comprar bacalao.
+H4:Es más caro que el jamón.
+H5:Sí, sí, sí.
+H1:¿Sabéis un... con una cosa muy buena que está el bacalao...?
+H3:Échame un poquito ensalada Josea[palabra cortada] Juan Manuel.
+H1:No te lo imaginas.
+H3:No me eches mucho.
+H5:Con garbanzos
+H1:Con...
+H5:y con arroz.
+H1:naranja, con naranja, en rajas en un plato,
+H7:¿El bacalao?
+H1:y el bacalao con su aceite, eso está fuera de serie.
+H5:Y rebozado.
+H1:No, no, normal.
+H7:Y con, con gajos, con trozos de naranja, para irlo... pues estará bien, claro, como
+H3:Pero fíjate,
+H7:está lo salado con lo dulce.
+H3:en Venezuela hay mucho pescado y es lo más caro, también, más que la carne, no sé por qué. Y a los pescadores se lo pagan una miseria.
+H1:No, pues aquí ya no les pagan tan miseria.
+H4:Sí, hombre.
+H1:Que van a las lonjas, bueno, ¿poco también?
+H2:pero son los... la serie de intermediarios los que... van embolsando el dinero.
+H4:Mira,
+H7:Y es que el pescado tiene desperdicio...
+H4:Pero el interme[palabra cortada]
+H7:como no lo congelen rápido.
+H4:No, el intermediario y todo lo que quieras, mira un... un...
+H7:Y fresco pues fíjate.
+H4:una caja subastada en Vigo, ya no es el señor que la compra, pero es que además hay que meter un camión, un camión frigorífico, hay qué ver lo que cuesta, hay que traerlo,
+H1:No, ya lo sé.
+H4:pues a hacer setecientos kilómetros.
+H1:Y tráele a Madrid y págale a ese camionero,
+H3:Además...
+H1:Y págale a ese camion[palabra cortada], ese camionero ganará a lo mejor trescientas mil pesetas mensuales.
+H4:o sea, es que vive mucha gente, o sea, más que decir el intermediario, es que vive
+H1:Que vive mucha gente.
+H4:mucha gente de... de [ininteligible]
+H2:Y mucha instalación y mucha... pero claro, quiere decir que hoy se pesca y mañana lo tienes en la mesa y eso que estás a seiscientos kilómetros.
+H3:Tú ves los camarones... los camarones son las gambas, ¿no?
+H4:Como langostinos.
+H3:o los langostinos, allá hay camaroneras, que va uno por el río Uchire, tú ves las camaroneras que eso son mil y luego las [ininteligible] a vender... Antes nadie las quería, decían que eran gusanos, el criollo no quería eso: "¿Yo voy a comer esos gusanos?" Entonces el extranjero empezó a comer. Ahorita están tan caras que no las podemos comer más que en Navidad. Y tú ves esas camaroneras, kilómetros y kilómetros de camaroneras [ininteligible] en el río Uchire.
+H4:A lo mejor se exportan porque aquí mira, mejillones que hay muchos bien baratos que están. A mí... a mí me gustan.
+H1:Y a mí.
+H5:A mí también.
+H3:Pero será....
+H1:Ah, pues nosotros hemos probado una cosa...
+H3:será que los exportan.
+H1:eso que has hecho tú ahí con las almejitas, que lo hacemos nosotros con... con
+H5:Con los mejillones.
+H1:las chirlas, bueno, pues ahora han, compramos, yo el otro día compré cuatro cajas, mejillones al natural.
+H3:Igual que ésto.
+H1:Les expripo... les exprimo el... el limón.
+H4:El limón.
+H1:Cosa más rica no veas.
+H6:Y ¿qué es? ¿De los que viene en lata?
+H1:Sí.
+H6:Sí, es verdad. Que yo se lo dije a mi padre porque aquí en Segovia
+H1:Comprarlos al natural, verás que cosa más rica.
+H6:no los venden. Es que aquí no los venden.
+H1:pues yo en el mercado el otro día...
+Todos: [ininteligible]
+H4:[ininteligible]los, los cocemos.
+H5:Y también cocidos son mejor.
+H2:¿Comprado en la pescadería? no...
+H4:Hay unas latas... que en lugar de decir en escabeche dice al natural.
+H5:Hay unas latas que vienen al natural. Pero yo los, yo...
+H2:No, eso lo han comido siempre los chicos nuestros.
+H5:Sí, pero yo mira... yo los cojo, igual cojo un kilo o dos y los cuezo.
+H1:Ya, lo que hace Juan Manuel, lo que hace Mercedes y madre.
+H5:Y luego ya con el limón y todo eso y si quieres con un poquito de ajo o cebollita por encima,
+H1:Sí, sí, sí.
+H5:eso como quieras.
+H1:Luego le picas, a cada mejilloncito le pones cebolla, pimiento,
+H5:Sí.
+H1:tomate picado
+H5:con un poquito de limón...
+H1:y eso está divino. Claro.
+H4:Yo les hago el salpicón, luego Carmen sabe hacer otra cosa que...
+H5:Sí.
+H6:A mí es que me enseñó la madre de Chema...
+H4:que es, que es también, es una maravilla.
+H6:los picas, los cueces primero y luego lo picas y haces salsa bechamel.
+H5:Sí.
+H6:entonces mezclas, haces la pasta de mejillón
+H4:Espera, espera.
+H3:los fríes...
+H6:los metes en la cáscara...
+H5:Juanma que yo tengo.
+H6:Los metes en una de las cáscaras
+H4:No, yo, así se gasta uno, hombre.
+H6:y lo rebozas en pan
+H4:Que si no me lo voy a terminar fumando yo.
+H6:rallado y los fríes.
+H7:Sí.
+H6:y está muy bueno.
+H5:Mira que ha tardado mucho tiempo en pedirlo.
+H6:Con una de las dos cáscaras.
+H1:No, pues no ha fumado en todo el camino, hoy.
+H5:Pero...
+H6:Una de las dos cáscaras.
+H8:Ah, en una.
+H6:En una.
+H2:Si no fumo.
+H1:Déjale, no ha fumado, oye.
+H6:Las rebozas en pan, en pan rallado,
+H3:Mira, pues allí las ostras en plena playa, recién sacadas, y te las vas echando limón.
+H8:¿Y se fríen?
+H6:Y se fríen.
+H8:¿En la...concha?
+H7:Eso lo que llaman "los tigres".
+H5:los tigres.
+H1:Nosotros...
+H6:Se fríen sólo por el lado que no tiene concha.
+H5:Claro.
+H8:Claro, porque...
+H1:en Almería... o en Málaga, no en Almería, donde los chanquetes, en Almería, Mercedes y yo... ¿no te acuerdas en Almería que compramos...
+H3:Carmencita, pero aunque no le eches en la concha...
+H1:que compra[palabra cortada]
+H3:nosotros agarramos la cucharadita y ya está.
+H6:Eso, haces la bolita.
+H1:Esas conchas tan grandes, esas almejonas... que vivas y todo, las echas vinagre y te las comes.
+H7:[ininteligible] hacer la bechamel, a picarlo en cachitos, a ponerlo...
+H8:Me parece que fue en Málaga.
+H1:Málaga o Almería, donde hay chanquetes. En Málaga.
+H4:En Málaga, los chanquetes en Málaga.
+H1:En Málaga, que también comimos una ración de chanquetes.
+H8:No los encontramos los chanquetes,
+H8:No los encontramos, los chanquetes.
+H1:¿o no encontramos? No.
+H8:No, no encontramos.
+H5:Anda, mira qu[palabra cortada], mira, Mercedes,
+H8:¿Qué?
+H5:Coge tú. [risa]
+H4:Se ha roto.
+H1:¡Qué miseria!
+H6:¡Qué chuli!
+H1:¡Qué miseria!
+H3:Esos son de avión, ¿verdad?
+H8:Si no te queda nada más que ese, ¿no?
+H1:Fúmatele sin...
+H4:[ininteligible] Me ha pedido José Antonio uno.
+H7:Aquél está también roto, doblado.
+H4:Le digo que tengo un puro.
+H1:Ese no sé si tirará, tú. Ah, sí, mira.
+H5:¡Ah! Mírale.
+H7:Tiene que pasar la curva y todo.
+H1:Quítale eso... quítale eso, anda.
+H4:Tienes que romperlo. Mercedes, eso, eso lo tienes que tirar.
+H1:Claro.
+H6:Ya ves.
+H7:Bah, y encima estarán ya secos.
+H5:Es bonito el paquete.
+H2:[ininteligible] Una rendija por ahí.
+H4: No.
+H6:Sabrán a rancio o... [ininteligible] a lo mejor, ¿no?
+H4:Si aquí no... si aquí no, no...
+H6:Ahora buscamos los ceniceritos.
+H2:Pues mira que he pasdo. Mira que he pasado veces por el embalse de La Puente Alta y siempre me he quedado, siempre me acuerdo...
+H4:Pues vamos ahora.
+H2:Me gustaría verlo...
+H4:Nos vamos a dar un paseo hacia allá... A Santa le enseñamos cómo entrar y que se quede allí sentadito un rato...
+H1:No, para otra vez, cuando yo vuelva otra vez. Que a mí me gusta eso. Me acuerdo del pantano de... de Labazana.
+H7:Hay que coger un ceni[palabra cortada], un cenicero...
+H4:Se co[palabra cortada], se come ahora en Revenga...
+H7:Por ahí hay que cogerlo, Mercedes.
+H4:de esos, mira, abre ahí, no, Santa, o mejor Maruja.
+H5:Sí, Maruja.
+H3:A ver.
+H4:O abre tú, Santa María,
+H7:De la otra, la otra.
+H4:De ahí de esos ceniceritos que además que ha traído Maruja. Pero es que ahora como los tenemos de adorno.
+H3:¿Cuáles eran?
+H4:Anda, cualquiera, ¿no hay por allí uno... de [ininteligible] azul? o....
+H6:Mira.
+H7:Es que a lo mejor están con otro cacharro encima.
+H6:Encima de... en el segundo... ese azul clarito... Ah, bueno, vale.
+H5:Mira, ahí. [silencio]
+H3:¿Tu quieres otro?
+H1:Este es un mueble muy bonito, ¿eh?
+H8:Si yo tengo aquí uno...
+H4:Ella tiene su trocito.
+H3:Pero cenicero.
+H6:¿Qué pasa? ¿Que no había más?
+H8:Cuando acabe...
+H4:Sólo había dos y me ha pedido uno Jose, digo, pues mira.
+H7:¿Se puede fumar eso?
+H1:No hay.
+H7:¿Y Mercedes?
+H8:Ya, pero...
+H7:¿Tu no tienes tu [extranjerismo]Pipper[fin de extranjerismo]? Yo es que tengo...
+H8:No, yo no fumo ya de eso.
+H7:yo tengo en el armario.
+H8:Hace ya mucho tiempo.
+H7:¿Ah, no?
+H4:Ah, bueno, pues nada.
+H6:Porque... pero también igual.
+H3:Juan Manuel, aquella... aquella pieza de fieltro no pierde, ¿verdad?
+H9:¿Hay gaseosa?
+H4:¡Ay, no! Aquello ya lo ves que es una maravilla.
+H3:Aquella la hice yo... hace tantos años que la hice yo esa.
+H2:Dale gaseosa.
+H4:Toma, hija. Aquella pieza de fieltro es una maravilla.
+H3:Esa me la enseñó a hacer
+H4:Míralo.
+H3:a mí una señora canaria.
+H7:¿Ves, Gloria, lo que dice la tía.
+H3:La primera vez que yo vine a España. Aquella de allá.
+H1:Pues yo tengo tu modelo.
+H3:Esa es una mujer de Poleo. Esa es de Pol[palabra cortada]
+H8:Pero ¿qué? ¿el cuadro?
+H3:Aquel cuadro es de fieltro.
+H4:Sí.
+H8:¿El de arriba?
+H1:Sí.
+H3:El de abajo.
+H1:El del medio.
+H8:¿El de enmedio?
+H4:Ese que parece como una mujer, como una ventana.
+H8:Sí, sí.
+H1:El modelo de eso le tengo yo.
+H3:Sí, ese es de fieltro. No, tienes algo parecido.
+H4:Lo que ocurre es que...
+H1:O parecido.
+H4:ahora mismo está la feria de artesanía aquí en Segovia abierta,
+H3:De fieltro.
+H5:Podíamos ir a verla.
+H4:eso es una cosa... que... bueno,
+H1:Si hoy no se podrá.
+H5:¿Ah, no?
+H4:Sí.
+H6:Sí, bueno, yo fui hace dos días y estaba así,
+H1:Bueno, yo fui a la feria de artesanía a Toledo.
+H6:Ayer estaba así, pues hoy a lo mejor ya ha bajado...
+H4:No, no. Está Segovia...
+H1:¿Has oído Mari Carmen? Si nosotros estuvimos en Toledo en la feria de... de... de La Mancha,
+H3:Muy bueno ha estado el cordero.
+H1:¿Te acuerdas?
+H3:Sí, Castilla La Mancha.
+H1:De Castilla La Mancha. Menuda feria de artesanía hay.
+H4:Aquí, bueno, ya sabes, oye,
+H6:Ésta no es muy grande, ¿eh?
+H4:tienes... tienes... tienes mimbre... tienes cerámica...
+H1:De todo había, de todo.
+H4:tienes no sé qué. Pero por ejemplo estas cosas no, no...
+H3:Éste cuadro ya no lo ves tú en ninguna parte. Esto es una señora canaria que los hacía. Eso se cose por detrás, eso no se ve ninguna puntada. Pero tienen... tienes que hacer... es un diseño y tienes que ir cortándolo igualito. Ah, pero ella hacía maravillas. ella también hizo una exposición que vendió... y aprendimos nosotras. Montse hizo uno, yo hice otro, pues hará como...
+H4:Claro, pues es lo... es lo que te digo, que ahora que está la feria de artesanía
+H3:la primera vez que yo vine a España.
+H4:eso por ejemplo, hecho por alguien
+H3:Y eso es de [vacilación], eso es una...
+H4:tendría, tendría seguramente mucho éxito.
+H3:Es que eso es de Poleo, o sea, esa es una copia de un pintor criollo cubista. Se llama Poleo.
+H1:Pues yo tengo algo de ese Poleo. Parecido a ésto.
+H3:Esa es de Poleo.
+H1:Ya te lo enseñaré. Lo tengo en casa.
+H2:[ininteligible]la polea de la afiladora.
+H1:¿Qué?
+H2:La polea de la afiladora, tienes.
+H3:No, él tendrá algún cuadro de los que yo he traído de...
+H1:Sí, tengo. Que sí ten[palabra cortada]. No, no, ella me ha traído, me ha traído modelos,
+H3:Revistas.
+H1:exactamente, en revistas, tengo esa.
+H3:Y estaba uno de Poleo.
+H2:Que también tienes la polea de la afiladora. Leche.
+H4:En el pozo.
+H2:A ver.
+H8:Claro.
+H1:Sí tengo esa, sí. Pues hemos arreglado el pozo, hombre, digo, el otro lado.
+H3:Claro, pero tú tenías que hacer, ¿qué te digo? Por lo menos diez o doce piezas, ¿no?
+H1:Hemos destrozado la mesa.
+H3:Y llevarlas a un sitio de esos.
+H2:Ahora como tiene pasillo, ya...
+H1:Hemos destrozado la mesa.
+H4:¡Qué bien, qué bien con el pasillo, ¿eh?
+H3:Pero es que éste no, no,
+H4:¡Qué bien con el pasillo!
+H3:pero es que éste nos ha quitado,
+H1:Pero tú no has visto, dentro, he quitado la mesa,
+H3:Así, aquello ha quedado...
+H1:Hemos hecho una estantería que he comprado, nos queda hueco...
+H4:Ya me lo ha dicho, ya me lo ha dicho.
+H2:Nos queda hueco...
+H4:Pero que el pasillo... [ininteligible]
+Todos:[ininteligible]
+H3:Quitó aquellas barritas,
+H4:Pero lo hizo él solo, ¿verdad?
+H3:Solo.
+H4:Solo. ¡Qué tío!
+H7:Carmen, Carmen ¿has acabado o [ininteligible]?
+H1:Está muy bien el pasillo ese.
+H4:[ininteligible] ¿No se... no se enteran?
+H2:El mamotreto...
+H4:Tú trabajas y no te hacen ni caso.
+H1:Pero si, ya lo sé que no.
+H2:Ahora resulta que el otro día el mamotreto de pasillo me han hecho quitarle. Dice que está... Se ha quitado toda la... todos los pedruscones esos quitados.
+H1:Yo le he quitado... ¿ [ininteligible] que lo quitaras?
+H2:Sí.
+H4:¿Y qué se ha hecho?
+H2:Que se ha quedado todo bordado.
+H3:Y aque[palabra cortada] aquellas cosas que habían aquí delante...
+H2:Más piedras, más piedras.
+H4:Sí.
+H1:¡Ah!
+H3:Las hemos quitado y se ha llevado el camino hasta delante de la [ininteligible]. Y queda [ininteligible]...
+H4:Pero el pasillo.... pero el pasillo que hicimos...
+H1:Si sigue... que lo ha aumentado.
+H3:No. Queda el rosal... y queda el rosal...
+H2:Aumenta hasta el principio.
+H3:libre y los pen[palabra cortada] y una... hemos puesto aquí pensamientos...
+H1:Ese rosal que había con unos... tapado, ha quitado todo eso.
+H3:Unos pedruscos que había.

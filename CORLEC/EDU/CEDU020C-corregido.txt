@@ -1,0 +1,137 @@
+#archivo: cedu020c
+#fecha de grabación: 26-3-91
+#fuente: clase de conversación de 1 de EGB
+#localización: Segovia
+#términos: casa, habitación, juguete
+#H1: mujer, 24 años, profesora
+#H2: mujer, 6 años
+#H3: varón, 7 años. Le faltan los dos incisivos centrales.
+H1:¿Cómo os llamáis?
+H2:Yo Tamara.
+H3:Y yo Diego.
+H1:Tamara y Diego, pues... ¿qué os gusta más de esta casita? [silencio]
+H1:A ver, ¿qué preferís? ¿En qué habitación os gustaría estar?
+H2:A mí me gustaría estar en... en ésta de aquí.
+H1:¿En esa? y ¿por qué? ¿tú qué crees?
+H2:No sé, porque me gustan los muebles.
+H1:¿Sí? ¿Qué muebles tienes en tu habitación?
+H2:Pues tengo... uno donde... donde meto todos los pijamas y las cosas y luego... y luego tengo el armario y luego tengo otro al lado de mi cama donde meto más juguetes. Hasta en el armario tengo juguetes.
+H1:¿Seguro que ese es el... el que más te gusta? ¿No? El que tiene los juguetes. Y... y ¿cuáles son tus juguetes favoritos?
+H2:Pues, la [extranjerismo]Barbie[fin de extranjerismo], la Nenuca, la Miss Maquillajes y la [extranjerismo]Nancy[fin de extranjerismo].
+H1:¿Sí? ¿Y tú? ¿Cuáles son...? ¿Tú en esta habitación? ¡Ah! Ya qué sé por qué. ¿Por qué? cuéntame, ¿por qué?
+H3:Por... porque hay muchos juguetes...
+H1:Claro. Hay cantidad de juguetes. Fíjate esos soldaditos. ¿Los ves? que están ahí.
+H2:Ah, ¡qué cucos!
+H1:¡Qué monos!
+H2:A mi hermana como la gusta todo de... de chico.
+H1:¿Que a tu hermana le gusta de chico?
+H2:[afirmación]
+H1:¿El qué? ¿El qué?
+H2:Pues que sea chico. Tiene todos los coches. Luego dice que... a mi madre, que la quite los pendientes. Y que la ponga los pelos de [extranjerismo]punki[fin de extranjerismo]. Tiene una muñeca que es bien bonita que es la... otra [extranjerismo]Barbie[fin de extranjerismo] y... y... y la... y la... y la tiene todavía empaquetada, que era del año pasado de Abril.
+H1:¿Y la tiene empaquetada?
+H2:Yo la quiero abrir ya pero como mi... ella no me deja.
+H3:Yo tengo un cajón lleno de coches.
+H1:Claro, a ti eso...
+H2:Si te oye mi hermana , ¿tú sabes lo que la gustan los coches?
+H1:Se iría a jugar contigo, su hermana. ¿Cuántos años tiene tu hermana?
+H2:Cinco.
+H1:Cinco, ah... y, claro, es más pequeñita.
+H3:Jolín, mi hermano diez.
+H1:Tu hermano diez. ¿Cuántos hermanos sois, vosotros?
+H3:Yo y otro.
+H1:Tú y otro. Y tú, ¿también dos?
+H2:Sí.
+H1:Tú y otra. Dos niñas y dos niños. Y tú cuéntame algo de tu... de tus juguetes.
+H3:[duda]
+H1:A ti los coches es lo que te va, ¿no?
+H3:No.
+H1:¿No?
+H3:Es los... son los juegos.
+H1:¿Los juegos?
+H3:Tengo muchos.
+H2:Dice que la gustan mucho los todoterrenos.
+H1:¿Los todoterrenos? Y juegos, ¿qué juegos? Cuenta.
+H3:El "Metropoli"... el "Hotel".
+H1:Anda ¿Y cómo se juega al "Metropoli"? Porque yo ese no le he tenido.
+H3:Es muy fácil.
+H1:¿Es muy fácil? ¿Cómo?
+H3:Hay... dinero y tienes que ir comprando jugueterías, panadería y más cosas.
+H1:Y luego, a ver si te haces rico, ¿no?
+H3:No.
+H1:¿No?
+H3:Cuan[palabra cortada], esto el que... tenga más cosas.
+H1:¿El que tenga más cosas es el que gana? El que tenga más tiendas...
+H3:Sí.
+H1:Ah, ya, ya, ya. Y ¿qué más juegos, qué más?
+H3:El "Hotel".
+H1:Ah, ¿y a ese cómo se juega?
+H3:Pues comprando, comprando hoteles.
+H1:¿Comprando hoteles?
+H3:Es muy grande.
+H1:Y los hoteles, ¿ves las habitaciones y todo eso?
+H3:No. Son... unas cosas así de papel y... tiene que ir un... unos coches y cuando caiga en una casilla que tiene dinero, pues tiene que comprar un, uno que esté en un lado, que... Entonces aquí hay un... un... hotel, aquí otro, tienes que comprar éste o éste.
+H1:Ah, ya, ya, ya.
+H3:Pero es que yo no sé jugar casi. Sí que sé jugar pero es que es a partir de los ocho años para arriba.
+H1:Jolín, es que...
+H3:Y tengo siete.
+H2:Yo tengo un juego que es el "Hundir la barca" y es a partir de los diez años para arriba. Yo juego con mi padre pero no me sale muy bien.
+H1:Es que son un lío porque tienes que pensar que si qué compras y eso, ¿verdad?
+H2:Sí.
+H3:En el de "Hotel" es que se tarda mucho.
+H1:Claro.
+H3:Una hora.
+H1:Claro.
+H3:Casi.
+H1:Claro.
+H2:Yo tengo uno que es... que es la casa de la [extranjerismo]Barbie[fin de extranjerismo], pero es que...
+H1:¿La casa?
+H2:La casa de la [extranjerismo]Barbie[fin de extranjerismo].
+H1:Ah.
+H2:Que es que tienes que meter la[extranjerismo]Barbie[fin de extranjerismo] por un sitio, ¿eh? Luego por otro sitio y cada vez que la vas metiendo más, ¿eh? te salta un muñecajo a la cara.
+H1:¿Un qué?
+H2:Un muñeco en la cara. Como de esos de... que se ponen en la caja y luego con un muelle, ¡pumba!
+H1:Ah.
+H2:Sí, pues te salta ahí. Y si salta la [extranjerismo]Barbie[fin de extranjerismo] pues cada vez te salen más muñecajos de esos.
+H1:Qué gracia.
+H2:Yo siempre me hago un lío.
+H1:¡Qué gracia! Bueno, pues... ¿Y qué más me podéis contar?
+H3:Y también tengo el "Indicios".
+H1:Y ¿ese de qué es? ¿de espías?
+H3:No.
+H1:¿No? ¿Cómo es?
+H3:Tie[palabra cortada]... tienen que... hay diez preguntas y tienen que... y tienen que acertarlas y... y hay unas fichas. Tie[palabra cortada]... tienes... que ir moviéndolas, las... las que no ha acertado las mueve el que las ha leído.
+H1:Ya, ya, ya, ya. Jolín. Os gustan juegos de mucho pensar, ¿eh?
+H3:Pues para mí están chupados.
+H1:Están chupados.
+H3:La mitad.
+H2:Para mí, la... la que no está tan chupadita es la de "Hundir la barca", que es ya a partir de los diez años.
+H1:Claro. Yo tengo uno también que es de barcos y yo me hago un lío, yo no sé jugar. Es... ¿cómo se llama? espera... [duda] de... ¡ah! es de una guerra de la guerra de el "Lepanto". El "Lepanto", se llama y también van muchos barcos pero es un jaleo porque según donde esté el barco vale unos puntos y hay que ir contando los puntos...
+H3:Y la guerra de barcos, bueno. Tienes que ir colocando los barcos les tienes que colocar. Tiene que tener uno... no sé cuántos y otro los mismos. Es un lío.
+H2:Es que en el de "Hundir la barca" es así como cuadrado [ininteligible] rojo, que pones aquí barcos que te viene y tienes que decir pues te vienen letras y números del uno al diez,
+H3:Eh, ya.
+H2:Y tienes que decir a-uno.
+H3:Ese le tengo.
+H2:El número que quieras y si al otro compañero que está jugando contigo le has hundido, dices: "hundido" y pones la ficha de esas en el barco y eso, yo me hago un lío.
+H3:Yo también le tengo.
+H1:Y de jugar en la calle, ¿jugáis al escondite y a esas cosas?
+H2:No.
+H3:Yo a las chapas o algo de eso.
+H1:¿A qué?
+H3:Al fútbol,
+H1:¿Y a las chapas has dicho? Ah, a las chapas.
+H3:Yo juego al aro, a las muñecas... al balón de vez en cuando.
+H3:Yo al fútbol, al baloncesto..
+H2:Y a la goma.
+H1: ¿Y qué preferís, los juegos de jugar en casa con vuestra familia o los de jugar en la calle?
+H3:Yo el baloncesto.
+H1:Tú el baloncesto el que más.
+H3:Como voy a... vo[palabra cortada] a... a entrenar por las mañanas al baloncesto.
+H1:¿Ah, sí? ¿A las nueve? ¿A qué hora?
+H3:A las ocho me tengo que levantar para ir a las nueve.
+H1:Jolín. Y ¿Dónde vas aquí al... en el colegio?
+H3:Sí, en estas canastas de aquí abajo.
+H1:Jolín, oye.
+H2:A mí lo que más me gustan son las muñecas y la goma.
+H1:Claro. [afirmación] Bueno, pues si queréis ir a clase ya. ¿Vale?
+H2:Vale.
+H1:Bueno, pues voy con vosotros y le decimos a algún compañero que venga si quiere.

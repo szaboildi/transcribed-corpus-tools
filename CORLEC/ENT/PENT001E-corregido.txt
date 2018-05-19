@@ -1,0 +1,658 @@
+#archivo: PENT001E
+#fecha de grabación: 10-09-91
+#fuente: radio
+#localización: Madrid
+#términos: fútbol, federación, psicólgo, partido de fútbol, partido político, vasco, ley, ministro, parlamento europeo, teatro, actor, director, autor
+#H1: varón, c. 45 años, Luis del Olmo, periodista radiofónico
+#H2a: mujer, c, 40 años, ventrílocua, personaje: Dª Rogelia
+#H2b: mujer, c. 40 años, Mari Carmen, ventrílocua, su propia voz
+#H2c: mujer, c. 40 años, ventrílocua, personaje: pato Nicol
+#H3: varón, c. 50 años, José María Bandrés, político
+#H4: mujer, c 55 años, Nuria Espert, actriz
+H1: Estamos en el aire, por favor, [solapamiento de turnos] doña Rogelia.
+H2a: Pos [sic] ahora [fin de solapamiento de turnos] te esperas que estoy hablando de mis cosas. [risas] O sea an[palabra cortada]... [risas] antes no valía y ahora sí vale. Que Nuria quiere un té.
+H1: Sí, sí. Pero...
+H2a: Luego diremos qué Nuria es.
+H1: Ah bueno [solapamiento de turnos] no ha descubierto ...
+H2a: No vamos a decir [fin de solapamiento de turnos] quién es.
+H1: Ah... no descubra usted el personaje...
+H2a: [solapamiento de turnos] No, no.
+H1: ...porque [fin de solapamiento de turnos] si no... le quita... entusiasmo.
+H2a: Además no me importa decir su [ininteligible] porque como viene con maquillaje...
+H1: Sí.
+H2a: ...no sabemos quién es. [risas]
+H1: Sí, sí. Bueno qué.
+H2a: ¿A que estado bien?
+H1: ¿Nos vamos al guión, moza?
+H2a: Un momentito, si no le importa. [solapamiento de turnos] Hermoso
+H1: Nada, tranquila... [ininteligible] da la gana.
+H2a: Oyes, majos, que [fin de solapamiento de turnos]me traigáis un té...
+H1: Sí.
+H2a: ...y a mí un café con leche.
+H1: Sí. [risas] [texto no transcrito]
+H2a: Con leches, con muchas...
+H1: ¿Qué clase de leche?
+H2a: ...por si acaso alguna vez la necesito
+H1: ¿Qué clase de leche, [solapamiento de turnos] doña Rogelia?
+H2a: [ininteligible] De la [fin de solapamiento de turnos] buena
+H1: ¿Sí?
+H2a: ...de momento buena.
+H1: Usted, ha tomado toda la vida leche de cabra, toda la vida ¿no?
+H2a: Yo toda mi vida, ¿y tú? [risas] Sí, ya te ríes tú, te voy a dar.
+H1: Pues yo leche de... una buena... y hermosa vaca que tenemos en León.
+H2a: ¿Sí? [solapamiento de turnos] La...
+H1: La [fin de solapamiento de turnos] vaca lechera, que es una vaca cualquiera.
+H2a: La misma. Esa no da más leche, ya. Huy, que me has dado con el teléfono en el oído.
+H2b: Pero doña Roge...
+H2a: Que me estás pegando, coña.
+H1: Estaba hablando con Nicol. Nicol intenta intervenir.
+H2c: Eso digo yo. [ininteligible]
+H2a: Cállate ya, coña.
+H2c: Vaya usted para abajo de la pirámide que van a cerrar. [risas]
+H1: Sí.
+H2a: Bueno, qué fino está el pato.
+H1: Sí, sí.
+H2a: Como se nota que la semana pasada estuvo en un colegio de pago.
+H2b: Nicol, buenos días.
+H1: Buenos días, Nicol.
+H2c: Hola Luis, buenos días.
+H1: ¿Qué tal? ¿Dónde andas?
+H2c: Estoy en una cabina de la calle Alberto Bosh.
+H1: [duda] ...te oigo muy regular. ¿No puedes hablar un poco más alto?
+H2c: ¿No puedes poner la radio, tú, por ejemplo?
+H1: ¿Qué dices?
+H2c: Que pongas la radio, y como sale en Onda Cero esto, pues lo oyes divinamente. Subes volumen y ya está.
+H1: ¡Ah! Y entonces se acopla, claro.
+H2c: ¿Cómo que te la sopla? Qué... [ininteligible] [risas] [solapamiento de turnos] Qué dices, qué dices, eh...
+H1: Que... , decía [fin de solapamiento de turnos] que se acoplaba.
+H2c: Hay qué susto me has dado. Pero...
+H2b: Oye Nicol...
+H2c: Pues tú verás, porque hoy no puedo hablar más alto. No. Espera vamos a hacer una cosa.
+H1: A ver, ¿qué vamos a hacer?
+H2c: Yo sigo hablando así, y tú oyes... oyes más alto. Y por ejemplo... súbete a una silla o algo.
+H2b: Pero Nicol.
+H1: Bueno, vamos a ver si empezamos de una vez. ¿Dónde has estado?
+H2c: Acabo de asistir a una rueda de prensa, de la Federación Española de fútbol.
+H1: ¿Y qué objeto tenía esa rueda de prensa?
+H2c: Bueno, nos han estado presentando las nuevas incorporaciones a la Selección Nacional.
+H1: Ah, algún... jugador nuevo.
+H2b: ¿Eh...? ¿eh...? Nicol, ¿sí?
+H2c: No, no son jugadores. Es contratación de personal... [solapamiento de turnos] de personal
+H1: [ininteligible] [fin de solapamiento de turnos] ¿A qué personal te refieres?
+H2c: ¿Eh?
+H1: [afirmación]
+H2c: ¿Qué dices?
+H1: Que a qué personal te refieres.
+H2c: Ah, esto, ¿es que no te acuerdas lo que pasó la Selección Nacional [sic] ante Isladia?
+H1: Sí, que hizo el ridículo ¿y qué?
+H2c: Como que ¿y qué?, que han contratado un ps[palabra cortada]... psicólogo.
+H1: Ah, ¿es verdad eso?
+H2c: Como lo oyes.
+H1: [duda] Había oído algo, pero no creía que fuera cierto.
+H2c: Pues creételo, Luis. Al parecer los chicos tienen la moral quebradiza.
+H1: Sí.
+H2c: Y el ánimo débil.
+H1: Sí.
+H2c: Y han tenido que ponerles un psicólogo.
+H1: Ah bueno, a ver así se animan, y si da resultado pues daremos el fichaje del psicólogo por bien empleado ¿no?
+H2c: No, Luis. No se acaba la cosa ahí. Ha habido más fichajes.
+H1: Más fichajes todavía.
+H2b: Sí, ¿Nicol?
+H2c: ¿Y es que no te has dado cuenta lo aburrido que juega la Selección?
+H1: La verdad es que aburre a las ovejas, Nicol, [solapamiento de turnos] sí.
+H2c: Y a [fin de solapamiento de turnos] nosotros que los vemos por la tele.
+H1: Vamos a ver lo que hace mañana en Francia, [solapamiento de turnos] en
+H2c: Por cierto... [ininteligible] [fin de solapamiento de turnos]
+H1: ...en [solapamiento de turnos] Sevilla
+H2c: [ininteligible] [fin de solapamiento de turnos]
+H1: ...con los franceses.
+H2c: Y los jugadores de reserva ni te cuento cómo se aburren. Lo ven en directo y en directo es mucho peor.
+H1: [vacilación] Bueno ¿y qué?
+H2c: Pues que para que no se aburran los que están esperando en el banquito,
+H1: Sí.
+H2c: además del ps[palabra cortada]... psicólogo,
+H1: Sí.
+H2c: les van a contratar dos malabaristas para que entretengan los [sic] del banquillo. [risas]
+H1: ¿De verdad? [vacilación] [solapamiento de turnos] ¿De verdad?
+H2c: [ininteligible] Luis, [fin de solapamiento de turnos] pero no acaba ahí la cosa.
+H1: ¿Todavía hay más?
+H2c: Mucho más, escucha que te diga.
+H1: A ver, dime.
+H2c: Tú conoces a Manolo el del bombo.
+H1: Sí, lo conozco. ¿Te refier[palabra cortada]... a ese señor que anima a los espectadores con un tambor, vamos con un [solapamiento de turnos] bombo?
+H2b: Bombo [fin de solapamiento de turnos]
+H2c: El mismo, Luis, bueno. Pues los jugadores quieren... vamos, dicen que no les gusta.
+H1: ¿Cómo que no les gusta?
+H2c: Sí, que toca poco fino.
+H1: [afirmación]
+H2c: Que toca el bombo vasto.
+H1: Y ¿qué van a hacer [solapamiento de turnos] [ininteligible]?
+H2c: Que toca de [fin de solapamiento de turnos] oído el tío.
+H1: Y ¿qué van a hacer [solapamiento de turnos] entonces?
+H2c: De momento [fin de solapamiento de turnos] Manolo el del bombo le van a poner profesor de solfeo.
+H1: Sí.
+H2c: Anda, para que toque el bombo con partitura
+H1: O sea que psicólogo, malabarista y profesor de [solapamiento de turnos] solfeo.
+H2c: De [fin de solapamiento de turnos] momento.
+H1: ¿Cómo que de momento?
+H2c: Sí, que lo del profesor de solfeo sólo lo es... es a prueba durante tres partidos.
+H1: ¿Y si no sale bien?
+H2b: [interrogación] ¿Si no sale bien?
+H2c: Pues el profesor y el bombo a la calle.
+H1: Entonces ¿quién animará a la selección?
+H2c: Bueno, hay división de opiniones. Medio equipo quiere que sustituya el bombo por la orquesta sinfónica de Berlin.
+H1: Ya, y el otro medio.
+H2c: La banda de Empastre.
+H1: [afirmación] Vaya un lío, ¿no?
+H2b: ¡Qué problema!
+H2c: No, no. Se contratan las dos y cada uno que anime durante un tiempo.
+H1: Sí. ¿Hay algún otro fichaje de [solapamiento de turnos] estos?
+H2c: Sí, [fin de solapamiento de turnos] un [extranjerismo]barman[fin de extranjerismo].
+H1: Sí. ¿Para qué un [extranjerismo]barman[fin de extranjerismo]?
+H2c: Para que sirva el agua milagrosa a la temperatura adecuada.
+H1: O sea, que ahora llevamos psicólogo, malabarista, profesor de solfeo, la orquesta sinfónica de Berlín, la banda del Empastre, un [extranjerismo]barman[fin de extranjerismo]. ¡Vaya una imagen que va a dar [solapamiento de turnos] la selección española!
+H2c: Se me olvidaba, [fin de solapamiento de turnos] se me olvidaba...
+H1: ¿Qué?
+H2c: Lo de la imagen, ahora que lo dices [solapamiento de turnos] se me olvidaba
+H1: ¿Hay más? [fin de solapamiento de turnos]
+H2c: Sí. Para mejorar la imagen la selección llevarán maquilladoras, sastras y peluqueros.
+H1: [negación] ¿Tú crees que así van a jugar mejor los chicos?
+H2c: No... si... lo que yo creo es igual. Vamos no lo creo ni yo ni el seleccionador nacional tampoco [solapamiento de turnos] [ininteligible]
+H1: Si no [fin de solapamiento de turnos] cree que la selección vaya a mejorar, ¿porqué lo autoriza?
+H2c: Pues lo dice [duda] este... Miera, este...
+H1: Miera, sí.
+H2c: Es que... dice que más vale así. Que cuando juega la selección ya que no hay fútbol, pues que se vea espectáculo.
+H1: Seguro que dan el espectáculo. ¿Alguna cosa [solapamiento de turnos] más Nicol?
+H2c: Nada. [fin de solapamiento de turnos] Me vuelvo a la federación que van a presentar al perfumista del equipo nacional.
+H1: ¿Ah?, también hay perfumista.
+H2c: También, también. Ya que no hay olfato de gol, por lo menos que huelan bien, porque no veas cómo huelen.
+H1: Bueno, pues nada Nicol. Suerte y hasta la próxima semana.
+H2c: Adiós, adiós, adiós Luis.
+H1: Hasta la semana. Ahí tienes el aplauso de la concurrencia
+H2c: Adiós.[aplausos]
+H1: ...que te estaba escuchando con atención. [solapamiento de turnos] Tómate...
+H2c: Doña Rogelia [fin de solapamiento de turnos]
+H1: ...tómate a nuestra salud otra Casera que vamos con el personaje ¿eh?
+H2c: Doña Rogelia.
+H1: ¿Qué le quería decir a Doña [solapamiento de turnos] Rogelia?
+H2a: Me [fin de solapamiento de turnos] quieres decir algo, hijo?
+H2c: ¿La puedo decir algo?
+H2a: Pues sí, a ver, ¿qué me ibas a decir?
+H2c: Que la zurzan. [risas]
+H2a: Mira qué fino. Que te guisen gilipoyas.
+H2b: [solapamiento de turnos] ¡Doña Rogelia!
+H1: Sí, sí [texto no transcrito] [fin de solapamiento de turnos]
+H2b: No hable más, por favor.
+H2a: Es que me pone fuera de mis.
+H1: Tome otra caserita... de... de sus qué.
+H2a: De mis... de mis... de mis partes. [risas] Es que yo sabe usted que soy muy recia.
+H1: ¡Qué guapa viene con ese alfiler de corbata [solapamiento de turnos] que tiene!
+H2a: Estoy esperando [fin de solapamiento de turnos] a que me regales uno de oro.
+H1: Sí. ¿Para qué?, si le he regalado unos pendientes de oro y los vendió, hace quince [solapamiento de turnos] días.
+H2a: No [fin de solapamiento de turnos] los vendí,
+H1: ¿Cómo que [solapamiento de turnos] no los vendió?
+H2a: No, no. [negación] [fin de solapamiento de turnos] Los empeñé.
+H1: Sí, sí. Y usted cree que es... es [ininteligible] [solapamiento de turnos]
+H2a: Porque [fin de solapamiento de turnos] me hacía falta el dinero, no por otra cosa.
+H1: Sí, sí, sí.
+H2b: ¿Por qué? ¿Y ahora qué va usted a hacer?
+H2a: Pues los voy a ver [sic] si con la papeleta los puedo recoger.
+H2b: ¿Cuánto le dieron?
+H2a: Quince pesetas.
+H2b: Pero serían de oro.
+H2a: Me dijo que del que cagó el moro porque me los regaló éste, ¿qué te [solapamiento de turnos] parece?
+H1: Sí, sí. [fin de solapamiento de turnos] [solapamiento de turnos] Y aquel...
+H2b: Pero [fin de solapamiento de turnos] usted pídame dinero a mí cuando le haga falta, usted no tiene que empeñar nada.
+H2a: Si lo hice para hacerle la faena a él. [ininteligible]
+H1: Y aquel collar de perlas que le regalé, de perlas auténticas.
+H2a: Esas se las puso [sic] otra vez en el estuche.
+H2b: ¿En [solapamiento de turnos] dónde?
+H1: ¿Por qué?
+H2a: En la ostra. [risas] Me daba pena quitarle el hijo. [risas] Y las puse otra vez en su sitio, [solapamiento de turnos] sabe
+H1: Sí. [fin de solapamiento de turnos]
+H2a: usted.
+H1: Vaya... vaya perlonas que lleva Mari Carmen. ¿La ha visto?
+H2a: Sí, sí, sí, [afirmación]. Me recuerda a doña Carmen Franco. [risas]
+H1: ¿En bisutería?.
+H2a: Claro, como la de ella.
+H1: Toma otra Casera, toma otra Casera. [risas] [texto no transcrito]
+H1: [texto no transcrito] creo que tiene dos invitados. Por un... lado una Nuria muy importante: la Nuria más importante y popular.
+H2a: Sí.
+H1: Y por otro lado, al otro lado del teléfono... ¿hay alguien que le proporcione un auricular a doña Rogelia? Por favor [solapamiento de turnos] un auricular.
+H2a: Sí, lo tenemos [fin de solapamiento de turnos] aquí, ¿eh? aquí. [afirmación] [solapamiento de turnos] muy bien.
+H1: Vamos a ver [fin de solapamiento de turnos].
+H2a: Un momento que me voy a poner las orejeras.
+H1: A ver, [solapamiento de turnos] venga... venga
+H2b: Doña Rogelia, porque [fin de solapamiento de turnos] vamos con el día de [solapamiento de turnos] nuestro
+H1: Sí, sí. [fin de solapamiento de turnos]
+H2b: ...invitado [solapamiento de turnos], merece la pena
+H1: Luego dice que empezó [ininteligible] [fin de solapamiento de turnos] la radio, y hay que ponerse los auriculares.
+H2b: Claro que [solapamiento de turnos] sí.
+H1: Doña [fin de solapamiento de turnos] Rogelia, Mary Carmen.
+H2a: Y es verdad.
+H1: Sí, sí, sí. [solapamiento de turnos] Bueno, a quién... a quién
+H2a: No, yo es igual [fin de solapamiento de turnos], yo si me los pongo oigo menos, porque me tapona el... la trompa de eustaquio
+H1: ¿A quién [solapamiento de turnos] hay ...?
+H2a: ...y [fin de solapamiento de turnos] me deja imposibilitado el martillo y con lo cual se me desconecta el yunque.
+H1: ¿A quién... [ininteligible]? [risas]
+H2a: Yo me sé muy bien todas las partes del oído.
+H1: ¿A quién ha invitado ... a quién ha invitado hoy que no nos lo... no nos lo dijo?
+H2a: [ininteligible] Mire usted, y tenemos la... la satifación y el honor de tener al otro lado del teléfono...
+H1: Sí.
+H2a: ...ni más ni menos...
+H1: [solapamiento de turnos] Sí.
+H2b: ¿A [fin de solapamiento de turnos] quien?
+H2a: Al señor van tres.
+H2b: Bandrés.
+H2a: Van tres, no... [vacilación].
+H1: ¿A don Juan María Bandrés?
+H2a: Don Jo[palabra cortada]... don... sí señor, ese, Ban[palabra cortada] ¡Señor Bandrés!
+H3: Sí...
+H2a: ¿Me oye usted?
+H3: Le oigo un poco bajo, pero le oigo.
+H2a: ¿Pero... dónde está usted señor Bandrés?
+H3: Estoy en Estrasburgo.
+H2a: ¿En dónde...?
+H3: Estrasburgo.
+H2a: Que ha dicho que está en dónde.
+H2b: Estrasburgo, doña Rogelia
+H1: Estrasburgo.
+H2a: [solapamiento de turnos] Madre mía
+H3: A la ori[palabra cortada]... [fin de solapamiento de turnos] a la orilla del Rhin.
+H1: Sí.
+H2a: Pasen, pase sin llamar, si usted aquí puede pasar cuando quiera. [risas], usted está en su casa, aquí en la Onda Cero, señor Bandrés, le tenemos mucho cariño.
+H3: Muchas gracias [solapamiento de turnos] [ininteligible]
+H2a: Y nos [fin de solapamiento de turnos] gusta mucho cuando le[palabra cortada]... se pone usted a parlar en el Parlamento.
+H3: Muchas gracias.
+H2a: Larga usted con mucho estilo, y lo hace usted con mucha clase. [texto no transcrito]
+H2a: Además yo... mire usted, señor Bandrés, es que yo cuando habla usted no me gus[palabra cortada]... no me gusta perdérmelo porque yo a usted le entiendo.
+H3: Ah, bueno.
+H2a: Y eso que [vacilación] el pueblo entienda lo que dicen los políticos, pues puede tener ustd problemas con eso ¿eh? [risas]
+H3: [ininteligible] Doña Rogelia...
+H2a: Tenga cuidado con los compañeros de patio, que a lo mejor se enfadan porque le entendemos.
+H3: Doña Rogelia.
+H2a: Mande usted.
+H3: Ya sabe usted que algunos hablan para que no se les entienda, y otros hablamos para que nos en[palabra cortada]... se nos entienda. Por eso me alegra mucho oír lo que ustd me está diciendo.
+H2a: Pues por eso se lo digo a usted. Como parece que tienen ustedes como una especie de pacto entre todos para que hagan [ininteligible] para que los presupuestos [ininteligible] por lo tanto el señor tiene la palabra y ahora no habla, con lo cual nos quedamos todos con la boca abierta. Señor Bandrés. [duda] ¿Está usted contento en... allí en...en Estrasburgos [sic], en Burgos? [risas] Hasta Burgos se ha ido, allí. [vacilación] ¿Qué ha ido a hacer usted ahí, señor Bandrés?
+H3: Pues es que yo soy diputado del parlamento europeo, y el parlamento europeo, una semana cada mes, se reúne aquí en la [ininteligible] en Estrasburgo.
+H2a: ¡Ah!
+H3: Y aquí nos meten todos como si fuéramos monjas de clausura, dentro de un gran palacio...
+H2a: [afirmación]
+H3: Y no nos dejan salir en toda la semana.
+H2a: ¿Cuánto tiempo lleva usted allí?
+H3: Bueno, desde el lunes y tengo que estar hasta mañana viernes.
+H2a: Y ¿en qué idioma hablan ellos?
+H3: Bueno, se habla en cualquiera de los idiomas propios.
+H2a: [solapamiento de turnos] Sí.
+H3: Lo [fin de solapamiento de turnos] que pasa es que tenemos traducciones simultánea [sic] ...a nueve lenguas distintas.
+H2a: Pues usted jódalos ahora en [extranjerismo]euskera[fin de extranjerismo], a ver cómo se apañan. [risas] Verá usted la que va a armar allí. Usted tranquilico, se levanta, pausado, como se es caballero y bien educado y habla en [extranjerismo]euskera[fin de extranjerismo], pues hala, que se jodan. [risas] A ver quien lo... a ver quien le entiende. Y no tiene más remedio ... como esos dicen que son cultos, usted hágalo así porque no habrá más remedio que decir: "llevas razón [interrupción de la grabación]
+H2a: [texto no transcrito] Yo... yo voy leyendo y me quiero enterar cómo van sus problemas en su partido.
+H3: Bueno, van regular, digamos. [solapamiento de turnos] Lo que pasa es que...
+H2a: ¡Qué sincero es usted! Si hubiera sido José María [vacilación] este chico de bigote [solapamiento de turnos] ¿Cómo se llama?
+H3: Aznar [fin de solapamiento de turnos]
+H2a: Pues hubiera dicho: "no tenemos ningún problema". Este dice que sí.
+H3: Yo...
+H2a: A ver dígalo usted todo.
+H3: Yo reconozco que tenemos problemas y además problemas do[palabra cortada]... dolorosos, como son los problemas de familia, que siempre los problemas de familia son duros.
+H2a: Sí es verdad.
+H3: Pero bueno, no ha habido más remedio. [ininteligible] que ha habido cinco expulsiones, lo que pasa que muy notorias, muy importantes.
+H2a: Sí.
+H3: Y... seguramente mañana se va a consumar, porque mire usted vamos a pasar al [extranjerismo]winners[fin de extranjerismo]. Usted imagínese que cinco parlamentarios de [extranjerismo]Euskadiko Ezkerra[fin de extranjerismo], mañana, van a votar en contra de un gobierno en el que está como consejero su propio secretario general. De modo que eso es para pasar al [extranjerismo]winners[fin de extranjerismo] en cualquier partido político.
+H2a: Padece fuerte eso, verdad señor Bandrés.
+H3: Es fuerte, sí, así es.
+H2a: Sí que sí. Y... y no... y usted [ininteligible] ...qué le parece... eh... eh... usted personalmente qué opina respecto a ese [duda] problema.
+H3: Pues qué voy a opinar. Yo eh... eh entiendo que los partidos tienen una regla de oro, que se llama la regla de oro democrática, que hay que aceptar lo que acuerde la mayoría,
+H2a: [solapamiento de turnos] Muy bien
+H3: y [ininteligible] cuando la mayoría es la mayoría absoluta. Entonces estos cinco parlamentarios no acatan lo que decide la mayoría. Hacen su propia política individual distinta de la del partido, y claro se sitúan ya fuera del partido. Yo creo que eso está más claro que el agua.
+H2a: Pues sí, para que vayan enterándose de que así no puede ser.
+H1: Doña Rogelia, pregúntele al señor Bandrés lo que se está debatiendo, que hemos hablado esta mañana, en el congreso de los diputados, la ley... el proyecto de ley de [solapamiento de turnos] seguridad ciudadana.
+H2a: Antes de eso quiero decirle [fin de solapamiento de turnos] que como yo le sigo al señor Bandrés, le quiero dar las gracias por su defensa a los derechos humanos, que eso sí que lo sigo, aunque no se lo pregunto ni nada, pero es un hombre que siempre está preocupado por esas cosas. Bien. Hale, voy a preguntarle [solapamiento de turnos] [ininteligible]
+H2b: Sí doña Rogelia.
+H1: Sí, sí. [fin de solapamiento de turnos]
+H2a: Señor... señor Bandrés.
+H3: Sí, dígame.
+H2a: Por favor, me quiere usted contestar qué le parece a usted esas cosa que van a hacer los del gobierno para entrar a todos a las cinco la mañana a registrarnos los bolsillos y darnos dos bofetadas si protestamos. [risas]
+H3: Pues ya lo ha dicho usted, doña Rogelia. Yo estoy de acuerdo con usted, absolutamente.
+H2a: Le padece a usted que eso no ¿verdad?
+H3: No, eso no puede ser. Eso no puede ser, y seguro que eso no es constitucional, por lo tanto si lo hacen habrá que reclamar al Tribunal y seguro que lo ganamos ¿eh?
+H2a: Sí, yo creo que lo ganamos, ¿verdad?
+H3: Ese pleito lo [solapamiento de turnos] ganamos.
+H2a: Sí... [fin de solapamiento de turnos] oiga, señor Bandrés, su... su partido ¿porqué se llama como chiquitito? ¿Por qué es [extranjerismo]Euskadiko[fin de extranjerismo]? [risas] ¿Por qué [ininteligible] ...por qué no lo pone usted euska[palabra cortada]... eus[palabra cortada]... es[palabra cortada]... euskadón para que suene con dos cojo[palabra cortada], vamos que suene como es usted. [extranjerismo]Euskadiko[fin de extranjerismo] pequeñico de [ininteligible] [extranjerismo]ezkerra[fin de extranjerismo], porque suena como pequeñico... [texto no transcrito].
+H3: ¿Pero sabe lo que pasa? Que [extranjerismo]euskadiko[fin de extranjerismo] es... bueno, ahora voy a meter un latinajo, es el genitivo, es decir, es [solapamiento de turnos] el...
+H2a: ¿Qué ha dicho?
+H3: ...significa [fin de solapamiento de turnos] de [extranjerismo]Euskadi[fin de extranjerismo], [extranjerismo]euskadiko[fin de extranjerismo], ese "ko"
+H2a: [solapamiento de turnos] Sí.
+H3: ...es [fin de solapamiento de turnos] de [extranjerismo]Euskadi[fin de extranjerismo].
+H2b: Es que eso es... es... es [texto no transcrito]
+H3: El genitivo, ¿eh?
+H2b: Claro que sí.
+H3: Entonces es la izquierda de [extranjerismo]Euskadi[fin de extranjerismo], significa eso.
+H1: Yo lo que estoy admirado... yo lo que estoy admirado es la cantidad de... de leyes que sabe esta mujer. Usted sabe...
+H3: Sí.
+H1: Yo creía que no tenía... ni idea usted.
+H2a: Mire usted, el pueblo nos tenemos que... ¿verdad...? nos tenemos que ir enterando de las cosas [duda] que nos afectan, ¿verdad señor Bandrés?
+H3: Claro, porque si no... no puede ser. Porque hay que conocer bien los derechos para defenderlos.
+H2a: Claro.
+H3: Y usted sabe muchísimo.
+H2a: [solapamiento de turnos] No... señor Bandrés.
+H3: [ininteligible] [fin de solapamiento de turnos] Mire hace muchos años que le tengo mucha admiración por lo mucho que sabe usted.
+H2a: Es usted muy [solapamiento de turnos] bueno...
+H3: Y sabe usted [fin de solapamiento de turnos] porqué, por el sentido común que tiene usted.
+H2a: Sí, sí, eso sí. Otra cosa no tendré, pero sentido común sí. Yo lo tengo... a mí también me preocupa lo de la ley esa que hay... que están ahora... que se están batiendo, [solapamiento de turnos] ¿no?
+H3: Sí, [fin de solapamiento de turnos] tenemos nosotros dos diputadas en este momento oponiéndose a esa le[palabra cortada]... a ese proyecto de [solapamiento de turnos] ley
+H2a: Claro. [fin de solapamiento de turnos] Yo lo tengo muy claro, porque [vacilación] en Inglaterra cuando llaman a tu casa a las siete de la mañana...
+H2b: Claro.
+H2a: ...es el lechero.
+H1: ¿Y aquí qué?
+H2a: Pues te dan dos leches. [risas] Aquí se le ocurre llamar al lechero a las siete de la mañana y se lleva la leche puesta. [risas] ¿Comprende? [solapamiento de turnos] No son horas.
+H3: [ininteligible] [fin de solapamiento de turnos] Pero el que abre la puerta.
+H2a: [duda] Eso.
+H3: El que abre la puerta.
+H2a: Eso. Y a lo que iba. Usted cree señor Bandrés que la policía puede entrar, pues eso, como Pedro por su casa, pero [vacilación]...
+H2b: Ya ha dicho que no.
+H3: No puede ser.
+H2a: Señor Bandrés defienda usted en el parlamento todo ¿eh?
+H3: Bueno, usted me llama de vez en cuando y me dice lo que tengo que defender.
+H2a: Pues sí, [solapamiento de turnos] señor.
+H3: ¿Eh? [fin de solapamiento de turnos]
+H2a: Que Dios le bendiga don José María y muchas gracias por atendernos.
+H3: Gracias a ustedes.
+H2a: Nos gusta mucho [extranjerismo]Euskadi[fin de extranjerismo].
+H3: Bueno, me alegro.
+H2a: Y... y ya sé decir cosas en... en... [duda] en... en [extranjerismo]euskera[fin de extranjerismo]
+H2b: Sí.
+H2a: Por ejemplo [extranjerismo]agur[fin de extranjerismo], [ininteligible] y cosas de esas.
+H3: Y [extranjerismo]eskarri kasko[fin de extranjerismo]
+H2a: [extranjerismo]Eskarri kasko[fin de extranjerismo], [extranjerismo]eskarri kasko[fin de extranjerismo] [solapamiento de turnos] eso también lo sé, sí.
+H3: Eso es, eso es
+H2a: Sí [fin de solapamiento de turnos] que es encantado de conocerte.
+H1: Gracias, señor Bandrés.
+H3: Adiós, muchas gracias.
+H1: [solapamiento de turnos] Adiós
+H2a: A usted, señor Bandrés
+H3: Muchas gracias por todo. [fin de solapamiento de turnos] [aplausos] [texto no transcrito]
+H1: [texto no transcrito] ...qué invitados tan ilustres,
+H2a: [texto no transcrito]
+H1: [solapamiento de turnos] y ahora... y ahora.
+H2a: [ininteligible] [fin de solapamiento de turnos]
+H1: Doña Rogelia.
+H2a: No se la espera usted.
+H1: Y ahora qué pasa.
+H2a: Pues ya verá usted lo que [solapamiento de turnos] pasa
+H1: ¡Vamos [fin de solapamiento de turnos] a recordar a los oyentes que estamos en Onda Cero, en radio Intercontinental, que estamos transmitiendo por ciento sesenta y seis emisoras,
+H2a: [solapamiento de turnos] [ininteligible]
+H1: Que es [fin de solapamiento de turnos] el tiempo de doña Rogelia de los jueves [solapamiento de turnos] [ininteligible]
+H2a: Y que es obligatorio en este programa [fin de solapamiento de turnos] cuando lo oiga, tomar Casera. Una por cada miembro de la familia, porque si no quién coña nos va a pagar esto. [risas] [interrupción de la grabación]
+H1: Doña Rogelia se pone solemne, se le hinchan... los pechos, se...
+H2b: Ay, por favor. [risas]
+H2a: Pero la madre que te pa[palabra cortada]. [risas]
+H1: Se ajusta la [solapamiento de turnos] pajarita.
+H2a: [ininteligible] [fin de solapamiento de turnos] Ajústate tú el pajarito. [risas] Que lo tienes medio suelto.
+H1: [ininteligible]
+H2a: Pos no dice que se me hinchan los pe[palabra cortada]... [risas] Se me van a hinchar los cojo[palabra cortada]...
+H2b: Doña Rogelia. [risas]
+H2a: Será posible [solapamiento de turnos] el grandullón éste
+H1: Es que cuando usted... [fin de solapamiento de turnos] No, no, no, yo lo vengo notando, hace muchos años [solapamiento de turnos] que la conozco, y cuando sube...
+H2a: [ininteligible] [fin de solapamiento de turnos] para que se me hinchen [solapamiento de turnos] [ininteligible]
+H1: cuando [fin de solapamiento de turnos] sube al escenario se pavonea de una forma... [risas] Bueno, pues con los pechos hinchados o menos hinchados, como usted quiera, pero presente [solapamiento de turnos] ahora a nuestra...
+H2a: Ganso, que eres un ganso. [fin de solapamiento de turnos]
+H1: ...invitada, la última, por favor, que es muy importante ¿eh?
+H2a: La verdad es que yo tengo mucha... [solapamiento de turnos] mucha alegría...
+H1: Con toda solemnidad. [fin de solapamiento de turnos]
+H2a: ...y muchísimo placer...
+H2b: Sí, [vacilación] yo creo que esto es un honor, me gustaría decirlo a mí, doña Rogelia.
+H2a: Pues mire usted, lo siento muchísimo pero no voy a poder dejarla que lo diga, porque lo quiero decir yo, sencillamente.
+H2b: [afirmación]
+H2a: O sea, sin más comentarios. Lo digo yo y fuera, y se calla usted. ¿No entiende, hermosa? ¡Hala gordita! Cállese un ratico.
+H2b: Pues, es que es una persona para mí muy especial.
+H2a: Pues para mí también, hermosa, y como ha venido a verme a mí, usted se jode, bueno... [ininteligible] [risas] Señoras y señores, todos amigos de Protagonistas, tenemos aquí, aquí, en carne y hueso, como ella es, encantadora, puntual, un poquito tarde como [vacilación], porque hemos llegado juntas, pero... ¿eh? con un estreno...
+H2b: De la importancia de hoy en el teatro... Olimpia ¿eh?
+H2a: En directo... Nuria Espert [aplausos]
+H4: Buenos días doña Rogelia, buenos días.
+H1: Buenos días, Nuria [solapamiento de turnos] [ininteligible]
+H2a: Te estoy mirando y no me lo creo [fin de solapamiento de turnos] que te tenga yo tan cerca. ¡Ay qué alegría! Gracias por estar aquí Nuria.
+H1: Sí.
+H4: Gracias, gracias.
+H2a: ¿Qué? Di lo que quieras hija. [risas]
+H2b: Pregúntele.
+H2a: Es que, estoy emocionada. La de veces que te he visto yo hija mía, en obras que no entendía nada, pero yo te veía a ti y me daba igual. Yo vi una cosa de un señor que se llama to[palabra cortada]... un tal [duda] [duda] ¿Cómo se llamaba? Onesco.
+H2b: Ionesco.
+H2a: Eso, la vi también.
+H2b: La [ininteligible] sí.
+H2a: En... en esto... se llamaba la... con perdón, se llamaba así, yo lo voy a decir...
+H2b: Sí.
+H2a: Lo vo[palabra cortada]... ¿Lo puedo decir?
+H4: Sí... sí...
+H2a: "La puta respetuosa".
+H4: Ah sí...
+H2a: ¿Te acuerdas Nuria?
+H4: Sí..., sí... , pero ese era [extranjerismo]Sartre[fin de extranjerismo] ¿eh? [solapamiento de turnos] doña Rogelia
+H2a: ¡Ah! Que era sastre. [fin de solapamiento de turnos] [risas]
+H4: Sí, era sastre. [risas]
+H2a: Y luego escribía en sus horas. ¡Mira qué bien!
+H4: Sí, sí. [risas]
+H2a: [vacilación] Y... y también te vi en... en otra cosa... en otra pla[palabra cortada]... las... Las criadas.
+H4: ¡Ay sí!
+H2a: Me cago en la leche...
+H4: Sí.
+H2a: Cómo lo retrataba el servicio, la mala leche que tienen las tías, oiga usted. Lo mismo, lo mismo, lo mismo.
+H1: Recordaba las criadas [solapamiento de turnos] de...
+H2a: Las criadas [fin de solapamiento de turnos]
+H1: ...de Orejilla
+H2a: De... no las criadas no, las... todas las criadas. ¿De quién era Las criadas?
+H2b: Las criadas era de... [solapamiento de turnos] de...
+H4: De [fin de solapamiento de turnos] [extranjerismo]Jean Genet[fin de extranjerismo], sí.
+H2b: ¡Eso!
+H4: Sí.
+H2a: ¿De quién?
+H4: De [extranjerismo]Genet[fin de extranjerismo], [solapamiento de turnos] [extranjerismo]Genet[fin de extranjerismo].
+H2a: De llené, de eso, [vacilación], todos los días llenabas ¿no? [risas]
+H2b: Todos, todos.
+H2a: [vacilación] ...y ahora vas a llenar con Maquillaje, ¡menuda obra! Ella sola, la tía, se [argot]casca[fin de argot] hora y media, tócate las narices.
+H2b: Hoy debuta Nuria, Nuria cuéntanos un poquito...
+H1: A las nueve.
+H2b: A las nueve de la noche.
+H1: En el teatro Olimpia.
+H4: Sí.
+H2b: ¡Qué suerte tenerte en Madrid!
+H1: Maquillaje.
+H4: Sí, sí. Tenía muchísimas ganas de venir, hacía... cinco años que no había actuado desde que comenzó la aventura de la dirección y parecía demasiado tiempo, ¿verdad doña Rogelia?
+H2a: Es demasiado tiempo sin tí, [solapamiento de turnos] Nuria.
+H4: Porque [fin de solapamiento de turnos] una carrera que se tarda tantos años en construir no se puede después abandonar porque se cruza otra cosa por el medio.
+H2b: Tú sabes que en Madrid eres [sic] muchísima gente, como en todos los lugares donde vas porque es el mundo entero que te reconoce, pero Madrid es un sitio donde realmente la gente [silencio] responde siempre a tu [solapamiento de turnos] presencia.
+H4: Sí, es [fin de solapamiento de turnos] cierto es cierto. Yo vivo aquí, me siento... querida, [duda] Madrid es una ciudad tan hospitalaria, tan... tan grata...
+H2b: Tan rara, porque es que es rara [solapamiento de turnos] también.
+H4: ¿Es rara? [fin de solapamiento de turnos]
+H2b: Es rara en el sentido de que somos de... de todos los lugares de la [solapamiento de turnos] geografía
+H4: Sí [fin de solapamiento de turnos].
+H2b: ...menos de aquí.
+H2a: [solapamiento de turnos] Por eso somos más civilizados
+H4: Es verdad. [fin de solapamiento de turnos]
+H2a: Sí, porque parece que somos pero no somos.
+H4: [afirmación]
+H2a: Y es mejor ser que parecer, si no se es para lo que somos, porque al fin y al cabo qué... quién somos, no somos nada, [solapamiento de turnos] ¿eh?
+H1: [ininteligible] [fin de solapamiento de turnos]
+H2a: ¿De qué estamos hablando? [risas]
+H1: Perdona un momento. Que quiero recordarle... es que me dijo doña Rogelia: cuando venga... Nuria, por favor, recuerde que hable del pirindolo. Y digo pero porqué va a hablar de esta...
+H2a: Pos [sic] sí.
+H1: ...de esa... de esa grosería.
+H2a: [ininteligible]
+H4: Do[palabra cortada]... doña Rogelia, no sé bien [solapamiento de turnos] lo que...
+H1: Entiéndalo.
+H4: ...no sé lo que me pregunta, [solapamiento de turnos] ¿ve?
+H2a: Pues [fin de solapamiento de turnos] verás hija mía, [solapamiento de turnos] hermosa,
+H4: Dígame [fin de solapamiento de turnos], dígame.
+H2a: Yo sé que la obra de esta noche
+H1: [afirmación]
+H2b: Que se llama Maquillaje.
+H2a: Y que es de un señor de fuera,
+H1: Sí.
+H4: Sí.
+H2a: [duda] de...
+H4: Japonés.
+H2a: Japonés, japonés.
+H4: [extranjerismo]Isashi Noué[fin de extranjerismo] se llama, doña Rogelia. No hace que lo diga, ¿eh?
+H1: No, no, no. Pero [ininteligible]
+H4: No hace falta que lo diga.
+H2a: No pienso repetir semejante barbaridad porque me puede dar un ataque cerebral. [risas]
+H4: Sí que es [solapamiento de turnos] ver[palabra cortada]
+H2a: Pero [fin de solapamiento de turnos], pero, es muy lista, la Nuria, [vacilación] [ininteligible], porque la obra la hace solica,
+H4: [solapamiento de turnos] Sí.
+H1: Sí [fin de solapamiento de turnos].
+H2a: y toda la vida [duda] los empresarios han intentado pues abaratar costes, para que no salga cara.
+H2b: Claro.
+H2a: Y como esta le echa mucha cara a todo lo que hace [risas]
+H4: Es verdad, es verdad.
+H2a: Porque fue, hizo [extranjerismo]Hamlet[fin de extranjerismo], y lo bordó, de hombre. Espérate coña, que ahora digo lo del pirindolo. [risas] ¿Verdad que saliste de hombre, Nuria?
+H4: Sí... [solapamiento de turnos] sí...
+H2a: [ininteligible] [fin de solapamiento de turnos]
+H4: En la Tempestad también, [solapamiento de turnos] de Próspero
+H2a: La tempestad [fin de solapamiento de turnos], la que se armó en el patio butacas [ininteligible]
+H2b: Rompió moldes, [solapamiento de turnos] desde luego.
+H1: Sí, sí [fin de solapamiento de turnos].
+H2a: Pos [sic] yo sé que [solapamiento de turnos] [ininteligible]
+H4: A ver lo [fin de solapamiento de turnos] del pirindolo, doña [solapamiento de turnos] Rogelia.
+H2a: Eso [fin de solapamiento de turnos]. Pos que yo sé que había un autor, ¿eh? Que ya se lo veía él venir hace muchos años, un tal Pirindolo...
+H1: ¿Pero qué [solapamiento de turnos] pirindolo?
+H4: [afirmación] [fin de solapamiento de turnos]
+H2a: ...que escribió, espérese usted que yo me sé del teatro cosas...
+H1: Sí.
+H2a: ...que escribió, por ella, porque la sigo, porque si no... no... escribió "Seis personajes en busca de [solapamiento de turnos] autor".
+H4: ¡Ah! Sí...
+H2a: El [fin de solapamiento de turnos] Pirindolo éste, [solapamiento de turnos]
+H4: Sí.
+H1: [solapamiento de turnos] Ese era [extranjerismo]Pirandello[fin de extranjerismo] [fin de solapamiento de turnos], [extranjerismo]¡Pirandello![fin de extranjerismo], no pirandolo. [risas]
+H2a: [ininteligible] [fin de solapamiento de turnos] lo escribió,
+H2a: ...y resulta [solapamiento de turnos] que
+H4: Sí [fin de solapamiento de turnos].
+H2a: ...al principio no se llamaba así.
+H4: [solapamiento de turnos] No.
+H1: Sí [fin de solapamiento de turnos].
+H2a: Se llamaba Sesenta personajes en busca de autor, pero estuvo buscando empresario que se lo contratara, y tuvo que rebajar el coste. [risas] Total, que empezó a quitar a quitar hasta que se le quedó en seis [solapamiento de turnos] [risas] [ininteligible] [fin de solapamiento de turnos].
+H4: Un personaje en busca de autor sería lo de esta noche.
+H2a: [ininteligible] de esta noche, tú tienes autor, tienes público, tienes categoría artística tan suficiente, Nuria, como para hacer lo que quieras. [solapamiento de turnos] [ininteligible]
+H4: Mire, mire [fin de solapamiento de turnos], mire usted, doña Rogelia, mire usted. [duda] Es muy raro para un actor o una actriz ir a una radio en el día de su estreno, porque se supone, dice la leyenda, que hay que estar... concentrado, en la casa, pensando no sé qué cosas profundas. Pero a mí me apeteció muchísimo de pronto venir a conocerla. Una de las razones era que así no estoy pensando en mi función de esta noche, y la otra es que yo tengo por usted una enorme simpatía. A mí me parece que es usted una mujer de una vez. A mí me parece que es usted una mujer muy [solapamiento de turnos] tolerante.
+H2a: Pues [fin de solapamiento de turnos] no fueron de una vez, perdona, yo nací en dos veces.
+H4: En dos veces. [risas] [solapamiento de turnos] Es usted...
+H2a: Interrumpo [fin de solapamiento de turnos] en eso porque de una vez no salían las narices. [risas] Y tuvo que pegar mi madre un segundo empujón.
+H4: Sí...
+H2a: Lo último que salió fue la nariz, y no había luz además el día que yo nací. Venga a palpar, será chica o será chico. Y al principio pensaron, claro, por la cosa del apéndice nasal, ¿será un muchacho? [risas] ¿Me entiendes Nuria?
+H4: Sí, la entiendo.
+H2a: Lo que me estás diciendo me [vacilación] de satisfacción, pero yo no quiero que tú me digas piropos, no.
+H2b: No.
+H2a: [fin de solapamiento de turnos] Porque los piropos los tienes tú...
+H4: Sí... sí le quiero decir piropos, sí, sí, sí.
+H2a: En tantos países [fin de solapamiento de turnos].
+H1: Es algo que te ruego personalmente, no le... [duda] [solapamiento de turnos] digas piropos...
+H2a: Oye, yo lo digo para cumplir [fin de solapamiento de turnos] que me gusta mucho [solapamiento de turnos] que me diga cosas.
+H1: Porque luego... [fin de solapamiento de turnos] porque luego se pone de un idiota la [sic] doña [solapamiento de turnos] Rogelia insoportable.
+H4: Insoportable, insoportable [fin de solapamiento de turnos].
+H2a: Se me hinchan los huevos, digo los pechos. [risas] Se... perdón, se me... estaba pensando en tí, perdón.
+H1: Sí, sí.
+H2a: Mira [solapamiento de turnos] en Inglaterra ha dirigido...
+H1: Qué decía... qué decía... qué decía de [ininteligible] [fin de solapamiento de turnos]
+H2a: ...a [extranjerismo]gre[palabra cortada]...[fin de extranjerismo] a [extranjerismo]Glenda Jackson[fin de extranjerismo],
+H1: Sí.
+H2a: ...y [extranjerismo]Glenda Jackson[fin de extranjerismo],
+H1: Sí.
+H2a: ...que lo pronuncio... toda la mañana he estado venga a recordar el nombre y ahora lo he dicho bien, pos [sic] [extranjerismo]Glenda Jackson[fin de extranjerismo], que es una señora también [silencio] que, mejorando lo presente, una actriz buena, porque es muy buena [solapamiento de turnos] ¿verdad Nuria?
+H4: Sí, Maravillosa, maravillo[palabra cortada]...
+H1: A las órdenes [fin de solapamiento de turnos] de aquí de mi Nuria, vaya al escenario, te calles la boca, levanta las cejas, baja la mano, hincha los pechos, cállate ahora, dilo con más énfasis, lo dices mal, repítelo [solapamiento de turnos] [ininteligible]
+H4: No es exacto [fin de solapamiento de turnos], doña Rogelia.
+H2a: No es exacto, pero el fondo es ese. A tus órdenes la [extranjerismo]Glenda Jackson[fin de extranjerismo] y... y qui[palabra cortada]... y el que sea.
+H1: Me gustaría... me gustaría ver a Nuria dirigiendo a doña Rogelia, ¡Dios [solapamiento de turnos] mío! La que se iba a montar.
+H4: Sí. ¿Usted quiere hacer una función [solapamiento de turnos] doña Rogelia?
+H2a: No tendría [fin de solapamiento de turnos] yo ese honor.
+H1: [afirmación]
+H2a: No tendría yo ese honor. Espérate que [solapamiento de turnos] [ininteligible]
+H4: Madre [fin de solapamiento de turnos] Coraje, doña Rogelia, que se parece mucho a usted, en otro... en otro camino pero... también una... [ininteligible]
+H2a: ¿No haría yo mejor Madre Mala Leche? [risas]
+H1: O la garru[palabra cortada]... o la garrula del oeste también.
+H4: La garrula del oeste también, [solapamiento de turnos] sí...
+H1: Sí.
+H2a: No [fin de solapamiento de turnos], no, pero ya... mira cómo me ha encajado el personaje.
+H1: [solapamiento de turnos] Sí.
+H2b: Pues [fin de solapamiento de turnos] la verdad es que usted en serio tendría mucho que decir.
+H4: [solapamiento de turnos] Sí... , yo creo que sí...
+H2a: [ininteligible]
+H1: En Vientres [fin de solapamiento de turnos]... en Vientres de Alquiler haría un buen personaje. [risas]
+H2a: ¿Perdón?
+H2b: Es una... una novela que empieza ahora que se llama Vientres de Alquiler.
+H4: [solapamiento de turnos] Sí.
+H2a: ¡Anda [fin de solapamiento de turnos], mira! ¿Se alquilan los vientres? [risas]
+H2b: Sí.
+H2a: ¿Y para qué?
+H2b: Sí.
+H2a: Qué va [vacilación] mal al baño y tiene que hacer otro por él o qué. [risas]
+H2b: ¡Doña Rogelia!
+H2a: Oye... Nuria,[solapamiento de turnos] ¿has pensado alguna vez?
+H4: Dime, dígame... [fin de solapamiento de turnos] dígame, perdone.
+H2a: Bien, bien... mira ha rectificado sola, la primera [silencio]
+H2b: ¿Eh?
+H2a: ...invitada de la categoría de Nuria [extranjerismo]Espert[fin de extranjerismo], que aquí han pasado personajes muy importantes, que se creen ellos...
+H1: Sí.
+H2a: ...importantes.
+H1: Sí...
+H2a: Tuteándome.
+H1: [solapamiento de turnos] Sí.
+H4: [afirmación] [fin de solapamiento de turnos]
+H2a: Y sin rectificar,
+H1: Sí.
+H2a: ...y la Nuria la primera que se da cuenta [solapamiento de turnos] [ininteligible]...
+H4: Y es raro [fin de solapamiento de turnos] porque yo tuteo a todo el mundo, pero yo no sé lo que me pasa con usted, la veo as[palabra cortada]... así a usted como una filósofa ¿sabe [solapamiento de turnos] usted?
+H2a: Claro [fin de solapamiento de turnos].
+H4: Y a usted y a [extranjerismo]Spriu[fin de extranjerismo] los trato de usted.
+H2a: ¿A quién hija?
+H4: A [extranjerismo]Spriu[fin de extranjerismo] también [solapamiento de turnos] lo trataba de usted.
+H2a: [ininteligible] [fin de solapamiento de turnos] ¿Para qué lo vas a tratar con ese nombre? [risas] Bueno es que [silencio] yo no sé quién es ese señor. [texto no transcrito]
+H1: [solapamiento de turnos] Una de las glorias literarias y poeta [ininteligible] de Cataluña.
+H4: Sí era un... un poetazo, un poetazo doña Rogelia [fin de solapamiento de turnos]. Y a usted y a él [solapamiento de turnos] [ininteligible]
+H2a: ¡Ah! [fin de solapamiento de turnos] [vacilación] este el poeta, el catalán [solapamiento de turnos] [extranjerismo]Spriu[fin de extranjerismo]
+H4: Sí.
+H1: Sí. [fin de solapamiento de turnos]
+H2a: ¡Ah bueno hombre! [risas] Por favor, creí que hablaba yo de un extranjero. de uno de por ahí.
+H4: No, no, no, no.
+H2a: ¿Te sabes algo en catalán de ese señor?
+H4: ¡Ay no doña Rogelia! No me ponga usted en un aprieto.
+H2a: No tienes nada [solapamiento de turnos] ¿verdad?
+H4: No [fin de solapamiento de turnos], no cariño.
+H2a: Esta noche lo dirás todo.
+H4: [duda] Demasiado, esta noche voy a hablar sin parar durante [solapamiento de turnos] hora y media
+H2b: ¿Cuanto [ininteligible] [fin de solapamiento de turnos] en escena?
+H4: Hora y media, hora y media, hora y media.
+H2b: Todo... todo en... en tus hombros...
+H4: Como una... construcción así que se... va armando sola. Asusta antes de comenzar ¿sabes?
+H2b: [afirmación]
+H4: Estoy ahí preparando, oyendo una especie de música de discoteca que... que... comienza el espectáculo, y... me asusta. Estoy asustada, sí.
+H2b: A estas alturas, Nuria, un debut en Madrid, todavía te pone nerviosa.
+H4: Sí, desde luego. Pero esa función me pone nerviosa siempre antes de hacerla, de momento. La he hecho setenta y tantas veces y todavía perdura esa... [solapamiento de turnos] esa inseguridad ¿no?, ese temor
+H2b: [ininteligible] Yo creo [fin de solapamiento de turnos] que debemos tenerlo siempre todas las personas que trabajamos en... en un escenario, porque creo que eso nos da el aliento y la... aunque a veces sean... un inconveniente grande ¿no? para [solapamiento de turnos] nosotras.
+H4: Sí [fin de solapamiento de turnos], no es bueno tampoco... [solapamiento de turnos] demasiada inseguridad...
+H2b: No es bueno, pero [ininteligible] [fin de solapamiento de turnos] ya... de ir como a casa, yo creo que necesitamos ese punto de...
+H4: Sí.
+H2b: ...tranquilidad.
+H4: Sí, sí, sí.
+H2a: Hija tenéis que estar pendientes de lo que tenéis que hacer [duda] porque tú fíjate que la pobrecica ahora [vacilación] se equivoca y mete de repente algo de... de... de... de García Lorca y la hace un jaleo, fíjate tú el lío que armaría, [solapamiento de turnos] [ininteligible]
+H1: Doña Rogelia [fin de solapamiento de turnos], tenemos que terminar. [solapamiento de turnos] Quiero
+H2a: ¡No! [fin de solapamiento de turnos]
+H1: ...recordar a los oyentes que Maquillaje es una estampa oriental, de cama, que transciende fronteras y culturas porque nos habla del eterno misterio del teatro; que es hoy a las nueve, en la sala Olimpia,
+H2a: [solapamiento de turnos] Con Nuria...
+H4: ...dentro [fin de solapamiento de turnos] de la... programación de otoño de Madrid. [solapamiento de turnos] Vamos a estar allí en la primera fila [ininteligible]
+H2a: Con Nuria [extranjerismo]Espert[fin de extranjerismo] [fin de solapamiento de turnos]
+H1: ¿Eh?
+H2a: Esta noche yo no puedo, Mari Carmen no puede. Pero yo mañana sin falta [silencio] sería la primera vez que [vacilación] no viera a Nuria [extranjerismo]Espert[fin de extranjerismo] en un escenario, pudiendo tener salud, allí estaré con Nuria deleitándome con tu interpretación, hija mía [solapamiento de turnos] que eres lo mejor que
+H4: Muchas gracias, doña Rogelia [fin de solapamiento de turnos].
+H2a: ...tenemos en este país [solapamiento de turnos] [ininteligible]
+H1: Un saludo [fin de solapamiento de turnos] a Nuria [extranjerismo]Espert[fin de extranjerismo]. Quiere decir algo a... ¿sabe quién nos está escuchando desde el congreso de los diputados?, [solapamiento de turnos] al tiempo que está debatiendo
+H2a: Huy, quién [ininteligible] [fin de solapamiento de turnos]
+H1: ...este tema de la ley de seguridad ciudadana, el señor Corcuera. Dígale algo para animarle, que le [solapamiento de turnos] están atacando de todos sitios
+H2a: Señor Corcuera [fin de solapamiento de turnos], señor Corcuera, usted no... usted manténgase... manténgase usted un poco más... ¿usted se mantiene? ¿Cómo se mantiene usted, hijo mío?
+H1: Sí.
+H2a: ¡Pero hombre! Haga usted el favor de... de... ¿Qué le digo? Que se anime [solapamiento de turnos] es que si se anima nos manda...
+H1: Pues que no vuelva a meterse... [fin de solapamiento de turnos] que no vuelva a meterse con los intelectuales, que le van a sacudir estopa los intelectuales.
+H2a: Eh... haga usted el favor de...
+H1: [interrogación]
+H2a: ...de... de coger estopa, de hacer [ininteligible] [texto no transcrito] No. Que [ininteligible] que sea usted una persona más normal, ¡coña!
+H1: Sí.
+H2a: Y no dé usted tantos gritos cuando habla. Cojona. Y no nos mande usted la policía a casa sin avisar, [solapamiento de turnos] [ininteligible]
+H1: Doña Rogelia [fin de solapamiento de turnos] fin de tiempo. Nuria [extranjerismo]Espert[fin de extranjerismo] gracias, muchos éxitos. [aplausos] [texto no transcrito]

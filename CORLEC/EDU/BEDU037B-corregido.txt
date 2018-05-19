@@ -1,0 +1,260 @@
+#archivo: BEDU037B
+#fecha de grabación: 7-12-91
+#fuente: colegio
+#localización: Madrid
+#términos: sintagma verbal, complemento directo, complemento indirecto, complemento predicativo, atributo, predicado, sujeto, complemento circunstancial, verbo transitivo, verbo intransitivo, verbo copulativo, verbo predicativo, verbo semipredicativo, laísmo, leísmo, oración, predicado nominal, predicado verbal, pronombre
+#H1: mujer, 28 años, profesora de Lengua española
+#H2: varón, 18 años, alumno
+#H3: mujer, 28 años, alumna
+#H4: varón, 17 años, alumno
+#H5: mujer, 17 años, alumna
+#H6: mujer, c.18 años, alumna
+#H7: varón, 17 años, alumno
+#H8: mujer, c.20 años, alumna
+#H9: mujer, c. 20 años, alumna
+#H10: varón, 17 años, alumno
+[texto no transcrito]
+H1: Empezamos. Tema siete de Lengua: "Estructura del predicado" y quiero silencio absoluta[sic]. Este tema es muy importante.
+H2: Sí.
+H1: [interrogación] Lo vais a necesitar continuamente para el análisis sintáctico y la segunda evaluación es [vacilación] principalmente análisis sintáctico y sabéis que es vuestro caballo de batalla en el curso de Lengua, [silencio] ¿verdad?
+Todos: [ininteligible] [risas]
+H1: Ya te has enterado de lo que significa "el caballo de batalla", ¿no, Mariano? [silencio] Bueno. El sintagma verbal... [interrogación] [silencio] bueno, es lo que siempre se ha definido como el predicado; predicado es el sintagma verbal [interrogación] [silencio] y es uno de los constituyentes inmediatos de la oración. Su núcleo es un verbo y podemos tener predicados de d[palabra cortada]... de dos tipos: predicados nominales y predicados verbales. Vamos a poner un ejemplo de predicado nominal [silencio]: "Juan es escritor" [silencio], es un ejemplo parecido al del libro para que os acordéis; "Juan es escritor" es un predicado nominal. Un predicado verbal: "Juan escribe cartas a su novia" [silencio]. ¿Cuál es la diferencia entre el predicado nominal y el predicado verbal? Bien.
+H2: Yo lo sé.
+H1: Yo también. Voy a explicarlo. La diferencia entre el predicado nominal y el predicado verbal es que eh... los[sic] predicado nominal está compuesto por verbos copulativos que son "ser", "estar" y "parecer" [silencio]. Los verbos copulativos son verbos que están vacíos de significado, no tienen ningún significado, sólo sirven de nexo, por eso se llaman "copulativos" porque la palabra "cópula" significa "unión", entonces lo que está haciendo es unir un elemento a otro elemento: "escritor" es una cualidad, una característica de "Juan", nos dice algo de "Juan", ¿de acuerdo? Pero no de "es", sólo de "Juan"; mientras que en el predicado verbal tenemos: "escribe", verbo; "Juan", sujeto; "cartas", complemento directo; "a su novio"[sic], complemento indirecto; "cartas" dice algo de "escribe", "a su novia" dise algo de "escribe", pero no dice nada de "Juan"; "Juan" y "cartas" no se identifican, "Juan" y "a su novia" no se identifican, mientras que "Juan" y "escritor" en "Juan es escritor" sí se identifican, ¿de acuerdo? El predicado nominal es nominal porque este elemento dice algo del nombre, que es núcleo del sujeto. [silencio] ¿Cómo se llama esto?
+Todos: [solapamiento de turnos] Atributo.
+H1: Atributo [fin de solapamiento de turnos]. Así pues, el atributo dice algo del nombre, núcleo del sujeto, ¿de acuerdo?, ¿Sí o no?, ¿sí o no? Dudas, dudas, ¿todas o ninguna?
+H3: De momento, ninguna.
+H1: Bien, me alegro. [silencio] Eh... vamos a estudiar el predicado nominal en concreto [silencio]. Bueno hay aquí... cuando os habla del atributo... cuando os habla del atr[palabra cortada]... [risas] Olvídate, Mariano, ¡olvídate!
+H2: Pero si yo estoy olvidado.
+Todos: [risas]
+H1: [risas] Bueno, vamos a ver, [silencio] eh... vamos a ver, ocurre en el com[palabra cortada]... en el atributo con lo que ocurre en el complemento directo: lo podemos sustituir por "lo". Para averiguar cuál es el atributo en esa oración, decimos: "Juan lo es" [silencio], el "lo" sustituye a "escritor", por tanto, "escritor" es atributo. Si decimos "Escritor lo es", esa oración no tiene sentido [silencio]
+H2: Pero
+H1: ¿Esa oración tiene sentido, sí o no? "Escritor lo es"
+H2: No.
+H1: Bueno, pues esa oración no sería correcta, al no ser correcta... porque "escritor" no es el sujeto, sino el atributo. [silencio] ¿Sí o no?
+Hablante no identificado: Sí.
+H1: Esto... no es tan importante porque yo creo que lo podéis ver por otras[sic] motivos, sin tener que recurrir a los "los", al pronombre "lo", pero es un apartado que os viene en vuestro libro y que a lo mejor os lía.
+H2: [ininteligible]
+H1: Sí, estoy hablando del atributo, ¿eh?, porque siempre decimos: "el complemento directo se puede sustituir por 'lo', 'la', 'los', 'las'" [interrogación] pero [duda] pocas veces decimos que el atributo se puede sustituir por "lo", también se puede sustituir por "lo". Aquella palabra por la que sustituimos "lo", es el atributo, la otra es el sujeto [silencio], ¿de acuerdo? Si la oración no tiene sentido es porque está mal... está mal formada [silencio], está mal pronominalizada, si queréis, ¿de acuerdo? hasta ahí vamos bien, ¿no? Seguimos. "Verbos semipredicativos". ¿Qué es eso de los "verbos semipredicativos"? [silencio] Eh... fijaos que [silencio] "ser", "estar" y "parecer" son verbos copulativos, los verbos predicativos, predicativos, no semi, predicativos, son todos los demás verbos, es decir, los verbos transitivos, los verbos intransitivos, etcétera, todos los demás verbos, ¿eh?, que no sean "ser", "estar" y "parecer", o sea, que no sean los copulativos. Pero después tenemos unos verbos que además semipredicativos seguirán... digamos que son verbos que están [silencio] entre los copulativos y los predicativos, ¿eh?, son los que participan de las dos características. Por ejemplo, el verbo... aquí pone "volverse" [silencio]: "Juan se volvió de espaldas" [silencio] es un verbo predicativo... [silencio] es un verbo predicativo, pero "Juan se volvió tonto" no es un verbo predicativo, sino un verbo copulativo [silencio]. Vamos a ver porque "Juan se volvió de espalda" es un verbo predicativo, vamos a analizar. Ginés, analiza.
+H4: "Juan", sujeto
+H1: Nunca. Empezamos por el verbo.
+H4: Bueno, "se... volvió", verbo;
+Todos: [risas]
+H4: No... ver[palabra cortada]... "volvió" es verbo.
+H2: [risas]
+H4: Bueno, pues "se volvi[palabra cortada]...", buano, es igual.
+H1: [ininteligible]
+H4: Y "de espaldas"
+H1: No, empieza por el sujeto ahora: verbo, sujeto, [silencio] [solapamiento de turnos] objetos.
+H5: [risas] [fin de solapamiento de turnos]
+H4: "Juan", sujeto.
+H2: [risas]
+H4: Y "de espaldas" pues es un... [silencio] un... [silencio] complemento circunstancial.
+H1: Vamos a analizar ésta. ¡Venga, Ginés!, tú mismo.
+H4: "Volvió", verbo.
+H1: ¿Te importa que ponga esto aquí?
+H4: No, no, [risas] pero para nada.
+H1: Gracias.
+H4: "Juan", sujeto [silencio] y... "tonto", complemento directo, ¿no?
+H2: ¡No, hombre!
+H1: A ver, Mariano, ¿qué es?
+H2: Atributo.
+H4: ¡Ah!, es verdad.
+H1: [solapamiento de turnos] ¿Por qué, Mariano?
+H5: [risas] [fin de solapamiento de turnos]
+H2: Porque es un verbo semipredicativo.
+H1: Ya, pero con eso no nos dices nada, ¿por qué es atributo?
+H5: Porque es una cualidad [solapamiento de turnos] de Juan.
+H2: Porque es una [fin de solapamiento de turnos] cualidad de Juan.
+H1: [afirmación] Porque "tonto" [solapamiento de turnos] eh,
+H2: es una cualidad. [fin de solapamiento de turnos]
+H1: ...lo dice de "Juan", eh, "de espaldas" se lo dice de "volverse", ¿de acuerdo?
+H5: [solapamiento de turnos] Y...
+H6: Pero "estar" [fin de solapamiento de turnos] y "parecer" también son verbos predicati[palabra cortada]... semipredicativos.
+H1: Espera, ¿por qué adelantáis acontecimientos? Vamos poco a poco.
+H5: ¿Por qué no podía ser predicativo, [silencio] complemento predicativo?
+H1: ¿El qué?
+H5: "Tonto".
+H1: ¿"Tonto"? [silencio] Porque para que fuera predicativo, tendría que decir algo del verbo y del... sujeto y sólo dice algo del... sujeto, esto es equivalente a "Juan es tonto" [silencio]. Es decir, cuando "Juan" se vuelve "tonto", "Juan" se transforma en una persona tonta, "Juan" adquiere la cualidad de ser tonto, entonces lo que se dice, "es tonto", es un atributo, es una cualidad, es una característica de Juan, ¿eh?, no de "volverse" [silencio]. Cuando una persona se vuelve no tiene que ser tonta precisamente, se puede volver lista, se puede volver de cualquier otra forma, ¿no? ¿De acuerdo? [silencio] [duda] "'Ser', 'estar' y 'parecer' como verbos predicativos". Eso es lo que preguntaba Ana, ¿no?
+H6: [afirmación]
+H1: Bien, vamos a poner ejemplos en que "ser", "estar" y "parecer" son verbos predicativos. Son verbos en que... que no tienen porqué llevar atributo, son verbos en que "ser", "estar" y "parecer" no... no están vacíos de significado, tienen un significado [silencio]. Y ¿cuál[sic] son los significados que os dan?: [texto leído] "ser" significa "existir", "estar en un sitio", "ocurrir" o "suceder", "estar" significa "estar en un lugar o situación" y "parecer" tener parecido o apariencia... o apariencia semejante [fin de texto leído], [interrogación]. Vamos a poner... analizar estas oraciones. Vamos a analizarlas de memoria... sí, eso, más rápido. "El acto será en Valladolid", analiza... Pilar.
+H3: "Será", eh... verbo; y luego, "el acto", eh... sujeto
+H1: [afirmación]
+H3: ...y luego "en Valladolid", [silencio] [borrado involuntario]
+H1: ... no tenemos porqué identificarlo con "el acto", no dice nada del "acto". "Mañana estaré en casa". Eh... Ramón [silencio] analiza.
+H7: "Estaré", verbo; eh... sujeto, "yo" y [silencio] "mañana" [borrado involuntario]
+H1: ...eh... "Se pare[palabra cortada]... no, vamos a empezar otra [ininteligible] [silencio]. "Ella parecía mirarnos" [silencio] [duda] Isabel.
+H8: "parecía", verbo; "ella", sujeto; [silencio] y... [borrado involuntario].
+H1: Eso está claro, ¿no? Vamos a ver las clases de atributos. ¿Qué elementos, qué tipo de palabras pueden ser atributo. Un pronombre puede ser atributo: "Quien miente eres tú": "quien miente" es el sujeto.
+H2: Oye.
+H1: Dime.
+H2: "Ha parecido que llamaban" es impersona[palabra cortada]... es impersonal, ¿no?
+H1: [afirmación]
+H2: [afirmación]
+H1: Un infinitivo: "Todo eso es perder el tiempo": "perder el tiempo" sería atributo [interrogación] y "el tiempo" sería complemento directo del verbo "perder" en infinitivo. Un adverbio o locución adverbial: "Le... la gente es así".
+Hablante no identificado: [tos]
+H1: "Eso no podía ser de otra manera" [silencio]
+H5: El "así" ese, ¿qué es?, ¿complemento [solapamiento de turnos] directo?
+H2: [ininteligible] [fin de solapamiento de turnos]
+H1: ¿Eh?
+H5: ¿"Así" es complemento [solapamiento de turnos] directo?
+H1: No, es un [fin de solapamiento de turnos] atributo. "Así" es "nueva" y "civil", "grosera", amable", ¿lo ves?
+H5: [afirmación]
+H1: El adverbio puede ser atributo. Un sintagma nominal con preposición, o sea, un sintagma preposicional también puede ser atributo: "Esos chicos son de Cáceres", "de Cáceres" es atributo. ¿Por qué "Esos chicos son de Cáceres", "de Cáceres" es atributo y "El acto será en Valladolid", "en Valladolid" era un complemento circunstancial de lugar? Pilar.
+H3: Porque "de Cáceres" es una cualidad de "los chicos".
+H1: "Cáceres", no, pero [solapamiento de turnos] "ser co... de Cáceres" y "ser cacereños", sí, ¿de acuerdo?
+H3: Bueno, [ininteligible] [fin de solapamiento de turnos]
+H1: Y una proposición con "que": "Lola está que trina" es equivalente a "Lola está furiosa", "está irritada", "está nerviosa"; [silencio] Está claro esto, ¿no? ¿Aquí hay problemas o no? Vamos a hablar ahora del complemento predicativo, del famoso complemento predicativo.
+H4: ¿Ése era el suplemento?
+H1: No... no... no... no... no... no... [solapamiento de turnos] no... porque no hemos llegado al suplemento,
+H4: [ininteligible] [fin de solapamiento de turnos]
+H1: ...el suplemento está en la última página, olvidaos [silencio] del suplemento por ahora.
+H2: [ininteligible]
+H4: [ininteligible] [silencio]
+H1: "El viento soplaba fuerte" [silencio], vamos a apuntar una que tengáis en el libro para que no se os olvide: "El chico contestó nervioso" [silencio]. A ver, Mar, ves analizando [silencio].
+H9: "El chico", sujeto; "contestó", verbo
+H1: [solapamiento de turnos] Empieza por otro sitio.
+H2: Empieza por el verbo [fin de solapamiento de turnos].
+H9: Ya, ya. "Contestó...", verbo; [silencio] "nervios[palabra cortada]..." "nervioso" es [solapamiento de turnos] [ininteligible]
+Todos: [ininteligible]
+H1: Y el sujeto, ¿qué le pasa?
+Todos: [ininteligible]
+H1: Vale... vale... vale [fin de solapamiento de turnos]
+H9: "El chico", sujeto [silencio] y "nervioso", atributo.
+H1: No. Ya verás: complemento predicativo. Si eso no lo explicado, no te preocupes, lo voy a explicar ahora, se diferencia de un atributo. Entonces, parece un atributo y parece también ¿qué?
+H2: Complemento directo.
+H1: De todas formas, no hay más. Nunca podría ser un atributo porque tiene un verbo predicativo, es un verbo no copulativo. Para que fuera atributo tenía que ser "ser", "estar" o "parecer", [interrogación] . Pero con el verbo "contestar" puede ser otra cosa pero no, un atributo. ¿Qué me has dicho [solapamiento de turnos] [ininteligible]
+H2: [ininteligible] [fin de solapamiento de turnos]
+H1: ¿Circunstancial de?
+H2: De modo.
+H1: De modo. Fijaos, parece por un lado, atributo, y por otro lado, circunstancial de modo. ¿Qué pasa con el predicativo? Mientras que el atributo decía algo del sujeto, ¿eh?, y... los complementos directos, indirectos, circunstanciales dicen algo del verbo, el predicativo dice algo del verbo y dice, además, algo del sujeto [silencio]. "El chico es nervioso", "el chico contestó de una forma nerviosa" [silencio].
+H2: Pero si es "el chico es nervioso", habría dicho que "es nervioso".
+H1: "Chico" era "el chico es nervioso" pero como tenemos un verbo que no es el verbo "ser", sino el verbo "contestar" que es un verbo con significado, [silencio] es la respuesta a algo [silencio], ¿eh?, no puede ser atributo [silencio]. ¿Sí o no? Tampoco es un circunstancial de modo porque nos dice algo del sujeto [silencio]. El predicado en total predica algo [silencio] del sujeto, pero es un elemento, sólo un elemento del predicado que está diciendo algo del sujeto [silencio], entonces al decir algo de los dos, es un predicativo, ¿está claro? [silencio] "El viento soplaba fuerte", "el viento era fuerte", "soplaba de una manera fuerte" complementa a lo de "viento" y a "fuerte", [ininteligible] [silencio] ¿Vale? Más cosas. Bien, entramos en el predicado verbal. Vamos a hablar de los elementos que aparecen en el predicado verbal. Va a haber complementos directos, los complementos indirectos, el complemento circunstancial y el suplemento. [silencio] Sí [silencio] [borrado involuntario] ...era "Juan escribió... escribe cartas a su novia" [silencio] "a su novia todos los días".
+H2: ¡Qué pesado!
+H5: [risas]
+H1: No te tienes que leer tú las cartas de Juan, no te preocupes.
+H2: No, ni tú tampoco.
+Todos: [risas]
+H1: Mariano, analiza, ¡venga!
+H2: "Escribe", verbo; "Juan", sujeto; "cartas" [silencio] , complemento directo; "a su novia", complemento indirecto", "todos los días", complemento circunstancial de tiempo.
+H1: Eso mes una oración de predicado verbal. Para que eh... vamos a ver distintas tipos de oraciones de predicado verbal. Oraciones transitivas. Las oraciones transitivas son aquéllas que necesitan un objeto directo... un complemento directo. Toda oración transitiva tiene un complemento directo aunque esté omitido, pero lo tiene [silencio]. Yo puedo decir "Juan escribe a su novia todos los días" [silencio]. Evidentemente escribe algo a su novia: cartas, libros, poesías, eh... [solapamiento de turnos] lo que sea.
+H2: ¿Y es transitiva [fin de solapamiento de turnos] esa oración?
+H1: Es transitiva, como ésta, tú escribes algo.
+H2: Sí... sí
+H1: [interrogación] Entonces [duda] ¿Por qué me has preguntado si era transitiva?
+H2: ¿Eh...?
+H1: ¿Por qué me has preguntado si era transitiva?
+H2: Nada, porque... [silencio]
+H1: ¿Por el hecho de que no aparezca el complemento [solapamiento de turnos] directo explícito?
+H2: Claro [fin de solapamiento de turnos].
+H1: Vamos a eso. ¿De qué forma podemos averiguar cuántos complementos tiene [duda] una oración? ¿Cuántos eh... si tiene complemento directo, si tiene indirecto, si tiene los dos. Bueno, pues extirpamos el verbo... el verbo de la oración, [interrogación], y vamos a ver cuántos argumentos tiene el verbo [silencio]. Hemos visto ya esto aquí, ¿no?
+Hablante no identificado: No.
+H1: ¿No hemos visto [vacilación] no hemos visto ya el verbo con sus argumentos? Eso no es temario de [siglas]C.O.U.[fin de siglas], eso es... son otras teorías de la gramática que os sirven a vosotros para... que os puedan servir a vosotros, si lo entendéis, para entender mejor cuántos eh... complementos puede llevar un verbo, eh, verlo con más claridad cuando es sujeto, cuando es directo, cuando es indirecto. Vamos, cogemos y extirpamos el verbo de la oración [interrogación], cogemos el verbo "escribir" [silencio]. "Escribir" necesita un primer elemento, eh, que rellena una casilla, ése es el elemento sujeto porque alguien tiene que escribir, siempre alguien escribe [silencio]. "Escribir" necesita un segundo elemento porque siempre que escribimos, escribimos algo, siempre, ¿no? [silencio] esa segunda casilla será el complemento directo [silencio]. Y, además, tiene una posible tercera casilla [silencio] que es el complemento indirecto porque ese algo se lo escribimos a alguien.
+H2: Pero [ininteligible]
+H1: Por eso digo, un posible o[palabra cortada]... tercer elemento porque es optativo, [interrogación], ¿de acuerdo? Es optativo.
+H2: ¿[ininteligible] también puedes tener un cuarto posible elemento, [solapamiento de turnos] un cuarto posible elemento?
+H1: ¿Cómo? [fin de solapamiento de turnos]
+H2: Claro.
+H2: Tú puedes tener [solapamiento de turnos] un cuarto posible elemento.
+H1: No, no... no... no... no... no... no... no... no...
+H2: ¿Por qué no?
+H1: Bien, ya sé lo que quieres decir. Por el hecho de que eh... lo... lo podamos omitir. Bien, está bien, lo que pasa que el objeto directo es mucho más necesario para este verbo
+H2: [murmullos]
+H1: ¿Entonces qué es que me estás preguntando?
+H2: Que si pones el... complemento indirecto como optativo, también puedes poner un complemento directo como opta[palabra cortada]... optativo y... [solapamiento de turnos] y todo lo que quieras y...
+H1: ¿Cuál sería?
+H2: Sería un circunstancial.
+H1: Por supuesto que sí, siempre van como [ininteligible] dependiendo de la cantidad de [ininteligible]. Lo que pasa es que lo que nos interesa ahora, eh, porque con los circunstanciales no tenéis vosotros ningún problema, y lo que nos interesa ahora es que sepáis descubrir el sujeto, el directo y el indirecto.
+H2: [afirmación]
+H1: Para eso necesitamos estudiar la naturaleza del verbo, entonces, "escribir", alguien tiene que escribir, por tanto, necesita un agente y eso es el sujeto; cuando escribimos, escribimos algo: un libro, un papel, lo que sea, es un... es un complemento directo y además, se lo podemos escribir a alguien [silencio] , sería el complemento indirecto [silencio]. ¿Bien? Digo que es optativo porque es optativo de que aparezca en la oración, puede... aparecer o no aparecer, podemos escribir un libro y no especificamos que ese escrito es a un público, ¿eh? O podemos escribir un libro a alguien, dedicado a alguien, pero no lo especificamos, no es tan necesario ese complemento indirecto [silencio] ¿eh? Pero sí es necesario el complemento directo porque si yo me encuentro una oración como "Juan escribe a su novia", [interrogación] empiezo a ver casillas que no están. Bien, "Juan" es el sujeto, aquí está "Juan", aquí está "escribe", y después viene el segundo elemento, ¿el segundo elemento pertenece a la segunda casilla?, ¿"A su novia" está aquí?
+H2: No.
+H1: Bueno, pues por eso es necesario tener en cuenta que hay un complemento directo omitido, ¿eh?, "a su novia" entra aquí, en el complemento indirecto [silencio]. ¿Está claro? [silencio] Vamos a hacerlo con otro verbo [silencio]: "Juan recibió a sus padres". "Juan [silencio] recibió a sus padres". ¡Venga, Mariano!
+H2: ¿Yo?
+H1: ¿Has analizado tú la otra, no? Mar, [ininteligible]
+H10: [ininteligible] "recibió", verbo y "a su padre... a sus padres" sería... complemento directo.
+H1: ¿Sujeto?
+H10: Bueno, sujeto, "Juan".
+H1: Casilla número uno, sujeto. ¿ Y "a sus padres"?
+H10: Complemento indirecto.
+H1: Indirecto. ¿Por qué?
+H10: Porque se supone que hay un... complemento directo... omitido también.
+H1: ¿Dónde está el complemento directo omitido? Eso es lo que tenéis que pensar.
+H10: Entre "recibió" y "a sus padres" sería.
+H2: Y...
+H1: Espera un momento.
+H10: [solapamiento de turnos] Directo sería.
+H1: Callaros un momentito [fin de solapamiento de turnos], por favor, callaros un momentito, por favor. [duda] Explícame [ininteligible] [silencio]
+H10: Sí, esto sería directo... directo.
+H1: ¿Por qué?
+H10: Porque... no puede haber otro allí... "recibió a sus padres", yo creo que no... [solapamiento de turnos] cabe [ininteligible]
+H1: Bien, cogemos... cogemos [fin de solapamiento de turnos] "recibir", alguien tiene que recibir, ¿no?, hay un sujeto
+H10: Por eso, "sus padres".
+H1: ¿Y después? [silencio] No, él, "Juan" es el que los recibe, "Juan" recibe y cuando recibes, ¿recibes [silencio]?
+H10: Algo.
+H1: Algo y ¿puedes recibir algo?
+H10: Sí [ininteligible].
+H1: ¿Y eso qué sería?
+H10: El directo.
+H1: El directo, la segunda casilla. ¿Hay una tercera casilla? ¿Tú crees que el verbo "recibir" puede tener una tercera casilla que rellenar?
+H10: Sí.
+H1: ¿Cuál?
+H10: Pues un circunstancial.
+H1: Sí, pero he[palabra cortada]... hemos dicho que no lo íbamos a contar como casillas, eh, íbamos a contar sólo sujeto, directo e indirecto porque vosotros con los circunstanciales no tenéis problemas; éste es el método que yo aplico para que os enteréis bien de las funciones, ¿eh?.
+H10: [ininteligible] a parte de los circunstancial
+H1: ¿Hay o no hay?
+H10: Yo creo que sí.
+H1: A parte de los circunstanciales, no, ¿no? Entonces esto es un complemento directo [silencio], ¿de acuerdo? ¿Cuál es otra eh... forma para saber cuál es el complemento directo? Sustituyéndolo por "lo", "la", "los", "las"; el elemento de la oración que se pueda sustituir por "lo", "la", "los", "las" es el complemento directo [silencio], ¿de acuerdo? [silencio] Para el complemento indirecto, tenemos que sustituirlo por "le" y "les". [silencio] ¿Cómo decimos aquí: "Juan los recibió" o "Juan les recibió"?
+Hablante no identificado: Los.
+H1: ¿Por qué?
+H4: [solapamiento de turnos] Porque está [ininteligible].
+H5: Porque es un complemento directo. [fin de solapamiento de turnos]
+H1: ¿Y te suena mal "Juan les recibió?
+H2: Es un leísmo.
+H5: Pero está admitido.
+H1: ¿Esto está bien?
+H7: Es un leísmo.
+H1: Es un leísmo.
+H6: ¡Ah! es cuando es de mujer, es por eso.
+H5: En masculino está admitido, ¿no?
+H1: Sí... ha sido por la frecuencia tan fuerte.
+H5: [ininteligible] estará admitida ahora. ¿[ininteligible] no estará admitida?
+H1: [solapamiento de turnos] En plural.
+H5: ¿[ininteligible] [fin de solapamiento de turnos] no estará admitida?
+H1: En plural, me parece que no.
+H6: ¿En [ininteligible]?
+H1: [risas]
+H2: [risas]
+H1: Ahí no puedes decirlo, ahí sí que es una barbaridad.
+H6: Ya lo sé. [texto no transcrito]
+H5: Eh... ¿qué me has preguntado?, ¡Ah!, que si en plural estaba admitido. No estoy segura, yo creo que no, creo que es sólo en singular [silencio]. Pero el laísmo, no. El laísmo es el al revés, es cuando utilizamos el femenino para masculino o para complemento indirecto.
+H2: ¿Cómo?
+H1: Eh... por ejemplo, "Juan... Juan vio a María", "Juan la vio", ahí es correcto
+H2: [afirmación]
+H1: ...complemento direicto [silencio], eh... pero por ejemplo, "Juan escribe cartas a su novia", "Juan la escribe cartas" es incorrecto, es "Juan le escribe cartas" o "Juan las escribe... las escribe a su novia".
+H2: "Se las escribe".
+H1: "Se las escribe", ese pronombre "se" aparece cuando entran en contacto dos pronombres que empiezan por "ele": aquí sería "Juan [silencio] las... [silencio] le las escribe... le las escribe. Entonces, cambiamos el "le" por un "se": "Se las escribe". ¿Bien? [silencio] ¿Qué pasa, Mariano? [silencio] Nada. [silencio] ¿Qué pasa, Mariano?", mira el aparato [solapamiento de turnos] y ya no [ininteligible]
+H2: [ininteligible] [fin de solapamiento de turnos] vas a saber cuantas veces dices "¿qué pasa, Mariano?"
+H1: [risas] Ya me daré cuenta, ya. Ya te lo contaré, además. [texto no transcrito]
+H2: Podíamos dejarlo ya.
+H1: No.
+H4: Quedan [solapamiento de turnos] cinco minutos.
+H1: Quedan cinco minutos [fin de solapamiento de turnos], por eso, pues vamos a aprovecharlos. [texto no transcrito]
+H1: Eh... ¿Ya? Complemento indirecto. El complemento indirecto puede aparecer tanto en oraciones transitivas como en oraciones intransitivas, es decir, para que una oración sea transitiva o intransitiva, lo que necesita es el complemento directo. Una oración es transitiva o intransitiva dependiendo de que tenga o no tenga objeto indirecto... objeto directo. El objeto indirecto no es importante para decidir si una oración es transitiva o intransitiva. Lo podes... lo podemos sustituir por "le" y "les" [silencio] y ¿qué más del indirecto? Pues nada más. El que recibe indirectamente la acción del verbo, y ya está. [silencio] Eh... respecto al directo, respecto al complemento directo, hay otra forma para averiguarlo, que es [duda] pasando la oración a pasiva: "Juan escribe cartas" [silencio], ¿eh?, "las cartas"... "Juan escribe cartas a su novia todos los días" [silencio] eh... "Las cartas son escritas por Juan a su novia todos los días"... ¡Mariano!, atiende.
+H2: Y "Juan escribe cartas", "Juan...
+H6: [risas]
+H1: ¿"Juan" qué?
+H2: "Las cartas son escritas por Juan"
+H1: "Todos los días a su novia".
+H2: "Todos los días".
+H1: Si os dais cuenta, "a su novia" y "todos los días" no varían de función, se mantienen, incluso, en el mismo sitio si queremos, en el mismo... punto. Pero "Juan" pasa a ser el... complemento agente y es complemento agente, a pesar de que sea agente, nunca puede ser sujeto porque lleva una preposición y el sujeto nunca, jamás de los jamases, puede llevar preposición, ¿eh? [silencio] Y "las cartas" pasa a ser el sujeto paciente, [interrogación], que recibe la acción [silencio] de forma pasiva, que hace... [duda] sí, [silencio] bueno, ¿está claro [silencio] hasta aquí?, ¿está todo clarito?, ¿sí? [silencio] Mariano, ¡qué pesado eres, hijo!
+H6: [risas]
+H1: La verdad es que ya estoy aburrida de decir tu nombre, pensándolo bien.
+Todos: [risas]
+H1: Complemento circunstancial. ¡Qué bien!, nos va a dar tiempo, incluso, hasta a dar el tema ocho para el examen.
+H2: No... no...
+H1: Sí...
+H2: No...
+H1: Bueno, venga, podéis marcharos.
+Todos: [ininteligible]
+H1: ¡Ah, no. Si todavía quedan dos minutos!, ¿dónde vais?
+Todos: [ininteligible] [risas]

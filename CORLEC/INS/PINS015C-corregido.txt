@@ -1,0 +1,32 @@
+#archivo: PINS015C
+#fecha de grabación: 26-01-92
+#fuente: grabación directa domicilio privado
+#localización: Madrid
+#términos: termostato, calefacción eléctrica, abrazadera, temperatura, válvula
+#H1: varón, c. 60 años, madrileño
+#H2: varón, 25 años, madrileño
+H1: Bueno, instrucciones para poner en marcha esta calefacción eléctrica. Eh... aunque en principio... puede parecer sencillo porque... hay una llavecita que lo que hace es ponerla en marcha o... o quitarla, pues sí es conveniente explicar también el porqué y qué es lo que hace.
+H2: [afirmación]
+H1: [ininteligible], como verás, aquí hay una lucecita, que cuando se pone en marcha se pone...
+H2: Se enciende...
+H1: ...se enciende. Ni más, ni menos conecta la red eléctrica, que aquí bajan tres fases, a esas resis[palabra cortada]... a esas resistencias que ves ahí. Bueno, que están aquí contenidas dentro de... de este depósito que es completamente cerrado, que donde está el agua, esas resistencias se ponen al rojo y calientan el agua. Ahora bien, tú puedes graduarlo. Esta lucecita que se enciende cuando está conectada, a veces se apaga ella sola, aunque el botón esté en posición de encendido. Y se apaga porque... verás aquí, abrazado a la... a... a la subida del agua caliente, pues, verás aquí con esta abrazadera, un dispositivo de... de cobre,
+H2: [afirmación]
+H1: ...en forma de...
+H2: De espiral...
+H1: ...espiral, exactamente, que comunica esta calor aquí, a un aparatito que es un disyuntor, que cuando alcanza la temperatura que tú has elegido, pues salta. Entonces, se apaga eso aunque esté encendido, y solamente cuando pierde esa temperatura vuelve otra vez a encenderse. La elección de la temperatura la tienes aquí. Aquí hay un botoncito, ni más ni menos, que pone pues de... cero grados a noventa.
+H2: Un termostato.
+H1: Un termostato. Eh... ni... ni más ni menos lo que hace esto es que.... éste, el termostato es un... un par termoeléctrico que a cierta temperatura salta, y entonces para que salte antes o después le sometes a más o menos tensión.
+H2: [afirmación]
+H1: Y eso es lo que hace esta... esta ruedecita que hay aquí, que si le pones que salte a noventa grados, le has quitado prácticamente toda la tensión, y entonces tarda mucho en... en desprender. No conviene que sea más de noventa grados, por eso llega a noventa, porque cuando aquí hay noventa grados, quiero decir que el agua ahí abajo donde las resistencias está en ebullición, y lo que no conviene es que esté en ebullici[palabra cortada]... en ebullición. Ahora va saltar, ves, el ruido éste [ininteligible] acaba de saltar el... el termostato.
+H2: El termostato ¿cómo va, con un muelle?
+H1: No, el termostato es un... se llama par termo[palabra cortada]... termoeléctrico, son dos láminas de metal distinto...
+H2: Sí.
+H1: ...una de ellas, a una cierta temperatura... tú cuando... cuando metes a un... un metal a una cierta temperatura, empieza ese metal a... pues deformarse, y lo que hace ese metal a una cierta temperatura es... ya está preparado para que se separe de otro que... que es con el que hace contacto, y entonces, eh... y le puedes someter a ciertas tensiones, es decir, si... si... si ese... digamos, libre sin tensión, en el momento que le aplicas calor, a los quince grados por ejemplo, ya empieza a... a separarse, si tú le sometes a una tensión, intentará... pero no podrá porque... porque hay un muelle que le impide saltar, y según ese muelle eh haga más o menos presión tardará más o tardará menos. Ni más ni menos, eso es lo que... Bueno, ya... esto está probado en laboratorio los... los termostatos que fabrican y ya la aleación de... de los dos metales es la fijada para que... para que salte, y en eso consiste. Ahora, de todas maneras, precisamente este tipo de calefacción, eh... pues, tiene instalado un... un depósito, digamos de expansión, porque es[palabra cortada]... esto es por convección. O sea, las.. hay calefacciones con...
+H2: Bombas.
+H1: ...con bombas y ni más ni menos hace circular el agua. Y otras que se llaman por convección. Las de convección es que... eh... al pasar el agua por un foco de calor, ese agua se calienta y entonces al calentarse tiende a irse hacia arriba porque... y... propiamente dicho es así, irse hacia arriba, y entonces el agua que hay debajo que está más fría, que no ha pasado por ahí, intenta ocupar su lugar y entonces se establece una especie corriente mucho más lenta que la... que la de motor, pero se establece realmente una corriente. Ahora bien, por si hierve el agua, cuando es con motor, que... la corriente de agua es... es con motor, eh... aunque la temperatura eh... suele ser siempre eh... en el foco de calor menor que en el... que en el caso de la convección, son circuitos cerrados herméticamente, además con una... una válvula, a que una cierta presión que... por si el agua [ininteligible] pasa de presión se abría la válvula y liberara el circuito de la presión, si no podría estallar.
+H2: Sí.
+H1: Ahora, esta de convección, simplemente tiene un depósito que... está abierto.
+H2: [afirmación]
+H1: Es este que ves aquí,
+H2: Sí.
+H1: ...y... si por ejemplo hay expansión de agua, porque el agua al calentarse como todos... los cuerpos aumentan de volumen, pues lo que pasa es que como está al aire, digamos, y colocado encima de la... de la conducción, sí... pues a través de ese depósito, se sale, digamos, de aquí, y evita pues una... una explosión que podía haber. Bueno, y en esto consiste... una calefacción de éstas.

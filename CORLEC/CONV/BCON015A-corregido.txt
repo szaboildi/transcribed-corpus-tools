@@ -1,0 +1,27 @@
+#archivo: BCON015A
+#fecha de grabación: 26-10-91
+#fuente: radio
+#localización: Madrid
+#términos: droga, canción, mensaje, banda sonora, teléfono, contestador automático
+#H1: niña, c.10 años, oyente del programa
+#H2: varón, c.40 años, presentador
+#H3: niña, 10 años, oyente del programa
+[música] [texto leído] Éste es el contestador automático del dos, seis, uno, cuarenta y uno, cuarenta y seis. Al escuchar la señal, cuénteme lo que le preocupa y "Mi querida radio" intentará estar más cerca de usted [fin de texto leído]. [música]
+H1: ¡Hola!, "Mi querida radio". Quiero... escuchar la canción de... la canción de la banda sonora de [extranjerismo]"Dirty dancing"[fin de extranjerismo], [extranjerismo]"[ininteligible] on my life"[fin de extranjerismo]. Se la quiero dedicar a todas esas personas que se están dogando[sic], con este mensaje: Éste es [duda] el mejor momento de vuestra vida, no dejéis en la droga. Gracias.
+H2: Muchas gracias, amiga, por... por este recordatorio. Nunca... viene de más el seguir recordando a la gente que... que las drogas acaban con la vida de las personas. Ahora mismo te vamos a poner la canción que nos has pedido de [extranjerismo]"Dirty dancing"[fin de extranjerismo]. Vamos eh... antes a dar paso a Beatriz, que está en línea en el teléfono directo. ¡Hola!, Beatriz. Buenos días.
+H3: ¡Hola!, José Luis.
+H2: ¿Qué tal?
+H3: Bien...
+H2: Muy bien, ¿te lo estás pasando bien estas vacaciones?
+H3: Sí...
+H2: ¿Sí? Muy bien, y ¿cuántos años tienes, Beatriz?
+H3: Diez...
+H2: Diez añitos. ¿Y qué quieres escuchar?
+H3: La de... José Luis Perales.
+H2: ¿Una de José Luis Perales?
+H3: Sí... es que te la pedí el otro día y... como tenías que poner... las noticias, pues nos la [silencio] quedastes a medias.
+H2: ¡Hay!, ¡qué pena, mujer!, ¡qué pena! Vamos a ver si hoy la podemos poner un poquito más de tiempo, ¿vale?
+H3: Vale.
+H2: Gracias, Beatriz. Un abrazo fuerte.
+H3: Vale.
+H2: Hasta luego.

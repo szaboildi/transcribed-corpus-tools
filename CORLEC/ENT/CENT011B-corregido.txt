@@ -1,0 +1,30 @@
+#archivo: cent011b
+#fecha de grabación: 26-2-91
+#fuente: radio
+#localización: Madrid
+#términos: pensión
+#H1: varón, c. 40 años, locutor
+#H2: varón, c. 40 años, Secretario General de la Seguridad Social
+H1:Estamos hablando de las pensiones, con Don Adolfo Jiménez, Secretario General de la Seguridad Social. Don Adolfo, sigue usted ahí, ¿verdad?
+H2:Sigo aquí.
+H1: Pues ahora, nuestra compañera Belén de la Banda, le va a transmitir a usted muchas de las llamadas que hemos recibido. Vamos a ver, Belén, por favor.
+H3:Bueno, empezamos yéndonos a [solapamiento de turnos] Torto[palabra cortada] [ininteligible]
+H1:Ah, [fin de solapamiento de turnos] y rogamos al señor eh... al señor Jiménez que sea breve y conciso, dentro de lo posible [solapamiento de turnos] señor
+H2:De acuerdo.
+H3:Sí. [fin de solapamiento de turnos]
+H1:Jiménez,por favor.
+H2:De acuerdo.
+H3:Es importante porque hay muchas llamadas, empezamos yéndonos a Tortosa, a Tarragona, donde Isabel nos dice que ella ha trabajado durante cincuenta y dos años pero nunca ha tenido Seguridad Social porque era empleada de hogar y iba a las casas, y pregunta si puede tener algún derecho con estas nuevas pensiones.
+H2:Pues, tiene derecho si tiene el resto de las... si reúne las[sic] requisitos de carencia de recursos, entiendo que ya tendrá sesen[palabra cortada] tiene cincuenta y cinco años, bueno, si tiene los sesenta y cinco, cuando tenga los sesenta y cinco años, tendrá el período de residencia, y el requisito que no sé si lo cumplirá, sea carencia de recursos, ella o los familiares con los que convive.
+H3:Muy bien. Josefa de Benidorm, nos dice que tiene cincuenta y cuatro años y tiene un problema de invalidez, y le han dejado solamente media pensión, y ella sólo está cualificada para trabajar como empleada de hogar, lo que... lo cual con su invalidez, pues no puede hacer, y piensa si podría aumentar esa... esa pensión o tenerla completa.
+H2:No. Pienso que si le han dejado la cuantía de... de esa invalidez, es porque es el grado de invalidez que le ha determinado los servicios médicos y consiguientemente le ha reconocido la Seguridad Social. Ella en cualquier cosa, en cualquier caso, perdón, si tiene duda, de que está mal calificada el grado de invalidez, debe ir a la... a la... una oficina del Instituto Nacional de la Seguridad Social pero si no tiene duda es que le han calificado y tiene la invalidez correspondiente.
+H3:Muy bien, Vicenta, desde Crivillente, Alicante, nos decía que su madre tiene sesenta y seis años y que ha cotizado diez años al régimen especial agla[palabra cortada] agrario. El año pasado cumplió los diez años de cotización y, aunque ella al principio necesitaba sólo diez años cotizando, ya le exigían quince para tener derecho a esa pensión, ¿tiene ahora alguna posibilidad con las nuevas pensiones.
+H2:[duda] En principio, que... eh... fue en el año ochenta y cinco cuando se modificó, eh... el período de exigencia de cotización de diez a quince años. Quiero decir que desde hace tiempo se cono[palabra cortada] se debía conocer y se hizo una publicidad entonces, importante. [duda] Respecto a las nuevas pensiones, si no tiene recursos económicos ella o sus familiares, sí. Si tiene otros recursos económicos, no, porque como decía anteriormente ésta es la da[palabra cortada] renta de unas familias a otras y solamente se hace en el caso de que tenga una situación de necesidad.
+H1:Más.
+H2:Muy bien, Pilar González, de Oviedo, nos hacía una pregunta que seguramente le interesa a mucha más gente porque, preguntaba por qué no tienen una paga extraordinaria de... de las eh... de las pensiones por Nochebuena, como en muchas otras empresas y muchos otros lugares.
+H2:Por una sencilla razón que intento explicar muy breve aunque es un poco más complicado. Los autónomos y los empleados del hogar que son los dos regímenes que aún les falta alguna paga, eh..., cuando en su momento se les calculó la ju[palabra cortada] la jubilación, se calculaba, eh... veinticuatro partido por veinticuatro, [duda] en el caso de... de... de hogar, o sesenta partido por sesenta en el caso de... de... si es de fu[palabra cortada] de la invalidez una de... de autónomos. En definitiva, por el form[palabra cortada], por la fórmula del cálculo de la pensión, no se tenía derecho a pen[palabra cortada] a ninguna paga extraordinaria. A pesar de todo, en el año ochenta y nueve, pensamos que debíamos modificar esa situación y espero que en el año mil novecientos noventa y dos, eh... terminemos de modificar y esté en vigor la decimocuarta paga también para el régimen de autónomos y de empleados del hogar.
+H3:Muy bien. Maria Asunción de Granada nos decía que había trabajado varios años en Marruecos y que lleva ya muchos años trabajando en España y pregunta si a la hora de la jubilación hay algún convenio con Marruecos y también nos gustaría que nos dijera con qué otros países hay convenios para... para poder, [duda] aprovechar eso que han cotizado durante [solapamiento de turnos] [ininteligible].
+H2:Con [fin de solapamiento de turnos] todos los países europeos y la mayoría de los países iberoamericanos, tenemos convenio de re[palabra cortada] de reciprocidad, consiguientemente las cotizaciones que se realizan en el país extranjero sirven prefe[palabra cortada] perfectamente en España, en la Seguridad Social Española, yo creo que con Marruecos también, pero tengo una duda, pero sí, creo que con Marruecos también.
+H3:Bien, vamos con... con el tema de las viudas... [solapamiento de turnos] No terminamos aquí.
+H1:No podemos [fin de solapamiento de turnos] terminamos aquí. Don Adolfo, muchísimas gracias ya a ti, Belén de la Banda.
+H2:Adiós, muy buenos días. [silencio]

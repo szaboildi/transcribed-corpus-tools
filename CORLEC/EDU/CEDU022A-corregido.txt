@@ -1,0 +1,374 @@
+#archivo: cedu022a
+#fecha de grabación: 27-3-91
+#fuente: clase de Música y Ritmo para niños de seis años
+#localización: Segovia
+#términos: música, instrumentos, músico, juego
+#H1: mujer 7 años, alumna
+#H2: mujer 23 años, profesora
+#H3: amiga de la profesora, mujer 24 años
+#H4: alumno, varón 7 años
+#H5: alumno, varón 7 años
+#H6: alumno, varón 7 años
+H1:¿Cómo se juega?
+H2:No, las soluciones... bueno, cómo se juega, ¿prefieres cómo se juega? Vale.
+H2:Mira, hay que poner el... el... el [ininteligible]
+H3:¿El qué?
+H4:Mira, ponemos...
+H1:La cosa ésta que no me acuerdo cómo se llama.
+H2:A ver.
+H1:Esto...
+H3:¿El cartón?
+H1:Cartón, y se pone una cinta y suena un instrumento y entonces tienes que adivinar cuál es el as[palabra cortada], el instrumento.
+H4:Y luego poner el...
+H1:Y luego, le hay que decir y entonces quien lo... lo haya dicho bien pues... pues ha ganado un punto y tiene que poner una ficha del color que haya cogido la ficha.
+H2:A ver, Francisco, ¿te acuerdas?
+H1:¿Sabes? Mi prima
+H4:¿De qué?
+H1:tiene un juego que ¿sabes cómo es? Es parecido a éste porque eliges una careta, ¿no? te la pones y hay una bolsa con... con... o sea con muchas cosas coches... pues entonces pone un número sólo hay hasta el uno, el dos y el tres, entonces te... te da una pista, le tienes que ir tocando porque las caretas, porque la careta no tiene ojos y tienes que adivinarle y así con puntos. Parecido.
+H2:A ver, ¿os acordáis de... del "Cascanueces"?
+H4:Sí.
+H5:Éste es de Javier.
+H1:¿Quién se lo cuenta ahora a Carmen?
+H5:El dibujo es [vacilación] del Lago de los Cisnes.
+H4:Yo.
+H2:¿Tú? Venga, a ver, Francisco, cuéntaselo.
+H3:Cuéntamelo.
+H5:Éste era... unos abuelos de una niña que le... que era su cumpleaños y le trajeron un...
+H2:Eran Navidades.
+H5:Ah, sí, era Navidad y le trajeron un cascanueces en forma de señor y luego cuan[palabra cortada]
+H4:En forma de señor ha dicho.
+H5:[palabra cortada]do se fue a acostar soñó que el cascanueces se hacía hombre y... fue a una ciudad.
+H2:No. Y entonces se hacía hombre y a la niña, ¿qué la pasaba?
+H5:Que... se había enamorado.
+H2:Pero antes alguien la raptaba.
+H5:¿Eh?
+H2:Alguien la raptaba.
+H4:Los ratones.
+H2:El rey de los ratones. Y ¿qué pasaba? Rafa.
+H4:Pues que... que eran muchos ratones y entonces el je[palabra cortada], el jefe de ratones le que[palabra cortada], le quería arrestar al Cascanueces y fueron muchos y la niña estaba muy asustada y... y combatió al Cascanueces con ellos y...
+H2:Con el rey de los ratones.
+H4:Sí. Y al fin ga[palabra cortada], y al fin ganó y fue[palabra cortada] fueron muy feliz, y fueron muy felices y comieron perdices.
+H2:Sí [vacilación]
+H5:No, no.
+H2:No, a ver, ¿qué pasó?
+H5:Y encontraron...
+H4:Es que ya no me acuerdo casi.
+H5:un hada que les
+H4:Eso.
+H5:llevó volando al país de las golosinas.
+H2:¿Y cómo se llamaba el hada? ¿Quién se acuerda?
+H5:Yo no.
+H2:¿No te acuerdas? ¿Tú tampoco?
+H4:Es que hace tanto tiempo que no lo he leído...
+H2:¿El hada...?
+H1:¿El hada de las golosinas?
+H2:[duda] Sí, pero también tiene otro nombre.
+H1:Caramelos. El hada de los caramelos.
+H2:No. Pan...
+H1:De azúcar.
+H2:Eso es, el hada Pandeazúcar. Bueno, vamos a ver.
+H6:Yo con Rafa.
+H2:Vale.
+H6:Me pido de equipo.
+H5:Pues yo tendré que ser con [ininteligible].
+H2:Vale.
+H5:Las azules.
+H4:Yo la naranja, es[palabra cortada].
+H2:A ver.
+H4:La naranja.
+H1:Trompeta.
+H2:Bueno, ahora mismo...
+H1:Trompeta.
+H4:No.
+H5:[onomatopeya]Tu, turú, tú[onomatopeya] trompeta. Bien.
+H2:¿Os acordáis de quién escribió "El Cascanueces"?
+H4:[extranjerismo]Tchaikovski[fin de extranjerismo].
+H2:Muy bien, Rafa, sí señor. ¡Qué dominio! A ver, Bea.
+H1:¿Yo con quién voy?
+H2:Con Fran.
+H2:¿Y qué... qué más cosas hemos oído? Bea, a ver si te acuerdas, además del "Cascanueces", ¿qué más hemos oído?
+H1:[duda]"El Lago de los Cisnes"...
+H2:Que, que la escribió ¿quién?
+H4:[extranjerismo]Tchaikovski[fin de extranjerismo]
+H1:[extranjerismo]Tchaikovski[fin de extranjerismo]
+H2:Y hemos oído también...
+H4:El... el...
+H1:El... el... "Carnaval de los Animales"
+H2:Que lo escribió, ¿quién?
+H6:"El Aprendiz de Brujo". "El Lago de los Cisnes".
+H1:Ya le he dicho.
+H5:"El Cascanueces".
+H2:Pero, ¿quién escribió... a ver, "El Carnaval de los Animales", ¿os acordáis?
+H1:No.
+H4:[extranjerismo]Paul Ducar[fin de extranjerismo]
+H2:No, ese fue el "Aprendiz de Brujo". Un señor...
+H4:[extranjerismo]Saint Saint[fin de extranjerismo]
+H2:[extranjerismo]Saint Saint[fin de extranjerismo]
+H1:[extranjerismo]Saint Saint[fin de extranjerismo]
+H2:Eso es [extranjerismo]Saint Saint[fin de extranjerismo]. Bueno y me parece que no, hemos oído [ininteligible]. Ah, oímos el tiple que pertenecía también al "Carnaval de los Animales", ¿no?
+H2:Sí.
+H5:¡Jo, qué morro! se lo pone [ininteligible]
+H6:Y se lo pone cerca y entonces nosotros...
+H5:Y tú te lo quieres llevar, ¿no?
+H6:¿Y mi carpeta?
+H2:Pero si lo veis todos.
+H4:¿En qué quedamos? Venga, sí.
+H6:He [ininteligible] debajo la mesa y no está.
+H2:Pues se habrá ido.
+H3:¿Tu carpeta?
+H1:Se habrá ido.
+H2:A ver si está por debajo.
+H6:Eh, ¿dónde habéis puesto mi libro?
+H5:De excursión se ha ido.
+H6:Loli, había un libro ahí, ¿no?
+H2:Mírale, está ahí.
+H1:Éste es de excursión, ¿no?
+H5:Mira, dos para ti, dos para mí.
+H1:Vale.
+H2:¿Ya estamos?
+H4:Sí.
+H6:Si se te gastan a ti y a mí no, la pongo.
+H1:Falta Javier.
+H2:Bueno. A ver, vamos a organizarnos. ¿Estamos?
+H1:Pero [ininteligible]
+H2:Equipo a, equipo b.
+H1:Jo.
+H5:Yo quiero ser el equipo b.
+H6:No, yo quiero el a.
+H2:Pero bueno, nada, se acabó.
+H6:A, a, a.
+H2:Calla.
+H5:B, b, b.
+H2:Vale, fenomenal. A, b.
+Todos:¡Bien!
+H2:Oye, pues lo cambiamos rápido, ¿eh?
+H4:No.
+H2:Equipo c, equipo d.
+H1:Vale.
+H5:Igual que el abecedario.
+H4:C, d.
+H5:¿Cómo e[palabra cortada], cómo era nuestro equipo?
+H2:C.
+H5:Ah.
+H6:¿Y el nuestro d?
+H2:Claro.
+H5:C, d.
+H1:Es que vamos a tomar, eh... ¿cómo? cereal... ¡ay!
+H6:Cereales.
+H1:Cereales con vitamina c, ¿no?
+H2:Eso, vale, si tú lo dices. Bueno, empezamos, ¿eh?
+H4:Y nosotros cereales con d.
+H2:A ver qué suena. Concentración. Oye, Javier, tú vas con Rafa, así que... que se note que sois un equipo.
+H5:Me voy a cambiar [ininteligible].
+H6:Vale, nos juntamos más.
+H2:Una, dos, tres. [música] Chupado.
+H1:El trombón de varas.
+H5:[ininteligible]
+H2:Ni lo uno ni lo otro.
+H1:Oh...
+H5:Oh...
+H4:Las trompas.
+H1:¿Las?
+H2:Las trompas. Y las trompas ¿ a qué... a quién representaban?
+H5:Al lobo.
+H2:Al lobo. ¿En qué? ¿En el...?
+Todos:Cuento de "Pedro y el Lobo"
+H2:¿Que de qué señor era?
+H1:¿Un punto para ellos?
+H2:¿De qué señor era?
+H1:Pero es que lo han dicho a[palabra cortada].
+H2:De [extranjerismo]Prokofiev[fin de extranjerismo]
+H4:De [extranjerismo]Prokofiev[fin de extranjerismo] no no lo has dicho.
+H2:Pero es que lo han dicho luego, Loli.
+H6:[ininteligible]no lo has dicho.
+H2:¿No os dije que era de [extranjerismo]Prokofiev[fin de extranjerismo]? Anda ya.
+H6:Que no.
+H2:Si lo tenéis apuntado.
+H1:Sí, ya.
+H2:Pero bueno.
+H1:Si quieres lo sacamos.
+H2:Luego lo sacas y se lo enseñas a Carmen. Os puse: "Pedro y el Lobo" lo escribió un señor que se llamaba [extranjerismo]Prokofiev[fin de extranjerismo], escribimos todos los instrumentos y dibujamos a los señores que eran.
+H4:A mí me tocó el abuelo, que era el fagot.
+H2:Eso es.
+H5:Y a mí el lobo.
+H6:A mí me tocó el...
+H4:Pajarito.
+H1:Pájaro.
+H2:A ti el pájaro ¿y a ti?
+H4:Es que era...
+H2:Álvaro.
+H5:Álvaro era... el gato.
+H6:El gato.
+H2:A ti el gato.
+H6:Era el oboe.
+H2:Venga, seguimos, un punto. Venga.
+H5:Para nosotros, ¿no?
+H2:Seguimos. [música] Hay que dar el nom[palabra cortada], el nombre exacto, ¿eh? [música]
+H1:Ah, sí, claro, ya me acuerdo. ¡No!
+H2:A ver.
+H6:El órgano. Eléctrico.
+H1:El órgano de iglesia.
+H2:No.
+H5:El órgano barroco.
+H2:Sí. Muy bien.
+H1:¡Bien!
+H4:¡Hala!
+H2:He dicho que había que decir el nombre exacto.
+H1:¡Qué bien!
+H5:Yo siempre me acuerdo no sé.
+H1:¡Huy, qué bien!
+H5:Algunas veces se me olvida...
+H2:Venga, venga. Venga [ininteligible]
+H1:A nosotros sólo nos quedan dos y a vosotros cuatro.
+H5:Pero cuando voy a decir el nombre vo[palabra cortada], digo el órgano barroco, cuando se me olvida.
+H2:Muy bien. A ver. [música]
+H6:La guitarra ésta.
+H2:Sí es ese instrumento pero no es la guitarra.
+H4:¿Éste cómo se llama? No nos le habéis di[palabra cortada].
+H2:Sí, yo me acuerdo, le tengo apuntado.
+H2:Vamos a ver, vamos a ver. ¿Es un instrumento de viento o de cuerda?
+Todos:De cuerda.
+H2:Bueno, y no es la guitarra.
+H5:No.
+H6:Es lo que...
+H1:Creo que lo... ¿lo tocan los mexicanos?
+H2:Sí.
+H1:Ay, ¿cómo se llama?
+H2:Una pista, empieza por b.
+H1:Beatriz.
+H5:Barroco.
+H2:No. Banjo, es el banjo.
+H6:No lo ha acertado ninguno.
+H2:Ninguno, así que nada.
+H5:Jo.
+H2:Acordaros del banjo para otro día, ¿eh? Banjo.
+H5:Banjo.
+H6:Pancho. [música]
+H2:A ver. ¿Instrumento de aire o de cuerda?
+H1:De vien[palabra cortada]
+H4:De cuer[palabra cortada]
+H5:De cuerda.
+H6:Cuerda.
+H2:¿De cuerda o de viento?
+H1:De viento.
+H5:De cuerda.
+H6:Viento.
+H5:Cuerda.
+H6:Viento.
+H2:Vamos a volver a oírlo. [música]
+H4:De cuerda.
+H1:Sí. De cuerda.
+H2:De cuerda. A ver,
+H6:La guitarra.
+H2:Estás tú bueno, la guitarra. ¿Grave o agudo?
+H5:Agudo.
+H1:¡Grave!
+H2:A ver. De cuerda y grave. Con esas pistas pensad. Venga. Entre los equipos.
+H4:Déjanos tiempo.
+H2:A ver ¿Qué instrumentos de cuerda y que suenan muy graves, muy graves...?
+H1:¡Ah, sí!
+H5:Ah...
+H2:Pues díselo a Francisco.
+H5:Yo. El contrabajo.
+H2:Muy bien.
+H1:Bien.
+H4:Rafa también me había dicho...
+H2:Ya, lo he oído. Pues venga. Un punto cada uno.
+H6:¡Ay! ¡Por fin!
+H4:No, no. Que te le pongas.
+H1:Jo, sólo nos queda una ficha a nosotros.
+H2:Seguimos.
+H5:Y a mí una.
+H2:Chsss...
+H6:Y a mí ninguna.
+H2:Chsss.... [música]
+H1:Esa está chupada.
+H5:Chupadito.
+H4:La pan[palabra cortada]
+H6:La pandereta.
+H2:Chupado, ¿eh? Éste es un instrumento de percusión. Y membrana porque tiene una membrana en el centro.
+H5:Dale dos a Rafa que...
+H4:No [ininteligible]
+H2:Pero si es del mismo equipo.
+H5:Ah, sí.
+H2:Claro.
+H1:Nosotros so[palabra cortada] somos los de la c.
+H2:Vale.
+H1:A ver dónde está. ¿Seguimos? Venga, el último y nos vamos.
+H5:Nosotros no podemos poner.
+H1:Ah, pero lo podemos decir, claro.
+H2:Vale y ponéis... a ver. [música]
+H2:Me parece que me he equivocado.
+H3:¡Ah!
+H1:¿La guitarra?
+H6:¿No era el banjo?
+H3:Me estoy dando cuenta yo ahora.
+H2:Éste, éste es el banjo. Éste es el banjo y lo otro me parece que era la mandolina.
+H1:¿La?
+H2:Mandolina.
+H6:Banjo.
+H2:La mandolina. ¡Uh!
+H1:¡Qué bien!
+H3:"¡Qué bien!" dice.
+H5:¡Ala! ¡A comer, a comer!
+H2:Como somos muchas manos las cogemos entre todos. Venga, a ver. Bueno. Vamos a volver a oír la mandolina y el banjo.
+H6:A ver Rafa. Vamos, vamos a coger nuestras azules, venga.
+H2:No, no. Si ya no vamos a coger más. Venga, ponlas aquí.
+H6:Jo.
+H2:Ponlas aquí. Vamos a oír otra vez. Vamos a oír otra vez la mandolina y el banjo para distinguirles bien. Que me he equivocado yo. La profe se ha equivocado. Voy a buscar la mandolina. A ver. A ver, ay ¿iba antes o después del órgano barroco?
+H5:An[palabra cortada], después. [música]
+H2:Mírale.
+H3:Ahora.
+H2:Éste es la mandolina, además está clarísimo. ¿Sabes por qué me he despistado? Porque me ha dicho el...
+H3:El dibujo.
+H2:Éste, el dibujo.
+H3:Y la mandolina ¿es ésta?
+H2:Ésta es. No. Éste es el laúd.
+H3:Espérate.
+H6:Es lo que toca una... uno...
+H3:Yo es que cuando he oído esto, yo como no entiendo, yo pensaba que si sería como una bandurria, pero...
+H2:Es éste, sí. Es ésta. Me pensaba que venía otro dibujo de...
+H3:Y esto que es... ¿es un laúd o es?
+H2:Sí. Tiene más pinta de laúd porque se le ve así un poco más abombado. O sea, no tiene la forma... tan pequeña, tiene más de pera, ¿sabes?
+H3:Sí.
+H2:Bueno, a ver. Ahora vamos a pasarlo, vamos a oír el banjo, que va después de la pandereta, ¿vale?
+H1:[onomatopeya]Pon, pon, pon[fin de onomatopeya].
+H2:Venga a ver. Venga. ¿Sabemos distinguir bien el banjo y la mandolina? [música]
+Todos:Sí.
+H2:Al próximo día lo veremos, ¿eh? Venga, mientras vais recogiendo me vais diciendo...
+H5:No, pero no hemos visto las puntos, quién tenía los puntos...
+H2:¡Ay!
+H3:Estabais empate.
+H2:No, porque los tengo yo en la mano, mira. Sí, pero se han caído muchos.
+H5:Toma, uno.
+H4:Jobar.
+H2:Bueno, no importa, Rafa. A ver. Esto...[ruido] [ininteligible]
+H5:¡Eh! una naranja.
+H6:¡Qué poco hemos jugado!
+H2:Éste... Sí, ya. Jo, y yo qué quieres qué haga, no puedo para el reloj. A ver, esto lo decide: ¿qué instrumento era éste?
+H5:¿Cuál?
+H2:Éste que hemos oído.
+H1:No le he oído.
+H5:¿El primero o el segundo?
+H2:Le vuelvo a poner.
+H5:El segundo.
+H2:A ver. Éste. [música]
+H6:La tuba.
+H5:El trombón de varas.
+H4:La tuba.
+H5:La tuba.
+H1:Está tonto. Estás ci[palabra cortada]
+H2:¿No veis que suena muy grave?
+H5:La tuba.
+H2:La tuba. Venga, a ver, ¿hay alguna ficha por ahí?
+H6:No.
+H5:No.
+H2:Mirad bien en el suelo, anda. [ruido]
+H2:Cuidado...
+H5:El detective [extranjerismo]Sherlock[fin de extranjerismo] Javier va por aquí.
+H2:[extranjerismo]Sherlock[fin de extranjerismo] Javier, sí.
+H6:[extranjerismo]Sherlock[fin de extranjerismo] Javier, [extranjerismo]Sherlock[fin de extranjerismo] Javier, [extranjerismo]Sherlock[fin de extranjerismo] Javier.
+H3:Ya veo que os lo pasáis bomba.
+H2:Vienes después de las vacaciones. Vienes cuando empiece...
+H6:Yo tengo una ganas para salir a jugar...
+H3:Ya veo que os lo pasáis muy bien.

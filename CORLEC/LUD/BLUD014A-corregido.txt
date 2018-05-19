@@ -1,0 +1,43 @@
+#archivo: BLUD014A
+#fecha de grabación: 15-7-91
+#fuente: televisión
+#localización: Madrid
+#términos: "super guai", negocio, peseta, mochila, ciruelo, programa, aplauso
+#H1: mujer, c.35 años, presentadora
+#H2: varón, c.55 años, presentador
+#público: niños
+[música]
+H1: [canta] ¡Hola! Eres tú.
+Todos: ¿Qué hay?
+H1: Venid a pasar la tarde en el "Super [argot]guai[fin de argot]" ¡Hola! Eres tú.
+Todos: ¡Qué [argot]guai[fin de argot]!
+H1: Venid a seguir conmigo en el "Super [argot]Guai[fin de argot]" ¡Hola! Eres tú.
+Todos: ¿Qué hay?
+H1: Invita a tus amigos a ver el "Super [argot]Guai[fin de argot]" ¡Hola! Eres tú.
+Todos: ¡Qué [argot]guai[fin de argot]!
+H1: [solapamiento de turnos] Te invito a pasar la tarde en el "Super [argot]Guai[fin de argot]" [deja de cantar]
+H2: ¡Eh...!
+Todos: ¡Eh...! [fin de solapamiento de turnos]
+Todos: [solapamiento de turnos] [aplausos]
+H1: Muy bien. [ininteligible] Vais a salir todos, vais a salir todos. Venid.
+Todos: [aplausos] [fin de solapamiento de turnos]
+H2: A ver, están todos... están todos preocupados porque se creen que no salen.
+H1: ¡Vais a salir todos!
+H2: Y vosotros os ponéis un poquito más para tras, se os ve más la cara sino se os va [solapamiento de turnos] [ininteligible]
+H1: Claro, [fin de solapamiento de turnos] muy bien. Eso es.
+H2: Hoy vengo a hacer un negocio.
+H1: ¿Un negocio?
+H2: Voy a hacer un negocio ahora mismo.
+H1: Pero rápido, venga, [solapamiento de turnos] rápido... rápido.
+H2: El mismo [fin de solapamiento de turnos]. El primero, el primero que traiga aquí, a la mano, doscientas pesetas, de los ciruelos que están aquí, doscientas, se lleva esta mochila. Venga. Esta mochila, que vale mucho más... eh... eh...
+Público: [risas]
+H2: ¡Ah...! Ha sido ella. Ha... llegado tarde. Doscientas pesetas. Esto es para ti. Después de todo, doscientas pesetas, haremos algo durante el programa con ellas. [solapamiento de turnos] [ininteligible]
+H1: Venga... [ininteligible] [fin de solapamiento de turnos]
+H2: Un aplauso para ellas. [solapamiento de turnos] [ininteligible]
+Todos: Bien... [aplausos]
+H2:¡Hey... hey... hey! [solapamiento de turnos] Seguimos.
+H1: Seguimos [fin de solapamiento de turnos]. Bueno... bueno, seguimos porque yo quiero ver lo que pasa con esas doscientas pesetas hoy, ¿eh?
+H2: ¿Eh? [fin de solapamiento de turnos]
+H1: Así que seguimos en el "Super..."
+Público: "[argot]Guai[fin de argot]..."
+H2: ¡Hey...! [música]

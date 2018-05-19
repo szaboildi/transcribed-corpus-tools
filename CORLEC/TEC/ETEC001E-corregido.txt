@@ -1,0 +1,413 @@
+#archivo: ETEC001E
+#fecha de grabación: 20-03-91
+#fuente: conversaciones telefónicas
+#localización: grabado en una empresa
+#términos: plano unifilar, interruptor, cubeta, tanque de purga, esquema, armario interfase, acta, relés, fuga, solenoide, pupitre, conmutador, rampa, diagrama de flujo, controlador, satélite, coordinación, montador, alarma, electroválvula, transmisor, plano, señal, modificación, instrumento
+#H1: varón, ingeniero técnico, 32 años
+#H2: varón, técnico de mantenimiento, 36 años
+H1: ...Ya... no sé, o le llamas tú o si quieres te... [duda], ¿si quieres traer algo en especial? De acuerdo. Sí, dime.
+H2: ¿Ya puedes... hablar?
+H1: Ya puedo.
+H2: Vale, tranquilo. Vamos a ver, mira, ¿no? El tema es que ayer cuando estuvo... en[palabra cortada]... empezamos y dice: "Bueno, ¿y estos pulsadores?". Digo: "Vale, esto es de... [vacilación] para el satélite que han hecho nuevo, que han cambiado lo de la turbina, la "A" o la "B" ", digo: "De todas formas, yo, esto no tengo planos de cómo está aquello"; digo: "Por ejemplo aquí, este interruptor, yo sé que a través del satélite, el interruptor de la rampa desaparece;, el interruptor... de las eh... [duda] electroválvulas, tenía que haber a[palabra cortada]... tenía que haber una pa(r)a cada electroválvula..."
+H1: Sí, pero sí que tienes el e[palabra cortada]... [vacilación] sí que tienes... [duda] plano de eso.
+H2: Yo tengo ¡el plano unifilar mío!
+H1: Claro...
+H2: ¡El unifilar mío!
+H1: ¿Y no...? Y el eh... y el que te dio Paco.
+H2: El que me dio Paco...; yo tengo... los planos que te dije que me llevó el otro día, ¿me oyes?
+H1: Sí.
+H2: Eh... los planos que me llegaron a mí el otro día... fueron del [siglas]ELECNOR[fin de siglas] hechos con la última modificación.
+H1: Sí.
+H2: Pero no... [duda], no de lo del satélite, sino los pulsadores que (se) pusisteis vosotros de marcha y paro, ¿me oyes? Para las bombas...
+H1: Ya... pero... Y del... y del cambio de turbina, ¿también?
+H2: El cambio de turbina es el... es el que yo tengo...¡mía! ¡mío! El que yo tengo, digamos de...
+H1: ¡Ya! Pero eso lo desarrolló... [duda] Paco...
+H2: ¡Claro! Lo desarrolló Paco con lo qu[palabra cortada]... con el esquema que yo le di...
+H1: Con el esquema que le diste y lo montó.
+H2: ¡Claro! [ininteligible] que las turbinas ¡sí!... que estaban, porque cuando yo estuve allí, Paco se marchó a comer, ¿me oyes?
+H1: Sí.
+H2: Lo de las turbinas, por ejemplo, Pach[palabra cortada]... Paco se marchó a comer y resulta que tuvieron que arrancar y no funcionaba y tuvimos que meter un relé por ahí y tal... hasta que vino; luego él vino y lo dejó ya... en condiciones y tal; y yo ya... me marché.
+H1: Sí.
+H2: Entonces yo... su[palabra cortada]... [duda] lo de la turbina sí que lo sabía, pero lo demás yo no sé ¿cómo está aún? Me entiend[palabra cortada]... yo no sé si han quitado ya el interruptor de rampa, si lo han dejado puenteado con los, con las bornas para ver la acción de ponerlo en [ininteligible] automático. ¿Allí hay un interruptor?
+H1: El interruptor de rampa...
+H2: [afirmativo].
+H1: ...Se eliminaba.
+H2: Se... quit[palabra cortada]... ¡no!
+H1: Y se conectaba directamente [solapamiento de turnos]al toma de muestras.
+H2: Yo lo levanté [ininteligible][fin de solapamiento de turnos], hay cableado puesto, ¿me oyes?
+H1: ¡Ah! Bueno, espérate, espera, espera, espera. El de rampa se eliminaba...
+H2: Sí.
+H1: Y entonces lo iba a manejar...
+H2: (Si eso lo sabía) yo...
+H1: ...Lo iba a manejar el [siglas]P.L.C.[fin de siglas] .
+H2: ¡Pero!... hasta que no aparezca el [siglas]P.L.C.[fin de siglas], no se puede eliminar.
+H1: Y entonces lo dejarán puesto.
+H1: Luego eso se queda.
+H2: Vale.
+H1: Hasta que aparezca el [siglas]P.L.C.[fin de siglas].
+H2: Vale, entonces él ya lo tiene y lo va a dejar puesto .
+H1: Exactamente.
+H2: Vale, entonces él ya ha hecho la man[palabra cortada]... la maniobra totalmente ésa, para dejarlo, ¡porque yo le he visto allí! Digo : "No sé si lo habrán quitado". Porque lo suyo era quitar ésto... y... y.. y... y no lo sé si lo ha hecho o no lo ha hecho, o esto está eliminado o no está eliminado.
+H1: No, yo creo, yo creo que el rampa no lo habrá tocado.
+H2: No lo habrá tocado, ¿no? No habrá hecho nada...
+H1: Claro porque... si... si... hasta que no tengamos [siglas]PLC[fin de siglas]...
+H2: Ya.
+H1: ¿Cómo vamos a funcionar?
+H2: Ya, ya te entiendo, te entiendo, vale. Eh... lo de las fugas...
+H1: Lo de las fugas tampoco lo han podido tocar...
+H2: Ya.
+H1: Por el mismo motivo, porque hasta que no haya [siglas]PLC[fin de siglas]... o sea, ¿cómo está montado eso? Eso está montado ...
+H2: Yo... que sepa... ¡perdona! Tal como... como lo estuve... eh... viendo ayer...
+H1: Sí.
+H2: Tú sabes que hay [vacilación] bastantes válvulas de entrada a tanques...
+H1: Exactamente.
+H2: Entonces [vacilación] han puesto ¡un solo interruptor!...
+H1: Exactamente.
+H2: Para que accione ¡todas las electroválvulas!
+H1: [duda] Exactamente.
+H2: Y ¡luego una alarma!, que esa también desaparecerá, pero bueno, claro...
+H1: ¡Sí, general!
+H2: [duda] Cuando... cuando eh... salta una, se enciende ésta.
+H1: Exactamente.
+H2: (¿Me entiendo?)
+H1: De tal manera...
+H2: Ya te digo, yo por lo que veo aquí [solapamiento de turnos][ininteligible]...
+H1: De tal manera que tú no puedes saber[fin de solapamiento de turnos]...
+H2: ...¡Lo tienen que eliminar! !Yo no sé si lo habrán eliminado o lo han dejado así eventualmente!...
+H1: Sí, eso ¿sabes lo que pasa? Eso está... cableado hasta el armario de interfase...
+H2: [vacilación].
+H1: De forma independiente, y entonces en el armario de interfase... las han "puenteado", les han puesto un puente. Entonces, cuando aparezca el [siglas]PLC[fin de siglas] ... se eliminará ¡el mando del pupitre... y esos puentes!
+H2: Ya.
+H1: Y entonces lo controlará el [siglas]PLC[fin de siglas] cada una independiente...
+H2: Ya... vale.
+H1: Pero con aquél pupitre manual que se sacaron de la manga...ellos nada más que tenían opción [vacilación] de tener un interruptor... !no van a poner diez! interruptores...
+H2: Ya.
+H1: Y entonces lo tienen montado así, ¡en serie! De tal manera que cuando actúas... cuando abres válvula... las abres todas, y cuando... [duda] cierras válvula, las cierras todas.
+H2: Sí, entonces me preguntaba a mí [ininteligible]... que cómo sabía él...
+H1: Ahí está, ¡lo adivina!
+H2: ...Entonces... "¿cuál es la válvula que me está fugando?".
+H1: Lo tiene que adivinar. Tiene que irse un señor al campo...
+H2: Y digo: "Pues chico..."
+H1: ...Y averiguarlo.
+H2: Pues..."De momento", digo: "Antes, bueno, como estaba en un principio, esto iba con un interruptor y se encendía todo y cuando saltaba la alarma...". Y dice: "Porque ahora está saltando alarma"...
+H1: Sí.
+H2: Y digo: "Pues tiene razón, había una alarma" [ininteligible].
+H1: ¡Claro! Lo que no sabes... es cuál te fuga.
+H2: ...ni que estar puesto, digamos, el interruptor ni nada; digo: "No sé ni si está puesto"; porque quitaba o porq[palabra cortada]... quitaba la alar[palabra cortada]... quitaba el interruptor, y esa alarma se tenía que desaparecer, digo... y [vacilación]...
+H1: ¡No, no, no, no, no, no, no, no! El interruptor no tiene nada que ver; o sea...
+H2: ¡Sí! El interruptor sí, sí[solapamiento de turnos]sí, sí, sí...
+H1: ¡No, no, no, no![fin de solapamiento de turnos]. Si tú tienes tu cubeta... si tú tienes tu cubeta esa de nivel...
+H2: Sí.
+H1: ...¡llena!
+H2: ¡Hombre!...
+H1: Ya puedes hacer lo que quieras en el... interruptor que, que está llena.
+H2: ¡Ya,ya! Pero escuchame, [solapamiento de turnos]¿me escuhas?
+H1: Y te da... y te da la alrama[fin de solapamiento de turnos].
+H2: ¡No hombre! Pero te escúchame, que te digo como funciona eso; ¡no!, te lo voy a decir porque... ¡mira!
+H1: ¡No! Si lo sé yo cómo funciona...
+H2: ¡Bueno! Pues [vacilación] esta cubeta tiene una restri(n)ción, me explico, quiere decir de que tú cuando abres la electroválvula va y se está llenando la cubeta.
+H1: ¡Exactamente!
+H2: ¿De acuerdo?
+H1: Sí.
+H2: Entendido [solapamiento de turnos]Al mismo tiempo que se llena...
+H1: Pero hay una cubeta[fin de solapamiento de turnos]...
+H2: ¡Escucha! Al mismo tiempo que se va llenando, se va purgando y van cayendo tal que 10 purgas, ¡me entiendes, no? Al principio tarda un poquitín...
+H1: ¡Si, sí, sí! Pero ¡ojo!, ¡pero ojo!...
+H2: ¡Ojo una cosa!
+H1: ¿Pero ojo una cosa!
+H2: Dime... dime, dime, dime, dime, dime, dime, dime, dime, dime.
+H1: Purga... purga por encima de la alarma, es decir, ella se purga y echa lo que sobra pero la alrma no te la quita. Tiene que ir un tio allí y abrir la purga de abajo para vaciar ese [vacilación] ese depositito; no sé si me explico... O sea, mira...
+H2: Sí, sí, sí, sí...
+H1: Empieza a llenarse el depósito y va llenándose va llenándose, y de repente suena la alarma, ¡sigue llenándose! y un poco más arriba...
+H2: [afirmación].
+H1: ...tiene el vaciado hacia el tanque purgas, de tal manera...
+H2: ¡Ostias! Pues aquí no lo han puesto así...
+H1: ¡De tal manera! que el resto se te va al tanque de purgas, pero la alarma no se te quita. A no ser ya que vaya un tío al campo, y abr[palabra cortada]... y abra otra purgita que tiene por debajo...
+H2: Pues ahí si que...
+H1: ...con lo cual sí que vacía.
+H2:... ese sí que no le he visto. ¡Pues yo juraría que no estaba así allí!
+H1: Eso es lo que hay aquí en esquemas.
+H2: Eso es lo que hay en esquemas...
+H1: Sí...
+H2: ¡Vale, vale...! Pues oye, me cayo. No se puede decir nada.
+H1: Entonces ¡lo único que hay ahí! es... hacia sala de control está todo cableado independientemente...
+H2: Vale.
+H1: ...sólo que en el armario interfase han puenteado ¡todos los niveles!...
+H2: [afirmación].
+H1: ...para que de una alarma sola, y han puenteado todas las activaciones de solenoide para que con un... conmutador las metas todas.
+H2: Vale.
+H1: ¡Lo que nunca sabrás es cuál te está fugando! Pero eso...
+H2: [afirmación]...
+H1: ...lo diseñó el señor Chema junto con el señor Martorel...
+H2: ¡Ya...!
+H1: O sea, eso está hecho así ¡porque se ha pedido aquí!
+H2: ¿Ya...!
+H1: ¿Te acuerdas aquél acta de reunión donde... decidieron poner el pupitre manual?
+H2: [vacilación] No, yo no estaba... no...
+H1: Pues hay un acta de reunión... ¡no, ni yo tampoco...!
+H2: ¡Bueno, ya... [ininteligible] (no) lo he leído eso, ¡bueno,ya!
+H1: Hay un acta de reunión con Técnicas Reunidas...
+H2: [afirmación]
+H1: Martorel, Chema... donde decidieron que las [ininteligible] funcionaran así, claro y... ¡y si ellos lo decidieron... yo no voy a tocarlo!
+H2: ¡No, no, no, no, no, no, no!
+H1: ¿Entiendes lo que te quiero decir?
+H2: ¡No, no, [vacilación] yo, [vacilación], yo tampoco voy a toc[palabra cortada]... ¡hombre! [ininteligible]..
+H1: Entonces, funcionará así...
+H2: ...pues ¡oye! no, sé pero [vacilación], ¿me entiendes? O sea, me dice: "Es que a mí no me... no me"...
+H1: por eso te digo...
+H2: ...no sabe lo que [vacilación], digo: ¡Joder! eh...
+H1: Entonces, mira, escucha...
+H2: Sí.
+H1: Eso está previsto cambiarlo...
+H2: Sí...
+H1: ...pero ¡claro! Está previsto cambiarlo cuando aparezca el [siglas]P.L.C.[fin de siglas], cuando aparezca el[siglas]P.L.C.[fin de siglas] ¡se quitarán esos puentes!...
+H2: Digamos que [vacilación] vosotros ya lo habéis dejado preparad)o, lo único que le habéis puent[palabra cortada]... puentead)o directamente [solapamiento de turnos]como si eso fuera el [siglas]P.L.C.[fin de siglas].
+H1: ¡No! Nosotros...[fin de solapamiento de turnos]. ¡No! Nosotros no hemos hecho nada, ¡nada de nada!
+H2: ¡Ah! ¿Entonces no habéis hecho aún no lo del [ininteligible]?
+H1: O sea, ¡Nuevas Tecnologías! Escucha...
+H2: ¿Aún no habéis hecho lo del pulso para cada... para cada [vacilación] digamos para cada electroválvula?
+H1: ¡No, no, no, no!
+H2: ¿[ininteligible] de relés? ¿Tampoco lo habéis hecho?
+H1: ¿No, nada, nada!
+H2: ¡Ah...!
+H1: ¡Nada! O sea, el sistema de fugas...
+H2: [ininteligible] ¡Ya, ya, ya!
+H1: El sistema de fugas y estaba diseñado cuando yo llegué aquí.
+H2: ¡Ya! Pero que no le habéis tocado porque tú sabes que[solapamiento de turnos]... [ininteligible] los esquemas como era por pulso...
+H1: ¡Nada! ¡En absoluto![fin de solapamiento de turnos].
+H2:...había que adaptarlo eso para el satélite y entonces había que modificar cada, cada uno tenía que tener ¡dos relés!...
+H1: ¡No, no, no, no, no!
+H2: [ininteligible] ¡Ya, ya, ya, ya, ya! Entonces [ininteligible] nada de eso...
+H1: ¡Vamos a ver! El sistema de... el sistema de [vacilación] fugas...
+H2: Sí.
+H1: ... ¡de fugas de [extranjerismo]Manifold[fin de extranjerismo]!
+H2: ¡Sí, sí, sí! Fugas de [extranjerismo]Manifold[fin de extranjerismo].
+H1: Fugas de [extranjerismo]Manifold[fin de extranjerismo]; ese sistema en Barcelona ya estaba montado.
+H2: ¡Ya, bueno! ¿Pero que no le habéis tocado, entonces?
+H1: Nosotros ¡no!
+H2: Vale, ¡vale, vale, vale, vale! ¿Y la acción rampa tampoco la habéis tocado?
+H1: Y la acción rampa [vacilación], ¡no te lo puedo asegurar! Tendría que hablar con Paco...
+H2: ¡Oye! Yo mañana, ¡mañana! [solapamiento de turnos][ininteligible] me dejas...
+H1: Pero en el último escrito que yo mandé[fin de solapamiento de turnos]; ¡espérate, que tengo aquí el escrito!
+H2: (¡No, pero) escuhamé, escuchamé!, me ha dicho Vela, oye, ¿me oyes?
+H1: Sí.
+H2: Vela me ha dicho que mañana está [vacilación] Paco Ramírez ¡allí!
+H1: Sí...
+H2: Entonces yo se lo pregunto y se lo comento con él.
+H1: Vale...
+H2: ¡Eh?
+H1: ¡No! Te lo digo porque hay un papel...
+H2: Sí...
+H1: ...donde se le dice: [leído]"Acciones a realizar por Técnicas Reunidas..."[fin de texto leído].
+H2: [afirmación].
+H1: Y se dice, bueno: [leído]"Se hará la modificación de las válvulas solenoides..."[fin de texto leído]
+H2: [afirmación]
+H1: ...y entonces yo le puse una nota, diciendo:"Esto no se puede hacer hasta que el... no tengamos el [siglas]P.L.C.[fin de siglas]"...
+H2: [vacilación] Ya.
+H1: Porque sino tendríamos que instalar 10 conmutadores, ¡uno para cada válvula!
+H2: ¡Ya!
+H1: Y además, para luego quitarlos.
+H2: ¡Sí, sí, sí, sí, sí, sí, sí, sí!
+H1: Entonces, ¡eso! no se puede hacer hasta que aparezca el [siglas]P.L.C.[fin de siglas].
+H2: ¡Vale, vale, vale, vale...!
+H1: Luego eso, aunque estaba incluído, [solapamiento de turnos]lo que tenía que hacer...
+H2: ¡Vale, vale, vale, vale, no, no se hable más![fin de solapamiento de turnos].
+H1: [vacilación]...Técnicas Reunidas ¡no lo hace!
+H2: Vale, pues entonces ya hablaré con el jefe de la factoría de... de tar[palabra cortada]... de [vacilación]... de [vacilación]... de eso, de Barcelona, ¡ya se lo diré! ¡O con Pérez! Y se lo comento y tal, vale; entonces yo mañana como estará este... Paco, pues para que sepa, es que yo digo: [solapamiento de turnos]"¡No sé cómo está ésto!"...
+H1: ¡Hombre, mira! Ahí lo que falta[fin de solapamiento de turnos] por lo que me han dicho a mí...
+H2: [afirmación]
+H1: ...lo que falta... únicamente, ¡sabes qué es?
+H2: ¡No! ¿Qué es?
+H1: Yo sospecho [vacilación] ¡Paco! antes estaba ahí, y si iba a tocar el pupitre, pues me imagino que hablaba con vosotros... o lo que fuera; ahora ¡al irse Paco!...
+H2: Y a mí me dijieron, me dijeron que iban a llevar a [ininteligible] a tocar el pupitre, que iban a hacer todas esas cosas que...
+H1: Exactamente...
+H2: ...para las modificaciones para el satélite.
+H1: Pero entonces, al irse Paco...
+H2: ...me entiendes, ¿no?
+H1: ...y quedarse [siglas]ELECNOR[fin de siglas] solos...
+H2: Sí.
+H1: ...aunque al final ¡no se ha ido!, pero bueno.
+H2: ¡Bueno! Es igual.
+H1: ¡El [ininteligible] se había ido!, a efectos de papeleo, entonces se... ha desaparecido la persona esa [vacilación] ¡de unión! que... que te lo comunicaba a tí...
+H2: Sí.
+H1: Y tal, y los otros están un poco actuando por su cuenta.
+H2: [afirmación].
+H1: Y yo hoy se lo he dicho a Martorel, digo: "Mira, Martorel, llama tú o a [siglas]ELECNOR[fin de siglas] o a Técnicas Reunidas y dile que nadie toque ese pupitre sin llamar previamente al [extranjerismo]Dispatching[fin de extranjerismo] de Tarragona".
+H2: ¡Claro! El [extranjerismo]Dispatching[fin de extranjerismo] de Tarragona, es que el [extranjerismo]Dispatching[fin de extranjerismo] de Tarragona ¡no sabe nada!
+H1: Ahí está, pero eh... yo sospecho que es eso, la desaparición de Paco...
+H2: [afirmación].
+H1: ...ha dejado un poco [duda]...
+H2: ¡Oye! A mí me han mandado[solapamiento de turnos]¡hoy mismo!
+H1: ...vacío ese sitio[fin de solapamiento de turnos].
+H2: ...¡a Tarragona!, yo no sé si lo que acabas de decir... ¿esto cuándo ha sido? ¿A qué hora ha sido?
+H1: [vacilación] ¡No, esto no ha sido hoy! ¡Ah, bueno! ¿Cuándo me ha llamado a mí Vela?
+H2: Sí.
+H1: Sí, eso ha sido...
+H2: ¿Se lo has dicho tú hoy? ¡No, no, no, no, no! ¡Ésto, ésto! de que le has dicho a Pedro Martorel de que nadie tal que [vacilación].
+H1: Sí, ¡hoy!
+H2: (Si es que..)[solapamiento de turnos]es que...
+H1: ¡Hoy![fin de solapamiento de turnos].
+H2: ¡Te voy a explicar una cosa! [vacilación] Eh... ¡veinte de marzo! [solapamiento de turnos]lo q[palabra cortada]...
+H1: Sí[fin de solapamiento de turnos].
+H2: Hoy estamos, ¿no?
+H1: Sí.
+H2: Al 91, ocho treinta y cinco...
+H1: [afirmación].
+H2: ¡Un [extranjerismo]Fax[fin de extranjerismo]! ¡Un [extranjerismo]Fax[fin de extranjerismo] me acaban de enviar! De [duda] tele[palabra cortada]... aquí a Tarragona: [leído] "A la atención del señor Ramón Azagra, comp[palabra cortada]... eh... Compañía [siglas]C.A.M.P.S.A[fin de siglas] Tarragona, ¡[extranjerismo]Fax[fin de extranjerismo]!, [ininteligible] Técnicas Reunidas, fecha, veinte del tres, noventa y uno; número página cuatro, me acaban de enviar unos planos...
+H1: Sí.
+H2: ...digamos de... de diagramas digamos de ¡flujo!
+H1: [afirmación].
+H2: ¡Diagramas de flujo!
+H1: Sí.
+H2: De los controladores, del [extranjerismo]P.I.C.[fin de extranjerismo], del [extranjerismo]P.C.L.[fin de extranjerismo], [extranjerismo]P.C.H.[fin de extranjerismo]...
+H1: Sí.
+H2: Bueno, son cuatro páginas, ¿no? Número de identificación [ininteligible] 27; ¡bueno! Es una [duda], no sé cómo decirte, ¿me entiendes? [vacilación] Eh... es un diagrama que, bueno, que ná[onomatopeya], que no me sirve pa[palabra cortada]... ¡no sé! ¡Está bien! ¿No? Es una normativa, dibamos, donde pone múltiples, donde pone...: "Controlado por..." ¡Y a lo mejor! [risas] ...Le habrá dicho éste otro algo y ha dicho: "¡Bueno, pues voy a enviarle esta documentación (o algo)!"[solapamiento de turnos]Porque...
+H1: ¡No, no![fin de solapamiento de turnos] Ha sido después, ¡eh!
+H2: ¡Ah! ¡Ha sido[solapamiento de turnos]después!
+H1: ¡Yo...![fin de solapamiento de turnos] Con [vacilación], con Vela he hablado [vacilación] eh...
+H2: ¡No! ¡Es que me ha llamado Vela!, y me ha dicho, dice: "¡Oye! He hablad)o con esto y me ha dicho que tú sabías...". Digo: "¡Hombre, ya te he dicho yo que yo sabía lo que se iba a hacer! Y estaba diciendo que lo del satélite se iba a hacer esto, se iba a hacer lo otro, pero cómo está ahora, ¡no lo sé!" Digo: "¿Entonces?..." Dice: "Bueno, pues [vacilación] creo que va a estar Paco Ramírez y tal, pues [vacilación] mañana entonces ya quedáis totalmente a ver lo que, lo que se ha hecho de lo que no se ha hecho..."
+H1: Exactamente.
+H2: Y [vacilación]... y [vacilación] y entonces, porque [vacilación]... ¡resulta que dicen! que bueno, que hay alarmas, ¡Que hay montones, que no sé qué, que no se cuántos... ! ¡Y ahora no sabemos cómo está!
+H1: ¡Sí! Yo yos[palabra cortada]... yo sospecho eso que te digo...
+H2: ¡Han debido de tocar montones de cosas! Y no sabemos ¡cómo está nada, macho! ¡Tenemos que revisar todo ahora!
+H1: ¡Ná...! ¡No...!
+H2: ¿Me entiendes?
+H1: ¡No tánto!
+H2: ¡Hombre! Todas las [solapamiento de turnos][ininteligible] ¡me imagino que sí!
+H1: ¡Yo pienso que no es tánto![fin de solapamiento de turnos].
+H2: ¡Porque resulta! ¿Sabes? Que ha habido problemas, ¿no? ¡Y allí y con eso, y entonces [ininteligible]...!
+H1: ¡Sí, si ese es el rollo!
+H2: ...está un poco [vacilación], está un poco ¿me entiendes? ¡Nervioso! ¿no?
+H1: ¡Ese es el rollo! El [duda] [solapamiento de turnos]que ha habido problemas.
+H2: ¡Ya lo sé! ¡Que ese es el rollo![fin de solapamiento de turnos].
+H1: Realmente [duda], yo no pienso que hayan tocado mucho; de hecho [vacilación] ¡lo que había que tocar no era mucho! Entonces...
+H2: ¡Claro que no! [solapamiento de turnos]Digo, ¡bueno! (Había que tocar mucho) ¡Había tocado mucho [vacilación], pero... [ininteligible].
+H1: Eh [duda] ¡Lo que pasa es que ahí se heredan...! Eh... [duda], ¿sabes, Ramón?[fin de solapamiento de turnos]. Ahí se heredan cosas que ya había; o sea, por ejemplo [vacilación], ahora dicen: "¡Ah! ¡Es que esta técnica no había que tocarlo y tal!" Y sacan lo de fugas. ¡Lo de fugas ya existía! Porque [duda] eh... [solapamiento de turnos]ya se diseñó así, que se hiciera...
+H2: Claro ¡Sí, sí, sí, sí, sí, sí, sí![fin de solapamiento de turnos] ¡Que sí, que sí, que sí!
+H1: Lo que pasa es que ahora [vacilación] todo ¡todo revierte en el mismo sitio! ¿No?
+H2: ¡Claro! Eh... [duda].
+H1: O sea que también [duda].
+H2: Todo revierte [vacilación] en... en la consola [risas] ¡Y indirectamente a las que le están tocando ahora últimamente!
+H1: ¡Claro!
+H2: ¡Está clarísimo, joder! Eh... [duda].
+H1: ¡Ahora! Yo creo que pued[palabra cortada]... ahí puede haber un problema de falta de coordinación [vacilación]; ¡eso! Al haberse ido Paco...
+H2: [afirmación]
+H1: ...que no hubiera [vacilación], o sea que el[palabra cortada] [siglas]ELECNOR[fin de siglas] ya trabaja por su cuenta, entonces ellos [vacilación] ¡no saben que tienen que avisar! O... eso lo hacía Paco.
+H2: ¡Ya, claro! ¡Sí!
+H1: Entonces, eh [duda]. ¡Claro,al final Paco no se ha ido [vacilación]! Pero bueno, ¡hace unos días se iba a China! ¡Y ya se iba, estuvo aquí [vacilación], [solapamiento de turnos]se despidió...
+H2: ¡Sí, sí, sí, sí, sí, sí, sí, sí, sí, sí![fin de solapamiento de turnos].
+H1: [onomatopeya] Esto ha sido posterior, digamos, ¿no?
+H2: [afirmación] [afirmación] ¡Sí, sí, sí, sí!
+H1: Pero ahí desapareció durante unos días [vacilación] la persona esa de unión.
+H2: ¡Sí, casi [ininteligible]!
+H1: ...y puede haber habido una descoordinación ahí.
+H2: [afirmación].
+H1: Entonces digo, yo lo que he dicho a Martorel ha sido que si Paco [vacilación] Ramírez desaparece, que le de orden a [siglas]ELECNOR[fin de siglas] de que cada vez que vayan a tocar algo, avisen al [extranjerismo]Dispatching[fin de extranjerismo] de Tarragona.
+H2: ¡Si, señor! ¡Oye!
+H1: Para que tú lo sepas.
+H2: ¡Escucha! ¿Por qué están avisando [duda] cosas que están haciendo las válvulas, los mecánicos y todo esto y estos hombres no avisan? [solapamiento de turnos](Porque no están avisando, ¡eh!).
+H1: ¡Yo no lo sé![fin de solapamiento de turnos] ¡Eh! Por eso te digo, eso yo pienso que es [duda] la [vacilación] eh... [duda] que ahí desapareció en un momento dado la persona que había, se quedaron tres montadores de [siglas]ELECNOR[fin de siglas]...
+H2: [afirmación]
+H1: ...y ellos, pues no sabían a lo mejor ni que tenian que avisar.
+H2: ¡Bueno! Pues nada, oye, yo [vacilación]...
+H1: Faltó ahí una coordinación.
+H2: ...bueno, ¡en conclusión! Que [duda] mañana voy a estar allí, la semana que viene voy a tener que tener un instrumentista allí para revisar todo lo de las alarmas y todo, porque ya esta semana ya no va a dar tiempo, porque ya ves, ¿sabes? Estamos ya a jueves, y [vacilación] ¡bueno! el miércoles, mañana jueves y es [solapamiento de turnos]imposible, ¿no?
+H1: ¡Bueno![fin de solapamiento de turnos]. ¡Ahora te voy a dar una buena noticia!
+H2: ¡Bueno! Pues [vacilación], más vale buena [risas]. Porque ¡macho! ¡Llevo una semana... que [ininteligible]...!
+H1: ¡Mira!
+H2: Dime.
+H1: [duda] El eh... [duda], le echado el guante a los [extranjerismo]P.and I.[fin de extranjerismo] de Zaragoza.
+H2: ¡No jodas!
+H1: Sí.
+H2: ¿De dónde la has sacado?
+H1: ¡Ah...! [onomatopeya] Eh... ¡Ja,ja! ¡De mis contactos! [risas].
+H2: ¡Pues, macho...! ¡Mira, [solapamiento de turnos]me lo pidió [extranjerismo]Diseprosa[fin de extranjerismo]!
+H1: Entonces[fin de solapamiento de turnos]... Una cosa, una cosa...
+H2: Dime; ¡oye! ¿Se ha hecho unos cambios?
+H1: ¡Por eso! Una cosa, mira [solapamiento de turnos]escucha...
+H2: Exactamente[fin de solapamiento de turnos].
+H1: ...escucha...
+H2: Sí.
+H1: Yo tengo los [extranjerismo]P. and I.[fin de extranjerismo] de Zaragoza..
+H2: Sí.
+H1: ...con fecha noviembre del 88.
+H2: ¿Noviembre del ochent[palabra cortada]...? ¡Bueno, pues vale, vale, vale!
+H1: O sea, ¡que es muy reciente!
+H2: ¡Sí, sí, sí, sí! ¿Me[palabra cortada]... seguramente que serán los únicos [vacilación] que hay! ¿Me oyes?
+H1: Por eso.
+H2: ¿Y los modernos [ininteligible]!
+H1: Yo te voy a dar una copia.
+H2: Sí.
+H1: Y tú, si te parece...
+H2: Sí, sí.
+H1: ...puedes [duda] chequearlo un poco por encima.
+H2: ¡Y añadir algo!
+H1: ¡Exactamente!
+H2: ¡Pero con una condicción!
+H1: Pero es distinto hacer un [extranjerismo]P. and I.[fin de extranjerismo]...
+H2: Sí, claro...
+H1: ...a, digamos [vacilación] seguir el que hay [vacilación].
+H2: ¡Exactamente!
+H1: Y [duda] ese [duda] algo raro.
+H1: ¡Bueno! Yo te lo hago, yo te lo hago, pero con una condicción; yo te pongo luego con lápiz allí, te pongo los eh[duda], los transmisores que ¡se han añadido!, las válvulas ¡que se han añadido!... ¡Me entiendes! ¿No?
+H1: Exactamente.
+H2: [onomatopeya] [vacilación] Pero, bueno, y yo te lo pongo y todo ¡rango! Pues ¡lo que quieras! ¿No? ¡Cómo va enlazado y todas esas cosas! Yo te lo pongo. ¡No hay ningún problema! Pero [ininteligible], que una vez que lo reformes...
+H1: [afirmación]
+H2: ...¡me mandes un foto a mí! ¡Eso es natural!
+H1: ¡No, claro!
+H2: [risas] Y otras veces te hago eso; eso a mí no me supone nada, ¿me entiendes?
+H1: Por eso te digo; yo te voy a dar eso [vacilación] esos planos.
+H2: Vale. Perfecto. [solapamiento de turnos]Yo me haré una fotocopia también, porque claro, ¡eso lo tengo que devolver! Eso está claro, ¿no?
+H1: Exactamente [risas] ¡Por supuesto! [vacilación][fin de solapamiento de turnos].
+H2: ¡Ya por descontado! ¿No?
+H1: Entonces [duda] eh... por eso, que sepas que los tenía; no [vacilación], antes no los tenías, ¿no?
+H2: No lo tengo, [solapamiento de turnos][ininteligible]... ¡joder!
+H1: ¡Oye, y tengo más cosas! ¡Tengo toda...![fin de solapamiento de turnos].
+H2: ...Y me dice: "Pero ¡joder!" Y tal, y [duda]... y yo estoy preparando los planos y las modificaciones que hice de lo del telemando totalmente.
+H1: [ininteligible] ¡Mira, escuha!
+H2: Sí.
+H1: Tengo [vacilación] también, no sé si te interesará, a mi disposición, ¡toda la información [duda] de Zaragoza, en cuanto a cableados, en cuanto a instrumentos, los tres paneles esos que ahí es donde están los "Solartrones"...
+H2: Sí.
+H1: ...los rangos de instrumento, los nombres...
+H2: ¡Esos yo los tengo!
+H1: ...abreviados de señales [vacilación] No [solapamiento de turnos]sé si lo conoces; es [duda]...
+H2: Eso [duda], yo [vacilación]. yo tengo el plano[fin de solapamiento de turnos].
+H1: ...es un tocho, es un tocho [duda] de tamaño A-3, que se abre hacia un lado.
+H2: Sí señor, sí señor...
+H1: ¿Eso lo tienes?
+H2: ...se abren hacia la izquierda, sí, de color [vacilación] eh, ¿gris?
+H1: Sí.
+H2: Sí, lo tengo. Pero eso no es verdad ya, ¿eh?
+H1: ¡Ya, por eso! Hoy ya no es verdad.
+H2: ¡Yo, yo [vacilación]! He hecho modificaciones y estamos poniéndolo nosotros ya en [duda] ¡bien! [solapamiento de turnos]¿Me entiendes, no?
+H1: Exactamente[fin de solapamiento de turnos].
+H2: Estamos ya en esto, porque me lo ha pedido [ininteligible], dice, pues, digo: "Espérate, ¡joder!; que los tengo yo, que aún no los he pasado, los tengo ¡mírate! Aquí están con papeles así, ¡míralo! Y lo estamos [ininteligible]..."
+H1: Bueno pues [extranjerismo]Diseprosa[fin de extranjerismo] que ha estado aquí, ¡esta mañana ha estado [extranjerismo]Diseprosa[fin de extranjerismo] conmigo.
+H2: Sí.
+H1: Y se [vacilación], y se ha llevado copia de eso.
+H2: Vale, perfecto.
+H1: Entonces [duda] eh... lo único, cuando tú tengas las modificaciones...
+H2: Vale.
+H1: ...pues él [solapamiento de turnos]modificará aquello.
+H2: De todas formas[fin de solapamiento de turnos] ya hablaré yo con Echevarría también otra vez sobre este tema y eso.
+H1: O sea, Echevarría ya tiene...
+H2: Vale.
+H1: ...ya tiene [duda] [extranjerismo]P. and I.[fin de extranjerismo] de Zaragoza...
+H2: De acuerdo.
+H1: ... y toda la lista esa ¡de instrumentos y demás! Pero él hablará contigo, ya me lo ha dicho...
+H2: [afirmación].
+H1: ...para que le digas las correcciones.
+H2: Vale, perfecto.
+H1: Entonces yo te voy a enviar a tí, cuando lo tenga, una copia [vacilación] de los [extranjerismo]P. and I.[fin de extranjerismo] de Zaragoza.
+H2: De acuerdo; tengo aquí a [extranjerismo]"Fisher and Porter"[fin de extranjerismo], ¿eh?
+H1: De acuerdo.
+H2: Y estaremos [duda], hay que mover cosas [vacilación] eh... ¡cosas sí salen!
+H1: [afirmación].
+H2: ¿Vale?
+H1: [solapamiento de turnos]Bueno...
+H2: Ya hablaremos[fin de solapamiento de turnos] sobre ese tema. ¡Vale, de acuerdo!
+H1: Pues nada...
+H2: ¡Vale! ¡Hasta luego!
+H1: ¡Hale, Ramón!
+H2: Adios.
+H2: ¡Hasta luego!

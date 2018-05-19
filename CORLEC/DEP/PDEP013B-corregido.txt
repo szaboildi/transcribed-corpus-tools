@@ -1,0 +1,13 @@
+#archivo: PDEP013B
+#fecha de grabación: 08-12-91
+#fuente: radio
+#localización: Madrid
+#términos: baloncesto, torneo, tenis, raqueta
+#H1: varón, edad desconocida, locutor deportivo
+#H2: varón, edad desconocida, locutor deportivo
+#H3: varón, edad desconocida, comentarista deportivo
+[texto no transcrito]
+H1: El encuentro que le enfrentó el pasado miércoles al conjunto del [extranjerismo]Soler[fin de solapamiento de turnos] francés al que vencía en el pabellón Príncipe Felipe. Por su parte el Real Madrid también viene de vencer este caso al conjunto del [extranjerismo]Olimpia[fin de extranjerismo] de [extranjerismo]Lubiana[fin de extranjerismo], en la Recopa de Europa, aunque los hombres de [extranjerismo]George Cal[fin de extranjerismo] van a tener que refrendar un buen momento que les pide toda la afición, que les pide la directiva y que ya están haciendo, que [extranjerismo]George Cal[fin de extranjerismo] tenga rumores sobre su posible continuidad de futuro. La solución mañana, a partir de las seis de la tarde, en el Palacio de los Deportes del Real Madrid, si el conjunto blanco no gana, posiblemente más rumores y más peso sobre las espaldas del técnico norteamericano del Real Madrid.
+H2: Será esta misma tarde a partir de las seis. En tenis, eh... juegan hoy la final del Campeonato de Europa en Amberes a partir de la de la tarde [extranjerismo]Boris Becker[fin de extranjerismo] y [extranjerismo]Aaron [ininteligible][fin de extranjerismo] Miguel Ángel [ininteligible], saludos.
+H3: Hola, muy buenos días. A las dos y media de la tarde dará comienzo la final del torneo de la raqueta de oro y diamantes que se está celebrando en Amberes. [extranjerismo]Boris Becker[fin de extranjerismo] se enfrentará al norteamericano [extranjerismo]Aaron Cristing[fin de extranjerismo]. Recordarles que en la jornada de ayer, [extranjerismo]Becker[fin de extranjerismo] vencía a [extranjerismo]Lendle[extranjerismo] en lo que podemos considerar la final anticipada por seis cuatro, siete cinco, y que [extranjerismo]Cristing[fin de extranjerismo] derrotaba al italiano [extranjerismo]Marc Camporesse[fin de extranjerismo] por seis cuatro y seis cuatro. En la final del torneo [extranjerismo]junior[fin de extranjerismo] habrá representación española, [silencio] el joven chaval de dieciséis años de Huesca Gonzalo Corrales vencía ayer al francés [extranjerismo][ininteligible][fin de extranjerismo] seis uno, seis cero y se ganaba este puesto en la final.
+H2: Además eh... jugarán la final del Campeonato de España femenino que protagonizarán en Tarragona Eva Ves contra la revelación Rosa María LLaneras. Es todo nuevo servicio informativo en la cadena Ser dentro de una hora, a las once, las diez en la comunidad Canaria. [texto no transcrito]

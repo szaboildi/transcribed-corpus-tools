@@ -1,0 +1,103 @@
+#archivo: cent012c
+#fecha: 13-3-9
+#fuente: radio, RNE.
+#localización: varias ciudades españolas
+#términos: sanidad, hospital
+#H1: mujer, recepcionista de un gran hospital
+#H2: varón, locutor
+#H3: mujer, ATS
+H1:Yo pienso que ellos [duda] trabajan en unas condiciones que también se podrían mejorar para que...
+H2:[afirmación]
+H1:la relación con el paciente [duda] fuese más... más amable, más humana y en mejores condiciones y calidad de vida.
+H2:Insisto que estamos hablando esta noche de hospitales públicos y de grandes hospitales públicos, ¿cree usted eh... Juana, que el paciente no se atreve con el médico?
+H1:En absoluto.
+H2:¿Y con ustedes las recepcionistas?
+H1:Ni se atreve con el médico ni se atreve con el servicio de reclamaciones que hay a su disposición.
+H2:[afirmación]
+H1:Se atreve en todo momento contigo, con la persona que está allí dando la cara y yo diría que allá es donde expone eh... todo lo que no funciona a nivel de sanidad y expone todo lo que no funciona o todo lo que él... partiendo de la base que... normalmente el paciente cuando viene al hospital se piensa que es único y que va a una... visita privada, a un médico privado y difícilmente se da cuenta que... tienes que atender a miles de personas, ¿no?
+H2:[afirmación]
+H1:Es... partiendo de esta base, pienso que tiene una imagen [duda] realmente o no se hace una idea de conjunto de... de toda la problemática de que no es único y de que realmente ahí hay todo un sistema complejo y que son muchas personas las que te están pidiendo lo mismo a las cuales tienes que atender y ellos, como es lógico y como nos pasa a todos pedimos pues una asistencia en exclusivo.
+H2:Así nos decía, Juana, que usted como recepcionista atiende el teléfono pero además atiende a los pacientes personalmente.
+H1:Sí [solapamiento de turnos] atiendo...
+H2:Y atiende reclamaciones. [fin de solapamiento de turnos]
+H1:un promedio de ciento cuarenta personas diarias, en ellas un promedio de treinta urgencias más dos teléfonos, más un teléfono interno, más todos los médicos del servicio.
+H2:Más dar horas, después también.
+H1:Claro, claro.
+H2:Decir: "bueno, pues tiene usted, ¿qué le ha dicho el doctor que venga usted [solapamiento de turnos] cada... el mes que viene,
+H1:Pero absolutamente todo. [fin de solapamiento de turnos]
+H2:que venga usted quince días... ¿cuántas horas de jornada laboral?
+H1:Ocho en estos momentos.
+H2:Ocho continuadas.
+H1:Sí. No, bueno, tienes una hora para comer.
+H2:Una hora pero bueno, ¿sale usted, sale usted eh... diciendo: "dígame..."
+H1:Las horas más fuertes son por la mañana.
+H2:[afirmación] Muy bien. Juana, yo siempre he oído huelgas de médicos, huelgas de MIRes como ahora, huelgas de ATSes, huelga de servicio de limpieza... Nunca he oído huelgas de recepcionistas, ¿las ha habido?
+H1:Siempre que hay una huelga a [solapamiento de turnos] nivel general de un hospital...
+H2:A no ser que sea general, [fin de solapamiento de turnos] claro.
+H1:naturalmente [solapamiento de turnos] que sí.
+H2:Por supuesto. [fin de solapamiento de turnos] Pero, particular, de recepcionistas, yo nunca he oído. "Las recepcionistas de los hospitales públicos se ponen en huelga".
+H1:No. [silencio] No, nunca ha habido una... Del sector concreto de administrativos no.
+H2:Y ¿se pregunta usted el porqué? [silencio] A lo mejor es que no hay motivos.
+H1:Bien, pienso que en [solapamiento de turnos] todo caso no es
+H2:Lo cual me alegraría [fin de solapamiento de turnos] mucho.
+H1:una problemática a nivel general de las recepcionistas, sino a nivel general de todos los administrativos
+H2:[afirmación]
+H1:que muchas veces son rotatorios y en todo caso pues plantear una huelga a nivel administrativos, [duda] sí que ha habido luchas pero en todo caso se ha llegado a acuerdos. No... no ha habido necesidad de hacer una huelga.
+H2:Juana, gracias por estar aquí esta noche, en todo caso luego, si usted quiere añadir algo más tendrá, tendrá luego su ocasión.
+H2:Muchas [solapamiento de turnos] gracias.
+H1:De nada. [fin de solapamiento de turnos] [silencio]
+H2:Las once y once, las diez y once en la Comunidad Canaria, en la Cinco de Radio Nacional de España, "Radiografía". [música] Nos vamos ahora hasta los estudios de la Cinco en Burgos, donde está Pilar Vivar. Pilar, buenas noches.
+H3:Buenas noches.
+H2:Buenas noches, Pilar. Gracias por acompañarnos. ¿Cuál es su trabajo, Pilar?
+H3:[siglas]ATS[fin de siglas] de planta.
+H2:[siglas]ATS[fin de siglas] de planta en el Hospital General Yagüe de Burgos, ¿verdad?
+H3:Sí.
+H2:¿Qué hace una [siglas]ATS[fin de siglas] de planta, Pilar?
+H3:Bueno, muchísimas cosas. Desde atender al enfermo físicamente, síquicamente, bueno es un compendio, familiares, de todo. Yo creo que de todo. Es una especie de relaciones públicas, no re[palabra cortada], es de todo. No sé cómo explicarle. Muy amplio.
+H2:Tal vez incluso, más por encima de lo que si nos ciñéramos a los artículos eh... en un punto, desde un punto de vista estricto, ¿hacen ustedes más cosas de las que deberían?
+H3:Sí. [solapamiento de turnos] Muchas más.
+H2:Lo di[palabra cortada] [solapamiento de turnos] lo digo no porque ustedes quieran, sino por la dinámica del hospital que les obliga de alguna manera a hacer más cosas.
+H3:En realidad sí.
+H2:[afirmación] La misma pregunta que le hacía a Juana, ¿cree usted desde puertas hacia afuera y desde puertas hacia dentro, que el trabajo de una [siglas]ATS[fin de siglas] de planta está bien considerado?
+H3:No. En conjunto no está bien considerado. Creo que somos, bueno, muy mal vistas, nuestro trabajo no se nos valora, [silencio] No, no creo que esté bien considerado.
+H2:No cree usted que esté bien considerado. ¿Qué es lo que debería de considerarse más y no se considera, Pilar? ¿De su trabajo?
+H3:¿En qué sentido?
+H2:En el sentido profesional, es decir, en su labor, eh... la labor que realizan ustedes y sobre todo ahora, me... me estoy... estoy pensando, dentro del hospital, dentro de ese organigrama al que yo me refería, ¿qué funciones no se les valoran a ustedes como cree que debería de hacerse?
+H3:Es que tal y como está estructurado, pues, el trabajo es tan acumulativo, [vacilación] tanto acúmulo de trabajo... de toda índole que... es... es agobiante.
+H2:[afirmación]
+H3:Entonces no llegas a todo, [duda] no sé, no sé cómo explicarle.
+H2:¿Cuántos años hace que es usted [siglas]ATS[fin de siglas], Pilar?
+H3:Doce.
+H2:Doce. Usted es [siglas]ATS[fin de siglas] por vocación.
+H3:En un principio sí.
+H2:¿La ha llegado a perder? ¿con el paso de los años?
+H3:Bastante decepcionada.
+H2:¿Bastante decepcionada?
+H3:Sí. [solapamiento de turnos] Como yo...
+H2:Si... si usted... [solapamiento de turnos]
+H3:Perdón.
+H2:No, no, le [vacilación] iba a preguntar, si usted encontrara otro trabajo, dejaría de... el trabajo que está haciendo?
+H3:[duda] Dudo, dudaría un poco o me lo tendría que pensar bastante.
+H2:¿Se lo pensaría más si fuera fuera, si... este trabajo de... de la sanidad? ¿O lo dudaría menos si fuera dentro de la sanidad?
+H3:Lo dudaría menos si fuese fuera.
+H2:Meno[palabra cortada], ¿menos si... si fuese fuera? Es decir
+H3:Sí, sí.
+H2:¿Desearía usted irse del mundo de la sanidad?
+H3:Pues sí, sí, sí.
+H2:Bueno, yo quiero decir, que... que Juana Delgado que está aquí a mi derecha está asintiendo con la cabeza que ella también, Juana, ¿usted también si pudiera eh...?
+H1:No, yo si... si pudiera escoger... en todo caso, intentaría modificar.
+H2:Modificar, pero usted seguiría su trabajo.
+H3:Sí.
+H2:Seguiría haciendo lo... lo que... lo que hace.
+H1:Si me dieran alternativas, para modificarlo, naturalmente que sí.
+H2:[afirmación] Pilar, ustedes sí han hecho huelgas.
+H3:Sí.
+H2:¿Y han conseguido algo con la huelgas que han hecho?
+H3:Bueno. Al menos,
+H2:¿[ininteligible] de esas?
+H3:Al menos moralmente.
+H2:Que ya es bastante a veces.
+H3:Sí.
+H2:[ininteligible]
+H3:El tener la moral alta o el tener... el mero hecho de tener derecho a la huelga o el que te puedas manifestar tus rabias internas o... otro tipo de manifestaciones, creo que es importante.
+H2:Pilar, ¿eh... es más correcto decir [siglas]ATS[fin de siglas] que enfermera? ¿Son dos cosas distintas? ¿Es lo mismo? ¿se complementan?

@@ -1,0 +1,10 @@
+#archivo: BPUB015A
+#fecha de grabación: 24-11-91
+#fuente: radio
+#localización: Madrid
+#términos: droga, libertad
+#H1: varón, edad ignorada, locutor
+#H2: varón, c.18 años
+H1: Juan Manual:
+H2: Que las drogas te... te suben, te suben [silencio] y... eh... en un determinado punto te dejan caer a un abismo [silencio] sin final. Luego no sigas tomando drogas, que es una tontería, te quita la libertad [silencio] y lo único preciado en este mundo es la libertad y si te la quita la droga, pues no tienes nada.
+H1: [texto leído] ¿Y tú, qué opinas? [fin de texto leído]

@@ -1,0 +1,19 @@
+#archivo: PPUB013F
+#fecha de grabación: 08-12-91
+#fuente: radio
+#localización: Madrid
+#términos: video, disco, música, grupo, concierto, músico, rock
+#H1: mujer, edad desconocida, locutora
+#H2: mujer, edad desconocida, locutor
+H1: El Gran Musical te regala un [extranjerismo]casette[fin de extranjerismo] con algunas de las canciones del "Boom Siete", el disco de los éxitos.
+H2: Gabinete [extranjerismo]Caligari[fin de extranjerismo] y su hazaña en vivo desde con Londres su nuevo álbum "Cien Mil Vueltas".
+H1: Autobiografía de Sergio Dalma.
+H2: Sorteo de videos de [extranjerismo]Get Back[fin de extranjerismo] y la gira de [extranjerismo]Paul Mcarney[fin de extranjerismo].
+H1: Y de [ininteligible] tablas de [extranjerismo][ininteligible][fin de extranjerismo].
+H2: [extranjerismo]Briam Adams[fin de extranjerismo] y su gran [extranjerismo]show[fin de extranjerismo] en diciembre en España.
+H1: Y [extranjerismo]poster[fin de extranjerismo] a todo color de [extranjerismo]Eros Ramazzoti[fin de extranjerismo] y del grupo [extranjerismo]Inexsex[fin de extranjerismo] con su álbum "En vivo".
+H2: Y un desparrame de páginas y fotos exclusivas de [extranjerismo]Michael Jackson[fin de extranjerismo] y su nuevo álbum y su nuevo video.
+H1: En tu quiosco El Gran Musical es como lo nuevo de [extranjerismo]Michael[fin de extranjerismo]...
+H2: Escandaloso.
+H1: [vacilación] ...salvaje.
+Público: Provocador. [música]

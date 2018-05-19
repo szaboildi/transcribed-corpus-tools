@@ -1,0 +1,84 @@
+#archivo: EADM003A
+#fecha de grabación: 20-05-91
+#fuente: colegio electoral, un día de elecciones
+#localización: madrid
+#términos: representación, carnet, presidenta, vocal, voto
+#H1: mujer, presidenta de mesa, 29 años
+#H2: varón, portavoz de mesa, 53 años
+#H3: mujer, portavoz de mesa, 35 años
+#Ha: mujer, votante, 54 años
+#Hb: mujer, votante, 27 años
+#Hc: mujer, votante, 56 años
+#Hd: varón, 29 años
+#He: varón, votante, 60 años
+#Hf: mujer, votante, 25 años
+H1: Olivares Ortiz, Carmen. [ruido] Olivares Ortiz, Angela.
+Ha: [afirmación].
+H2: A continuación.
+H3: Siete, veintiuno.
+H1: Jiménez Olivares, María Gloria [ruido].
+H3: Jiménez Olivares, Gloria, cuatro, noventa.
+H2: Gloria, vote.
+Hb: Vale.
+H2: Jiménez, Vicenta.
+H1: Jiménez Muñoz, Juan José.
+H3: Sí, [solapamiento de turnos]ochenta y ocho.
+H2: cuatro, ochenta y ocho[fin de solapamiento de turnos] [ruido].
+H1: Vale.
+H2: Cuatro, ochenta y ocho, [ininteligible] Jiménez [ininteligible].
+H1: Ra[palabra cortada]... ra[palabra cortada]... Ramiro Martín, Concepción.
+H3: Ramiro Martín, Concepción.
+Hc: ¡Concepción! [ininteligible].
+H3: ocho-veintinueve.
+H2: ocho-veintinueve [ininteligible].
+Hc: ¿Esto hay que cerrarlo?
+H1: Ramiro Martín, [solapamiento de turnos]Concepción.
+H3: ¡Concepción![fin de solapamiento de turnos].
+H1: ¿Eh? No hace falta que lo cierres.
+Hc: (¿Verdad?) ¿...[ininteligible] cerrado!
+H1: ¿Estaba ésta?
+H3: Sí, Ramiro Martín, Concepción; sí.
+Hc: ...¿yo no veo nada todavía?
+H2: ¡...[ininteligible] el carnét!
+Hc: [ininteligible] ¡Madre mía! [ruido].
+H1: López Romero, ¡vamos! Martina.
+H3: ¿Martina?
+H2: ¿López?
+H1: Lo[palabra cortada]... López Romero, Martina.
+H2: Sí.
+H3: ¡Sí está!
+H2: Quinientos treintaiseis [ruido], ¡quinientos treintaiseis! [ruido].
+H1: Delgado Romero, Vitaliano.
+H3: Sí. ¡dos, treinta y tres!
+H2: ¿Delgado Romero?
+H1: Sí, Vitaliano [ininteligible].
+H2: ¡dos, treinta y tres!
+Hd: ¡Hola, señora presidenta!
+H2: ¡Hola!
+H1: ¿Qué pasa?
+Hd: Aquí no tenéis... [duda] representación... [vacilación] el [siglas]P.P.[fin de siglas], ¿no?
+H1: [solapamiento de turnos]No.
+H3: No[fin de solapamiento de turnos].
+Hd: Vale, [ininteligible] gracias.
+H1: Vale... Méndez Mariano, Asunción Leonor.
+H2: ¿Méndez... [duda]?
+H1: Méndez Mariano, Asunción Leonor.
+H3: Sí, seis, cincuenta.
+H2: Redondo Garzas.
+H1: Redondo (Garzas), Francisco.
+H3: Ocho, cuarenta.
+H2: Ocho, cuarenta.
+H1: Redondo Garzas, Francisco.
+H2: ¿Garzas?
+H1: [solapamiento de turnos]¡Garzas!
+H3: ¡Garzas![fin de solapamiento de turnos]. Es el ocho, cuarenta.
+H2: Garzas Francisco, ¿no? [ininteligible].
+H1: ¡Vamos a ver! Pertierra... [vacilación] Pertierra Torreño, Elena.
+He: ¡Sí, sí! (Hacen cien los ojos), ¿verdad?
+H1: ¡Sí, sí, sí, sí!
+H1: Pertierra Torreño, Elena [ruido].
+H2: Pertierra... [duda]...
+H1: Torreño, Elena.
+H2: Siete, noventa y siete.
+H3: Siete, noventa y siete... [duda], ¡está!
+Hf: Vale, gracias. Hasta luego.

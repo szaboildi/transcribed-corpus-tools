@@ -1,0 +1,111 @@
+#archivo: cent013b
+#fecha de grabación: 24-6-91
+#fuente: televisión, Telecinco
+#localización: Madrid
+#términos: santo, regalo, deporte, programa
+#H1: mujer, 45 años
+#H2: mujer, 25 años
+#H3: varón, 30 años
+#H4: varón, 40 años
+#todos: grupo de presentadores del programa
+H1: Hoy... hoy es un día muy especial para todas las Mercedes porque es su santo. Hoy es nuestra señora de la Merced y queremos enviarles un cariñoso saludo y muchísimas felicidades. Bueno y a ustedes, a ustedes decirles que nos llamen , llámennos porque hoy vamos a tener unos premios muy especiales. Bueno y para celebrar este día y en representación de todas las Mercedes hemos invitado a nuestra Mercedes, a Mercedes Rodríguez de la Fuente que presenta el programa "Arco Iris".
+Todos: [canta] Estas son las mañanitas que cantaba el Rey David y en el día de tu [solapamiento de turnos] santo te las cantamos a ti[deja de cantar].
+H1: Muchísimas felicidades. [fin de solapamiento de turnos] [aplauso]
+H2: Bueno. ¡Qué ilusión! ¡Muchísimas gracias! ¡Gracias! Bueno, gracias a todos. No me habían cantado jamás el día de mi santo. Mi cumpleaños sí pero mi santo en la vida. Gracias a todos. Habéis cantado muy bien.
+H1: Oye, por cierto, Mercedes, en... ya sabes que es costumbre en España y en muchísimas familias pues celebrar el santo
+H2: [solapamiento de turnos] Si.
+H1: por [fin de solapamiento de turnos] todo lo alto...
+H2: Sí, sí, sí, sí.
+H1: ¿En tu casa también lo hacéis?
+H2: Totalmente, sí, sí.
+H1: ¿Sí?
+H2: Lo celebramos en familia pues típica comida, toda la familia reunida y como todas las familias españolas yo creo. Porque en España se celebra mucho el santo.
+H1: [afirmación] ¿Por qué te pusieron Mercedes?
+H2: Pues por tradición. Yo soy la quinta generación de Mercedes en mi familia.
+H1: ¡Ah! ¡qué hay [solapamiento de turnos] cinco!
+H2: Y [fin de solapamiento de turnos] como yo tenga una hija y no le ponga Mercedes... ¡escándalo!
+H1: ¡No puede ser!
+H2: Menos mal que me gusta el nombre porque imagínate que me llamo... no sé... No [solapamiento de turnos] digo ningún nombre para no ofender.
+H1: Pero... La... la [fin de solapamiento de turnos] primera Mercedes ¿no sabes? ¿la historia de la primera Mercedes [solapamiento de turnos] no la sabes?
+H2: Mi bisabuela. [fin de solapamiento de turnos] no, no, mi tatarabuela.
+H1: ¿Tu tatarabuela?
+H2: Sí, sí. [solapamiento de turnos] Soy la nieta.
+H1: Des[palabra cortada] [fin de solapamiento de turnos] Desde luego eso es tradición y lo demás son tonterías, ¿no?
+H2: Sí, sí.
+H1: [afirmación] Mercedes tú... tú has heredado el amor por la naturaleza naturalmente de tu padre y de tu madre también. [solapamiento de turnos] También...
+H2: Sí. [vacilación] [fin de solapamiento de turnos] sí, sí, sí, sí.
+H1: es muy amante de la [solapamiento de turnos] naturaleza.
+H2: Sí.
+H1: Y... y tenemos el recuerdo maravilloso de tu padre siempre, todos. Pero tú, ¿qué recuerdo...? el primer recuerdo que tienes de tu padre ¿cuál es?
+H2: ¿El primer recuerdo? Hombre tengo el recuerdo que puede tener cualquier hija de su padre, ¿no? una persona absolutamente entrañable, con un gran sentido de la familia, amante de las celebraciones de santos y de lo que fuese, vamos.
+H1: Y de todo.
+H2: De todo. Con una gran capacidad de trabajo, vamos...
+H1: [solapamiento de turnos] Eso ya lo sabemos.
+H2: Eso no hay que decirlo [fin de solapamiento de turnos] porque eso lo sabe... [solapamiento de turnos] lo sabe...
+H1: Eso... eso... [fin de solapamiento de turnos] eso ya lo sabemos. Tú presentas ese estupendo programa: "Arco [solapamiento de turnos] Iris".
+H2: "Arco [fin de solapamiento de turnos] Iris".
+H1: "Arco Iris" que... estás contenta, ¿verdad?
+H2: Contentísima. [solapamiento de turnos] Estoy feliz.
+H1: ¿Y qué tal va? [fin de solapamiento de turnos] ¿qué tal va el programa?
+H2: Va fenomenal porque nos ve mucha gente [duda] Yo tengo un equipo fabuloso que me apoya en todo momento, tenemos una relación super entrañable, entonces da gusto trabajar así.
+H1: ¿Y va a haber alguna novedad esta temporada que... que entra? y que empezamos ya.
+H2: Pues... el... el tema del programa sigue siendo el mismo ¿no? pues expediciones, viajes, deportes de riesgo muy en contacto con la naturaleza, ¿no? pues como [extranjerismo]rafting[fin de extranjerismo], parapente y probablemente se cambie de alguna manera pues el... la careta de entrada, de salida, cosas de ese tipo, ¿no? el estudio, ¿no? pero el tema que es lo fundamental del programa pues va a seguir siendo el mismo, y que tiene mucho éxito, vamos.
+H1: Porque además es variadísimo [solapamiento de turnos] y muy completo.
+H2: Variadísimo, sí, [fin de solapamiento de turnos] sí, sí, sí.
+H1: Es verdad. Bueno, pues ahora tenemos que hablar de amores. Tenemos que hablar de amores. [risa]
+H2: Mira. [solapamiento de turnos] De eso yo no hablo nunca.
+H1: Yo sé... yo sé... [fin de solapamiento de turnos] no hablas nunca, claro.
+H2: No me gusta nada hablar de... de... [solapamiento de turnos] de mi vida...
+H1: De... No [fin de solapamiento de turnos] te a[palabra cortada], no te gusta. Es que ¿sabes qué ocurre? es inevitable, Mercedes, compréndelo.
+H2: Sí.
+H1: Tienes una hermana que tiene [solapamiento de turnos] novio.
+H2: ¡Ay! [fin de solapamiento de turnos] bueno.
+H1: Y claro, [solapamiento de turnos] el novio de tu hermana...
+H2: De eso sí que no hablo ni a la de [fin de solapamiento de turnos]
+H1: No, no, lo voy a decir yo, tú no pero tengo que decirlo. El novio de [solapamiento de turnos] tu hermana... es
+H2: ¡Pobre hermana! ¡Pobre! [fin de solapamiento de turnos]
+H1: conocido en... vamos, la bo[palabra cortada] la... el noviazgo de tu hermana conocido en todo el mundo pero no me refiero así, una frase hecha sino continente a continente porque claro, es el hijo de Sofia Loren y Carlo Ponti y naturalmente, [solapamiento de turnos] pues eso,
+H2: Sí. [fin de solapamiento de turnos]
+H1: Ya sabes. Bueno, pues me has chafado porque yo quería preguntarte si tenías novio. [silencio] [risa] Tú eres testigo, Mercedes, quiero decir, porque ha salido en revistas que ha ido a... recibirte al aeropuerto, no sé qué.
+H2: O sea, [solapamiento de turnos] que he venido a hablar de
+H1: Sí tienes novio. [fin de solapamiento de turnos]
+H2: mi novio, ¡si lo llego a saber no vengo!
+H1: ¿Eh? Tienes novio.
+H2: No tengo novio. Ahora mismo no tengo novio.
+H1: [vacilación] ¿Algún regalo [solapamiento de turnos] te han hecho hoy?
+H2: Tenía novio y ya [fin de solapamiento de turnos] no tengo. ¿Eh?
+H1: Ya no tienes novio, bueno. Pues ya está. Pues te vamos a hacer un regalo.
+H2: ¿Sí?
+H1: Comprendo que... que [solapamiento de turnos] no es igual que un novio pero...
+H2: Todavía no me han hecho ningún regalo, ¿eh? [fin de solapamiento de turnos]
+H1: pero... te vamos a hacer un regalo para que tengas un recuerdo de "Telecinco Dígame". A ver ese regalito.
+H2: ¡Ay!
+H3: Felicidades.
+H2: Gracias.
+H1: Mercedes.
+H2: Gracias. [aplauso]
+H2: Muchísimas gracias. ¿Esto cómo lo abro?
+H1: Se abre [ininteligible] rápido.
+H2: Lo abro, lo abro.
+H1: ¿Es que sabes qué pasa? que me tengo que ir porque me está esperando Pepe. [ininteligible]
+H2: Nada, lo abro.
+H1: Ábrelo, ábrelo para ver... a ver qué es. A ver, ¿es muy difícil? Sí. Está un poquito [solapamiento de turnos] complicado, ¿verdad?
+H2: Está un poco difícil. [fin de solapamiento de turnos]
+H1: Pues entonces te dejo...
+H2: Igual nos vamos a [solapamiento de turnos] pasar aquí toda la mañana.
+H1: ¡Huy! Te dejo con... [fin de solapamiento de turnos] con los nervios.
+H2: Tú vete con Pepe.
+H1: Me voy con Pepe.
+H2: ¡Hasta luego!
+H1: Adiós, bonita. [solapamiento de turnos] Adiós y gracias
+H2: Laura, gracias. [fin de solapamiento de turnos]
+H1: por haber venido.
+H2: Gracias a ti.
+H1: Ya [solapamiento de turnos] estoy
+H4: ¡Hola! [fin de solapamiento de turnos]
+H1: aquí, Pepe.
+H4: [solapamiento de turnos] ¿qué tal?
+H1: ¡Hola! [fin de solapamiento de turnos] Bueno, que nos has traído...¡andá!
+H4: Bueno.
+H1: Aquí hay unas cartas.
+H4: Sí, son... es un poker chino. Yo le voy enseñar hoy a la gente a jugar al poker chino.

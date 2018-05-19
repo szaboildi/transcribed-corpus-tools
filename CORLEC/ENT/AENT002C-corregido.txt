@@ -1,0 +1,48 @@
+#archivo: AENT002C
+#fecha de grabación: 2-91
+#fuente: televisión
+#localización: Madrid
+#H1: mujer, presentadora, c.30 años
+#H2: mujer, actriz, c.60 años
+#H3: varón, presentador, c.35 años
+#términos: teatro, estreno, nervios, actor, actriz, saga de actores, lectura
+H1: ...que te sigues poniendo nerviosa ante los estrenos. Y a mí eso me gusta, porque eh... nosotros, al hacer un programa en directo, estamos todos los días como de estreno...
+H2: Claro.
+H1: Pero si no tienes esos nervios, es como que no te importa lo que vas a hacer, ¿no?
+H2: ¿Verdad que no? No, no, pero es que además el actor, normalmente... eh... cuando lleva mucho tiempo... cada vez va siendo más... responsable, vas viendo las cosas con más claridad... Y entonces, te pones más nervioso. Es inevitable. Y... y creo que debe ser así.
+H1: Debe de ser así, yo también lo...
+H2: Eres consciente de tu responsabilidad.
+H1: Sí.
+H3: Te preguntaba antes, Irene, por los nervios que se pueden sentir... viniendo de una actriz veterana como tú, en el patio de butacas, cuando se está presenciando una obra en la que intervienen actores o actrices jóvenes. Me decías que no; que es cuando un compañero al que quieres o aprecias desde hace años está estrenando obra. Pero, ¿qué pasa con estos actores jóvenes, estas actrices jóvenes? Eh... ¿Tú ves que hay ahí madera?
+H2: No, es que el actor...
+H3: Eh... ¿Que las sagas de los buenos actores van a continuar en España?
+H2: Que es más, nosotros no nos ponemos nerviosos por un actor joven por que sabemos que son... están mucho más seguros. Quizá por esa inconsciencia que todos hemos tenido cuando éramos jóvenes... Y sabemos que ahí, en el escenario, está seguro. Él sabe lo que va a hacer. Luego puede ser que guste o que no guste al público, y que no valga luego, y que haya tenido éxito en una obra y sea actor de una obra única, como también hay autores de una sola obra. Ya no... no siguen , no... no pasan de ahí.
+H3: ¿Pero alguna vez tú has dicho... "Este chico...
+H2: Sí, sí...
+H3: "Este chico... este chico va a llegar"?
+H2: Sí, muchas veces.
+H3: ¿Sí?
+H2: Muchas veces. Muchas veces he coincidido con... con actores que... en sus comienzos que luego han llegado a ser figuras. Sí, por supuesto.
+H1: Irene, ¿sigues con tu afición a la lectura?
+H2: Sí...
+H1: De... esto de irte a la cama con el libro...
+H2: Sí. Sí. Me gusta. Me voy...
+H1: Tienes guardados, además, libros de cuando eras pequeña, ¿no?
+H2: ¿Sí? Mira, he leído que estaban otra vez editadas las colecciones aquellas de... de Elena Fortún de "Celia". Creo que la van a hacer además en cine; estaban solicitando el otro día niñas para hacer el personaje de Celia, y yo tengo las primeras ediciones, que están [vacilación] están, me parece... Los dibujos son de Bartolo, sí; y guardo las primeras ediciones de "Celia"...
+H1: ¡Qué bonito! ¡Qué bonito!
+H2: No las que se hicieron... Primero salió en "Blanco y Negro", creo, en unos... eh... cuadernillos que publicaba "Blanco y Negro". Pero yo tengo ya cuando son los libros, cuando los editó me parece que es la editorial Aguilar, la que los lanzó, y yo conservo esos libros, como conservo otros de...
+H1: Una joya. Pues lo que tienes es una joya.
+H2: Lo del coleccionismo. Ahora... Mira que si ahora me buscan...
+H3: ¿Continúa la saga de los Gutiérrez Caba?
+H2: Continúa de cierta manera. Mi hijo es.... ayudante de dirección de cine.
+H1: Ah, o sea que seguís...
+Todos:
+H3: Ah, pues mira, por ahí, por ahí...
+H2: Pero no es intérprete.
+H1: Muchas gracias, Irene.
+H3: Tenemos Gutiérrez Caba...
+H1: Para... para largo.
+H3: Para rato. Muchas gracias.
+H1: Una actriz como la copa de un pino para poner colofón a nuestro programa. Mañana estaremos aquí a la una de la tarde. Ya lo saben, como siempre en "Te espero en Madrid".
+H3: "Te espero en Madrid".
+H1: Gracias, Irene.

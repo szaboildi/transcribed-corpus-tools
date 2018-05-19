@@ -1,0 +1,159 @@
+#archivo: EADM005A
+#fecha de grabación: 12-06-91
+#fuente: conversación telefónica en empresa
+#localización: Madrid
+#términos: teléfono, pedido, recambio, tarjetero, medida, anilla, referencia, cuaderno, momento, perdón, segundo, espiral, centralita, reclamación, despacho
+#H1: mujer, telefonista, 27 años
+#H2: varón, encargado de librería, 45 años
+#Ha: varón, cliente
+#Hb: mujer, secretaria, 33 años
+#Hc: mujer, cliente
+#Hd: varón, cliente
+#He: mujer, servicio a clientes, 24 años
+H1: ...[teléfono]... ¿Sabes qué? Vamos a pas[palabra cortada]... [tos] No hay mucho que pedir. Si quieres apuntar... ¡Hola, buenas... [vacilación] buenos días! Es para hacer un pedido.
+H2: Pues sí, un momento.
+H1: [música] ... [canta]pi, pi, pi, pi, pi[deja de cantar] o... el... para hacer un pedido.
+H2: Sí, sí, sí ya [ininteligible]...
+H1: ... de "Cilag".
+H2: De "Cilag".
+H1: Eso es.
+H2: ¿Y qué hay que enviar?
+H1: [duda]... tres recambios...
+H2: Recambios.
+H1: ...para un tarjetero...
+H2: ...eh... tarjetero...
+H1: ...cuatro taladros...
+H2: ...cuatro taladros...
+H1: ...pero no para el grande, para... [duda] el... que tiene un tamaño normal, así...
+H2: Pues... [duda] si tuviera usted... para decirme las... dimensiones que tiene..
+H1: Sí, pues espere un segundito.
+H2: Gracias.
+H1: Yo le voy a dar las dimensiones de uno que no tiene... anillas, o sea... [vacilación] taladros; pero es más o menos como éste, ¿eh? El otro ya es mucho más grande. Pues unos veintisiete centímetros...
+H2: ...veintisiete...
+H1: ...por... [duda] once y medio es lo que mide el tarjetero, ¡eh!
+H2:...eh... el tarjetero, o sea, la funda de... [duda], la carpeta de... [duda]...
+H1: Eso es. Es que ya le digo que el mío no tiene anillas y por no levantarme y hacerle esperar... [duda]...
+H2: No... no importa.
+H1: ¿No importa? Pues espere un momentito [silencio]. A ver, aquí lo tengo.
+H2: Sí. La funda...
+H1: [onomatopeya] [duda]... no, lo he... [vacilación] ¡La funda, eso es lo que le voy a medir!
+H2: Sí, la funda; ¿qué medida tiene?
+H1: Pues de larga..., a ver... veinticinco ... coma siete, aproximadamente...
+H2: Bien.
+H1: ...y de ancha... once, ocho o nueve, por ahí.
+H2: Bueno, sí, muy bien.
+H1: ¿Eh?
+H2: ...Y... [duda] ¿cuántos de... [duda] hojas de recambio [ininteligible]?
+H1: Eh... deme diez, por favor. Mándeme diez.
+H2: diez.
+H1: Eso es.
+H2: ¿Más?
+H1: ...[onomatopeya] [vacilación] Una..., perdone un segundo. Sí, vale. [ininteligible] Eh... funda cristal, cuatro taladros...
+H2: Cuatro taladros...
+H1: ...dina cuatro con refuerzo...
+H2: ...sí... [vacilación] dina cuatro...
+H1: Si quiere, le doy la referencia; quiero cinco cajas.
+H2: Cinco cajas...
+H1: Y la referencia es cinco, seis...
+H2: ...cinco, seis...
+H1: ...dos, uno, cinco. También cuadernos... de cuadros... [llamada de teléfono]...un momentito, por favor. "Cilag", dígame.
+Ha: Mire, ¿"Cilag"?
+H1: Sí, dígame.
+Ha: Mire, es que... [vacilación] bueno, le llamo para consultar una cosa, a ver si es...
+H1: Un momentito, ¡eh! [llamada de teléfono]. Lo malo que no entra [ininteligible], ¡me pone más nerviosa...! [risas]. Me da no sé qué hacerle esperar.
+Hb: ¿Sí...?
+H1: Oye, te paso para Conchita del Corro.
+Hb: Vale, oye, luego pásamelas... [vacilación] Conchita del Corro.
+H1: ¡No, no, no! No es Conchita del Corro, ¿eh?
+Hb: ¿Que no es que... [duda]?
+H1: Es para ella.
+Hb: ¡Ah! Que es para ella. [solapamiento de turnos]Vale.
+H1: Vale[fin de solapamiento de turnos]
+Hb: Oye... [ininteligible]...
+H1: [teléfono] ¡Ay, por favor! ¿Qué he hecho? "Cilag", dígame. "Cilag", dígame. ¿Oiga?
+H2: Sí, al habla.
+H1: Sí, perdóneme, ¡eh!
+H2: Nada...
+H1: Es que tengo una centralita y esto es... una locura. Eh... mire.
+H2: Dos cuadros...
+H1: Sí, cuadernos de cuadros, tamaño folio...
+H2: ...folio...
+H1: ...con muelle, o sea, ¿se llama muelle?
+H2: Con... [duda] sí, con espiral.
+H1: Con... [vacilación] eso, con espiral.
+H2: ...[ininteligible] muelle, sí, espiral...
+H1: Eh... apaisado...
+H2: ...apaisado, o sea, el [ininteligible]
+H1: [vacilación]...Sí, eso es. [teléfono]. Pues... diez cuadernos. Y... [vacilación] quisiera ahora separadores eh... de abecedarios, o sea, separadores con... [duda] las letras del abecedario, a,b,c... Eso es, para [vacilación] es para un clasificador que tiene el siguiente tamaño: una cajit[palabra cortada]... un archivador pequeñito... ¡eso, fichero!... es que yo... el vocabulario no... [duda] Eh... eso mismo, sí. Un índice, eso. Mire, el fichero es... [duda] ¿La tarjeta? Pues es que... he tomado las dimensiones del fichero. Voy a... [duda] voy a por... las tarjetas, ¿vale? Un momentito. ¿Oiga?
+H2: Sí.
+H1: A ver, voy a medir. Eh..., pues... el índice tiene de ancho...
+H2: Sí.
+H1: ...nueve coma... Es recortado de unos más grandes, ¡eh! O sea, que lo más aproximado a esto.
+H2: Sí.
+H1: Nueve como cuatro...
+H2: Sí.
+H1: ...centímetros.
+H2: ¿Por?
+H1: Por... [duda] seis coma ocho. Y luego sobresale la "zeta" hacia arriba, o la "a".
+H2: ¡Ah! Luego sobresale la pestaña de...
+H1: Eso es, de la pestaña...
+H2: Sí, no, no, no. No hace falta. Y... [duda] ¿y lo quiere en plástico? ¿O lo quiere en cartón?
+H1: Eh... pues [vacilación] prefiero en cartón, pero si...
+H2: Prefiere en cartón, más rígido y... facilita mejor... [duda] ...
+H1: Sí.
+H2: ...la separación...
+H1: Prefiero cartón.
+H2: ...que el plást[palabra cortada]... Sí.
+H1: Sí.
+H2: Muy bien. Eh... así [ininteligible] índice de... [ininteligible]
+H1: Eso es.
+H2: Muy bien.
+H1: Luego quisiera... [duda] ped[palabra cortada]... [vacilación] hacerle una reclamación...
+H2: A ver...
+H1: Eh... porque es que lo necesitaba... pues entre hoy y mañana, a ver si es posible. Yo le pedí a Jose Manuel, hace tiempo [risas], eh... de la referencia ochenta cuatrocientos noventa y siete...
+H2: ochenta cuatrocientos noventa y siete...
+H1: ...tres en rojo, que no me acuerdo qué era.
+H2:... tres en rojo; bueno, yo se lo diré.
+H1: Sí, y de la referencia 4ocho cuatrocientas noventa y cinco...
+H2: ...cuarenta y ocho, cuatrocientas noventa y cinco...
+H1: ...uno en rojo, le pedí.
+H2: ...uno en rojo. Muy bien.
+H1: Y... lo necesitaría para hoy o... para mañana, a ver si pudiera ser.
+H2: ...[ininteligible] se lo diré yo a Pedro, ¿eh?
+H1: Y... unas... [duda] una cosita más, nada más, ¿eh?
+H2: Sí.
+H1: Eh... el treinta de mayo fue... [vacilación] la semana pasada, ¿verdad?
+H2: Claro.
+H1: Bueno, pues es que necesitaría ya... [vacilación] esto es otra reclamación, ¿eh? Está ya pedido. Carpetas "Elva"...
+H2: (¿Qué número?)
+H1: ...diez cuatrocientas diecisiete...
+H2: ...diez cuatrocientas diecisiete...
+H1: ...en azul, cincuenta.
+H2: ... cincuenta azul.
+H1: Y lo mismo de la referencia diez cuatrocientas catorce...
+H2: Sí...
+H1: ...en azul también, veinte.
+H2: veinte.
+H1: Esto lo han he[palabra cortada]... lo iría necesitando ya. Esto está pedido, ¿eh?
+H2: Bueno.
+H1: ¿Vale?
+H2: Ya, por eso lo reclama para no... ¡duplicarlo!
+H1: Eso es.
+H2: Yo lo diré a Juan Pedro.
+H1: Vale. Pues muchas gracias.
+H2: A ustedes, ¿eh? Buenos días.
+H1: Adiós. "Cilag", ¿dígame?
+Hc: Sí, [ininteligible] ¿José Sala?
+H1: Un momento, por favor. "Cilag", ¿dígame?
+Hd: Eh... sí, buenos días. Quería hablar con Agustín Sánchez, por favor.
+H1: Un momentito. Eh... ¿quién eres?
+He: Soy Ana, es que Rocío está con Pepe.
+H1: Vale, gracias.
+He: Oye, espera, que ya ha venido, ha venido corriendo a la llamada [risas].
+H1: ¡Ah! Vale...
+Hb: ¿Oye?
+H1: Sí...
+Hb: Dámelas ahora allí, al despacho de Pepe.
+H1: De acuerdo. Ésta es para Pepe Sala. ¿Quieres que te la pase ya?
+Hb: A ver, sí, pásamelo.
+H1: ¿Ya? Vale. Esto es una cosa... Hay que sellar... [ininteligible]

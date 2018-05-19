@@ -1,0 +1,15 @@
+#archivo: BCON015D
+#fecha de grabación: 16-9-91
+#fuente: radio
+#localización: Madrid
+#términos: jardinero, huelga, concierto, publicidad
+#H1: varón, c.45 años, presentador del programa
+#H2: mujer, c.30 años
+#H3: mujer, edad ignorada
+#H4: mujer, edad ignorada
+H1: Ahora vamos a aclarar algunas cuestiones que nos plantean en el contestador automático.
+H2: [texto leído]¡Hola! éste es el contestador automático del dos, seis, uno, cuarenta y uno, cuarenta y seis. "Mi querida radio" pretende recoger el mensaje para que no caiga en saco roto. Llámenos ya, queremos escucharle. Déjenos su mensaje en el dos, sesenta y uno, cuarenta y uno, cuarenta y seis. "Mi querida radio"[fin de texto leído]
+H3: ¡Hola!, "Mi querida radio", yo llamaba para ver si vosotros me podéis ayudar. Quisiera ir a ver a... Juan Luis Guerra y "Los cuatro cuarenta", me gustaría saber si vosotros me podéis decir donde puedo sacar las entradas. Gracias, ¿sí?
+H1: Pues eh... en torno a la Plaza de Toros o... a los que organizan el concierto, en cualquier caso..., querida amiga, dentro de pocos días empezará a aparecer la publicidad de ese concierto, del anunciado concierto de Juan Luis Guerra y "Los cuatro cuarenta" que, por cierto, también van a actuar en ese mismo concierto "Los manolos" y en cualquiera de los carteles que hay por la calle o en la publicidad que va a aparecer en prensa le van a dar información sobre donde adquirir las entradas y en que momento.
+H4: ¡Hola!, buenos días. Bueno, ante todo felicitaros por el programa que tenéis y otra cosa, quería haceros un comentario con respecto al comentario que hicisteis el otro día [interferencias] [ininteligible] relación sobre los jardineros. Bueno, que comentasteis así, en plan de chirigota que... solamente querían aumento de sueldo y tampoco es así. Es una rama que es... casi nun[palabra cortada]... pero bueno, que prácticamente nunca ha estado [silencio] en huelga, entonces para una vez que se pone, no solamente se pide mejoras [silencio] salariales, sino mejoras a nivel de contratación que mu[palabra cortada]... muchísimas empresas tienen a gente sin... sin contrato de ninguna clase, hay dieciocho tipos de contratos distintos, [interferencias] [ininteligible] parece una... auténtica aberración. otro tema que se pide es el por qué solamente dan dos días cuando una persona tienen[sic] un hijo en vez de dar tres, cuando solamente la mujer está en el hospital tres días, es muy triste que acabe de... de tener un niño, y tenga que ir al tercer día una persona a recoger que no sea tu marido. Yo creo que puede pues ser. Bueno, simplemente comentaros [silencio] que es interesante no comentar nada al respecto. [silencio] Mucha[palabra cortada]... muy... muchas gracias y muy buenos días.
+H1: Por supuesto, querida amiga que... respetamos los derechos de los trabajadores, de todos los trabajadores a ponerse en huelga cuando estimen... oportuno y necesario para reclamar y defender precisamente sus derechos pero también desde aquí defendemos los derechos de los árboles y de las plantas a recibir el agua que tienen también eh... su derecho a recibir cada día.

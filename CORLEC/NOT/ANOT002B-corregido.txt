@@ -1,0 +1,38 @@
+#archivo: ANOT002B
+#fecha de grabación: 3-91
+#fuente: televisión
+#localización: Madrid
+#H1: mujer, c.28 años, locutora de televisión
+#H2: varón, c.30 años, corresponsal de televisión
+#H3: mujer, c.26 años, corresponsal
+#H4: mujer, 103 años, ama de casa
+#H5: mujer, c.25 años, corresponsal
+#Ha: mujer, c.38 años, prostituta
+#Hb: mujer, c.40 años, prostituta
+#términos: prostitución, dinero, reinserción, respeto, robo, pieles, armas, fútbol, Real Madrid, Spartak, vejez, tráfico, retención, atasco
+H1: Alrededor de seiscientas mujeres ejercen en Madrid la profesión más antigua de la Historia y una de las [borrado involuntario]. Hoy también en este informativo hemos querido acercarnos a este colectivo, y cual[palabra cortada] y conocer cuáles son sus problemas, y, por qué no, también sus ilusiones. Con ellas ha estado en las noches pasadas un equipo de televisión.
+H2: Prostitución de día, prostitución de noche; de alto y bajo [extranjerismo]standing[fin de extranjerismo] con toda la problemática que las rodea, se dan cita aquí, en las calles de Madrid.
+Ha: Empecé porque... yo... s[palabra cortada]... se marchó mi marido, me dejó 6 niños, y entonces tenía que... mantener a los niños... con una cosa de esas.
+Hb: Soy huérfana de padres. Llevo desde... los 10 años sola, ¿no?
+H2: No han elegido su trabajo. No han elegido vender su cuerpo. Pero la vida no es fácil para todos.
+Hb: Te sientes pero... Como... asquerosa. O sea, dices... "pero... este hij[palabra cortada]... este... este baboso, que me tiene que... que poner las manos encima y... y yo que me veo obligada a hacerlo, ¿no?
+H2: Cobran unas 2000 pesetas por realizar el acto sexual, y a menudo son pagadas con insultos y vejaciones.
+Ha: Problema de... de que no me quisiera pagar, y... y quitarme el dinero, también.
+H2: Desean, como todos, tener su pan, su techo y su cama, y un trabajo decente. Han creado su asociación, e incluso algunas acuden a un centro de acogida, donde han conseguido reinsertarse.
+Hb: Que hagan centros donde puedan apoyar a las mujeres, ¿no?, como se ha hecho este centro, ¿no? Pero... esto hay que... abrirlo más a la vida, ¿no?
+H2: La vida, que para ellas, como para todos, estriba en ganarse el respeto del resto de las mujeres y de esta sociedad.
+H1: 2 de la tarde y 11 minutos y medio. Hacemos un alto en el informativo para contarles casos y cosas del Madrid nocturno. Sobre todo, hoy hablaremos de las cosas que cualquier pacífico madrileño se puede encontrar en los lugares más inusitados. Por ejemplo, si usted hubiera paseado anoche por la Gran Vía, se hubiera topado con numerosas bolsas de basura abandonadas debajo de un coche, cosa... casi normal, por cierto. Lo que no es tan frecuente es que esos plásticos negros costasen muchísimos millones al estar repletos de abrigos de piel. El ladrón acababa de robar una peletería cercana, y esperaba para acudir de madrugada a por el botín, pero 2 agentes municipales menearon sin recato los bultos y se llevaron la sorpresa. La misma que se llevaría cualquier paseante al contemplar la siguiente escena: Un hombre, nervioso y agitado, arroja a una mujer un bulto desde una ventana. No se trataba ni de una maceta, ni de una disputa familiar, sino de un paquete de armas lanzadas por un señor desde el piso que se disponía a atracar. La pareja fue denunciada por un transeúnte y ha pasado ya a disposición judicial. Y ahora, otras noticias. [música] [texto leído][texto no transcrito][fin de texto leído]
+H1: Y vamos ya con la noticia que hoy es comidilla en bares y tertulias. Nos referimos, como se imaginarán, a ese encuentro entre el Real Madrid y el [extranjerismo]Spartak[fin de extranjerismo] de Moscú, en el que los blancos se juegan algo más que la honra. Los madridistas confían plenamente en la recién llegada primavera para reverdecer unos laureles un poco mustios desde que empezó el período electoral. La más rancia Historia dice que el Real Madrid se convierte en otro en la Copa de Europa. La reciente demuestra que el [extranjerismo]Spartak[fin de extranjerismo] no ha encajado un sólo gol en esta edición de la Copa de Europa. Y al Madrid le hace por lo menos falta 1 de los goles. (...)
+H1: Volvemos a hablar ahora de cumpleaños centenarios, porque quizá quien se atreve a cumplir más de 100 años en Madrid merece al menos que el resto de sus convecinos lo conozca. Se trata de Josefa Martín, vecina de Collado Villalba, que acaba de cumplir 103 años, y está dispuesta a cumplir bastantes más. Con ella ha estado hoy Lourdes Ripollés.
+H3: Josefa acaba de cumplir 103 años. Aunque nació en Santander, lleva viviendo 66 en Collado Villalba. Ayer toda la familia se reunió para celebrar esta fecha tan especial, aunque a Josefa le hubiera gustado que estuvieran todos sus hijos.
+H4: Ayer me he encontrado con un poco de alegría, pero encima tristeza.
+H5: ¿Por qué?
+H4: Porque me faltaban los demás.
+H3: Josefa recuerda Collado Villalba de cuando sólo existían 4 casas.
+H4: Pues muy pequeño. Con 4 casucas, nada más. Y todo el mundo nos tratábamos: "Buenos días, buenas tardes". A lo mejor nos estábamos un rato... de parla, también... porque había mucha unión.
+H3: Hoy todo es diferente.
+H4: Ahora... no voy nada más que por el día con mi Manolo... pues así, por la plaza, por el paseo, a la... a la... a la plaza. Y de allí a casa otra vez.
+H3: Los hijos se emocionan al hablar de su madre centenaria. Para ellos, la mejor.
+H5: Bueno, ya lo han oído ustedes. Josefa acaba de cumplir 103 años. Por más que le hemos preguntado, ella no nos ha querido contar si tiene o no el elixir de la juventud. De todas formas, todos esperamos que siga cumpliendo años. ¡Felicidades, Josefa!
+H4: Muchísimas gracias. Gracias.
+H1: Son las 2 de la tarde y casi 20... minutos. El buen tiempo incita a los vecinos, como les hemos dicho al comienzo, al paseo. Pero eso, a tenor de lo que se ve ahora en el centro, debe ser en otra provincia, porque en Madrid proliferan los atascos a esta hora. Las zonas más conflictivas son, según... tráfico del ayuntamiento, toda la zona centro, Doctor Esquerdo, M-30, Paseo de Segovia y Castellana. Y una recomendación: que se evite la carretera, la Carrera de San Jerónimo porque además de las obras hay, como ya saben, pleno en el Congreso de los Diputados. Esta mañana la desesperación hacía mella en los automovilistas que trataban de llegar a Madrid por la carretera de Andalucía, la que ven ahora en pantalla. Eran las primeras horas de la mañana. En la carretera de Colmenar, la situación era igualmente complicada: atascos y retenciones hasta media mañana. Y un último aviso: Esta madrugada se ha cortado al tráfico un tramo de la carretera de Castilla, la M-quinientas. Se habilitará un desvío alternativo. Será de la una a las 4 de la mañana. Nada más. Que disfruten con el baloncesto y el fútbol si les gusta. Por hoy, hemos cumplido al menos con el horario. Que tengan una maravillosa tarde.

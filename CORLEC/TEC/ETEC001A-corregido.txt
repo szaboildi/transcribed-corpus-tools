@@ -1,0 +1,272 @@
+#archivo: ETEC001A
+#fecha de grabación: 29-05-91
+#fuente: conversaciones telefónicas
+#localización: grabado en una empresa en Madrid
+#términos: viajes, marca de sistema de tecnología, nombre de empresa de tecnología, base de datos, tensión, cable, interruptor, señal, registro, válvula, presión, tabla, oleoducto, código, mecánica, instalación, satélite
+#H1: varón, ingeniero técnico, 28 años
+#H2: varón, ingeniero técnico, 34 años
+#H3: varón, ingeniero técnico, 32 años
+#H4: varón, ingeniero técnico, 32 años
+#H5: varón, ingeniero superior, 28 años
+H1: ¿Don Paco?.
+H2: Sí; dime.
+H1: Hola. Oye. Que... [duda] [ruido] ¿Cuándo viene Guillermo?.
+H2: Ya está aquí, ¿eh?.
+H1: [interrogación] ¡ah! ¿Está ahí?. Dile que se ponga, entonces.
+H2: Espérate a ver si lo encuentro [onomatopeya]. Estaba en su sitio hace un momento. Espérate.
+H1: Vale.
+H3: ...[ininteligible]... yo no puedo desde aquí decirle: "La lista [extranjerismo]Scan[fin de extranjerismo]... solicitantes. Presión, temperatura, no se qué, no se cuántos". Eso no se lo puedo decir, lo tiene ya que saber.
+H4: Exactamente.
+H3: Eso hay que dárselo.
+H4: [ininteligible].
+H3: El día que tú cambies aquí... Quienquiera que te añade la lógica de presión de no se qué...[ruido]... Tiene que hacer ese programa y decirle: "Está en registro, méteme ahora tal". [ruido] Claro. El mantenimiento de base de datos tiene que ser el mismo aquí que allí.
+H4: Yo eso lo veo un poco salvaje. Porque tú podías tener unos códigos para señal [solapamiento de turnos]que son los que le ...
+H3: Eso es lo que es[fin de solapamiento de turnos].
+H4: ...mandan. Dicen: "Que baje una...".
+H5: ¿Sí?.
+H1: Guillermo...
+H5: Dime.
+H1: Hola, que creía que estabas en [siglas]BBC[fin de siglas].
+H5: [ininteligible].
+H1: ¿Cómo?.
+H5: ¡Que he vuelto ya, digo!
+H1: [interrogación] ¡Ah! [risas]. Pero esta semana ¿vas a continuar allí?.
+H5: Sí, bueno, no tanto como yo pensaba, ¿sabes?.
+H1: [afirmación].
+H5: Pero voy a tener que ir.
+H1: [afirmación] Vale... [duda]. Sí, te iba a decir que tenemos que preparar los viajes de... de Almodóvar.
+H5: Claro.
+H1: Porque estaba aquí diciéndolo José Antonio, que si quería. Entonces... te le paso para que...
+H5: Vale. Pásamelo [solapamiento de turnos]oye...
+H1: Para que...sí[fin de solapamiento de turnos]. Dime, dime.
+H5: Nada, nada. Te iba a decir...[duda] [susurrando] que tú me habías dicho, que yo te había dicho...¡ah! Lo del [extranjerismo]Fisher[fin de extranjerismo] que ya me comuniqué con él al final.
+H1: ¿Ah! ¿Sí?.
+H5: Sí, que no sé; empecé a jugar por ahí, a configurar.. [ininteligible]. A sí que bueno...
+H1: Pero... ¿llegaste a llamar a...?.
+H5: No... [duda].
+H3: ...es el registro...
+H5: [ininteligible]... pero al final no me hizo falta llamarle.
+H1: ¡Ah! [risas]. Lo que no me has preparado es la base de datos.
+H5: Sí, eso sí te lo he preparado, lo que pasa es que tú ayer no la cogiste.
+H1: [risas] ¡Ah! ¿Y dónde estaba?.
+H5: ¡Hijo mío! Lo ponía bien claro, ¡macho! Con base de datos [extranjerismo]Fisher[fin de extranjerismo]; las fotocopias que te hice.
+H1: Ya, pero [risas]...
+H5: Las tenía encima de la mesa.
+H1: Claro. ¿Has visto el... el aparato, el [extranjerismo]V.SAT[fin de extranjerismo]?
+H5: Sí, bueno; yo he... [duda] esto... ya lo habéis enchufado y todo ¿no?, y funciona.
+H1: Sí, se hizo unas pruebas...
+H5: [afirmación].
+H1: ...hablamos con nosotros mismos [risas].
+H5: [afirmación].
+H1: Y, bueno, nos dieron un... un par de consejos.
+H5: Ya, [solapamiento de turnos]ya lo...
+H1: ¿Ya[fin de solapamiento de turnos] los ha dicho Ana?.
+H5: Sí, nos lo dijo, que cuando los enchufara no fuera con tensión...
+H1: Sí.
+H5: ...y cuando le quitara el cable, vamos; y que los dos interruptores esos estuvieran horizontales, ¿no?.
+H1: Sí.
+H5: Sí, ya lo he... lo he apartado un poco, porque eso hasta que no lo (toquen) ellos, ¿sabes?
+H1: [afirmación].
+H5: Lo he puesto por ahí, ¡guardadito!
+H1: Vale. Bueno, voy a ver si... si está José.
+H5: Vale.
+H1: Oye, José, ¿puedes hablar con Guillermo para lo de Almodóvar y Poblete? ¡Anda!
+H4: ...¡eso, eso es la hostia, eso es la hostia! ¡Hola,Guillermo!.
+H5: ¿Qué es la hostia?[solapamiento de turnos] Eso.
+H4: Buenas tardes[fin de solapamiento de turnos]. Una cosa que me está contando ahora Antonio que me está dejando loco [risas] y además os afecta.
+H5: [risas] ¡No fastidies! Entonces no me la cuentes.
+H4: [negativo] ¡No, no, no, no, no, no es que os afecte ahora de nuevo! Es que yo no tenía la idea muy clara, pero bueno.
+H5: ¿Qué es?
+H4: [interrogación] ¿Eh?.
+H5: ¿Sobre qué es?.
+H4: Sobre... sobre las listas generales y demás.
+H5: [ininteligible]... de señales y eso, ¿no?
+H4: [interrogación] ¿Eh?
+H5: De señales, (digo).
+H4: Sí, de señales; que tú puedes tener varias listas con varias señales coincidentes [ruido] y en principio, se almacenan en registros diferentes, el mismo valor. ¿Eso es así?
+H5: ¿Cómo? No te entiendo.
+H4: [duda] Por ejemplo, yo que sé... [duda] presión de no sé qué, ¿no?
+H5: Sí.
+H4: Entonces, en una lista no solicitada está metida esa presión.
+H5: [afirmación].
+H4: Y yo le...y yo le he creado el, "el tú" [siglas]PLC[fin de siglas] o tú lo has creado, ¿no? Una lista particular.
+H5: Sí.
+H4: Y me envía esa presión[solapamiento de turnos] pero...
+H5: [afirmación][fin de solapamiento de turnos].
+H4: ...si yo le pregunto por otra lista diferente... [duda] me tienes todo lo que es ese formato... [duda] digamos creado en otro lado, con otros registros diferentes, aunque es[palabra cortada]... el valor de la señal sea el mismo.
+H5: Ya.
+H4: ¿Eso es así?
+H5: Es que yo en realidad, eh... [duda].
+H4: Tú vas a beber del mismo registro, ¿no?
+H5: Claro. Yo no tengo registro.
+H4: Claro.
+H5: Para nada. Yo cuand[palabra cortada].... Yo tengo una [duda] un... lo que tengo es una lista de direcciones de dónde tengo que sacar los datos.
+H4: Claro, claro, claro, eso sí.
+H5: Sí tengo dos listas, pues tendré... [duda] que habrá en algún sitio direcciones coincidentes.
+H4: Claro, claro. Y tú tienes en la tabla que sabes que... [duda] presión de no sé qué, tú tendrás un código identificativo.
+H5: Que está en la tabla tal.
+H4: Que está en la tabla tal e irás a buscarlo ahí, y entonces tú creas esa... tú creas esa lista .
+H5: En ese momento.
+H4: En ese momento ¡ah! Bien, bien, bien, bien, bien, bien, bien; no, no, otros registros son los mismos.
+H5: Claro.
+H4: No, n[palabra cortada]... bueno, ahora lo discutimos este hombre y yo [risas]. Oye, dime.
+H5: Lo de Almodóvar y Poblete, pues eh... [duda].
+H4: Eh... [duda] sí, ¿cuándo te apetece ir?
+H5: ¿Cuándo me apetece ir? ¿Va a estar parado?.
+H4: [vacilación].
+H5: ¿Va a estar parado? O...
+H4: Sí me dicen, es que yo o la semana antes o la... [duda], bueno, Semana Santa la quería coger de vacaciones.
+H5: [afirmación].
+H4: Y la semana antes o después...
+H5: [afirmación].
+H4: ...Eso ya me adapto a ti, a tus necesidades.
+H5: ¿Yo? Es que yo, tal y como hago con Alejandro...
+H4: ¿Sí?
+H5: Yo te digo: "A mí hoy me viene bien pues... cuando sea"; y entonces tú miras a ver si está parado y eso ¿no? ¿Es así o no?
+H4: Sí, o sea tú primer [palabra cortada]... [duda] lo primero [duda], a ver, eh[solapamiento de turnos]... yo...
+H5: Yo te digo... A mí ...
+H4: Yo, yo, yo, mira, yo tomo flexible la semana antes o la de... [borrado involuntario] después de Semana Santa para coger vacaciones.
+H5: Vale. Mira[solapamiento de turnos] yo...
+H4: A ti[fin de solapamiento de turnos] que te viene mejor, ¿que la coja después de vacaciones o antes? [risas].
+H5: Es igual.
+H4: ¿Eh?
+H5: Mira yo te digo: "Esta semana...
+H4: Sí.
+H5: ...no puedo".
+H4: No puedes.
+H5: No.
+H4: Vale. Entonces...
+H5: [ininteligible] La siguiente, puedo.
+H4: Podríamos la siguiente.
+H5: La siguiente también, y la siguiente también.
+H4: Vale. Entonces lo que yo te digo es que si a ti te urge mucho yo puedo la siguiente, ¿eh?
+H5: [afirmación].
+H4: Yo puedo la siguien[solapamiento de turnos] te...
+H5: Bue... [palabra cortada]...[fin de solapamiento de turnos] no a mí me urge, a mí me urge por... por el tema de... de que... [ininteligible].
+H4: Exactamente, exactamente.
+H5: [afirmación].
+H4: Sí, entonces... [duda] lo que yo puedo hacer es ir, bajar abajo, ver cuando tenemos libre... [duda].
+H5: Lo que sí que me gustaría es que fueran las dos el mismo día.
+H4: Sí.
+H5: (Para) cuarenta kilómetros así [ininteligible].
+H4: Exactamente.
+H5: No andar... [duda].
+H4: No, yo me imagino que ha bajado también el tráfico de oleoductos.
+H5: ¿En Almodóvar? Tengo entendido que siempre está desconectado.
+H4: Sí.
+H5: Entonces ese no va a haber problema; de hecho, nunca hay nadie ahí ni nada.
+H4: Y Poblete ser[palabra cortada]... Poblete sería la problemática.
+H5: Debe ser la problemática, supongo.
+H4: Vale.
+H5: Entonces... [duda]... eh, tú habla, ¿con... con quién vas a hablar, con Castell?
+H4: Eh ... [duda], no.
+H5: No.
+H4: No, hay que hablar aquí con Dirección, de... [duda] de Oleoductos.
+H5: Es que yo no sé hasta qué punto se necesita que esté absolutamente parado, ¿sabes?
+H4: [afirmación].
+H5: O es posible que lo hagamos sin que este parado o siempre y cuando haya un operador ahí atento, yo no sé, eso[solapamiento de turnos] ya.
+H4: Ya[fin de solapamiento de turnos]. O es posible que poda[palabra cortada]... podamos hacer algún estropicio, ¿no?
+H5: Claro.
+H4: Temporal.
+H5: Es que ahí en Torrejón, por ejemplo, cuando vamos con éste, con Víctor, ¿no? Pues aunque esté aquello arrancado, él dice que lo hagamos, y antes de que empiece a hacer nada, pues lo resetea, ¿sabes?
+H4: Sí.
+H5: A mí no me va a [ininteligible], se empieza a abrir y entonces lo pone en local y lo resetea.
+H4: Sí.
+H5: Y entonces se cierra, ahora yo no sé.
+H4: De todas maneras, entonces, lo que puedo hacer es bajarlo y preguntar, y como son estas dos las co[palabra cortada]... las que nos corren así como mediana prisa.
+H5:Bueno, más que... [duda] más porque es la que veo, las que veo yo así más factibles.
+H4: Sí, por...
+H5: [ininteligible] sabes que las podemos hacer un mismo día y...
+H4: Exactamente.
+H5: Claro.
+H4: Y entonces ya te digo yo los días y ya me adapto yo a esos días, a ,a ese día, porque igual estamos un día o... [duda] dos, no lo sé.
+H5: No, yo creo que eso es todo un día, ¿eh?
+H4: [risas] Bueno, esperemos que sea un día.
+H5: O sea que te quiero decir, ya se que las comunicaciones van.
+H4: Sí.
+H5: Porque ya hemos ido a probarlas y van.
+H4: Sí.
+H5: Eh... [duda] y ya tengo las mec[palabra cortada]... la mecánica como hicimos en Torrejón, o sea que...
+H4: Sí.
+H5: Más o menos es rápido.
+H4: O sea que si sale bien que... que ya tengas la mecánica y [duda]...
+H5: Claro.
+H4: Y.. un día las quitamos las dos de[solapamiento de turnos] en medio.
+H5: Yo creo[fin de solapamiento de turnos] que sí.
+H4: Vale, perfecto. Eh... entonces lo mejor es que... que yo hable con esta gente, y pues y antes de Semana Santa a ver si las quitamos de en medio.
+H5: Perfecto.
+H4: ¿Te parece?
+H5: Muy bien.
+H4: Y entonces ya cojo yo vacaciones o eso después de...
+H5: Claro.
+H4: Después de Semana Santa, ¿eh?
+H5: (No) como a ti te venga bien.
+H4: Entonces tú te despreocupas y ya te llamo yo ya cuando, cuando haya un día bajo el trabajo.
+H5: Vale.
+H4: Aunque no estén paradas totalmente.
+H5: [afirmación].
+H4: Que sea factible.
+H5: O sea, tú... [duda] explícales un poco lo...eso.
+H4: Sí.
+H5: Con Castell, Castell es el que mejor sabe, yo creo.
+H4: Sí, de todas maneras, a ese nivel, ya sabes que ya son, que vamos que tienes que avisar en el otro lado también.
+H5: Ya,ya.
+H4: No hace falta que [risas] que te cuente demasiado.
+H5: Bueno, que no se esté totalmente parada, ¿o algún día estará parada? Supongo.
+H4: Sí, no, no hace falta que estén paradas tampoco, yo creo, vamos, a no ser que [silencio]. Bueno, paradas, si quieres hacer [ininteligible] de válvulas, de uno y de otro.
+H5: Luego vamos a llegar allá y nos van a decir, como muchas veces me ha pasado en Torrejón: " Sí,sí,está" [ininteligible] y luego llegamos allá, y... y... [duda] el operador nos dice que no, que eso no se puede abrir, porque está ...
+H4: Sí.
+H5: Que no se qué, no se cua[palabra cortada]....
+H4: No, vamos, yo cuando te digo que hablo con esta gente, indudablemente con Castell voy a hablar también[solapamiento de turnos] porque...
+H5: Claro[fin de solapamiento de turnos].
+H4: ...al final, quien, quien conoce la instalación es Castell.
+H5: Claro.
+H4: Y... quien conoce las necesidades, ¿no? Lo que pasa que esta gente es un poco a nivel político.
+H5: Ya, ya.
+H4: Hay que decirles: "Oye, vamos a ir ahí y vamos a mirar esto".
+H5: [afirmación].
+H4: Pero Castell es quien realmente... [duda] te lo puede decir.
+H5: [afirmación].
+H4: Más seriamente.
+H5: Muy bien.
+H4: ¿Eh? Entonces, bueno, era simplemente eso; sabiendo que tú en esta semana no puedes...
+H5: No esta no.
+H4: ¿Y la siguiente?.
+H5: Sí.
+H4: La siguiente sí[solapamiento de turnos], vamos...
+H5: [duda] Supongo[fin de solapamiento de turnos] que sí.
+H4: En esta semana ya estamos a miércoles prácticamente, [risas] o sea que...
+H5: [afirmación].
+H4: ...que queda bien poco de ya. Oye, ¿de dónde estás llamando?
+H5: Bueno, me habéis llamado tú, y estoy en...aquí, en [siglas]ABB[fin de siglas].
+H4: [ininteligible] Te, te ha llamado Alejandro.
+H5: Sí. ¿Por? ¿Se oye mal o qué?.
+H4: Es que oigo, sí, oigo como eco, el teléfono, muy fuerte.
+H5: ¿Sí? Yo...[ruido] oigo bien.
+H4: Tú oyes bien, ¿no? Por eso me extraña, yo oigo unos pitidos, y además oigo un [onomatopeya]"pí"[fin de onomatopeya].
+H5: Sí. Pero vamos, ¡eh! Pero nada más, creía que era algún ordenador vuestro o algo así.
+H4: No, no, no, no, no, no, es un [onomatopeya]"pí"[fin de onomatopeya] del teléfono y.., y un eco; yo oigo un eco muy fuerte.
+H5: Puede ser el satélite [afirmación].
+H4: Será el satélite [risas]. Por eso te preguntaba desde dónde llamabas [risas]. Digo, igual está fuera de Madrid [risas].
+H5: [ininteligible] estoy aquí al lado.
+H4: [risas] Pues no sé, igual ponen satélite ahora para cercanías [risas]. ¡Váyase usted a saber!
+H5: [ininteligible] la, la, la antena cerca y dicen: "Aprovechamos". [risas].
+H4: Muy bien.
+H5: Bueno, José.
+H4: Guillermo, entonces ya te... ya te lo, ya te lo aviso yo con tiempo, ¿ah?... [afirmación].
+H5: Perfecto.
+H4: De acuerdo.
+H5: Muy bien.
+H4: Pues... pues nada más.
+H5: [afirmación].
+H4: ¿Tienes algo que hablar con Alejandro? O...
+H5: No,... (de) nada.
+H4: Nada, ¿no?.Mejor es no hablar con nosotros porque...[risas], cada vez que hablamos es un problema. Bueno, chico...
+H5: Bueno, [ininteligible].
+H4: Pues muy bien.
+H5: Vale.
+H4: Pues, ya te llamo yo[solapamiento de turnos] ¡hala!...
+H5: Vale[fin de solapamiento de turnos].
+H4:...hasta luego.
+H5: Hale, hasta ahora.
+H4: Hasta luego.

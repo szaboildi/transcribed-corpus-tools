@@ -1,0 +1,137 @@
+#archivo: ccon013c
+#fecha de grabación: 16-3-91
+#fuente: conversación en una tienda de ropa de hogar
+#localización: Madrid
+#términos: manta, almohada
+#H1: dependienta, mujer, c. 24 años
+#H2: clienta, mujer, c. 45
+#H3: cliente, varón, c. 50
+#H4: cliente, mujer, c. 25
+#H5: cliente, varón, c.25
+H1:Estas son un poquito más baratas. Son dos mil novecientas noventa y cinco... unas... cuatro mil aproximadamente, cuatro mil, tres mil... y algo.
+H2:Si aquella, pero...
+H3:¿Las dos?
+H1:Sí.
+H4:¿Cuatro mil las dos?
+H2:Sí. Pero aquella se ve más pachuchina.
+H5:Algo más fina, sí.
+H2:Más fina, sí.
+H1:Es un poquito más finústica.
+H2:Esta se ve. Y el dibujo, ¿tienes más variedad de dibujos?
+H1:Pues es que no sé lo que hay. A ver ésta.
+H3:No. Tiene estas dos...
+H2:A ver ésta.
+H3:Mira, son dos colores...
+H1:Esta es igual. Igual pero en salmón.
+H3:Claro.
+H4:Es bonito este modelo.
+H2:¿Te gusta este dibujo? ¿Por qué?
+H1:Son iguales. Tengo todos los dibujos iguales.
+H2:Como la otra es azul,
+H4:Si luego las mantas tampoco se ve mucho el dibujo.
+H2:como la otra es azul, ésta estaría bien.
+H4:No, el color es más bonito éste.
+H1:[ininteligible] dibujos iguales.
+H2:El salmón es muy bonito. El salmón...
+H4:Sí, salmón o azul, más bonito que ese.
+H3:Pues, hala. ¿Una salmón y otra azul? Por ejemplo.
+H4:No, o las dos igual, si me da igual.
+H3:Las dos azules o las dos salmón.
+H2:El salmón es muy bonito.
+H1:Dos salmón no tendría. Dos azules sí. Pero dos salmón no.
+H2:Ah, ¿ésta es azul?
+H4:Mejor. Así, no nos rompemos la cabeza.
+H2:¿O gris? [silencio]
+H2:A ver, si es que no la he visto yo entera.
+H4:Sí, [ininteligible]
+H1:no, esa no es ese dibujo. Sería, el dibujo sería ese.
+H2:Unas palmeras, tiene. Bueno, pues hala, ¿hacemos, llevamos las dos igual? Hace bonito ver las dos igual, ya que hay dos camas igual.
+H3:O sea, ésta es la de noventa, ¿verdad?
+H1:Sí. Esta sería de noventa. [silencio]
+H2:Es que no sé yo si no arrastrará mucho, yendo de noventa para la cama de ochenta, por un lado...
+H1:No, sólo que se remete más.
+H2:Está bien porque queda más agregada, ¿no?
+H3:Claro. No te, no se te, no se te sale.
+H1:O sea, dése cuenta que para una de ochenta serían uno cincuenta. Serían ochenta lo que es de cama y luego lo que cuelga, o sea, que por eso no tiene problema.
+H2:Ocho y ocho... sí porque no son ni siquiera cuarenta por cada lado,
+H1:Exactamente.
+H3:entonces, ocho y ocho ya son dieciséis. Venga, pues ésta, hala.
+H1:O sea que tampoco por el precio tampoco hay mucha diferencia, cincuenta...
+H3:Ya, ya, ya. Y es que sin embargo es más, es más cómodo así.
+H1:Exactamente.
+H2:El dibujo es éste, yo creo.
+H4:Sí, es ese. Sí.
+H2:Venga, pues llevamos el rosa éste [ininteligible]
+H3:¿Este dibujo? ¿Este dibujo?
+H2:Sí, es que...
+H3:Ah, sí, claro. Claro que es éste.
+H2:Pero allí parece que está centrado. Allí está, ah, no.
+H5:No, no.
+H2:Al lado de allá. Está éste lado allí.
+H3:Está como está ahí.
+H2:Sí. [silencio]
+H3:¿Almohadones tenéis?
+H1:No. Lo que tenemos es la funda de almohada.
+H2:¿Qué hacemos llevamos una azul y otra rosa?
+H3:Ya, pero almohadones, no.
+H1:Almohadones sueltos no. Vienen en juego.
+H2:¿Llevamos una azul y otra salmón? ¿Esta salmón?
+H4:Bueno, como quieras, si la verdad...
+H3:Venga, sí. Si te hace ilusión.
+H2:Bueno, yo qué sé.
+H4:Venga, sí.
+H3:Venga, sí.
+H4:Sí, vale. Si da lo mismo.
+H3:En la variedad está el gusto. Ese es un dicho.
+H2:Bueno, es que hay quien tiene mucho capricho con poner las dos iguales, y luego a lo mejor...
+H4:Pero si hay cuatro camas.
+H3:Pero si ya has lle[palabra cortada], ya has llevado dos iguales.
+H2:A lo mejor luego no... no duermen dos.
+H1:El edredón, sí, que sean los dos iguales en la misma habitación sí, pero la manta, o sea, es una cosa que no se ve.
+H2:Claro, las colchas es distinto. [silencio]
+H4:Son muy majas estas mantas, ¿verdad?
+H2:¿Qué pasa? ¿No tienen almohadones?
+H4:No.
+H3:No. Almohadón con funda o...
+H1:No. Lo que es una funda de almohada.
+H2:No. Decimos la almohada.
+H1:Y luego el almohadón...
+H2:Lo de dentro, la almohada.
+H1:O sea, ¿la almohada?
+H2:Sí.
+H1:Eso en la primera planta, lo encuentran.
+H2:[afirmación]
+H3:[afirmación]Es que eso, por eso te he preguntado si, si yo he dicho almohadas...
+H2:Bueno...
+H1:Es que le había entendido almohadones. Digo, si he dicho que no...
+H2:Si es que te lo he dicho mal, es que no... lo he dicho al revés. Almohada. Y, ¿qué hacemos ahora? Se lo podíamos dej[palabra cortada] Lo dejamos aquí un momento.
+H1:Sí, me lo pueden dejar aquí, no hay ningún problema.
+H2:Lo dejamos aquí.
+H3:Sí. ¿A qué hora cerráis?
+H1:A las nueve o nueve y media. O sea, que les da tiempo.
+H3:Ah. Entonces, subimos, subimos por arriba... y... bajamos.
+H2:Que vamos a ver otras cosas y luego venimos a por ello. Ahí mismo lo dejamos. [silencio]
+H3:Bueno, pues mira. Es que ¿ves? Es, lo que ocurre es que, tampoco, si no sabes si lo puedes hacer, no lo haces. Estas son prácticamente igual que las que compramos ayer. La diferencia, mil, mil cuatrocientas pelas.
+H4:O sea, a vosotros... éstas son seis mil quinientas las dos.
+H3:Y a, y a nosotros nos costó siete mil novecientas.
+H2:Claro. Pues si es verdad. Ya sabemos que en Segovia son unos...
+H3:O sea, que son mil, mil cuatrocientas pelas... de... Oye, no es la misma marca. O sea que tampoco... Pero bueno, si co[palabra cortada], si compras las Mora que tienen aquí... te ahorras un montón. Lo que pasa que...
+H4:Oye, mira qué bonito.
+H2:Vamos a ver. Las que hemos comprado allí son Mora y el dibujo es más bonito, pero que aunque sea Mora... [ininteligible] que sean [ininteligible]
+H3:No, que son buenas, si ya lo sé. [silencio]
+H4:Mira, esto es pladur.
+H3:Creo que ese armario es de cristal.
+H4:Esto es pladur, ¿no?
+H3:Mira, Carmen, éstos son los estores. Bueno, no sabemos donde mirar. Eso es muy bonito, ¿eh? Eso va hecho a medida.
+H4:Esto es pladur y...
+H2:Eso va hecho a medida. Pero yo no sé si es pladur o es albañilería.
+H3:Ahora, yo, si esto nos lo hicieran ellos, digo,
+H4:Claro. Pero ahora ya, parece que nos hemos decidido por lo del tío.
+H3:el pladur también,
+H2:Esto, sí. No, pero ya se lo hemos dicho a tu hermano,
+H3:No, para... estamos hablando de los empotrados en las habitaciones.
+H4:Ah.
+H3:Ah.
+H2:Lo del tío sí. Lo de Jose María...
+H4:Claro y esto sirve para...
+H2:Pero con una diferencia de precio de lo que da mi hermano a lo otro...

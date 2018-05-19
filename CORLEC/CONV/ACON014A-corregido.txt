@@ -1,0 +1,30 @@
+#archivo: ACON014A
+#fecha de grabación: 3-91
+#fuente: conversación familiar durante una comida
+#localización: Madrid
+#H1: varón, ingeniero, 28 años
+#H2: varón, estudiante, 19 años
+#H3: mujer, filóloga, 23 años
+#H4: varón, médico, c.65 años
+#términos: dinero, beneficio, central nuclear, comida, verdura
+H1: El dinero se lo llevan [solapamiento de turnos] ellos...
+H2: [ininteligible] [fin de solapamiento de turnos]
+H1: Y el beneficio para ellos también. [vajilla]
+H2: El viernes pasado.
+H1: Desde luego... Me voy a comprar yo para ir [ininteligible]
+H3: Mamá, pon la mampara, hija.
+H2: Además tienen previsto a[palabra cortada]... abrir una central más.
+H1: No, si... han comprado [ininteligible] O sea, el equivalente a... el equivalente a la Junta nuclear, [ininteligible] los grupos, lo compramos a Francia. Y... lo que cuesta es aproximadamente lo mismo, por terminar la central, con la diferencia de que tie[palabra cortada]... es de una [ininteligible]. Y... y bueno, todo el beneficio de haber la central, claro, se lo llevan los franceses, claro. [silencio] Bueno, pues nada. [silencio] Fíjate, quinientos cuarenta y cuatro mil millones de pesetas. Total... [vajilla] [ininteligible] [silencio] Yo no había visto la presa, ni había estado, lo del paro nuclear...
+H2: [solapamiento de turnos] Sí.
+H1: Lo había [fin de solapamiento de turnos] oído el otro día, pero...
+H2: Yo lo vi... lo vi ayer por la tele.
+H1: Pues es... efectivamente, ha sido una decisión totalmente política. Porque los... [solapamiento de turnos] la semana pasada...
+H4: [ininteligible] [fin de solapamiento de turnos]
+H1: ... estuve en el Ministerio y... estuve hablando con... con el subdirector de Energía Nuclear [solapamiento de turnos] ¡y no sabía nada! ¡Y no sabía nada! [texto no transcrito]
+H3: Oye, iros tomando las alcachofas, porque si no... se van a [solapamiento de turnos] enfriar las chuletas.
+H4: Pues... pues sí es verdad, [fin de solapamiento de turnos] porque esto calentito está bien, pero si no, no. [solapamiento de turnos] [ininteligible]
+H1: [ininteligible]
+H3: Mamá, faltan las chuletas aquí. [fin de solapamiento de turnos]
+H4: ... Y las alcachofas, igual. Calentitas están buenas, pero frías no. Pues sí, así [ininteligible]
+H3: Y tú, ponte allí, que... [ininteligible]
+H1: A Quique no le gusta el verde tampoco, ¿no? [texto no transcrito]

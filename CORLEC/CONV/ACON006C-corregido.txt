@@ -1,0 +1,361 @@
+#archivo: ACON006C
+#fecha de grabación: 27-4-91
+#fuente: entre amigos, en terraza casa particular
+#localización: Madrid
+#H1: varón, informático, 27 años
+#H2: mujer, filóloga, 23 años
+#H3: varón, informático, 28 años
+#términos: trabajo, dinero, informática, cine, persona, vida, monja, cura, color, nube, cielo, comida, televisor
+H1: Sí, yo... yo... yo voy a buscarme trabajo.
+H2: ¿Tú vas a... trabajar otra vez en tu empresa por fin?
+H1: No lo sé. Quiero que no. Me apetece cambiar. Es bueno cambiar.
+H2: Mira, un sitio que se llama "Se vende Madrid".
+H3: ¿Sí?
+H2: Sí. Pone...
+H1: ¿Que ganan los analistas en... en el Senado? No te había preguntado... Yo creo que están por los 4 o así.
+H3: Cuatro... y medio o así.
+H1: Qué bien. Está bien pagado.
+H3: Está bien.
+H2: Que [argot]guai[fin de argot].
+H1: Y los jefes de proyecto ya 5 y medio, ¿no? ¿O ya después de analista qué hay? ¿Jefe de proyecto?.
+H3: Sí, jefe de proyecto, lo que pasa que no...
+H1: Pero hay pocos, ¿no?
+H3: No sé cuánto es. Hay... hay 3 o 4 nada más.
+H1: Pero ¿eso es ya labor más administrativa o...
+H3: No, no...
+H1: ... es una labor de técnica?
+H3: Sigue... sigue siendo técnica. La labor administrativa ya es jefe de área.
+H1: Ya.
+H3: La labor de gestión.
+H1: [ininteligible] jefe de proyecto, ya.
+H3: Sí.
+H1: Más de llevar el control...
+H3: Jefe de proyecto es como un... es un analista, y luego tiene un plus que son ciento y pico más al mes. Casi un millón más.
+H1: O sea, que eres un analista bueno.
+H3: No, o sea... es un... tiene que ser analista. Y tiene el sueldo analista. Y luego tiene, al mes, un plus del jefe de proyecto que son ciento... veinte, o ciento...
+H1: Oye, ¿qué hace la labor de jefe de proyecto?
+H3: Pues...
+H1: O tendrá que él pasar informes, o...
+H3: No es que haga na[palabra cortada]... nada especial. Sí, básicamente es que eh... Es el que coordina la activi[palabra cortada]... un... un equipo de... 2 o 3 analistas y... varios programadores también, y tiene la responsabilidad de ese proyecto. Entonces él tiene que...
+H2: Pringarse.
+H3:... coordinar. Coordinar más que nada, ¿no?. Y decir: "Bueno, tú hazme esta parte, tú esta parte, y luego hazme una demostración" y tal... Y luego hace... informes...
+H1: Sí.
+H3: Eh... tarea de... contacto con el usuario, o de... mantenimiento... no sé... ¿sabes?
+H1: Sí.
+H3: Pero bueno, es... prácticamente igual que un analista, ¿eh? Y los puestos de jefe de proyecto lo que pasa es que son... una especie de... de...
+H1: ¿Están un poco politizados ya?
+H3: Sí... Sí, o sea, no...
+H1: Ya tienes que tener...
+H3: No... no politizado
+H1: [ininteligible] relaciones, ¿no?
+H3: Claro. Se le da a la gente pues como... para premiarle por... por su labor, o tal... (y entonces dicen) "pues ahora, tú, te hacemos jefe de proyecto", ¿sabes?, como para darle un escalafón mas, pero que al fin y al cabo hace lo mismo que un analista.
+H1: [afirmación]
+H2: Mira, y hoy echaban "Las cosas del querer", Javi.
+H1: Sí, ya la vi. La (leímos) en el cine de verano, ¿no viniste tú?
+H2: Sí, sí. A mí no me... acabó de gustar.
+H1: A mí sí que me gustó, sí. A mí sí me gustó. Es una película de argumento. [silencio]
+H2: Jo, ya es primavera. Cantan los pajarillos. [silencio]
+H1: Oye, Simón. ¿Tú crees que los gráficos que estoy yo grabando el [extranjerismo]Harvard Graphics[fin de extranjerismo]... ? Es que no me salen muy bien, tío. [texto no transcrito]
+H2: Venga, que vamos a ir al cine.
+H3: Nos vamos a las 10 a ver "Amantes", venga.
+H1: Tengo que pasar por casa.
+H2: ¿Pasas antes por tu casa, para lo de... Elena?
+H3: Pues...
+H1: A ver si viene ahora...
+H3: Pues haz una cosa, pásate por casa y quedamos... luego por allí.
+H1: Quedamos ya...
+H3: Si vamos a ir al Benlliure, que está en la calle Alcalá... pues podemos quedar por ejemplo en... en... donde el Corte Inglés de Goya, en la plaza Felipe Segundo. Está muy cerquita.
+H2: [afirmación]
+H1: Está... ¿pero no está donde el Alcalá?
+H3: No, está en la calle Alcalá, pero a la altura de... de Goya.
+H1: ¿Está más lejos? ¿Más allá?
+H3: A la altura de... del Palacio de los Deportes, o por ahí.
+H1: Ah. ¿A la derecha o a la izquierda?
+H2: Está en Alcalá...
+H1: Según vas...
+H2: Ciento seis.
+H3: Según vas, a la derecha.
+H1: Ah, a la derecha, sí. Donde está el Alcalá...
+H3: Llegando...
+H1: ... el sitio donde asesinaron casi a ese.
+H2: [risas]
+H3: Sí, justo, justo. Muy cerca del hotel... este...
+H1: Alcalá (20). Sí.
+H2: ¿Asesinaron a quién?
+H1: [solapamiento de turnos] No, atentaron contra [ininteligible]
+H3: Al de HB. [fin de solapamiento de turnos]
+H1: Bueno, que se cargaron a uno.
+H2: Sí, hombre. Se murió.
+H1: Sí, sí.
+H3: Pues está eso, entre... entre el cruce con Goya y Manuel Becerra, a mano derecha. El Benlliure. A la altura del... Palacio de los Deportes.
+H2: Oye, ¿y cuánto tiempo se va a quedar Elena en vuestra casa?
+H1: [onomatopeya] Y yo qué sé. ¿Tú sabes? Se ha traído treinta y cinco cajas...
+H3: ¡Hostia!
+H1: ... una estantería, 2 mesas... Bueno, está la terraza que... está de cajas todo esto así. Así.
+H3: Jo.
+H1: Yo creo que se va a hundir, tío.
+H2: [ininteligible]
+H3: Pero, ¿cajas grandes, tío? ¿Cajas grandes?
+H2: Pero, ¿qué tiene? ¿qué ha traído?
+H1: ¿Yo qué sé? Libros, y... diskettes, y no sé qué, y... [duda] ¿Yo que sé? Todo lo que tiene, yo que sé. Libros... y...
+H2: Pero... y sa[palabra cortada]... ¿cuándo...?
+H1: No sé, está buscando piso. Dice que a ver si lo encuentra esta semana, [ininteligible]
+H3: Pero ¿para ella sola?
+Todos:
+H1: No, lo han dejado.
+H2: Simón no lo sabía.
+H1: Ni yo tampoco. No, a mí me lo dijo... [ininteligible]
+H3: A mí no sé quién me dijo el otro día que...
+H2: ¿Y cuándo te lo dijo? ¿El otro día cuando fue a casa?
+H1: No, (a último) El día que es[palabra cortada]... [ininteligible] mi cumpleaños. Que llegamos allí por la noche y estaba ella; yo no sé si estabais vosotros.
+H2: Sí, eso. [ininteligible]
+H1: Es que el otro día estuvo allí comiendo.
+H2: Ah.
+H3: Pues...
+H1: Bueno, el día que estuvieron (los otros)
+H3: No sé quién me dijo el otro día que... que la habían atracado por la calle, o que había [ininteligible]
+H2: Ella, ella. Nos lo contó.
+H3: A mí no. Yo no estaba.
+H2: ¿Cómo que no? Ah, tú estabas en [ininteligible], de copas.
+H1: Que les llevaron las pelas, ¿no?
+H3: Sí, que [vacilación] las pelas, y...
+H2: Ah, ¿tú n[palabra cortada]...? ¿Te acuerdas que nos contó...? bueno, tú te fuiste a duchar. No sé si fue antes o después. Y ella empezó a contarnos que estaba harta del piso de Hernani, porque...
+H1: Ah, sí, sí, que la habían atracado ya 2 veces y... 2 o 3 veces, o...
+H2: Sí, sí, que... Una en el portal, otra fuera... Que enfrente tenía un bar de drogatas y tal.
+H1: Ah, sí. Sí, hombre.
+H2: Que estaba muy agobiada. Sí.
+H3: Joe.
+H2: ¿Y Agustín? Agustín se ha ido a otro... ¿Agustín dónde trabaja?
+H1: Ni idea.
+H2: ¿Ni idea, ni idea?
+H1: Estaba trabajando en algo de encuestas, y después se ha metido a otra cosa... No sé. No sé... no sé dónde.
+H3: Pero ¿ha hecho alguna carrera?
+H1: Creo que... no.
+H2: ¿No? ¡Vaya!
+H1: Estaba haciendo Económicas, pero... no debe haber pasdo de... primero. [risas]
+H1: Eh... Medio... primero. [ininteligible]. No, que no ha hecho nada. Que... Y se ha pillado un apartamento que era super cutre por 45000 pelas. No sé... creo que le pagan más, pero aún no tenía ni cama todavía.
+H2: Hostia. Pero, ¿quién, Agustín?
+H1: Sí. Claro, Agustín andará muy quemado, el pobre.
+H2: La verdad es que eran... No sé; eran una pareja extraña.
+H1: [duda] Bueno, es que Elena es un poco extraña, ¿no?
+H2: Pero Agustín era un... parado...
+H1: Sí, Agustín... [silencio]
+H2: En fin...
+H1: Oye, esa es la clínica de La Luz, qué bien se ve por aquí.
+H3: Sí.
+H2: ¿Cuál?
+H1: El edificio ese del... ¿Ves el grandote del todo? Pues el que está a la izquierda... más abajo.
+H2: ¿Del tejado azul?
+H1: Sí, ese.
+H2: Sí, hombre. Pues ahí he estado yo mucho.
+H1: ¿Ah, sí? Pues vaya por Dios.
+H2: Bueno, no; internada no, pero vamos...
+H3: ¿Y dónde va a dormir?
+H1: Pues allí, en la habitación esa, donde [ininteligible]
+H3: ¿En la de donde estaba [extranjerismo]Antje[fin de extranjerismo]?
+H1: A ver si encuentras a alguien.
+H2: En la habitación... multifuncional. [risas] Oye, pues...
+H1: No sé. O en un momento dado... Es que en un momento dado, incluso anuncios de esos, también de...
+H2: Pero es que yo... yo te puedo conseguir a alguien ya. Porque en ERASMUS...
+H1: [afirmación]
+H2: O sea, yo digo... eh...
+H1: Pero tenía que ser alguien un poco conocido, también, porque meter a cualquiera sin tener... Es por eso. Si no, hay muchos anuncios; en Tándem también hay anuncios buscando gente, [ininteligible] alemán...
+H3: Sí, pero... vale...
+H1: [ininteligible] no conoces también a nadie...
+H2: Pero yo le puedo preguntar, yo tengo, mi... Yo tengo una compañera que lleva lo de ERASMUS, y que conoce a todos los extranjeros que vienen, entonces alguien que más o menos le caiga bien, un tío o una tía, ¿eh?. Normalmente, alemanes. [ininteligible]
+H3: Pero ¿Para una temporada o para mucho tiempo?
+H1: Yo que sé.
+H2: Lo que pasa que los de ERASMUS se quedan 6 meses.
+H3: Se quedan unos meses, nada más.
+H1: Pero hoy no habrá... [ininteligible]
+H2: [duda] Vienen... [ininteligible] vienen en octubre. Ese es el... follón. ¡Ah! ¿sabes lo que viene ahora? Americanos. A la facultad. Pero y se van... Los extranjeros se...
+H1: Se están 3 meses, ¿no?
+H2: Claro. No, bueno. Se quedan el ve[palabra cortada]... el verano entero.
+H1: Es que el verano es agosto.
+H2: Desde mayo.
+H1: [canta]
+H2: Se lo digo a Paula, oye.
+H1: Sí... díselo.
+H3: Pues sí. Paula, en un momento dado, le apetecería.
+H2: Hombre, y le da un disgusto a sus padres que n[palabra cortada]... les deja fritos.
+H1: Joe, pero ya es problema suyo.
+H3: No, yo creo que se acostumbrarían.
+H1: [canta]
+H2: En fin, buscaré. Si luego siempre no sé cómo lo hago, que llevo [risas]... te lo encuentro y tal. Pero siempre, siempre extranjeros, ya sabes. [risas]
+H1: Sí, eres nuestro contacto internacional. [ininteligible] le digo a estos: "Es que he quedado con un (chico alemán)" "Joe, qué internacionalizado estás" "Tío, no sé... no sé" [risas] Joe, qué plantón le he dado. O igual es que se ha ido a...
+H2: A lo mejor se ha ido.
+H1: A lo mejor ha pillado billete, y se ha [ininteligible]
+H2: [afirmación]
+H1: Pues me voy a cagar en él, entonces. [risas]
+H2: [risas]
+H1: Digo "Tío, ahí desde las 5". Joe, que [ininteligible]. Estoy mal. Estoy colgado. No sé qué me pasa.
+H2: [onomatopeya]
+H1: A ver si me pongo a trabajar y me espabilo un poco. Que yo creo que es que [ininteligible]
+H2: ¿Cuándo te pondrías?
+H1: En cuanto... me paguen 5 kilos. [risas]
+H2: Eso es mucho.
+H1: No. Está bien.
+H2: ¿5 kilos? Pero, ¿siendo analista o...? [ininteligible]
+H1: De jefe, de lo que quieran. A mí que me paguen.
+H2: 5 kilos es mucho...
+H1: No... bueno, sí me lo pagan, ¿eh?. Bueno, por lo menos, 4 y medio.
+H2: [asombro] ¿Sí? ¡Qué [argot]guai[fin de argot], 5! Yo nunca podré aspirar a eso. Nunca jamás.
+H1: ¿Por qué?
+H2: Porque en mi carrera no se gana eso.
+H1: Hazte jefa.
+H3: Pero es igual. Luego...
+H2: Ni... ni jefa. Ni de jefa.
+H3: Sí, de jefa sí; o sea, luego es que... tú te puedes poner a trabajar en un sitio y...
+H2: Mira...
+H3: ...y ir subiendo, subiendo, y llegar a ser jefe de un departamento, o hay mo[palabra cortada]...
+H2: Ni un catedrático gana eso.
+H3: [solapamiento de turnos] Pero un catedrático...
+H1: [ininteligible] [fin de solapamiento de turnos]
+H3: ... un catedrático luego tiene trabajos particulares mogollón.
+H2: Eso sí.
+H1: Tú cobras... tú cobras 5 kilos y trabajas... 10 horas al día... y estás pringado y agobiado, y tienes que cumplir plazos, y te mueres, tío.
+H3: Claro.
+H1: Es un agobio. Yo me agobio mucho, pero bueno. Hay que cobrar, tío. Lo fundamental es cobrar 10 kilos. Y cuando ya cobres 10 kilos...
+H2: No te digo...
+H1: ... pues entonces dices: "Bueno, pues ahora (vamos) a permitir el lujo de cobrar 2 menos... pero de trabajar en un sitio a gusto, tío. Yo creo que esa es mi teoría. Pero de momento hay que cobrar.
+H2: Esa es tu aspiración en la vida, ¿no?
+H1: Además si no pides, tío, se creen que eres un matado, tío. Hay que pedir. El mescado informático, como todos los mercados, es que hay que saber venderse. Es decir, hay que decir: "Yo soy el mejor".
+H2: [afirmación]
+H1: "Y soy el que más pido". Entonces, pues...
+H2: No... es verdad, hay que sa[palabra cortada]... hay que decir... En todos los temas.
+H1: Hombre, también hay que saber, ¿no?, pero... Yo no puedo decir: "Soy el que más sé de "UNIX"", porque no tengo ni puta idea, pero... pero yo en lo que he estado trabajando sí sé.
+H2: ¿Tú de que sabes?
+H1: Yo de nada... en [siglas]ADABAS[fin de siglas].
+H2: ¿De qué sabes más?
+H1: En [siglas]ADABAS[fin de siglas], "NATURAL" y de... hacer análisis. Es lo único que sé. ([risas]) Pero bueno. Lo que pasa es que es un campo muy específico.
+H3: Sí, pero precisamente es por eso...
+H1: Me interesan más otras cosas, me gustaría meterme en algo de gráficos, también; algo de "UNIX" y "C"...
+H3: Pero... precisamente por eso... está bien, ¿entiendes?, porque el [siglas]ADABAS[fin de siglas] es un... un sistema que está muy en boga, [ininteligible]
+H1: Sí, está muy... está muy extendido. [texto no transcrito]
+H2: Oye, ¿tú sabes si por aquí hay un campo de fútbol o algo?
+H1: Bueno, esto era el antiguo campo Vallehermoso, pero a no ser que haya...
+H2: Ya...
+H1: Es igual, aquí hay... Ahí está... No, ¿por qué?, ¿porque oyes gritos? Mira las monjas, ¡guarras!
+H2: [risas]
+H1: Bueno, lo que pasa que aquí están los colegios y todos tienen su campillo de futbito.
+H3: Claro, o de fútbol sala, de tenis...
+H1: Y eh... ahí está la politécnica, y el Rectorado también tiene su campitos y...
+H3: Hay también unos campitos...
+H1: Y todos tienen sus cam[palabra cortada]... Bueno, y un poquito más enfrente ahí hay un campo de fútbol ya, y de atletismo. Enfrente del Rectorado.
+H2: Porque ayer... ayer se oía: "¡Buá... uá...!"
+H1: Bueno, pero eso es de los... de los colegios, que hacen cole[palabra cortada]... torneos entre plantas, tío, y eso, y se monta el mogollón.
+H2: ¿Entre plantas?
+H1: Nosotros allí, siempre que había ¡ah!, futbito, ahí la gente asomada y tal, y todos "Uoo... gol"
+H2: ¿Eso es una monja?
+H1: Eso es una monja. [ininteligible] parada... [ininteligible]
+H2: [risas] ¿Las odias?
+H1: No me caen bien.
+H2: Mira, tiene una visita.
+H1: Me parecen un poco falsas.
+H2: Las monjas... son monjas. Qué le vas a hacer.
+H1: Hay alguna muy buenas, creo. Pero hay otras que son unas putas.
+H3: ¿Que están... que están buenas?
+H1: No, que son buenas.
+H2: [risas]
+H1: O sea, hay monjas que son muy buenas. Hay algunas... Tú... tú has estado en un colegio de monjas, ¿no?
+H2: Sí, sí.
+H1: ¿A que hay algunas que son un cielo? Pero hay otras que son unas putas. Malas como ellas solas.
+H2: [afirmación] Sí, sí.
+H1: Pues eso. Hay algunas que son un cielo.
+H2: Todo depende de si son unas reprimidas o no lo son.
+H1: Hay algunas que son un cielo, pero... y que, bua, se preocupan por tí, que realmente tal, pero hay otras que son unas brujas pirujas.
+H3: Igual pasa con los curas, ¿eh?
+H1: Pues sí. A ver, lo mismo. [ruido]
+H3: ¡Ah!, que es una carrera, un maratón o algo así. ¿No ves que va todo el mundo corriendo?
+H2: Sí.
+H1: [ininteligible]
+H3: Esos son los del maratón o... [silencio]
+H2: Mira que nubes más raras. Están como... como... como pintadas.
+H1: Como que les ha dado un mal aire.
+H2: Están como... como... como corridas para allá.
+H1: Es que eso...
+H2: ¿A qué sí? Están... están preciosas.
+H1: ¿Sabes por qué es eso? Porque hay una... porque hay una corriente de aire más baja que ocurre en la parte de abajo de la [ininteligible]
+H2: Ay, no me digas; pero están... Es como si las hubieran pintado así... mal. [onomatopeya], que se hubieran dejado el trozo.
+H1: Una monja que le daba... clase de pintura a mi hermano decía que cuando se pintaba un cuadro, que cualquier cielo es [ruido] (factible).
+H2: Claro.
+H1: O sea, podías pintar lo que quisieses,
+H2: Sí es verdad, porque existe.
+H1: , porque siempre era posible.
+H2: Sí. Eso... es la teoría de mi padre.
+H1: [interrogación]
+H2: Joe, le pone hasta verde al cielo...
+H1: Sí, eso.
+H2: Sí, sí, sí.
+H1: Hombre, tampoco es... Vamos, le puedes poner las nubes como tú quieras. tampoco es cuestión de que pongas ahí... yo qué sé...
+H2: Una nube en forma de...
+H1: ... un tejado, ¿no? Pero... quiero decir, pero vamos que... que en colores y cosas de esas y tal... Hombre, verde, no sé. Es que eso es...
+H2: Pues sí, pues sí.
+H1: Pero... pero en amarillos, rojos, azules y... y verdes, yo qué sé. Y en nubes, en formas de nubes y todo... Es que puedes hacer lo quieras.
+H2: Sí. ¿Tú no jugabas de pequeño a adivinar las formas de las nubes y tal?
+H1: No.
+H2: ¿Nunca has jugado a eso?
+H1: No. Bueno, he mirado y he dicho: "Vale, esto es [ininteligible] y esto es [ininteligible]"
+H2: Uno de mis jue[palabra cortada]... juegos favoritos.
+H1: ... pero nunca ha dicho...
+H2: Es que ahora no hay ninguna así... Además, como no se mueven...
+H1: Sí, hay una ahí... Hay un unicornio ahí.
+H2: ¿Dónde? Ah, sí...
+H1: Bueno...
+H2: Sí, allí, ¿no? Pero tiene los cuernos un poco difuminados.
+H1: No. Yo digo éste de aquí. Así es como la cabeza y...
+H2: ¿Dónde, dónde?
+H1: Mira, ésa de ahí, digo. ¿No ves que es así como...
+H2: Ah, ésta que está [ininteligible], ¿no?
+H1: ... como si fuese una cabeza y unas patas, [ininteligible]
+H2: Sí. Sí, sí.
+H1: Pues no.
+H2: Pues sí. [risas]
+H1: [ininteligible]
+H2: Oye, me... me gusta mucho el cielo que hay hoy.
+H1: Sí, está bien. [silencio]
+H2: Son las... siete y pico.
+H1: Oye, ¿qué he comido hoy? Tengo ardor.
+H2: ¿Qué has comido?
+H1: Bacalao.
+H2: ¿Bacalao? Pues ya sabes. Eso es del aceite refrito.
+H1: Con tomate. No; el tomate, que era de bote.
+H2: El tomate. El tomate frito es una de las cosas más indigestas que hay.
+H1: Sí, es eso. No se puede comer fuera de casa. No me gusta comer fuera de casa. Me gusta comer en mi casa.
+H2: Hoy nosotros hemos comido en el "Delias".
+H1: ¿Se come bien ahí?
+H2: Muy bien.
+H1: ¿Sí?
+H2: Super bien, vamos. Es que además...
+H1: ¿Qué vale?
+H2: ... la más mínima cosa...
+H1: ¿Setecientas, o así?
+H2: El menú vale... No, el menú vale... El menú vale novecientas, con postre. Pero es que está muy bien. A lo mejor te dicen: "filete con patatas", pero te sirven un filetoncio con una salsa que nos han puesto ahí que era así como de... de ajo, mostaza, orégano, buenísima; patatas fritas y tomates,
+H1: [afirmación]
+H2: , pero todo ahí... grandísimo, el filete sabía...
+H1: ¿Y eso vale novecientas?
+H2: ... genial... No eseo valía... sí nove[palabra cortada]... eso, el filete y eso valía novecientas. El fi[palabra cortada]...
+H1: Joder.
+H2: Pero es que hoy no había menú. Es que los domingos... no hay menú. Pero un día comimos... [risas] [duda] , no sé, de primero [vacilación] no me acuerdo que... Ah, sí, ensalada de ahumados, que estaba buenísima, que era todo ahumados y un poco de lechuga; y pato con nabos, que no sé si te lo conté. Pato. Pues estaba delicioso.
+H1: [afirmación]
+H2: Y... con café y... bueno, y un postre que era... "tarta de tres leches", lo llaman. Está buenísimo. Como con leche... condensada, no sé qué, merengue... buenísimo.
+H1: [afirmación]
+H2: Y hoy Simón ha pedido tarta al güisqui, y era la típica tarta al güisqui, o sea, no...
+H1: Ya.
+H2: ... no era helada. Era una tarta, y le han traído güisqui, lo han quemado, lo han echado por encima... genial. Y yo he tomado [extranjerismo]mousse[fin de extranjerismo] de plátano, que estaba increíble, deliciosa.
+H1: [afirmación]
+H2: Es todo muy, muy así. Incluso pides, yo qué sé, guisantes con jamón, que es un plato (bien) sencillo y tonto, los ponen muy bien.
+H1: Pues tiene que estar bueno, sí, porque hay veces que no saben a nada. Sí, eso lo [ininteligible] mucho.
+H2: No, pues... [duda] está muy bien el Delias. [afirmación] [silencio]
+H1: [lee] "Telecomando"
+H2: [afirmación]
+H1: [tararea]
+H2: ¿Sabes qué significa [siglas]ELBE[fin de siglas]?
+H1: No.
+H2: "Electrónica Beltrán".
+H1: ¿Sí?
+H2: Sí. [risas]
+H1: ¿Es español, o qué?
+H2: Sí... es español.
+H1: No me digas.
+H2: Que sí... y se ve genial. No sé si es Beltrán o Bertrán, o algo así. Sí, sí, sí.

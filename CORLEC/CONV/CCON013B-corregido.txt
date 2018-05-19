@@ -1,0 +1,133 @@
+#archivo: ccon013b
+#fecha de grabación: 20-3-91
+#fuente: conversación grabada en tienda de reparaciones electrónicas
+#localización: Madrid
+#términos: cassette, reparaciones
+#H1: dependiente. Varón, 55 años
+#H2: clienta. Mujer, 45 años
+#H3: dependienta. Mujer, 35
+#H4: cliente. Varón, 30 años
+#H5: cliente. Mujer, 23 años
+H1:¿No tiene la batería?
+H2:Sí, sí la tengo, sí.
+H1:¿Sí?
+H2:Tenga. Es que esto como no sé [ininteligible] [silencio]
+H1:Esto... esto no es de... esto no es de la... cámara. Esto es de un... de un [extranjerismo]cassette[fin de extranjerismo] [siglas]TCR[fin de siglas].
+H1:[ininteligible] que se ha equivocado y ha cogido otra. [silencio] ¿Un [extranjerismo]cassette[fin de extranjerismo]?
+H1:Sí, [siglas]TCR[fin de siglas].
+H2:Bueno, pues ya le diré que busque. [silencio] Se ha equivocado. [silencio] Yo juraría que es ésta, ¿eh?
+H3:Es igual que ésa pero...
+H2:No sé. Lo ha preparado él todo. [silencio]
+H3:Ha cogido... Estarían las facturas juntas...
+H2:Juntas.
+H1:Y ha cogido [solapamiento de turnos] la de... la del aparato éste
+H2:Y ha cogido la de... el aparato [fin de solapamiento de turnos]
+H1:en vez de ese. [silencio]
+H1:Bueno, ¿me va diciendo mientras el nombre...
+H2:Sí.
+H1:...por favor?
+H2:Eh... Montserrat [ininteligible], o bueno, [ininteligible]. Eugenio Salazar veinte.
+H1:Eugenio Salazar veinte, ¿no? [silencio] Veinte. ¿Teléfono por favor?
+H2:Cuatro trece,
+H1:Cuatro trece,
+H2:Cero, cero,
+H1:Cero, cero,
+H2:Cuarenta y cuatro.
+H1:Cuarenta y cuatro.
+H2:Es que por la fecha de compra y todo, yo juraría que sí es.
+H1:Mire, mire, señora, mire lo pa[palabra cortada], lo que pone aquí. Modelo [siglas]TCM[fin de siglas]. Mire. [silencio] Modelo. [silencio]
+H3:Doscientos ochenta trescientos catorce.
+H1:Doscientos ochenta [silencio] trescientas catorce.
+H3:[siglas]UCD[fin de siglas].
+H1:[siglas]VVF[fin de siglas] trescientos cuarenta.
+H3:¿F tres cuarenta?
+H2:¿Accesorios no?
+H3:No. Se lo devuelvo.
+H2:Me lo llevo todo, ¿no?
+H3:Sí.
+H1:Bueno, pues nada.
+H2:¿Para cuándo estará?
+H1:Pues mire, nos va a llamar el...
+H3:Ponme la fecha del Corte Inglés, Antonio.
+H1:¿Eh?
+H3:Que me pongas la fecha del Corte Inglés.
+H1:Sí. [silencio] El diez de Abril. [silencio]
+H2:¿Entonces cuándo les llamo?
+H1:Pues el día... el día diez de... del que viene.
+H2:¿El diez de Abril?
+H1:Sí.
+H2:Vale. ¿Esto [ininteligible] me lo llevo?
+H1:Sí, sí, se lo lleva, se lo lleva. [silencio]
+H2:¿Me hago un papelito todo esto?
+H1:Sí, claro. [silencio] Firme aquí. [silencio] Mire aquí tiene el teléfono...
+H2:Sí.
+H1:y éste es el número de referencia.
+H2:Muy bien. El diez de Abril, ¿no? Vale, muchas gracias.
+H1:Adiós.
+H2:Adiós. [silencio]
+H4:¿Qué es? ¿mucho lo tuyo?
+H5:No, no sé. Que ¿tú vas a tardar? ¿Vas a tardar?
+H4:Según.
+H5:No, si a mí lo que pasa es que ya me la han arreglado y no...
+H4:Buenos días.
+H1:Hola.
+H4:Mire, yo vengo a ver si pueden... me pueden decir qué le pasa a esto. Esta cámara es muy antigua y bueno. Yo esto lo conecto a la red, ¿eh? Y esto lo conecto a este [extranjerismo]cassette[fin de extranjerismo] [silencio]
+H1:¿Puedes salir?
+H3:[ininteligible]
+H1:Si es que son dos cosas diferentes, que yo... no lo entiendo lo que quiere... lo que quiere decir. Mujer, yo lo cojo aunque sea pero... [silencio] Coge [ininteligible] y lo conecta aquí.
+H4:Es que esto es la... para conectar...
+H5:Mire, sabe, es que es un problema porque ya me la han arreglado pero... se ha vuelto a estropear. La he usado sólo... una vez. Resulta que los botones estaban estropeados, o sea que yo apretaba al [extranjerismo]play[fin de extranjerismo] y luego no lo podía parar el rebo[palabra cortada] y mire, es que ahora pasa igual, sigue la... Se queda el rebobinado metido y aunque le des a parar...
+H1:Pero es que esto tendrá que ser con cinta, ¿no?
+H5:No, bueno. Sí. Está en garantía el arreglo pero...
+H4:... puede ser o por... por... de la cámara o aquí, ¿no? La cámara se enciende y esto tampoco parece que le pase la energía. Puede ser o la batería de aquí o yo no sé, o éste.
+H3:En cualquier caso, lo tuyo, pienso que debería de... revisarte todo, por lo que veo, ¿eh?
+H4:Hombre...pues...
+H3:¿Sí?
+H4:Eso ¿cuánto pue[palabra cortada] puede costarme?
+H3:¿La revisión sin que luego tenga nada? Tres mil y algo.
+H4:Y si tiene...
+H3:Y luego lo que tenga.
+H4:Ya. Bueno, pues venga. [silencio] Entonces tienes que mirar la cámara también, por qué no se enciende o...
+H3:Sí, sí. Todo el equipo vamos. Vamos, si quieres.
+H4:Sí, sí, yo quiero. [silencio]
+H3:Seguramente sea la fuente de alimentación, o sea, éste.
+H4:Hombre, éste se enciende, ¿sabes? [solapamiento de turnos] si no pues...
+H3:Sí pero no... [fin de solapamiento de turnos]
+H4:Lo que pasa que yo este cable no sé. ¿Esto para qué es? ¿Tú sabes para qué es esto?
+H3:Para la batería, o sea, es otra forma de alimentación.
+H4:Otra. Simplemente para el teclado pero...
+H3:Si viene desde la red tiene que ir aquí.
+H1:Bueno, yo la cojo... esto porque lo tiene en garantía, claro.
+H5:Pero... una cosa que es que... por favor ¿le podrían dar algún tipo de prioridad y estará esta semana? Es que claro, yo lo traje con tiempo porque para mí es urgente usarlo esta Semana Santa...
+H3:Sí, sí. Por supuesto
+H5:¿Sí? Muchas gracias. Es que claro, lo necesito para Semana Santa y me voy ya este Viernes, de vacaciones.
+H3:Apúntalo ahí, que no se [ininteligible]. Te he dejado todo preparado, ¿eh? cada aparato con su chapita.
+H5:Perdona, entonces ¿esto para el Jueves o para el Viernes? Bueno hoy es Miércoles.
+H3:Hoy es Miércoles. El Lunes que viene...
+H5:Ay, no, no, no. Es que tendría
+H3:Tan [solapamiento de turnos] tan rápido...
+H5:que ser estos [fin de solapamiento de turnos] días. Es que me voy de vacaciones.
+H3:Bueno, pàsaselo a [ininteligible], ¿eh? pásaselo directamente y el... ¿cuándo has dicho que te vas?
+H5:Claro, es que hoy es Miércoles. Tenía que ser o mañana o pasado mañana.
+H3:Mañana me llamas, ¿eh?
+H5:Mañana llamo a ver qué ocurre, pero por favor intentadlo porque... [solapamiento de turnos] es que lo necesito...
+H3:No, no, va a pasar [fin de solapamiento de turnos] ahora mismo directamente
+H4:Oye,
+H3:ahora, si me encuentro con un imponderable, ya no...
+H4:Lo de la revisión serían dos mil el equipo ¿no?, entero. [solapamiento de turnos] No dos mil por cada cosa, ¿no?
+H3:Sí, sí, [fin de solapamiento de turnos] exactamente. Sería la revisión si no tiene nada, ¿eh? De lo que no tenga nada son tres mil y pico. Si tiene, si yo te reviso esto no tiene nada y eso tiene avería en la factura de la avería pagas tres mil y pico.
+H4:¿Y no me puedes? por ejemplo, yo vengo ¿no? y me decís lo que hay y me dais el pre[palabra cortada] presupuesto que va a ser, para yo saber cuánto dinero me va a costar antes de arreglarlo.
+H3:Sí,
+H4:[solapamiento de turnos] Lo podéis hacer.
+H3:pero de todas formas [fin de solapamiento de turnos] hay que revisar todo eso, ¿eh?
+H4:Bueno ya, pero es simplemente que dices [solapamiento de turnos] revisádmelo...
+H3:Sí, sí. [fin de solapamiento de turnos] Un presupuesto te voy a [solapamiento de turnos] dar de todas maneras.
+H4:Y yo me vengo [fin de solapamiento de turnos] y me decís el presupuesto para arreglármelo.
+H3:Sí, sí.
+H4:¿Vale?
+H3:Voy a darte presupuesto de... si es que hay algo mal
+H4:Vale.
+H3:Si no te diré, revisa cables, en fin... ya. [silencio]
+H1:Bueno, firme aquí. [silencio]
+H4:O sea, que entonces llamo mañana.
+H1:Sí. [silencio]

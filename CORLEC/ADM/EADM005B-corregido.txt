@@ -1,0 +1,26 @@
+#archivo: EADM005B
+#fecha de grabación: 05-06-91
+#fuente: conversación telefónica en empresa
+#localización: Madrid
+#términos: teléfono, estropeado, centralita, departamento
+#H1: mujer, telefonista, 27 años
+#H2: mujer, telefonista, 32 años
+#Ha: mujer, cliente
+#Hb: mujer, secretaria, 27 años
+H1: ...De [extranjerismo]Johnson and Johnson[fin de extranjerismo]... Vinieron a arreglar un teléfono hace dos días... [duda] Se había estropeado. Vinieron ayer... y sigue estropeado. Entonces... [duda] pues es para que vengan otra vez, por favor, cuanto antes, porque es que es el teléfono del director general... [vacilación] y me gustaría que se arreglara lo antes posible... [vacilación] Pero no la tendréis porque... [duda] el chico supone... que está arreglada.
+H2: Sí, pero de todas maneras nosotros lo tenemos... ¿eh?... Aun[palabra cortada]... ¡Claro! A nosotros nos quedan aquí grabadas [ininteligible]...
+H1: ¿Cómo? ¿Cómo?...[duda] ¡Ya! Ya, ya. Está arreglado, pues... [vacilación] ¡eso ya está pasado! ¿No? [afirmación]. [ininteligible] ... No, perdona, pero es que yo no... [duda] ¡Un segundito, por favor! "Cilag", ¿dígame?
+Ha: Eh... buenos días. Por favor, [duda] ¿me puede pasar con la persona responsable del departamento de... [duda] [ininteligible]?
+H1: ¿Usted... [vacilación] a qué empresa llama, por favor?
+Ha: A... [vacilación], bueno, yo tengo aquí en la tarjeta a "Cilag".
+H1: ...[ininteligible] Te paso a una persona que quiere hablar con proceso de datos. pero de "Cilag".
+Hb: ¡Ah! Pues no sé. ¡Pásamelo, a ver! [risas]...
+H1: Vale.
+Hb: ...que vea yo qué es eso... [risas]. Gracias.
+H1: ¿Oye?
+H2: Sí.
+H1: Sí, perdona, ¿eh? Eh... mira, entonces... la avería es de una... [duda] de... un puesto de centralita, aquí tenemos dos, ¿eh? Pues de un puesto de centralita... que tiene sólo dos extensiones y... bueno, aquí lo que ocurre es que... [duda] eh... hay una llamada y... [duda] el que llama no nos oye.
+H2: Ya...
+H1: Nosotros sí que le oímos a él, pero él no nos oye a nosotros.
+H2: No os oye, ¿no?
+H1: Y... es que ha venido dos veces a... [duda] [ininteligible] ...canto antes, ¿vale? Es que es el teléfono del director y... gracias. Hasta luego [teléfono].

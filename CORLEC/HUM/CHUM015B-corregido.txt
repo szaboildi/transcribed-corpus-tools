@@ -1,0 +1,75 @@
+#archivo: chum015b
+#fecha de grabación: 21-3-91
+#fuente: coloquio de Gramática Generativa
+#localización: Madrid
+#términos: Lingüística, Gramática Generativa
+#H1: ponente. Mujer c. 45. Catalana
+#H2: ponente. Mujer c. 50
+#H3: hablante italiana. Su intervención en lengua italiana no se tiene en cuenta
+H1:Otra posibilidad a lo mejor, sería explorar lo que tú dices del movimiento largo y hacer subir eso directamente a com sin pasarlo por ninguna parte. Que yo ayer cuando vi lo tuyo, pensé, digo: "Bueno, a lo mejor" pero yo eso no lo he pensado nada.
+H2:No, yo eso tampoco me lo... no, no. Yo los gerundios, lo que hacía [solapamiento de turnos] es que decía fíjate, los gerundios...
+H1:Pero eso, eso también [ininteligible], claro, está allí metido. [fin de solapamiento de turnos]
+H2:pero que es igual que en español, pero es que ahí hay muchas capas flexionales, que los gerundios tienen una capa que es mu[palabra cortada]... que yo la llamaba modal, pero se podía llamar
+H1:Sí.
+H2:aspectual, si eso era lo de menos,
+H1:Ah.
+H2:que era intermedia y hasta ahí subía el gerundio.
+H1:[afirmación]
+H2:Que subía hasta el contenido intuitivo, dado lo que por ejemplo ahora estamos viendo, sería que hay una capa aspectual a la que sube el verbo para buscar su i n g aspectual.
+H1:Sí, sí, sí, sí. Claro. Sí, sí, sí. Claro, [solapamiento de turnos] sí. Esa es, claro.
+H2:Pero que también es un análisis que había [fin de solapamiento de turnos] propuesto... que ha propuesto, que ha propuesto también [extranjerismo]Baker[fin de extranjerismo] en un trabajo que tiene que no he llegado ni a ver. He visto el resumen, pero no el trabajo que lo en... en... en... en la conferencia, en alguna conferencia de esas de California de [extranjerismo][ininteligible] Linguistics[fin de extranjerismo] lo que pa[palabra cortada]... pues puede... el gerundio, ya como as[palabra cortada]... como capa aspectual, o sea que el afijo.
+H1:No, claro, es que yo lo que digo, porque nadie habla, nadie está hablando de eh... de claúsulas aspectuales imperfectivas pero lo que está claro es que "cantando Juan La Traviata todo el mundo se emocionó" pues ahí... no te vale decir que es un perfectivo. [duda] es un imperfectivo y no creo que, igual que tienes... podemos,
+H2:Pero hacerlo morfológicamente metiendo ahí el afijo [solapamiento de turnos] [ininteligible] posibilidad.
+H1:[ininteligible] [fin de solapamiento de turnos] Claro pero es que justamente cuando [solapamiento de turnos] tienes morfología...
+H2:Y el afijo provoca [fin de solapamiento de turnos] la subida.
+H1:Cuando tienes morfología las cosas son fáciles.
+H2:Pero es que tienes morfología, [solapamiento de turnos] lo que pasa que lo...
+H1:En el gerundio [fin de solapamiento de turnos] sí.
+H2:Sí, [solapamiento de turnos] claro.
+H1:En el... [fin de solapamiento de turnos] el problema son los otros. Porque claro, lo que yo digo en cierta manera pues tengo que basarme, pues eso, en que hay... que eso, tienen [extranjerismo][ininteligible][fin de extranjerismo], ¿verdad? de variable y que entonces se a[palabra cortada]... se agarra pues a... a com porque com, como dice [extranjerismo]Stowell[fin de extranjerismo] y como dice tanta gente pues es un sitio donde ahí están los operadores de tiempo o alguna historia así. Y en última instancia [solapamiento de turnos] pues lo que hay que procurar...
+H2:Bueno, esto sería reformular, [fin de solapamiento de turnos] diciendo:
+H1:Sí.
+H2:"el operador de aspecto está en el complementante y por eso sube" para [solapamiento de turnos] [ininteligible] para... para provocar
+H1:Bueno, pues eso mismo, sí señora [solapamiento de turnos]
+H2:el [solapamiento de turnos] valor aspectual.
+H1:Sí, sí señora. [solapamiento de turnos]
+H2:Y eso se [solapamiento de turnos] puede ser morfológico si metes el endo ahí,
+H1:Sí, sí, sí, sí, sí. [fin de solapamiento de turnos]
+H2:o puede ser forma lógica
+H1:[solapamiento de turnos] Exacto.
+H2:un operador [fin de solapamiento de turnos] aspectual, que tú tienes que activar
+H1:Claro. Sí. [interrupción]
+H2:... ha llegado el verbo hasta el complementante. Es otra posibilidad, ¿eh?
+H1:Ya, ya, ya, claro. Porque crucialmente, yo quiero decir que ha llegado hasta complementante.
+H2:Sí, sí, sí, sí. Pero es que tiene sitio
+H1:Claro.
+H2:para un sujeto preverbal que es [solapamiento de turnos] un especificador.
+H1:Bueno, algo sí. [fin de solapamiento de turnos]
+H3:[extranjerismo][texto no transcrito][fin de extranjerismo]
+H2:Pero no son las [extranjerismo]linguas romance[fin de extranjerismo] porque el español antiguo dice: [solapamiento de turnos] "el rey cantando, cantando el rey".
+H1:Sí, sí, sí, sí. Claro. Claro. [fin de solapamiento de turnos]
+H2:Y en el... y en el rumano...
+H1:Sí, sí, sí.
+H2:en el rumano se dice: "el rey cantando y cantando el rey".
+H1:[afirmación]
+H2:O sea, que es que hay lenguas... eso sería claro, a determinar y a dar principios. Pero hay lenguas [extranjerismo]pro-drop[fin de extranjerismo] de tipo romance en que ésta... ésta fenomenología no es así.
+H1:Claro.
+H2:O sea, que no está tan [solapamiento de turnos] ligado.
+H1:Claro. [fin de solapamiento de turnos] Claro.
+H2:No está tan ligado. Claro, las lenguas romances como siempre, es el español actual, el italiano [solapamiento de turnos] actual y tal.
+H1:No, no, no, no. [fin de solapamiento de turnos] [ininteligible] es verdad, [solapamiento de turnos] sí.
+H2:Y entonces, [fin de solapamiento de turnos] claro, cuando se abre un poco más la perspectiva ya no sale el tipo romance tan claro como se cree.
+H1:Bueno, pero es que además, incluso para [ininteligible]
+H2:Claro, claro, [solapamiento de turnos] claro.
+H1:Es [fin de solapamiento de turnos] evidente.
+H2:O sea, que en el español medieval, yo diría que probablemente en el italiano entonces también, porque son muy parecidas, pues eso, el rey cantando, cantando el rey, van alternándose con mucha facilidad en cualquier texto. Lo encuentras, en cuanto lees...
+H3:[extranjerismo][texto no transcrito][fin de extranjerismo]
+H2:Sí, yo diri[palabra cortada], bueno, yo no lo he [solapamiento de turnos] estudiado,
+H1:Bueno, [fin de solapamiento de turnos] no es...
+H2:a lo mejor no es tan libre.
+H1:Ya.
+H2:Pero a... por lo menos se encuentra al borde sujeto gerundios, gerundio sujeto. ¿Eh? O sea que...
+H1:Sí. Incluso en castellano actual, eh... no necesariamente, no necesariamente hay inversión.
+H3:[extranjerismo][texto no transcrito][fin de extranjerismo]
+Todos: [ininteligible]
+H1:Yo creo que en español no.

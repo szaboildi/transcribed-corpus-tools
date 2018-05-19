@@ -1,0 +1,125 @@
+#archivo: PCON007A
+#fecha de grabación: 14-01-92
+#fuente: grabación directa en supermercado
+#localización: barrio de estrecho, Madrid
+#términos: frutería, puerros, mandarinas, reineta, galletas, caducado
+#H1: mujer, c. 45 años, cliente
+#H2: varón, c. 50 años, frutero
+#H3: mujer, c. 65 años, cliente
+#H4: varón, 25 años, cliente
+#H5: mujer, c. 60 años, cliente
+#H6: mujer, c. 40 años, cajera
+#H8: varón, c. 60 años, cliente
+#H9: mujer, c. 50 años, ama de casa
+[texto no transcrito]
+H1: Déme medio de pimientos.
+H2: ¿De cuáles [solapamiento de turnos] quiere?
+H1: De esos [fin de solapamiento de turnos] para freír, de los pequeños. [texto no transcrito]
+H1: Medio. [silencio]
+H1: ¿A cómo están los puerros?
+H2: [ininteligible]
+H3: ¿Eh...?
+H2: Dos cincuenta. Ahí tiene. ¿Qué más quería?
+H1: Déme... un puerro, que sea bueno.
+H2: Sí... [solapamiento de turnos] [ininteligible]
+H1: Luego tiene [fin de solapamiento de turnos] unos precios ahora el puerro que...
+H2: Ahora está carísimo.
+H1: Por eso.
+H2: [ininteligible]
+H1: No, las zanahorias las cojo allí. Nada más.
+H2: ¡Ah! Vienen bastante blancos, ¿Eh? Están bien... [ininteligible] bien enterrados, cuando vienen tan blancos...
+H1: Esto, ¿lo pone en bolsa o lo ponemos [solapamiento de turnos] fuera?
+H2: No, eso [fin de solapamiento de turnos] guárdelo usted. Aquí va puesto lo de [solapamiento de turnos] [ininteligible]
+H1: ¡Ah! Vale... vale... vale... [fin de solapamiento de turnos]
+H2: [ininteligible] cosas... [texto no transcrito]
+H3: Y a mí un puerro y [ininteligible].
+H2: Bien. ¿Así gordito, Lucía?
+H3: Sí, pero no le [vacilación] corte el rabo.
+H2: [ininteligible]
+H3: No...
+H2: ¡Ah! Vale, ves, por eso no lo corto.
+H3: Claro, es que [ininteligible] no vale.
+H2: Claro, por eso yo... [ininteligible] [solapamiento de turnos] mucha gente [ininteligible]
+H3: Claro [fin de solapamiento de turnos].
+H2: ...por eso [solapamiento de turnos] [ininteligible]
+H3: Claro [fin de solapamiento de turnos]. [texto no transcrito]
+H3: Y... póngame mandarinas.
+H2: Sí. [texto no transcrito]
+H3: Claro.
+H2: Mandarinas cuántas, Lucía.
+H3: Pues, un quilo.
+H2: [ininteligible] estas son [ininteligible], Lucía, [solapamiento de turnos] de verdad
+H3: ¿Sí...? [fin de solapamiento de turnos]
+H2: [ininteligible]
+H3: A ver si es verdad, ¿eh...?
+H2: [afirmación] estas están bien apretaditas, Lucía. [ininteligible]
+H3: ¿Es reineta?
+H2: Esto [ininteligible] qué [argot] guai [fin de argot], pero [argot] guai [fin de argot] ¿eh...?
+H3: Pero esa... esa sí me gusta a mí...
+H2: [ininteligible] le gustó el queso de [ininteligible].
+H3: No.
+H2: No le gustó. [silencio] ¿Qué le gusta más, el de Burgos?
+H3: Sí.
+H2: Pues el de Burgos sabe a menos queso. Ese [vacilación] tiene un poquito [solapamiento de turnos] sabor.
+H3: Ya [fin de solapamiento de turnos].
+H2: El de Burgos... mira, ahora acabo de comer yo de Burgos, porque varío, pero donde está el otro que se quite el de Burgos.
+H3: Póngame medio, pero... como... como... usted sabe cómo me gusta a mí.
+H2: [ininteligible]
+H3: Esta [vacilación] ya me has hecho... tenían el [ininteligible] chuchurrío. Ahora ¿cómo la tienen, igual?
+H2: Es el mismo.
+H3: ¿Dónde la mete, en el horno, por la noche?
+H2: [ininteligible] sí. Ahí... [vacilación] en la pastelería, que le... para hacerte a la plancha, ahora, cuando vengas por la mañana.
+H3: Porque vamos... ¿Yo? ¡Hay...! [vacilación] más pequeñitos. [vacilación] este... ese... ese es inmenso.
+H2: [ininteligible]
+H3: Luego dejo media y... está allí... reseca.
+H2: Ahí tiene. ¿Qué más?
+H3: Nada más. [texto no transcrito]
+H3: Ah... ¿Pero me ha puesto las viejecicas?
+H2: ¿Eh...?
+H3: ¿Las viejecitas?
+H2: Sí. Estas son [argot] guai [fin de argot]. Estas son de las de ahí, [ininteligible]. LLeva... tres cosa, venga.
+H3: Sí.
+H2: A ver usted, dígame.
+H4: Un quilo de mandarinas.
+H5: Hola, buenos días.
+H3: Buenos días. [ininteligible]
+H5: Feliz año.
+H3: Bueno, sí...
+H5: ¿Qué tal te va la familia?
+H3: Vamos tirando todos. [texto no transcrito]
+H2: Ahí lo tiene. ¿Qué más?
+H4: Nada más, gracias. [texto no transcrito]
+H6: [ininteligible] no hay... ¿verdad?
+H7: Sí... en la [solapamiento de turnos] estantería esa de...
+H6: Sí... dice que sí... ¿Cuál en la de los...?
+H8: [vacilación] ...estantería.
+H6: En la de los... [ininteligible]
+H8: ¿Especias?
+H6: ...especies [sic].
+H7: Sí. [ininteligible] [texto no transcrito]
+H6: Mil cuatrocientas siete. ¿No tengo las siete?
+H4: Cinco pesetas.
+H6: Dame cinco. [silencio]
+H4: Gracias. [texto no transcrito] [interrupción de la grabación]
+H4: ¿Eh?
+H9: ¿Pesa?
+H4: Sí... un poquito. Voy a dejarlo allí.
+H9: [ininteligible] [silencio]
+H4: Una botella de vino... caja de galletas... dos cajas de leche...
+H9: [ininteligible]
+H4: Bollos, ¿es suficiente?
+H9: Sí. [ininteligible]
+H4: Mandarinas... [silencio] zanahorias... patatas... Y nada más. [silencio] No he comprado los garbanzos porque...
+H9: Estaban [solapamiento de turnos] pasados ¿no?
+H4: Papá tenía [fin de solapamiento de turnos] razón. Todos estaban caducados. [texto no transcrito]
+H4: Por eso están de oferta.
+H9: Están de oferta. Están alante, ¿no? Delante.
+H4: No... están en su sitio pero de [solapamiento de turnos] oferta.
+H9: Claro [fin de solapamiento de turnos].
+H4: Y han... sido [silencio] mil cuatrocientas siete... seiscientas pelas. Está bien, ¿no? He comprado de estas galletas. Por cambiar.
+H9: [afirmación] [ininteligible] [texto no transcrito]
+H4: Bueno, algo más.
+H9: [vacilación] ...cuidadito.
+H4: Pues... me voy para abajo. ¿Vale? [silencio] Hasta luego...
+H9: ¿No te has comprado tabaco?
+H4: No... [texto no transcrito]

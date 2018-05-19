@@ -1,0 +1,90 @@
+#archivo: ACON011B
+#fecha de grabación: 7-91
+#fuente: conversación entre amigos, en casa
+#localización: Madrid
+#H1: varón, estudiante, 25 años
+#H2: mujer, estudiante, 24 años
+#H3: varón, informático, 28 años
+#H4: mujer, informática, 27 años
+#términos: juicio, accidente, sentencia, visibilidad, testigo, culpa, obstáculo, fumar, regreso
+H1: Ay, mañana sale mi sentencia.
+H2: ¿Qué sentencia?
+H1: Tuve un juicio de... de la hostia que me metí.
+H3: Aparta un momentín... un segundito... [silencio]
+H2: ¿Y eso?
+H1: ¿No te acuerdas que me metí una torta de [solapamiento de turnos] [ininteligible]
+H2: Sí, sí, sí... [fin de solapamiento de turnos] Que... te pasó de todo.
+H1: Pues tuve un juicio...
+H2: Sí...
+H1: Y nada, pendiente de...
+H2: ¿De resolución?
+H1: Y Serafo y Greta testigos principales. Les apercibieron de falso testimonio...
+H2: ¿Sí? Pero, ¿estaban o no estaban?
+H1: No estaban.
+H3: Mira, puedes poner... mezclar el teletexto con la [solapamiento de turnos] [ininteligible]
+H2: ¡Qué mal! [fin de solapamiento de turnos] Y si no... ¿que te... que te puede pasar si te pillan en esas cosas?
+H1: [onomatopeya]¡Pff![fin de onomatopeya] Pues un multazo pero... de órdago.
+H2: [solapamiento de turnos] Y entonces, ¿por qué lo haces?
+H1: Y a ellos... [fin de solapamiento de turnos] Y a ellos... Pues porque no había más manera de demostrar quien...
+H2: Pero, en realidad, ¿quién tuvo la culpa?
+H1: Él.
+H2: ¿Sí?
+H1: Lo que pasa es que yo no puedo probarlo. Porque era un cruce de semáforos.
+H2: [solapamiento de turnos] Per[palabra cortada]...
+H1: Él [fin de solapamiento de turnos] dice que yo me lo salté y yo digo que él se lo saltó.
+H2: Igual, igualito le pasó a... a mi hermano. Igual.
+H1: ¿Y llevó testigos?
+H2: Sí.
+H1: ¿Verdaderos?
+H2: Pero no, no; al final no hubo juicio.
+H1: [solapamiento de turnos] Hala, claro...
+H2: El otro lo [fin de solapamiento de turnos] reconozó[sic]... lo reconoció y... sanseacabó. Y mis padres, también.
+H1: Sí...
+H2: Pasó igual con... Es que en mi casa... Bueno, en casa de mis padres, en Bravo Murillo, hay un semáforo... [onomatopeya]¡Puah![fin de onomatopeya]...
+H4: [ininteligible]
+H1: Ah, ya sé cuál es. Ya sé cuál es.
+H2: [solapamiento de turnos] Llegando...
+H1: ¿Uno que salen... [fin de solapamiento de turnos] que salen de la izquierda?
+H2: No, si... es muy larga cuat[palabra cortada]... Es la[palabra cortada]... es muy larga. Es... llegando a Ríos Rosas, antes de la gasolinera... [solapamiento de turnos] [ininteligible]
+H1: Sé dónde vives. [fin de solapamiento de turnos] Por eso; llegando antes, ¿la cafetería esa que hay en la esquina?
+H2: Sí. Ésa, ésa.
+H1: [solapamiento de turnos] Me lo imaginaba.
+H2: Ese semáforo [fin de solapamiento de turnos] que, aparte, antes había un árbol y no se veía el semáforo; y... lo quitaron, y tal. Mucha pena por el árbol, pero, oye, no se veía el semáforo.
+H1: [afirmación]
+H2: Podían haber... puesto un poco más... Y igual; y... y se dieron y, entonces, un chico dijo: "No, no; se han saltado ustedes el semáforo", mis padres: "No, te lo has saltado tú"... Y están pendientes de juicio.
+H3: Puedes hablar sin manos y... está muy bien.
+H4: [solapamiento de turnos] Tienes contestador, ¿no? también.
+H3: [ininteligible] No, el contestador lo tenemos aparte.
+H1: Ah, pues a mí... a mí me ha salido en... en seis meses, ¿eh? [fin de solapamiento de turnos]
+H2: No, si es que a ellos les pasó en ago[palabra cortada]... hace cuatro.
+H1: Pues eso... A mí me ha salido super rápido, ¿eh? me he quedado alucinado.
+H2: Ya ves. [silencio]
+H2: ¿Y esto que es? Esto no es mío.
+H3: No, eso es mío. [silencio]
+H1: Simón, ¿está ahí mi tabaco?
+H2: [canta]Aquí no se fuma...[deja de cantar]
+H4: Yo tengo tabaco.
+H1: [solapamiento de turnos] No, si no nos deja.
+H2: [canta]Se fuma... [deja de cantar] Y en la terraza se fuma... se está muchísimo mejor en la terraza.
+H1: Vamos para dentro entonces.
+H2: [solapamiento de turnos] Claro.
+H4: A la terraza vamos. [fin de solapamiento de turnos]
+H1: ¿A fumar?
+H4: [risas] ¿Aquí sé se puede?
+H1: Y si no, pues... y que se jodan. Y se compren otra casa para fumadores.
+H4: [risas]
+H2: Seguro.
+H4: Javi se ha traído una hamaca, ¿sabéis?
+H3: ¿Sí?
+H4: Muy guai. Además es de las guai, ya veréis. Esta mañana nos estuvo contando todo... Se fue tardísimo, a todo esto.
+H3: ¿A dónde?
+H2: Ah, pero ¿ya es...? ¿Ya ha venido Javi?
+H4: Javi vino ayer.
+H1: ¿Fernández?
+H3: ¿Ah, sí? Anda. No lo sabía.
+H1: No lo sabíamos, no.
+H4: Bueno, vino hoy por la mañana, a las... ¿a qué hora me ha despertado a mí?, ¿a qué hora ha entrado en mi habitación? A las... ocho menos cuarto...
+H3: [ininteligible] ¿Y cómo viene de Barajas? ¿Se lo ha traído alguien?
+H4: Me imagino que se cogería un taxi, porque como llegaba tan sumamente [solapamiento de turnos] temprano...
+H3: Jo, pues nos podía haber llamado [ininteligible] ya ves.
+H4: Claro... es que nosotros...

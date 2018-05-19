@@ -1,0 +1,118 @@
+#archivo: APUB035B
+#fecha de grabación: 14-1-92
+#fuente: radio
+#localización: Madrid
+#H1: mujer, edad desconocida
+#H2: varón, locutor, edad desconocida
+#H3: mujer, locutora, edad desconocida
+#H4: mujer, edad desconocida
+#H5: mujer, edad desconocida
+#términos: venta, precio, cama, piso, local, número de teléfono, auxiliar de clínica, enfermo
+H1: ... El precio... sería a convenir; pero vamos, sobre los sesenta y cinco o por ahí.
+H2: Dígame usted el teléfono para que puedan llamarla...
+H1: Ocho quince...
+H2: Ocho... quince...
+H1: Ocho quin[palabra cortada]... cincuenta y cuatro sesenta y uno.
+H2: Cincuenta y cuatro sesenta y uno.
+H1: [solapamiento de turnos] Sí.
+H2: Ocho [fin de solapamiento de turnos] quince cincuenta y cuatro sesenta y uno.
+H1: Exacto. Y también tengo una cama... antigua, de esas de hierro, de... de... hace ya muchísimos años.
+H2: Sí...
+H1: También se vende, [solapamiento de turnos] sólo la cama.
+H2: ¿El cabecero [fin de solapamiento de turnos] o la cama?
+H1: No, la cama... completa, [solapamiento de turnos] sí...
+H2: La cama [fin de solapamiento de turnos] completa.
+H1: Pero sin... somier. Nada más que... el cabecero, la... la... los pies y, claro, los largueros esos [solapamiento de turnos] que tiene.
+H2: ¿De ésos que eran... [fin de solapamiento de turnos] ésas que eran de níquel?
+H1: [silencio] Sí, eso.
+H2: [risas] Bueno, pues dígame el teléfono otra vez.
+H1: Pues el ocho quince...
+H2: Ocho quince...
+H1: Cincuenta y cuatro...
+H2: Cincuenta y cuatro...
+H1: Sesenta y uno.
+H2: Sesenta y uno. Muchas gracias.
+H1: Muchas gracias [solapamiento de turnos] a usted.
+H2: Y muy amable. [fin de solapamiento de turnos]
+H1: Adiós.
+H3: Damos paso a otra llamada. Buenas tardes... "La consulta", buenas tardes.
+H2: Mira quién está por ahí enfrente.
+H3: Chus, Chus. Chus Llanos. [solapamiento de turnos] ¡Hola!
+H2: Ha veni[palabra cortada]... [fin de solapamiento de turnos] ha venido de [extranjerismo]Hollywood[fin de extranjerismo]
+H3: Ha venido de... directamente de [extranjerismo]Hollywood[fin de extranjerismo] [risas]
+H2: De [extranjerismo]Hollywood[fin de extranjerismo] para presentar su programa de cine.
+H3: [risas] Vamos a ver. ¿Hay alguna llamada por ahí?
+H4: Sí, hay una [solapamiento de turnos] llamada, María Elena, buenas tardes.
+H3: ¡Ah! Está usted. Buenas tardes. [fin de solapamiento de turnos] Díganos.
+H4: Eh... Mira, para vender una... un... un local...
+H3: Sí.
+H4: ... en la parte de Carabanchel.
+H3: Por Carabanchel.
+H4: [solapamiento de turnos] Sí.
+H2: ¿Bajo? [fin de solapamiento de turnos] ¿Alto?
+H4: Eh... es bajo. Se puede poner eh... Bueno, no hay nada más... No hay viviendas arriba. Es de los que se puede poner... bueno, pues de todo, lo... el... negocio que se quiera.
+H2: Pero, ¿Carabanchel bajo o Carabanchel alto?
+H4: Eh... Carabanchel bajo; sí.
+H2: Carabanchel bajo.
+H4: [risas]
+H3: [risas]
+H4: Creía que decías si [solapamiento de turnos] era [ininteligible]
+H3: Si era bajo el local, ¿no? [fin de solapamiento de turnos] [risas]
+H4: [solapamiento de turnos] Bueno...
+H3: Bueno, [fin de solapamiento de turnos] ya está todo aclarado entonces, ¿no?
+H4: Sí.
+H3: Muy bien. ¿Me da el teléfono?
+H4: Sí, bonita. Mira, el cuatro seis nueve...
+H3: Cuatro... seis... nueve...
+H4: Tres uno...
+H3: Tres... uno...
+H4: Cuatro tres.
+H3: Cuatro tres.
+H2: [solapamiento de turnos] Cuatro tres.
+H4: Sí. [fin de solapamiento de turnos]
+H3: Mucha suerte.
+H4: Gracias.
+H3: Adiós; un beso.
+H4: [solapamiento de turnos] Adiós, [ininteligible]
+H2: Adiós, [fin de solapamiento de turnos] muchas gracias. Y una... otra consulta, quizás la última, otra consulta de... mercado. Buenas tardes...
+H5: Hola, buenas tardes, [solapamiento de turnos] Emilio José.
+H2: Dígame. [fin de solapamiento de turnos]
+H5: Mira, quería vender un piso en la calle de O'Donnell...
+H2: Se vende piso calle O'Donnell... Una... excelente zona.
+H5: Sí. Eh... tiene me[palabra cortada]... Noventa metros cuadrados.
+H2: Noventa metros. ¿Dormitorios?
+H5: Cuatro y un... y una sala.
+H2: Eh... ¿En qué precio, más o menos el... el piso?
+H5: ¿Perdón?
+H2: ¿En qué precio... lo es[palabra cortada]...?
+H5: Veintidós millones de pesetas.
+H2: En veintidós millones de pesetas.
+H5: Sí. Necesita un... pequeño arreglo, menos el baño y la cocina.
+H2: Eh... ¿Es un... eh... es muy antiguo, o qué?
+H5: Eh... tiene cuarenta años.
+H2: Cuarenta años, la casa.
+H5: Sí.
+H2: Claro. Ya es mayor de edad.
+H3: [risas]
+H5: Ya...
+H2: Deme el teléfono, [solapamiento de turnos] por favor, para que puedan llamarla.
+H5: Sí, el... [fin de solapamiento de turnos] el seis... cuarenta y cinco...
+H2: Seis cuarenta y cinco...
+H5: Noventa...
+H2: Noventa...
+H5: Cuarenta y tres.
+H2: Cuarenta y tres.
+H5: Y tres, [solapamiento de turnos] sí.
+H2: Pues [fin de solapamiento de turnos] muchas gracias, ¿eh?
+H5: No; mire, mire, Emilio José...
+H2: ¡Ay, perdón! perdón.
+H5: Tengo dos chicos, también, auxiliares de clínica, que están titulados, tienen experiencia; y se ofrecen para cuidar enfermos, por las noches, en hospitales y... clínicas. Son chicos.
+H2: Sí.
+H5: Y son titulados, ¿eh?
+H2: Al mismo teléfono si requieren [solapamiento de turnos] sus servicios.
+H5: Al mismo teléfono [fin de solapamiento de turnos] seis cuarenta y cinco noventa cuarenta y tres.
+H2: Muy bien; muchas gracias.
+H5: Muchas gracias a usted.
+H2: [solapamiento de turnos] Adiós.
+H5: Gracias. Adiós. [fin de solapamiento de turnos]
+H2: Las siete menos cuatro minutos.

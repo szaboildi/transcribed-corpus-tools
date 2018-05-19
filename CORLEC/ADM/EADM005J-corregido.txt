@@ -1,0 +1,104 @@
+#archivo: EADM005J
+#fecha de grabación: 20-06-91
+#fuente: conversaciones telefónicas en una empresa
+#localización: Madrid
+#términos: momento, reserva, billete, conforme, vuelta
+#H1: varón, telefonista, 27 años
+#H2: mujer, telefonista, 25 años
+#H3: varón, agente de viajes, 28 años
+#H4: mujer, agente de viajes, 25 años
+#H5: varón, jefe de ventas, 41 años
+#Ha: mujer, telefonista
+H1: [ininteligible] ¿Dígame?
+H2: Hola, buenas tardes. ¿Podría hablar con Marisa?
+H1: Sí, un momento. ¿De parte de quién es?
+H2: De Elena, de "Cilag".
+H1: Un momento que está hablando, por favor.
+H2: Gracias.
+H1: De nada.
+H2: ¿Sí?
+H1: Sí, un momentito porque sigue hablando, por favor.
+H2: Vale, gracias.
+H1: De nada.
+H2: "Cilag", ¿dígame? ¿De parte de quién? Sí, un momentito. Carlos, te llaman [ruido].
+H1: Sí, ¿oye?
+H2: ¿Sí?
+H1: Mira, eh... que como parece que se va a extender... eh... le dejo una nota para que os llame o... [duda].
+H2: O bueno, llamo yo un poquitín más tarde. ¿Cuánto crees que va a tardar?
+H1: Pues es que está en la pantalla haciendo una reserva. No creo que tarde más allá de... [duda] de (diez) minutos, ¿entiendes?
+H2: La llamo yo entonces, ¿vale?
+H1: [extranjerismo]O.K.[fin de extranjerismo].
+H2: Gracias.
+H1: Nada...
+H2: Hasta luego. Hola, buenas tardes, ¿podría hablar con Marisa?
+H3: Buenas tardes, un momento, ¿de parte?
+H2: De Elena, de "Cilag".
+H3: "Cilag". Un momento, por favor.
+H2: Gracias.
+H3: De nada.
+H2: ¿Marisa?
+H4: Dime.
+H2: Quería...
+H4: ¿[ininteligible]... Elena?
+H2: Sí, sí. Quería... pedirte un billete.
+H4: Vale. Espera un poquito, ¿eh?
+H2: Vale.
+H4: Elena...
+H2: Sí. Es... Madrid, Sevilla...
+H4: ¡Sí!
+H2: ...el uno de julio. Es para ver si hay o no hay, como es un fecha tan... [duda]...
+H4: Sí.
+H2: ...tan crítica... El uno de julio, a ver si hay a las nueve y cinco de la mañana, en el Iberia trescientos diecinueve.
+H4: Vale.
+H2: Y la vuelta es el dos de julio, también prontito, a las veintiocho y cuarenta y cinco, en el Iberia trescientos seis.
+H4: Vale. ¿Cómo se llama?
+H2: Raquel García... Nazarío. [vacilación]...Te he pedido un billete de ella esta mañana, creo. Y... [duda] me gustaría que me... si es posible, me dijeras ahora si... [duda] si... es... que sí o es que no.
+H4: El... ¿éste que me estás pidiendo?
+H2: Sí.
+H4: Espérate un poquito.
+H2: Sí, vale. [pasos] [teléfono]. "Cilag", ¿dígame? Sí, acepto.
+Ha: Hablen...
+H5: ¡Hola!
+H2: ¿Sí, dígame?
+H5: Hola, buenas tardes.
+H2: Buenas tardes.
+H5: Mira... Elena, ¿eres Elena? ¿No?
+H2: Sí, sí.
+H5: Mira... soy Pepe Llorente...
+H2: Sí.
+H5: Eh... pásame, por favor con Pepe Peláez.
+H2: Sí, un momentito.
+H5: Gracias.
+H2: ¿Pepe Peláez? De Pepe Llorente. Vale, gracias. ¿Marisa?
+H4: ¿Elena?
+H2: Sí, dime.
+H4: Mira, lo tienes conforme para el día uno de julio...
+H2: Sí...
+H4: Es Iberia tres, uno, nueve...
+H2: Sí...
+H4: ...Madrid, Sevilla a las nueve, quince.
+H2: ¿quince?
+H4: Sí.
+H2: [onomatopeya]¡Ahá![fin de onomatopeya] Vale..., perfecto.
+H4: Y luego la vuelta en Iberia tres, cero, seis...
+H2: [afirmación]...
+H4: ...el dos de julio, del mes siete también...
+H2: ...[afirmación]...
+H4: ...[ininteligible] Madrid, veintiocho, cuarenta y cinco.
+H2: Perfecto. Y ahora quería.. eh... el billete éste de esta mañana de Marcel Vázquez, Valencia, Barcelona, Barcelona, Valencia... del veinticinco y el dosveintiocho...
+H4: ¿Sí?
+H2: ...pues... en principio dejarlo en reserva hasta que no hable... hasta que no hable con el hombre éste, que no le ha le... [vacilación] le ha localizado hoy. Y era, el veinticinco del seis, Valencia, Barcelona, a las veintidos, cuarenta...
+H4: Sí.
+H2: Y luego la vuelta, dosveintiocho del seis... Barcelona, Valencia a las dosdos, diez; es decir, las dos noches.
+H4: Sí.
+H2: Que creo que tú la vuelta la habías reservado por la mañana...
+H4: ¡Ah!
+H2: ...a las siete y diez. Pues no, lo dejamos... por la noche porque si no... no le da tiempo.
+H4: Vale.
+H2: A las veinte, diez, por ahora, ¿vale?
+H4: Vale, de acuerdo.
+H2: Pues nada más...
+H4: Vale...
+H2: Muchas gracias...
+H4: Nada.
+H2: Hasta luego.

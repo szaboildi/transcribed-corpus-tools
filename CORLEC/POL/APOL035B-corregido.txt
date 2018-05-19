@@ -1,0 +1,9 @@
+#archivo: APOL035B
+#fecha de grabación: 14-1-92
+#fuente: radio
+#localización: Madrid
+#H1: varón, ministro del Interior, c.48 años
+#H2: varón, locutor, edad desconocida
+#términos: ley, policía, delincuente
+H1: ... que para poder cumplir lo que dice el bando lo tiene que llevar a la comisaría de la Policía Nacional, con lo cual... Claro, el lío es difícilmente comprensible. El lío es difícilmente; políticamente, yo lo puedo entender. Yo lo puedo entender políticamente. Pero... A no ser, a no ser, naturalmente, que el mandato dado a los policías de Madrid es que cuando no está documentado el que se está drogando...
+H2: Son las palabras del... ministro Corcuera, que está defendiendo esta ley ante el pleno del Senado; que ha dicho que no buscan, ni mucho menos, un "derecho de pernada" para la Policía, a fin de entrar en domicilio sin mandamiento judicial. "Lo único que se pretende es tener los instrumentos para defender al ciudadano para detener a los delincuentes"...

@@ -1,0 +1,229 @@
+#archivo: ELUD003C
+#fecha de grabación: 26-05-91
+#fuente: programa televisivo
+#localización: Madrid
+#términos: encendido, tarjeta, pregunta, contestación, secreto, pleno, coche, viaje, ganador, aplauso, concurso, dinero, comerciante, televisión, prueba de compra
+#H1: varón, presentador de televisión, 36 años
+#H2: varón, concursante, 22 años
+#H3: varón, concursante, 21 años
+#H4: mujer, concursante, 21 años
+#H5: varón, voz en off
+#H6: mujer, presentadora, 27 años
+#Ha: mujer, entrevistada
+#Hb: mujer, entrevistada
+#Hc: varón, concursante, voz en off, c. 45 años
+#Hd: mujer, concursante, voz en off, c. 33 años
+H1: ...¿Qué suele dejar en la almohada un... ¡ alopécico!?
+H2: Pelos.
+H1: ¡Pelos! Es la calvicie, exactamente. Muy bien, cuarenta y tres encendido. [ruido]. ¡Atención!...y me vais a perdonar, porque ya saben ustedes que esta fanfarria significa que [ininteligible] números por eh... [duda] completar su tarjeta. Vamos entonces a por otra pregunta... [duda] ¡y venga, a luchar fuerte! ¿Cuál es el vegetal que menos les gusta a los vampiros? [ruido] ¡Luis!
+H3: El ajo.
+H1: ¡El ajo, es correcto, muy bien! Número dos encendido. ¿Qué pirata odia a [extranjerismo]Peter Pan[fin de extranjerismo]? [ruido] Eh... [duda] ¡Rafa!
+H2: El Capitán Garfio.
+H1: ¡El Capitán Garfio, es correcto! ¡Muy bien! cuarenta y cuatro encendido y a falta de tres. ¿Qué artista griego esculpió el Discóbolo de Mirón? [ruido] ¡Emilia!
+H4: Mirón.
+H1: ¡Mirón! ¡Por supuesto, claro que sí! Número veintinueve encendido. ¿En qué estado de ánimo está un marido "marrido"?.... Un estado de ánimo triste, decaído. Cualquier... [duda] sinónimo os lo hubiera dado yo por válido. ¡Y no es solamente porque sea marido! ¿Eh? [risas]. "Marrido" es... [vacilación] es triste, es decaído. Bien, pues nada. No lo ha acertado nadie... [vacilación] ¡y vamos a por otra pregunta! ¿Cuál es el único continente en el que no se han disputado aún unos Juegos Olímpicos de Verano? [solapamiento de turnos]Rafa.
+H2: En Africa[fin de solapamiento de turnos].
+H1: ¿Perdón?
+H2: ¡En Africa!
+H1: ¡Africa es correcto! Muy bien. cuarenta y cinco encendido. ¡Mucha atención que se os escapa, que Rafa le quedan dos! ¡Y atención porque el número secreto [siglas]PU.LE.VA[fin de siglas] sigue durmiendo! ¡Cuidado! ¿De qué raza es el perro que aparece en Las Meninas? .... Pues vamos, era un mastín. ¡Vamos a por otra! ¿Qué pieza mecánica transforma el movimiento del pistón de un motor en movimiento rotatorio? [ruido] ¡Rafa!
+H2: Cigüeñal.
+H1: ¡No! No, no, lo siento, Rafa. [risas] Es la biela, la biela.
+H2: Claro.
+H1: Un turno sin jugar para Rafa ¡y venga, Luis y Emilia, oportunidad para... [vacilación] acercaros un poquitín a Rafa! ¿Qué parte del cuerpo controla el hemisferio izquierdo del cerebro?
+H4: El derecho.
+H1: Emilia, muy bien. El derecho; el contrario, muy bien. Enciendes el número veinte y ¡atención, que os estáis acercando! ¡Pero mucho cuidado porque Rafa está... [vacilación] tan solo a falta de dos! A Luis le quedan seis y a Emilia le quedan otras seis. ¿A qué equipo español de fútbol perteneció la delantera conocida como "Los Cinco Magníficos"? Rafa...
+H2: Zaragoza.
+H1: ¡Zaragoza, es correcto! Muy bien, treinta y tres encendido y atención ¡a falta de uno, a falta de uno que está Rafa! ¡Cuidado! ¿Qué filósofo francés definió la vida en sociedad como un juego de mutuas transacciones objeto de un contrato social? [ruido]Luis.
+H3: [extranjerismo]Rousseau[fin de extranjerismo].
+H1: [extranjerismo]Rousseau[fin de extranjerismo] [extranjerismo]Jean Jacques Rousseau[fin de extranjerismo] con su Contrato... [duda], exactamente, con el Contrato Social. Muy bien, has encendido el número doce y a falta de cinco que estás. ¿Cuál es el producto artesanal más conocido de la ciudad italiana de Murano? [ruido] Emilia.
+H4: El cristal.
+H1: El cristal, muy bien. Correcto, número dieciocho encendido. ¡Cuidado con Rafa; le queda sólo una! Si contesta Rafa y acierta, se lleva el premio. ¿Qué cantante estadounidense ganó un Oscar por su interpretación el la película "De aquí a la Eternidad"?... La voz...[vacilación] [extranjerismo]Frank Sinatra[fin de extranjerismo]. Bien, pues vamos entonces a por otra. Atención, Rafa, le queda una. ¿Qué monte se alza en la entrada de la bahía de Río de Janeiro? [ruido] Emilia...
+H4: Ah...[onomatopeya] Es...[duda] [onomatopeya] [vacilación] ¿Chalti[palabra cortada]... [risas]?
+H1: No, no, que te lo diga Luis, que va a ir.
+H3: El Corcobado, ¿no?
+H1: No, El Pan de...
+H2: El Pan de Azúcar.
+H1: Mira Rafa como se lo sabía. [risas] ¡El Pan de Azúcar era..! Un turno sin jugar para Emilia y... Luis, o lo remedias tú o se lo lleva Rafa. Vamos a por la pregunta, ¿cuántos radianes tiene una circunferencia? [ruido] Rafa.
+H2: Dos pi.
+H1: ¡Sí, señor! ¡dos pi,treintaidós y para [ininteligible] cero! [música] Muy bien [aplausos]. ¡Muy bien, Rafa, sí señor, te lo has llevdo! [ininteligible]...hecho un jabato completamente. Muy bien. Y... [duda]...
+H2: Muchas gracias.
+H1:...¿sabes lo que te ha correspondido...? [vacilación] Perdóname...
+H2: Sí.
+H1: ...perdóname un momento, Rafa...
+H2: Sí, dime.
+H1: ...porque antes tengo que hacer mención de una cosa y es que ustedes habrán observado que el número secreto [siglas]PU.LE.VA.[fin de siglas] no ha salido, ha estado durmiendo, ha estado durmiendo en la fila central de Luis. Era el número ocho y no ha salido. ¡Qué pena porque... [duda] ya te digo que tenías en la fila central...! Yo esperaba que saliera en la fila central, ¡y por unos números no lo hemos conseguido! Era el número 8, Luis, y has perdido, por lo tanto, no es que has perdido, es que has dejado de ganar un maravilloso collar de perlas y medio millón de pesetas. [música] Lo siento mucho. ¡Y ahora ya sí que volvamos a Rafa! ¡Y Rafa, tú sí que sabes perfec[palabra cortada]...! Tú estás encantado!
+H2: ¡Yo estoy encantado de la vida!
+H1: ¡Sí, señor! A tí te da... [risas] [vacilación] ¡te da igual lo que sea ahora mismo! ¿No? ¿Tú sabes lo que te has llevado por este pleno?
+H2: Pues... [duda] creo que me habré llevado un coche, ¡me imagino!
+H1: Pues sí, un coche, ¡pero escucha qué coche! [solapamiento de turnos]¡Escucha!
+H2: A ver, a ver, vamos a ver[fin de solapamiento de turnos].
+H5: [música] ¡Enhorabuena, ha conseguido el pleno y por ello el gordo le premia con este magnífico coche: un precioso vehículo dotado con la más alta tecnología! ¡Posee un motor de dieciseis00 centímetros cúbicos y dieciseis válvulas, e incorpora a su moderno diseño dirección asistida, elevalunas eléctrico, cierre centralizado y volante regulable! ¡Un extraordinario premio de... [vacilación] "El Gordo!". [aplausos].
+H1: Pues enhorabuena, Rafa, por ese cochazo. Yo creo que no... [duda] no, vamos, está bien... [duda] eh... clarificada tu alegría, porque la verdad es que es un cochazo.
+H2: Joder, es increíble. Yo como... [duda] además no tengo coche, ¡me viene... fenomenal!
+H1: ¿Sí?
+H2: Siempre pidiéndole el coche a mi padre, ya estaba has[palabra cortada]... [duda] hasta las narices de mí ya.
+H1: Me parece que se van a cambiar las tornas ahora...
+H2: Sí, veremos a ver ahora qué pasa... [risas].
+H1: Muy bien, Rafa. Bueno, pues ya sabes que además ¡no se queda todo en el coche!... sino que ahora vas a poder ganar ¡muchísimo dinero! ¡Hasta... [vacilación] diez millones de pesetas! Con un poco de suerte. ¡Hasta diez millones! Pero bueno, vamos a esperar a jugar esa recta final y antes me dejas, por favor...
+H2: Sí.
+H1: ...que despida a Luis y a Emilia. Eh... [duda] Luis, ¡a Brasil! Eso el lo que tú querías, eso el lo que tú tienes.
+H3: [ininteligible] lo que quería.
+H1: A Brasil, y además con doscientas mil pesetas.
+H3: [afirmación].
+H1: Pues ya sabes, tienes un maravilloso viaje a Brasil, que te organiza [extranjerismo]Travel Plann[fin de extranjerismo] por dieciseis días a Brasil y... [duda] yo creo que va a ser un viaje de ensueño. Enhorabuena, Luis. [aplausos].
+H3: Gracias.
+H1: Y ¡Emilia, Emilia! ¿Qué pasó, Emilia? ¡Qué pena! ¿Qué pasó?
+H4: Pues que... [duda] son muy rápidos.
+H1: Que son muy rápidos.
+H4: ¡Muy rápidos!
+H1: Pero tú sabías muchas preguntas que te [solapamiento de turnos]has (quedado a un... [vacilación]).
+H4: Sí, si casi[fin de solapamiento de turnos] todas me las sabía, lo que pasa que... [duda] me bloqueaba.
+H1: ¡Ay![onomatopeya]...
+H4: La (mano)... [duda], se había quedado pegada la mano ahí...
+H1: ¡Qué pena! Lo siento mucho, de todas formas [solapamiento de turnos]yo te agradezco...
+H4: ¡Nada![fin de solapamiento de turnos].
+H1: ...de corazón el que hayas venido a participar [solapamiento de turnos]con nosotros.
+H4: Gracias[fin de solapamiento de turnos].
+H1: Muchísimas gracias. A tí, [ininteligible] [aplausos] ¡Y ahora Rafa, a tí[ininteligible], yo ya sí vamos a ir a jugar la recta final! Yo voy a pedir que ¡se redoblen los aplausos para Luis y Emilia!...mientras que tú y yo bajamos a la palestra a jugar la recta final [aplausos] [música]. Pues... [duda] Rafa, tú ya sabes tal cuál es el sello del gordo, ¿verdad?
+H2: Sí.
+H1: ¿Lo sabes?
+H2: Sí.
+H1: Pues ahí está; ahí quiero ese gordo. Aquí tene[palabra cortada]... tenemos este sello del gordo y aquí tienes las llaves de ese cochazo que te ha... [duda] que te ha tocado [risas]. ¡Me encanta por... [duda]! Ere[palabra cortada]... eres super-expresivo y me gusta.
+H2: Es que me emociona, vamos, es que es... [duda] ¡No me lo esperaba!La verdad es que yo he venido con muchas ganas, pero siempre diciendo: "Bueno, como... [duda] como no me van a quitar nada..."
+H1: Claro.
+H2:..."todo lo más que pueden hacer es darme".
+H1: ¿Has participado en algún otro concurso de...?
+H2: No, no, no, ¡qué va! Es la primera vez.
+H1: Es la primera vez en tu vida que juegas. ¡Chico, esto... [duda] de verdad, lo de industriales [risas]...
+H2: [ininteligible]... y repito.
+H1: ... piénsate lo de la carrera de Ingeniero Industrial, porque a lo mejor lo tuyo es esto.
+H2: A lo mejor, a lo mejor, si a lo mejor llevo seis años equivocado. ¡Quién sabe! [ininteligible] [risas].
+H1: No, yo no lo creo. Yo creo que todo es compatible.
+H2: Sí, sí.
+H1: Bueno, entonces me has dicho que no tenías coche, además.
+H2: ¡Que va, que va! No tengo coche.
+H1: Pues qué maravilla.
+H2: Me viene... [duda] ¡fenomenal! Vaya...
+H1: Muy bien, pues entonces vamos entonces ahora... [duda] ¡a completar esta noche redonda que estás teniendo!... y vamos a intentar llevarnos mucho dinero con esa recta final.
+H2: Yo... [duda] voy a intentarlo.
+H1: Vas a intentarlo, ¿verdad? Y para ello, ¿qué necesitamos? Dinero, dinero en las manos... [duda] que nos van a traer la Pilar y Carolina... [vacilación], ya sabes que en dos maletines. a ver si tienes buena mano, por favor, y coges el de mayor cantidad. ¿eh?
+H2: Lo intentamos.
+H1: Venga, pues vamos a ver. Entonces, aquí en princip[palabra cortada]... ¿qué prefieres, el maletín de Pilar o el maletín de Carolina?
+H1: Venga, me voy a quedar con el de Pilar.
+H1: Con el de Pilar. Vamos a ver Pilar, vamos a ver Pilar... [duda]... ¡un millón de pesetas! Bueno, está muy bien. Está muy bien. [aplausos] Carolina, ¿lo abres tú? ¡Ay![onomatopeya] ¡Carolina tenía los dos millones!
+H2: Bueno, no se puede hacer nada.
+H1: Pero bueno; oye, la fila central te has llevado un millón ahí directamente, que yo creo que también está muy bien. Pues si te parece, vamos a ir cogiendo. Me ayudas tú; lo vas cogiendo también.
+H2: Sí.
+H1: Y ya sabes entonces Rafa, que de aquí vas a tener que jugar un veinticinco por ciento de este millón. Es decir, eh... [duda] doscientos cincuenta mil pesetas ¡seguras! Muchísimas gracias a las 2.
+H2: Muchas gracias [aplausos].
+H1: Bien, pues entonces aquí tenemos este medio millón, más medio millón de pesetas, ¡un millón entero de pesetas!... que ya sabes que, por lo menos, tendrás que jugarte las doscientos cincuenta mil pesetas. Si te jugaras el millón, lo podrías multiplicar por cinco y llevarte cinco millones de pesetas. Yo que tú, confiaría en tí mismo... [duda] ¡Yo no sé! A mí me da... [duda] me da... [duda]...
+H2: [risas].
+H1: ...me da que tú eres un fiera y que... [duda].
+H2: No, no.
+H1: Bueno, tú sabes...
+H2: Yo creo que... [duda] es demasiado, ¡pero bueno!
+H1: Bueno, pues tú sabrás lo que... [duda] lo que juegas. Hombre, siempre está bien, yo creo, ser un poco comedido y quedarte una reserva por... [duda] por eso de decir. "No me voy sin... [duda] sin nada de la recta".
+H2: Porque sino luego... [duda].
+H1: Claro, y además que tienes mucha gente jugando ahí... [siglas][duda] que a lo mejor dice: "¡Que se quede por lo menos con algo!" [risas].
+H2: Sí, luego... [duda] más vale que no de mi dirección a nadie, no vaya a ser que... [duda] [risas].
+H1: [risas] bueno, pues Rafa, entonces si te parece, vete pensándolo porque entonces lo que vamos a pasar es a la sección de Pilar y... [duda] que va a hacer su llamada telefónica. Esperemos que esa persona que... [duda] que... [duda] que conecte con Pilar al teléfono, haya elegido el número el... [vacilación] el número tres porque significará que se ha[palabra cortada]... que serás tú, que tienes el pleno completo y que por lo tanto también pueda multiplicar y ganar mucho dinero. Y si no, de todas formas, si tú te llevas la recta final, algo... [duda] algo se llevará, eso está claro. Pues Pilar, efe[palabra cortada]... esa llamada, cuando tú quieras, por favor [música].
+H5: ¡Con la familia Ariel usted siempre gana! ¡Ariel ultra le da una blancura sorprendente sin lejía...! ¡Ariel ultra le da esta sorprendente...! ¡...[ininteligible] las amas de lo comprueban!
+Ha: Blanco, blanco, superblanco. Puntuación diez.
+Hb: La [ininteligible] es pefecto[sic], no se puede mejorar.
+H5: Y ahora siga ganando con Ariel a mano. Para esas prendas que usted suele lavar a mano, Ariel a mano le da esa blancura que usted espera de un detergente de la más alta calidad. La familia Ariel usa el más completo sistema de lavado, y de esa blancura única que sólo se consigue con... [vacilación] ¡Ariel! [música].
+H6: Hola, buenas noches. ¿Qué tal están hoy día veintiseis de mayo? Espero que bien. Ya saben que hoy vamos a tener dos llamadas, por lo tanto dos premios. El primero de estos premios es para el comerciante cuya carta haya sido seleccionada, y consiste en una fabulosa [extranjerismo]Nissan Trade[fin de extranjerismo]. Y la segunda llamada y el segundo premio es, como cada... [vacilación] domingo, para la persona cuya carta haya sido seleccionada también, y consiste en un premio en metálico, de máximo ¡hasta diez millones de pesetas! Y si les parece... [duda] ya vamos a ir directamente a por nuestra primera llamada, que es para los comerciantes.[ruido] O sea que... [vacilación] ¡allá vamos! Y... [vacilación] ya saben ustedes, el mismo sistema... cinco llamadas, hay otras 4 seleccionadas; y hoy, por el tema de las elecciones... [vacilación], en pa[palabra cortada]... estamos un poco más justos de tiempo. Esperamos que en la primera llamada eh... nos la cojan y no tengamos que... [duda] que perder ese tiempo, que hoy es tan necesario para otras cosas. ¡y aquí estamos esperando a... nuestro primer tono, [teléfono] ahí lo tenemos, de nuestra primera llamada, para nuestro señor comerciante! [ruido de teléfono] Segundo tono... estamos en Andalucía.
+Hc: ¿Sí?
+H6: Hola, buenas noches.
+Hc: Sí, Buenas noches.
+H6: Quisiera hablar, por favor, con don Gabriel Gil Amador.
+Hc: Pues soy yo, sí señorita, sí.
+H6: ¿Es usted? Y... [vacilación] ¿adivina por qué le estoy llamando?
+Hc: Pues... [vacilación] no, no señorita.
+H6: ¿Está usted viendo Antena 3?
+Hc: [ininteligible]
+H6: ¡El gordo...!
+Hc: Sí, sí la ha[sic] estado viendo Antena 3.
+H6: ¿Si? Pues entonces sabrá usted ¡que es [ininteligible] el ganador, don Gabriel!
+Hc: ¡Digamos....! ¡No me lo diga usted! [aplausos].
+H6: ¡Hombre, enhorabuena! ¡Qué bien!
+Hc: [risas].
+H6: Bueno, ¿sabe el premio que le corresponde?
+Hc: Eso no me lo creo...
+H6: Pues créaselo, créaselo porque se lo vamos a enseñar además ahora en nuestra pantalla. Ha ganado usted ¡una fabulosa [extranjerismo]Nissan Trade[fin de extranjerismo], que ahí la tiene.
+Hc: ¡Madre...!
+H6: ¿Qué le parece?
+Hc: Pues nada que... [vacilación] [risas] [aplausos] ...que me ha (dado usted al blanco) y no me aclaro.
+H6: Pues... a ver, tranquilito. ¿Tenía usted ya furgoneta?
+Hc: No, tengo...
+H6: ¿No?
+Hc: ...una... [vacilación] [extranjerismo]Nissan Trade[fin de extranjerismo] pero ya (hace) muy antigua, sí. Tengo una [extranjerismo]Nissan[fin de extranjerismo]... [duda], ya no la atino.
+H6: Le viene de perlas. ¿A que sí?
+Hc: Una [extranjerismo]Nissan[fin de extranjerismo] muy bien, fíjate, pues sí.
+H6: Vamos a ver, eh... usted es además eh... ¿consumidor, aparte de tenerlo en la... [duda] en la tienda, lo consumen en su casa [ininteligible]?
+Hc: Pues yo... eh... consumimos mucho, el de a mano...
+H6: Sí.
+Hc: ...y el de líquido, el de... [duda] ese bote de medio litro y el...
+H6: ¡Ajá! [afirmación].
+Hc: ...algunas veces de... la [ininteligible] esa.
+H6: O sea que está contento, ¿no?
+Hc: Sí, sí.
+H6: Pues nos alegramos un montón. Aquí está su prueba de compra...
+Hc: Sí, sí, dígame, dígame...
+H6: ...y su [extranjerismo]Nissan Trade[fin de extranjerismo] que ya la tiene, no le tengo que decir nada más. ¡Que enhorabuena y que la disfrute! Y que nos siga escribiendo.
+Hc: Muchísimas gracias, ¡eh! [aplausos]. ¡Señorita...!
+H6: Dígame.
+Hc: ¡Viva a la casa del Ariel, [ininteligible] Ibérica y televisión española!
+H6: Muchas gracias, don Gabriel, un besazo.
+Hc: Muchísimas gracias.
+H6: ¡Hasta luego!
+Hc: Adiós.
+H6: ¡Qué simpático, eh! Da gusto. Bueno, pues ahora nos vamos a conocer a nuestro... [duda] consumidor, a saber... si está en casa y a darle el premio [teléfono]. Y nos vamos esta vez a Madrid, y es una señora. Como siempre, vamos a esperar otros cinco tonos, y esperando... también que esté en casa. Ya saben, hasta diez millones de pesetas. Ahí está el primer tono [teléfono], [teléfono] nuestro segundo tono, y...
+Hd: ¿Dígame?
+H6: Hola, buenas noches.
+Hd: Buenas noches.
+H6: Por favor, ¿hablo con doña... Rosario Ramos?
+Hd: Sí.
+H6: ¿Es usted?
+Hd: Sí.
+H6: ¿Está usted viendo la televisión?
+Hd: Pues sí.
+H6: Y estará viendo Antena 3, el Gordo...
+Hd: El Gordo, claro...
+H6: Pues entonces... [vacilación] enhorabuena porque es nuestra ganadora [aplausos] Doña Rosario, venga un gritito de esos de... alegría... que la veo muy seria.
+Hd: No, no, que... luego se ríen de mí.
+H6: ¡Qué se van a reír, hombre! Con este premio yo creo que no se ríe nadie. Si se ríen es de envidia [risas]. Vamos a ver, ¿es usted ama de casa?
+Hd: Pues sí.
+H6: Y..., ¿concursa otras veces o es la primera vez?
+Hd: ¡Ay, madre mía! A todos los concursos de...
+H6: Sí, ¿no?
+Hd: ...la televisión y de la radio escribo.
+H6: Pues Antena tres ¡premia! ¿A visto usted?
+Hd: Ya, ya, ya.
+Hc: El Gordo y el Ariel. Pues vamos a ver, aquí está su comprobante, Ariel a mano...
+Hd: Sí, y Ariel ultra también tengo echado.
+H6: ¿Sí? ¿Usa todo?
+Hd: ¡Todo, todo!
+H6: Y contenta, ¿verdad?
+Hd: Bueno...
+H6: Bien, vamos a ver un mumerito, porque sabe que depende del número...
+Hd: ¡Ah! Sí, eso... no me acuerdo.
+H6:...es un... [duda] un premio o otro. Entonces era el número 1.
+Hd: ¡Ah!...
+H6: Y vamos a ir, en esta pantalla a ver... [vacilación] ¡vaya hombre, he perdido el... [vacilación] el cartón! ¿Dónde lo tengo? Aquí. Vamos a ver, ahí está, Luis. Luis... que trabaja en el [siglas]I.N.E.M.[fin de siglas], que es eh... está licenciado en historia y que ha encendido, aquí lo tenemos... diez números, por veinticinco.000 pesetas, ¡doscientas cincuenta mil pesetas, Rosario! [aplausos].
+Hd: [ininteligible].
+H6: ¡Hombre, está fenómeno! Seguro que esta mañana no se lo esperaba...
+Hd: No, no, no, desde luego...
+H6: ...que iba a ganar este dinero.
+Hd:...que no.
+H6: Bueno, Rosario, ya sabe que se tiene que jugar una cantidad. ¿Cuánto se quiere jugar?
+Hd: Bueno, pues... el veinticinco [ininteligible].
+H6: Dígame, cantidad, ¡ah! el veinticinco por ciento.
+Hd: El veinticinco por ciento.
+H6: Perfecto, pues... no se mueva del teléfono, no nos cuelgue porque dentro de un ratito vamos a hablar, a ver si el que viene [ininteligible] multiplica por 5, ¿de acuerdo?
+Hd: Muy bien.
+H6: Pues un besito y hasta ahora.
+Hd: Gracias.
+H6: Hasta ahora, Rosario.
+Hd: Hasta ahora.
+H6: Y a todos ustedes, que si quieren recordar cómo se concursa con Ariel, que no se levanten de sus sillones, y que recuerden que el día treinta de junio los señores comerciantes tendrán otra oportunidad de ganar otra fabulosa [extranjerismo]Nissan Trade[fin de extranjerismo]. Hasta ahora [música].
+H5: Para jugar y ganar hasta ¡5 millones con Ariel en el Gordo!... recorten la palabra... [interrupción de la grabación]

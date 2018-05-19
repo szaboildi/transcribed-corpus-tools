@@ -1,0 +1,37 @@
+#archivo: AENT001B
+#fecha de grabación: 3-91
+#fuente: televisión
+#localización: Madrid
+#H1: varón, periodista, aspirante a presidente del club deportivo Real Madrid, c.45 años
+#H2: mujer, presentadora, c.30 años
+#términos: equipo de fútbol, contabilidad, elección, jugador, tiempo, candidato, presidente, voto
+H1: No, lo primero que hay que hacer cuando se llega al Real Madrid es una auditoría de cuentas, seria y absolutamente fiable, y saber con qué se cuenta. Y después, empezar a actuar.
+H2: ¿Qué opinión le merece a usted Ramón Mendoza?
+H1: ¿Como persona? [vacilación] Yo soy amigo de Ramón Mendoza.
+H2: ¿Y como presidente?
+H1: Ha sido un buen presidente del Real Madrid los... dos... primeros años, tercero quizá, y los últimos, muy mal presidente del Real Madrid. Ha intentado llevarlo todo él, ha hecho un... un ejercicio absolutamente presidencialista, y eso cansa y agota a las personas.
+H2: Que es justo lo que usted no quiere, usted quiere que sea una cosa [ininteligible]
+H1: Al revés. Precisamente una... una junta directiva muy colegiada y que todos sean responsables de sus específicas tareas.
+H2: Es cierto que Ramón Mendoza ha pasado desde luego una mala racha, cuando menos, y... pese a todo, tiene sus seguidores, porque [ininteligible] muchos...
+H1: Hombre, claro. Cómo no.
+H2: Y.. y de momento tiene entre sus seguidores pues hasta a algunos jugadores, y [vacilación] hasta a Julio Iglesias
+H1: ¡Ah! Julio, fíjate, Julio Iglesias. Bueno, pero eso es una... eso es un elogio para mí.
+H2: [risas] Y lo de los jugadores, ¿qué le parece?
+H1: Lo de los jugadores me parece una imprudencia por parte de los jugadores. Es decir, que los... una falta de respeto. Los jugadores que son socios del Real Madrid tienen todo el derecho a votar, pero también antes de... que socios son empleados del Real Madrid, y por lo tanto tienen que respetar a Ramón Mendoza y a mí, porque somos en este momento lo mismo, precandidatos. Y los jugadores que no son socios, y que son exclusivamente empleados, pues no... no es que... sea recomendable el respeto, es que hay que exigirles el respeto.
+H2: Por cierto, que hay...hay mucha gente que está esperando pero con muchísimas ganas que usted se haga presidente, pero no porque se haga presidente del Real Madrid, sino pensando: Bueno, con la labia que tiene Jesús Gil, y con la labia que tiene el señor [extranjerismo]Ussía[fin de extranjerismo], vamos a ver, pueden saltar chispas [ininteligible]
+H1: Se ha enfada[palabra cortada]... se ha enfadado un poco ahora porque... declaré el otro día que le iba a contestar con lenguaje de Quevedo, y nada, ha contestado que él es doctor en Quevedo... [risas] Yo no sabía ese... ese nuevo título de... de Jesús Gil, pero en fin. No, lo que yo... lo que no le voy a pasar a Jesús Gil es ni una. Es decir... pero eso no tiene que ver conque la... intente por todos medios mejorar las relaciones con el Atlétic de Madrid. Madrid ante todo.
+H2: Eso está muy bien. A mí, una cosa que me sorprende, y se lo decía antes de que empezáramos la entrevista, es que usted que hace de todo, pero absolutamente de todo, ¿cómo va a llegar también a ser presidente de... de un club de fútbol? ¿o es que eso de ser presidente de un club de fútbol no lleva nada de tiempo?
+H1: No, no, en absoluto. Ser presidente de un club como el Real Madrid lleva muchísimo tiempo.
+H2: Luego entonces, ¿qué va a hacer?
+H1: Pues... dormir menos.
+H2: Dormir menos.
+H1: Dormir menos. [vacilación] ... acoplar mi vida, y desde luego tener muchos menos eh... ratos de... de ocio. Se me... se me quita la libertad durante un... durante un tiempo; eso está claro.
+H2: Y eso de que "Quien mucho abarca, poco aprieta", usted nada, ¿no? No le preocupa nada
+H1: Yo creo que no, yo creo que quien mucho abarca, aprieta muchísimo, ¿eh?
+H2: ¿Sí?
+H1: Sí
+H2: Por último, y en... brevísimo tiempo. ¿Va usted realmente a ser elegido presidente del Real Madrid?
+H1: Yo estoy convencido de que sí, por que si no no... no estaría metido en este lío.
+H2: Pues bueno, con eso nos quedamos, y simplemente le deseamos muchísima suerte en esta... precandidatura, ya casi candidatura a partir del día ocho...
+H1: Muchas gracias
+H2: [ininteligible] Gracias, y hasta la próxima.

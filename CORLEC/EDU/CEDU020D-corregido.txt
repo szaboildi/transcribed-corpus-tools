@@ -1,0 +1,419 @@
+#archivo: cedu020d
+#fuente: clase de conversación
+#localización: Colegio Nacional en Segovia
+#términos: juego, juguete, circo, cuento, canción
+#H1: mujer, 25 años, profesora
+#H2: mujer, 6 años
+#H3: mujer, 6 años
+#H4: varón, 6 años
+#todos: niños
+H1: ¿Os gusta?
+H2: [solapamiento de turnos] Sí.
+H3: Sí. [fin de solapamiento de turnos]
+H2: ¡Hala! Mira una tienda.
+H1: ¿Qué hay? ¿qué hay?
+H3: Una tienda...
+H2: Aquí hay un salón, [solapamiento de turnos] la cocina
+H3: la cocina [fin de solapamiento de turnos]
+H4: ¿Y esto qué es?
+H3: El cuar[palabra cortada] creo que es el cuarto de juguetes donde están los niños.
+H4: Si. La habitación de los niños. [risa]
+H1: ¿Qué habitación preferiríais?
+H4: Eh... el salón.
+H2: El salón y... y...
+H3: Y la cocina.
+H2: Y la cocina. [risa]
+H1: ¿Y la cocina por qué?
+H3: Porque es donde hay comida.
+H1: ¡Huy madre! ¡Qué glotones! [risa]
+H1: ¿A ti que más te gusta comer? Espera, dime cómo te llamas.
+H3: Isabel.
+H1: Tú eres Isabel, ¿no? Y a ti ¿qué es lo que más te gusta comer?
+H3: [risa] A mí judías.
+H1: ¿Judías?
+H3: Sí.
+H1: [solapamiento de turnos] ¿Cuáles?
+H4: Bah, eso no me gusta a mí. [fin de solapamiento de turnos]
+H1: ¿Las blancas?
+H3: Las pintas.
+H1: Las pintas.
+H3: [afirmación]
+H1: ¿Y a ti?
+H2: ¿Y a mí? Yo me llamo Bea[palabra cortada] a mí... yo me llamo Beatriz y lo que más me gusta de comer son el pollo y las patatas. [risa]
+H4: Yo me llamo Ángel y lo que más me gusta comer son los espaguetis y el cocido. [risa]
+H1: O sea, a cada uno un poco.
+H3: A mí también me gustan los espaguetis.
+H2: Así haces... [onomatopeya][ininteligible][fin de onomatopeya]
+H4: Es verdad. Con... con unos palos que cuando yo voy a ... al restaurante chino me dan unos palos. Luego me los llevo a casa porque nos los dan ¿no? Y luego yo como y... y se me... y se me queda como es muy largo el espagueti se me queda aquí, y hago... [onomatopeya][ininteligible][fin de onomatopeya] y se me sube para arriba y me queda todo. [risa]
+H1: Y te regañan [solapamiento de turnos] ¿o no?
+H3: A veces [fin de solapamiento de turnos] cuando me... cuando me chupo me pongo toda la cara llena de tomate. [risa]
+H4: Yo también.
+H1: Y cuando seáis mayores ¿os va a gustar hacer la comida? ¿ y cocinar?
+H3: [afirmación]
+H1: ¿Esas cosas?
+H3: Sí.
+H2: Sí.
+H1: ¿Eso sí?
+Todos: Sí.
+H1: Y... ¿qué más me podéis contar? [duda] ¿Habéis ido alguna vez al circo?
+H2: Yo sí.
+H4: Yo no.
+H2: Yo sí. Una vez.
+H4: Yo creo que no.
+H2: Yo sí, una vez.
+H1: ¿Y os ha gustado más que en la tele, cuando lo veis en la tele?
+H3: Sí.
+H4: Yo sí. A mí me gusta mucho.
+H3: Sí, porque si así te sacan por televisión, pero si lo ves en televisión parece más aburrido pero si estás dentro del cine, digo del cine, del circo... del circo pues te lo pasas mejor, porque ves que estás dentro de un circo.
+H1: Claro.
+H4: Yo... yo tengo un... un cuento en la biblioteca que... que le cogía un león que mandaba hacer a un señor que... que haciera[sic] de... que el león mandaba al señor. [risa] En el circo.
+H1: ¿Y qué le hacía hacer al señor?
+H4: Pues saltar por unas cosas...
+H3: Anda, cómo si el señor fuera un león, ¿no? [risa]
+H4: Sí. Estaba haciendo el pino ahí.
+H1: ¡Ay! ¿Y qué cuentos son los que más os gustan de los cuentos que tenéis?
+H4: [duda]
+H1: O de la biblioteca o...
+H4: A mí... a mí...
+H3: A mí me gusta el de los "Aristogatos" que tengo siempre todos los días, me voy a las noches a leerle.
+H1: ¿Todas las noches?
+H3: Todas.
+H4: A mí también...
+H2: A mí los "Aristo[palabra cortada]" los "Aristogatos" y los... y los tres cuentos que... que tienen dentro, ¿eh? tienen tres páginas de cuentos.
+H4: A mí me gu[palabra cortada]
+H1: ¿En el mismo cuento de los "Aristogatos"?
+H2: No. En un cuento... viene.
+H3: Yo le tengo [solapamiento de turnos] entero de toda la película.
+H2: [ininteligible] [fin de solapamiento de turnos] tres cuentos... así.
+H1: ¡Ah!
+H4: A mí me gusta mucho el "¿Dónde está [extranjerismo]Wally[fin de extranjerismo]?"
+H1: ¡Ah! Sí que sé cuál es.
+H4: Yo tengo... tengo tres.
+H3: [solapamiento de turnos] ¿De [extranjerismo]Wally[fin de extranjerismo]?
+H4: No. [fin de solapamiento de turnos] Tengo dos. El azul y el... y el rojo.
+H1: ¿Y de qué van?
+H4: Pues que tienes que buscar a [extranjerismo]Wally[fin de extranjerismo] y hay muchas personas y ponen gorros para que les vayas buscando y gafas. Y también me gusta mucho el de los tres cerditos.
+H2: Cerditos.
+H1: ¡Ah, sí! ¿Y de juegos qué juegos son los favoritos? A ver.
+H4: A mí... a mí... los [extranjerismo]"click"[fin de extranjerismo] y... [duda] y los libros para leer.
+H1: ¿Y a ti?
+H2: El parchís y los [extranjerismo]"click"[fin de extranjerismo].
+H1: Los [extranjerismo]"click"[fin de extranjerismo] también.
+H3: Y a mí los [extranjerismo]poneys[fin de extranjerismo].
+H1: ¿A ti los [extranjerismo]poneys[fin de extranjerismo]?
+H3: Sí.
+H1: Y ¿cuántos tienes?
+H3: Pues yo tengo... cuatro.
+H1: ¿Cuatro? ¿De colores?
+H3: Sí. Tengo el caballo de la [extranjerismo]"Barbie"[fin de extranjerismo] y los otros tres [extranjerismo]poneys[fin de extranjerismo].
+H1: ¿Y de muñecas no os gusta?
+H3: A mí sí. Las [extranjerismo]"Barbies"[fin de extranjerismo], tengo una pero [solapamiento de turnos] juego mucho con ella.
+H4: Mi hermana tiene dos [fin de solapamiento de turnos] [extranjerismo]"Barbies"[fin de extranjerismo].
+H3: Yo una.
+H4: Y dos [extranjerismo]"Kent"[fin de extranjerismo]. [silencio] Y yo en su cumpleaños la regalé los dos mellizos.
+H1: ¿Y tú? ¿Te gustan las muñecas o qué?
+H2: Sí. Eh... tengo a la [extranjerismo]"Nancy"[fin de extranjerismo] y a las dos [solapamiento de turnos] [extranjerismo]"Barbies"[fin de extranjerismo].
+H1: ¿Tú eres Beatriz, [fin de solapamiento de turnos] verdad? perdona.
+H2: [afirmación]
+H1: La [extranjerismo]"Nancy"[fin de extranjerismo] y las dos [extranjerismo]"Barbies"[fin de extranjerismo]
+H4: Mi herma[palabra cortada] [solapamiento de turnos] mi hermana también
+H2: Y también tengo [fin de solapamiento de turnos] a [extranjerismo]"Kent"[fin de extranjerismo].
+H4:Mi hermana tiene la "[ininteligible] Pompas", tiene el "Baby Feber", tiene "La Lacitos"... tiene...
+H3: ¡Jo! Tu hermana tiene una cantidad de muñecas...
+H4: Y el ese de... ¿cómo se llama? El...
+H2: ¿"Baby [ininteligible]"?
+H4: No. [solapamiento de turnos] Tiene una pepona...
+H2: ¿ La que hace pompas? [fin de solapamiento de turnos]
+H4: [solapamiento de turnos] No, no hace pompas.
+H2: ¿ El "Tiritón"? [fin de solapamiento de turnos]
+H4: No. ¿Cómo se llama? Uno que no está anuncia[palabra cortada], no le anuncian. El [extranjerismo]"Spy"[fin de extranjerismo]
+H1: Ah.
+H3: ¿Y ese cuál es? ¿Cómo...? Yo no le he visto.
+H4: Yo sí. Y también una pepona que es muy gorda... [risa]
+H4: Y un... y un pingüino, así... que se mueven las patas.
+H1: ¿Y los juegos así como... el... "Metropoli" y... o el "Monopoli"... y es... el "Hotel" y esos ¿os gustan?
+H4: El [extranjerismo]"Pictionary"[fin de extranjerismo] sí, me gusta mucho.
+H1: ¡Ah! Ese ¿cómo... cómo se juega con ese?
+H4: Pues hay una... una tableta así grande... y hay piezas. Y tienen que ir, por ejemplo, dos con otros dos y va moviendo la ficha, ¿no? y le toca el color rojo, el color que es... creo que es... todos juegan, cogen una carta y... no se la puedes enseñar a tu compañero porque tienes que dibujarla y... y lo tiene que acertar el compañero pero [solapamiento de turnos] [ininteligible] rojo...
+H2: Ya sé... ya sé hacerlo [fin de solapamiento de turnos] pues se lo das a otro, pero que no lo vea el otro. Así. Y el que llega al final pues ya es ganador.
+H1: [afirmación]
+H2: Entonces es muy largo, así una cosa... una rueda muy grande.
+H1: ¿ Y os gusta alguno más de esos juegos así?
+H4: [duda] [interrupción de la grabación]
+H3:... así... de cosas así... luego cuadraditos, tiras alargadas, ruedas, plantas, un pino de Navidad, para hacer un tejado, un... una hélice...
+H1: Con eso es que te haces de todo, ¿no?
+H3: Sí.
+H1: Te haces de todo.
+H3: Tengo de pequeños y de grandes, también.
+H1: [afirmación] ¿Qué más... qué más...? ¿Quieres verlo por detrás? ¿la casita?
+H3: A ver.
+H1: Nada. Por detrás no tiene nada porque es como un libro.
+H2: Ya. Esto también es igual que lo que hay alante.
+H1: Claro.
+H4: "La casa del juguetero". [risa]
+H3: Y luego...
+H4: ¿Aquí venden gorros o qué?
+H3: No. Deben ser juguetes. Yo... porque hay un caballito de esos que se mueven... Soldaditos de plomo...
+H4: Mira hay... ahí sí que hay un caballito que... de los de... [ininteligible]
+H2: A mí los que más me gustan son la...
+H3: Sí.
+H2: A mí el cuento que más me gusta es el soldadito de plomo pero es que no me le quieren comprar.
+H3: Yo tengo un
+H1: Vaya.
+H3: un libro gordo así... [solapamiento de turnos] gordo
+H4: Yo tengo [fin de solapamiento de turnos]
+H3: gordo de chistes, adivinanzas... acertijos, de todas esas cosas que... que [solapamiento de turnos] existen.
+H2: ¡Ah! Pues ese... [fin de solapamiento de turnos] ese... yo también tengo uno pero en rosa.
+H4: Yo tengo uno... [solapamiento de turnos] yo tengo... yo tengo uno
+H3: Yo le tengo en verde con un payaso. [fin de solapamiento de turnos]
+H4: que es entero de la sirenita.
+H2: ¿Eh?
+H4: El de la sirenita.
+H2: ¿El cuento de la sirenita?
+H3: Yo le he visto en cine.
+H4: Yo también.
+H2: [solapamiento de turnos] Y yo también.
+H3: Y yo con mi [fin de solapamiento de turnos] tía. [risa]
+H2: Yo la he visto en cine, maja, con mi primo Ángel y a... y a mi... y a mi...
+H4: Yo fui con...
+H2: primo Jose [solapamiento de turnos] [ininteligible]
+H4: [ininteligible] [fin de solapamiento de turnos]
+H3: Pues yo fui con mi prima Esther.
+H2: Que[palabra cortada] quería ver una de terror pero... nosotros... [solapamiento de turnos] [ininteligible] mi hermano... mi hermano... mi hermano...
+H3: Yo sí que vi una... "La Maldición de las Brujas". Esa era... [fin de solapamiento de turnos] que me daba miedo y me tenía que agarrar a mi prima... [risa]
+H4: Pues yo vi "La Sirenita", maja y me tomé esos "kikos" y bueno, ¡qué sed! ¿no? y encima hay un descanso pero... muy pequeñito y luego: "¡Que no llego, que no llego!" y encima estábamos en la parte de arriba... y había que bajar muchas escaleras: "Hala que... venga que voy a por un vaso de agua". Vamos y... ¡menos mal que llegamos a tiempo! Había una que era muy mala en "La Sirenita".
+H2: ¡Ah! sí. La pulpa.
+H3: La bruja, la pulpa esa que había...
+H4: ¿Cómo se llamaba?
+H2: La... la bruja del mar.
+H3: La bruja de las... del mar.
+H2: ¿Cómo...?
+H4: Se llamaba.... ¡ay!
+H3: ¿La bruja de [ininteligible] del mar? No eso no.
+H2: La "bruja del fondo del mar".
+H4: ¡Eso! Y tenía muchos... malos. Y el padre ¿cómo se llamaba?
+H2: El padre no me acuerdo, espera...
+H3: No me acuerdo.
+H2: Sí, que tenía así muchos...
+H4: Una cola muy grande y un bastón. Y luego es que...
+H2: Y una cola.
+H4: La bruja tenía muchos podere[palabra cortada] poderes y entonces [solapamiento de turnos] se...
+H2: Y... [fin de solapamiento de turnos]
+H4: se casó [ininteligible]
+H3: Se quería casar...
+H4: La... la mala... la...
+H3: La mala... [solapamiento de turnos] [ininteligible]
+H4: [ininteligible] [fin de solapamiento de turnos] pues estaba nadando
+H2: Sí.
+H4: Estaba nadando la sirenita y la... y la dio una cosa aquí para que no hablara ¿no? [solapamiento de turnos] y no podía
+H2: Claro. [fin de solapamiento de turnos]
+H4: hablar.
+H2: Y luego se [solapamiento de turnos] [ininteligible] ella...
+H4: Y como el príncipe [fin de solapamiento de turnos] la gustaba tanto... la sirenita...
+H3: Pues se disfrazó de ella y luego...
+H2: Se quería casarse. Pero luego cuando...
+H4: Pero llegó nadando en un bote y... y ya...[solapamiento de turnos] [ininteligible] el pajarito ese
+H3: [ininteligible] el pájaro ese [fin de solapamiento de turnos] el pajarito [solapamiento de turnos] vio cuando [ininteligible] cuando se estaban
+H4: Era un... era un... era un cotilla. [fin de solapamiento de turnos]
+H3: Sí.
+H4: Era un cotilla maja.
+H3: Se estaba asomando a la ventana
+H4: Y la vio que... estaba: "¡Ay! Me voy a quedar con el príncipe! así y luego fueron corriendo y les vieron ya casi a punto de casarse. Y... y luego se oyen... se vio... [solapamiento de turnos] dijo: "¡Esta es la mala!"
+H3: Sí porque la quitaron... [ininteligible] [fin de solapamiento de turnos]
+H4: Y entonces... la qui[palabra cortada] la... se la cogió la mala a la sirenita y se la llevó. Hizo así [onomatopeya]pum[fin de onomatopeya] y se la llevó y luego al final se casó. Y a... era una sirena ¿no? Y entonces la puso luego su padre, como tenía también padres, la puso unas piernas y se casó con...
+H3: No, pero pri[palabra cortada]. La bruja la puso piernas y brazos sin tener la cola ¿no? y entonces la quitó la voz y ella tuvo la voz.
+H1: ¿Qué la quitó?
+H3: La quitó la voz. [solapamiento de turnos] Y luego...
+H4: Pero era muy bonita [fin de solapamiento de turnos] la voz.
+H3: Y tenía así el... [solapamiento de turnos] tenía las piernas...
+H4: Maja, pues yo por poco lloro [fin de solapamiento de turnos] con esa película.
+H3: ¡Anda y yo!
+H4: Es que daba pena, ¡maja!
+H3: Sí.
+H2: Anda y yo... yo me eché... y por poco mi primo y yo... y yo nos echamos a llorar, majo.
+H4: Pues yo eh... era en el cine ese de Juan Bravo, no, en el... en el de la Plaza, en el de la Plaza.
+H2: Sí.
+H1: ¿en la Plaza Mayor?
+H4: Sí, que hay un... [solapamiento de turnos] cine ¿cómo se llama?
+H3: Yo la [fin de solapamiento de turnos] yo creo que la había visto...
+H1: Juan Bravo.
+H3: En la sala Miró la había visto lo de la sirenita.
+H4: Yo no. Yo en el de la Plaza.
+H2: Yo en el de la Plaza.
+H3: Pues yo... no me acuerdo. Yo creo que era Miró.
+H2: Pero es que nosotros estábamos abajo.
+H4: Nosotros arriba.
+H2: [solapamiento de turnos] Maja,
+H4: Yo [fin de solapamiento de turnos]
+H2: pues yo abajo.
+H4: ... yo me ponía así y dice mi [ininteligible] : "Que te vas a caer, que te vas a caer! Y encima estábamos arriba y yo me mareaba cuando miraba para abajo.
+H3: [risa] A ver. Si no estás acostumbrado a mirar de arriba...
+H4: Miraba así y estaba... estaba así de rodillas para mirar lo de abajo, estaba así... estaba así ¿no? y... y veía bueno, todo así moviéndose...
+H3: [risa]
+H1: Y ¿visteis el otro día... "Esta casa es una ruina" ?
+H4: Sí. A mí me la grabaron. Vi un poco pe[palabra cortada]... y no
+H1: Es que era muy tarde por la noche, ¿verdad?
+H4: Sí. Vi los "Vídeos de Primera", creo que era después de "Vídeos de Primera".
+H3: Oye si...
+H2: Yo ayer vi "Vídeos de Primera".
+H4: Ya pero... el otro día que fue. Pues fue y yo vi, pues hasta el segundo descanso y luego ya lo otro [solapamiento de turnos] me lo grabaron.
+H3: ¿El domingo [fin de solapamiento de turnos] visteis la película "Ha venido... llegado un Ángel", esa?
+H4: "Ha llegado un Ángel".
+H1: ¡Ah! Sí. La que cantaba Marisol.
+H2: Sí, esa.
+H1: ¿Os gustó?
+Todos: Sí.
+H4: Ha venido un an[palabra cortada] [solapamiento de turnos] [ininteligible]
+H2: [ininteligible] [fin de solapamiento de turnos] La primera cantaba...
+H4: [canta] Mari... Mari... Mari... Marisol [deja de cantar]
+H2: No, no, no era eso. Era... era...
+H3: Viajando en la puerta del cielo un capitán se asoma.
+H4: Y ... y los chicos di[palabra cortada], los chicos decían...
+H1: La de [canta] Hola, hola, hola, hola
+H3: Ven con mi amor [deja de cantar]
+H2: Era... era... Sí. Era cuando viajaban en el tren.
+H4: Sí. Y decían... y decían los chicos [vacilación] "Tú vas a ser nuestra novia". Decían. [ininteligible] de risa.
+H1: ¿Y os gusta como canta la niña?
+H3: Sí.
+H4: Sí.
+H2: Sí. Pero es que... pero es que
+H3: ¿A que cantaba también para cuando estaban despertando[solapamiento de turnos] [ininteligible]
+H2: Y la gorda esa. [fin de solapamiento de turnos] La gorda.
+H3: ¿Te acuerdas cuando cantaba esa canción de... [canta] "Al sol le llaman
+Todos: Lorenzo y a la luna Catalina. Cuando se acuesta Lorenzo se levanta Catalina [deja de cantar]
+H1: ¿Y esa canción os la sabíais vosotros ya?
+H3: Sí.
+H2: Sí.
+H1: ¿La cantáis en el cole?
+Todos: Sí.
+H1: ¿Con la [solapamiento de turnos] señorita?
+H4: Y [fin de solapamiento de turnos] también han... cantaban... no, sí [vacilación] había un concurso ¿no? y... y va ella a cantar con sevillanas y va así... había una cosa así... ¿no? una... [solapamiento de turnos] [ininteligible]
+H2: [ininteligible] [fin de solapamiento de turnos]
+H4: y sacó una peluca y se ponía... la vieja esa: "¡La peluca!" y decían los señores: "¡Nada, nada que está así más guapa!" [risa] Y con la flor ahí así.
+H1: ¿Y qué más películas...? ¡Ay! ¿Os gustan los dibujos animados?
+Todos: ¡Ay! Sí.
+H1: ¿Cuáles... os gustan más?
+H4: A mí los de "Yupi"
+H2: [solapamiento de turnos] A mí los de "Yupi"
+H3: A mí "Cajón Desastre" [fin de solapamiento de turnos] porque... pero ya se está acabando.
+H4: Es una tonta.
+H2: Ya pero es que [ininteligible] mañana va a haber así de dibujos animados.
+H4: ¡Así!
+H1: ¿Sí?
+Todos: [solapamiento de turnos] [ininteligible] [fin de solapamiento de turnos]
+H2: Millonadas.
+H1: ¿Cuáles? ¿Cuáles va a haber?
+H2: ¡Bueno! ¡Si me lío a decirlos!
+H3: Yo ayer vi a ...
+H2: Nos quedamos aquí tres meses.
+H1: ¡Jo, qué bien! O sea que os dan las vacaciones y [solapamiento de turnos] os vais
+H2: Mañana. [fin de solapamiento de turnos]
+H1: A casa a ver los dibujos, ¿no?
+H4: ¡Bah! Yo no veo mucho porque luego se te queda la cabeza cuadrada. [risa]
+H3: Como ese ¿no? [risa]
+H2: ¡Pues mañana me lo voy a pasar yo en casa mi abuela! y mi hermano cuando ve lo de Yupi y Espinete se ponen [canta] Allí no [deja de cantar] Está loco de remate.
+H1: ¿Quién? ¿Tu primo?
+H2: Mi hermano.
+H1: Tu hermano.
+H4: Yo una, mi hermana, Virginia.
+H2: Y yo uno.
+H3: Yo nada, ninguna.
+H1: Y... ¿y en la calle os gusta jugar así al [solapamiento de turnos] escondite...
+H4: A mí sí. Yo con los patines y con el monopatín y con...
+H3: Yo como sé patinar con patines me voy todos los días... el sábado, los sábados y los domingos me voy a patinar.
+H4: Yo un día me hice un chichón aquí que se me puso así, maja.
+H2: Pues yo... pues yo con los patines...
+H3: ¡Anda! y un día... [solapamiento de turnos] salimos a hacer pis aquí me bajo por una y vaya torta... qué coscorrón...
+H2: [ininteligible] bajar.[fin de solapamiento de turnos]
+H1: ¿El qué, el qué, el qué?
+H3: [vacilación] Que... por la tarde salíamos a hacer pis, como la señorita nos saca fui a... al water y [ininteligible] y [onomatopeya]pum[fin de onomatopeya] contra los azulejos me pegué aquí un cosco...
+H1: ¿Contra los azulejos?
+H3: Sí, con lo que hay ahí.
+H1: ¿Y te ha salido un chichón?
+H3: Me salió un [solapamiento de turnos] chichón.
+H2: Pues a mí [fin de solapamiento de turnos] Rebeca, Rebeca
+H4: Pues...
+H2: como... como sabía que no... estaba yo haciendo pis, fue ella y no... y no... y no pensó bien... dos veces a abrir así, hizo [onomatopeya]zas[fin de onomatopeya] y me dio aquí.
+H4: Y yo, maja, iba a hacer... [vacilación] en un servicio a hacer pis, bueno, estaba una cagada, ¡ay qué asco! [risa] Bueno, ayer devolvió una chi[palabra cortada] un chico de mi clase, Daniel
+H2: Sí.
+H4: Maja ¡y a mí me dio una arcada! me tiré encima de mi compañera ¡qué arcada me dio!
+H3: ¡Jo! ¡Es que olía que apesta!
+H4: ¡Ay! Encima yo estaba detrás de él. Delante de él.
+H1: ¡Ay madre!
+H2: Cuando nos fuimos a dar el papel a mí me dio una arcada que casi devuelvo.
+H4: ¡Anda!
+H3: Y me dijo Rebeca a mí que... que... que era con lo que... olía tan mal tan mal que ¿sabes? que la daban ganas [vacilación] a ella también de devolver. [risa]
+H4: Y Rebeca, di que va así: "¡Ay! ¡Que me manchas la mesa! ¡Huele que apesta!" [risa]
+H2: Y cuando devolvió ella el primer día iba así [onomatopeya][ininteligible][fin de onomatopeya] [risa]
+H1: Bueno, [solapamiento de turnos] bueno.
+H3: La pota. [fin de solapamiento de turnos]
+H1: Una cosa. Los cuentos que hay aquí ¿los veis en clase algún día o...?
+Todos: Sí.
+H2: La Biblia.
+H3: Sí, ese.
+H2: Y este.
+H1: ¿Este? Espera, trae ese, trae ese, trae.
+H2: Mira y éste.
+H1: "El Mandarín de los pa[palabra cortada] y los Pájaros". Este ¿os lo sabéis?
+H2: Este sí que lo hemos visto.
+Todos: [solapamiento de turnos] [ininteligible] [fin de solapamiento de turnos]
+H4: Y esto. Este me gusta mucho, mira.
+H1: Mira.
+H2: Le ha cogido Ángel.
+H1: Mira. Espera coge[palabra cortada] no cojáis ya más que me vais a contar estos que hay aquí, ¿vale? Estos que hay aquí me los contáis.
+H4: ¿Te lo leemos?
+H2: Y este...
+H1: Vale, sí, ese y nada más, venga. Ese y nada más. Ese y nada más, venga. A ver. Cada uno me cuenta uno, ¿vale? A ver.
+H2: [ininteligible] Primavera.
+H1: Entonces me cuenta "El árbol que no tenía hojas". [solapamiento de turnos] Venga.
+H4: "El árbol [fin de solapamiento de turnos] que no tenía hojas".
+H1: A ver, ¿de qué va?
+H4: Pues de que unos niños encontraron un árbol que no tenía hojas entonces dijeron: "¡Ay, pobrecillo árbol!" Entonces luego fueron en... y fueron a su casa y cogieron esos papeles que son... que vienen de... ¿cómo se llama?
+H2: Papel charol.
+H4: Papel charol y... y... y...[vacilación] y una escalera y le pusieron muchas hojitas y quedaron muy bonito y luego y... no, primero preguntaron: "Oye", preguntó el chi[palabra cortada], el árbol: "Oye sol, ¿tú... tú me podrías poner las hojas?" Y dice: "Yo sólo puedo dar sol". Se lo preguntó a... a la lluvia y dice: lluvia, lluvia: "¿Tú... tú me puedes dar hojas? Dice: "Yo sólo puedo mojar". Y dicen... ¿quién fue más? al arco iris, creo.
+H2: Al arco... al viento, al viento.
+H4: Al viento y dice: "Yo sólo puedo mover tus hojas." Y es que se la quitaba el viento. Luego vinieron unos niños y dijeron: "Te vamos a poner hojas". Cogieron papel charol de esos, van haciendo [solapamiento de turnos] [ininteligible]
+H2: [ininteligible] [fin de solapamiento de turnos]
+H4: Lo pegaban y se lo pusieron.
+H3: De colorines.
+H4: Y queda[palabra cortada] y quedaba así.
+H1: ¡Qué bonito!
+H4: Y al principio mira qué feo era. Luego... luego pasó esto, se lo preguntó lo que podía, luego
+H2: Y te[palabra cortada]
+H4: Y se le volvía el viento a la lluvia y luego los niños se lo pusieron...
+H3: Y luego pasó el sol...
+H1: ¡Ay qué bonito! [solapamiento de turnos] ¿Os gusta dibujar
+H3: [ininteligible] [fin de solapamiento de turnos]
+H1: a vosotros?
+H4: A mí sí.
+H3: A mí también.
+H1: ¿Y qué... qué es lo que más os gusta dibujar? a ver, ¿a ti por ejemplo?
+H4: A mí me [vacilación] me gusta dibujar un paisaje con niños ahí jugando...
+H1: Y... ¿y a ti qué te gusta, Beatriz, dibujar?
+H2: Dibujar cosas de... de libros, pero sin calcar, [solapamiento de turnos] copiar.
+H1: Copiar. [fin de solapamiento de turnos] [afirmación] Claro, así te dan ideas.
+H3: A mí igual que a Ángel, también me gusta hacer paisajes con animales, con niños jugando y...eso me gusta dibujar.
+H4: Mira éste. Eso es muy chuli.
+H3: ¡Ah! El de la gallina, ese.
+H1: A ver, primero que me cuenten Beatriz y... tú me contáis estos y luego vemos más, a ver. Entonces el de Beatriz se llama "La Visita de la Primavera". Y ¿de qué va?
+H2: Pues de... va que...
+H4: [ininteligible] viendo los dibujos.
+H2: Que...
+H1: Claro, así te ayuda.
+H2: En un país que nunca lle[palabra cortada] había llegado la primavera, va y llega la primavera cuando ellos no lo conocían, entonces nadie, nadie... sabía qué eran flores.
+H3: Y a que adornaban la cabeza de...
+H2: De ajos
+H3: y de [solapamiento de turnos] cebollas.
+H2: cebollas. [fin de solapamiento de turnos]
+H3: Y las... y las pamelas las a[palabra cortada], bueno las pamelas no, las cintas, las adornaban de perejiles y de otra cosa. Y luego llegó la primavera y... su... marido y ella y don Primavera y don Primavera se pusieron a mirar una cosa juntos y... dijo: "Aquí hay un sitio [ininteligible] no ha llegado nunca la primavera". Y luego llegó la primavera y dijo: " ¡Ha llegado la primavera!" Hay flores para todos. Y... y ¡jo! ¡Qué chachi nos lo pasamos! y... luego... Mira, aquí [ininteligible]
+H4: Hicimos el teatro.
+H1: ¡Ah! ¿Hicisteis el teatro de este libro?
+H3: Sí y luego decía... hasta flores en el... hasta... hasta...
+H2: [solapamiento de turnos] Hasta en la cola del guardia amapolas han nacido.
+H4: Hasta en la cola del guardia amapolas han nacido. [fin de solapamiento de turnos] Y hacíamos el teatro estas dos. Estas... eh... y esta no hablaba nada. Sólo tenía que hablar yo. Ésta así [onomatopeya][ininteligible][fin de onomatopeya] El globo.
+H3: Cállate, Ángel.
+H1: A ver, a ver si me cuentas eh... de qué va "El Mandarín y los Pájaros".
+H2: Pues estaba muy aburrido y... y... su... bueno, unos... eh... sus... bueno, cómo se llamen, les tenían que cantar canciones con el violín y eso hasta que un día el mandarín estaba aburrido y... y... vino un... un vendedor que... que llevaba un... una cosa así de... redonda y que... hacía música y entonces el mandarín oyó la música y salió afuera. Y entonces le dijo: "¿Qué hay ahí debajo?" Y le decía... no... una vez... [ininteligible] le decía: [risa] que si no le daba un cofre lleno de... de... ¿de qué? de... de dinero, de... o de prlas, que no dijera que era... que qué es.
+H4: Mira, coge [ininteligible].
+H1: ¿Que no dijera?
+H2: Que no dijera que... que se lo decía lo que había debajo de la cosa esa.

@@ -1,0 +1,76 @@
+#archivo: PJUR015A
+#fecha de grabación: 27-01-92
+#fuente: radio
+#localización: Madrid
+#términos: juicio, procedimiento, arrendatario, Código Civil, derecho, contrato, abogado, demanda judicial
+#H1: mujer, edad desconocida, locutora
+#H2: varón, edad desconocida, abogado, Víctor Manuel Sedigrás, Madrid
+#H3: mujer, edad desconocida
+#H4: mujer, edad desconocida
+#H5: mujer, edad desconocida
+#H6: mujer, edad desconocida
+[texto no transcrito]
+H1: Has llegado muy puntual, [solapamiento de turnos] muchísimas
+H2: Ah, sí [fin de solapamiento de turnos].
+H1: ...gracias por tu presencia aquí en el "Club del oyente" y si te parece vamos rapidito rapidito con esa llamadas. Hola ,buenas tardes. [silencio] Hola...
+H3: Hola, buenas tardes.
+H1: Buenas tardes.
+H3: Mire yo le quería preguntar al... al abogado el que... cuando una persona no se presenta en un juicio...
+H2: Sí.
+H3: ...y se tiene que aplazar ¿con... cuántas opciones tiene para presentarse? Porque [vacilación] es aquí la empresa que tenemos un problema con ella...
+H2: Sí.
+H3: ...no se ha presentado en un... en un acto de reconciliación.
+H2: Bien, [solapamiento de turnos] [vacilación]
+H3: Y a [fin de solapamiento de turnos] ver, tenemos el juicio y a ver cuántas opciones tenemos para estar esperando que se presenten o no.
+H2: Pues, si es tan amable, escúcheme por antena, [solapamiento de turnos] por favor.
+H3: Muy ama[palabra cortada].... [fin de solapamiento de turnos] muchas gracias.
+H2: Gracias a usted por su llamada. En primer lugar la personación en un procedimiento depende de qué clase de procedimiento. Usted habla ahora de un acto de conciliación. En el acto de conciliación si no se ha personado para llegar a una avenencia, evidentemente que usted ya luego instará las actuaciones oportunas. Si es para un emplazamiento la entrada, vamos a llamar así, de ese emplazamiento es en el momento en que se localiza el domicilio. Si... no se persona, entonces se declara en rebeldía y continúa adelante el procedimiento. Por lo tanto lo habitual, pero no quiero generalizar, depende de cada procedimiento, es un tiempo dentro de esa notificación adecuada y constante que ha recibido el demandado.
+H1: Y vamos rapidito con otra llamada. Buenas tardes.
+H4: Buenas tardes.
+H1: [solapamiento de turnos] Puede...
+H4: [ininteligible] [fin de solapamiento de turnos]
+H1: Puede hacer su [solapamiento de turnos] pregunta.
+H4: Mire [fin de solapamiento de turnos], a ver si me puede informar.
+H2: Vamos a ver.
+H4: Si un señor tiene un piso alquilado,
+H2: Sí.
+H4: ...ha salido un juicio, esos inquilinos se han marchado, [solapamiento de turnos] pero
+H2: Sí [fin de solapamiento de turnos].
+H4: ...los ha dejado vivir dos años.
+H2: Sí.
+H4: Esos señores se han comprado un piso.
+H2: Sí.
+H4: Si yo compro ese piso ¿tengo algún problema con los inquilinos? Porque es que, [solapamiento de turnos] perdón, le dejaron... es que perdón,
+H2: Bueno, está entendida. Está entendida la pregunta [fin de solapamiento de turnos].
+H4: ...le dejaron el piso porque era para un hijo que se iba a casar,
+H2: Sí.
+H4: ...pero el hijo no se viene y venden el piso.
+H2: Bien, pues está entendida. Escúcheme, si es tan amable por [solapamiento de turnos] [ininteligible]
+H4: Muchas [fin de solapamiento de turnos] gracias.
+H2: Gracias a usted. En primer lugar, si los arrendatarios que deja[palabra cortada]... desalojaron el piso no quieren volver a usar y disfrutar de ese piso como arrendamiento entonces usted podría comprar ese bien inmueble aseverándose de una forma contundente y conforme a derecho, y le aconsejo a través de un abogado, de que los antiguos arrendatarios no ejercitarán lo que en la ley de arrendamiento marca y dice en cuanto al derecho de tanteo y retracto.
+H1: Vamos rapidito con otra llamada. Hola, buenas tardes.
+H5: Hola.
+H1: Puede hacer su pregunta.
+H5: Mira, yo quería preguntarle que mira resulta que yo no tengo testamento hecho.
+H2: Sí.
+H5: Y entonces mi marido lo tengo muy enfermo, muy enfermo, bueno que se está muriendo, claro.
+H2: Sí.
+H5: Entonces yo [vacilación] saber qué tenía que hacer para que... porque yo [vacilación] más que tengo un piso, pero [solapamiento de turnos] para
+H2: Bien [fin de solapamiento de turnos].
+H5: ...que el piso fuera para mí.
+H2: Está entendido, por favor, si es tan amable, escúcheme por antena.
+H5: Muchas gracias.
+H2: En primer lugar lo que deben de realizarse es un testamento recíproco entre ambos cónyuges. Presuponemos que son ustedes cónyuges. No olvide señora que en este sentido nuestro Código Civil establece los que tienen, diríamos para que usted me entienda, más derecho a más participación en la herencia, que habla en primer lugar los descendientes, después, si no hay descendientes ascendientes y por último los colaterales. Por lo tanto, ustedes hagan este testamento recíproco, yo le aconsejo una vez más que lo haga a través de un abogado, llevándolo luego ante fedatario público y automáticamente tener regularizada su situación de testamento.
+H1: Vamos a intentar contestar... a otra persona. Por favor sea lo más breve posible. Hola, buenas tardes.
+H6: Buenas tardes. Mire [duda] soy... dueña de un... piso
+H2: Sí...
+H6: ...que lo tenía alquilado
+H2: Sí...
+H6: ...y entonces [vacilación] finaliza el contrato.
+H2: Sí.
+H6: Esta señora pues no se quiere marchar.
+H2: [afirmación]
+H6: Y... [ininteligible] quisiera saber [solapamiento de turnos] qué [ininteligible]
+H2: Pues está [fin de solapamiento de turnos] clarísimo. Si es tan amable escúcheme por antena, por favor.
+H6: La orientación que le vamos a dar es la siguiente. A través de un abogado requiérala judicialmente para que [extranjerismo]ipso facto[fin de extranjerismo] si no cumple con ese requerimiento lleve usted a cabo la correspondiente demanda judicial por extinción o resolución del contrato.
+H1: Yo creo que ha quedado todo muy claro. Muchísimas gracias amigas por estas llamadas que han hecho al "Club del oyente" de Radio Intercontinental. Ya saben que si quieren concertar una consulta particular con Víctor Manuel Sedigrás, pueden marcar este otro número de teléfono cinco, siete, uno, nueve, ocho, siete, uno; cinco, siete, uno, nueve, ocho, siete, uno. Y hasta aquí hoy el "Club del oyente" de Radio Intercontinental. Recuerde que mañana a partir de las tres estaremos de nuevo con todos ustedes. Un abrazo y feliz día. [música]

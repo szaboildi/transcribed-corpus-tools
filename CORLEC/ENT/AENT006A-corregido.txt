@@ -1,0 +1,24 @@
+#archivo: AENT006A
+#fecha de grabación: 7-4-91
+#fuente: radio
+#localización: Madrid
+#H1: mujer, locutora, c.34 años
+#H2: varón, político, ex-alcalde de Madrid por el PSOE, c.42 años
+#términos: retirada, política, valoración, gobierno, Partido Popular, Centro Democrático y Social, Partido Socialista Obrero Español, Madrid
+H1: Señor Barranco, muy buenas tardes.
+H2: Buenas tardes.
+H1: Hola, muy buenas tardes. Bueno, pues ha llegado el turno de hacer valoración sobre la decisión de Rodríguez Sahagún de retirarse de la vida política.
+H2: En primer lugar, [vacilación] es de respeto y de comprensión a ese tipo de decisiones, si son por razones personales, o tanto... como si son por razones políticos. Yo creo que a los demás lo que nos corresponde es respetar las decisiones de... de los demás, no entrar en los problemas de... de otras organizaciones, y desde luego, respetar escrupulosamente eh... las razones de cada ser humano y de cada persona que pueda tener para tomar una decisión en un momento determinado, ¿no?
+H1: ¿Cree usted que las circunstancias personales son las que han llevado al señor Sahagún a esta renuncia? ¿O cree usted que hay circunstancias políticas que le han llevado... o le han obligado a tomar esta decisión?
+H2: Pues no lo sé... [vacilación] Es posible que haya circunstancias políticas que también hayan in[palabra cortada]... influido, como...
+H1: Ya.
+H2: ... como es lógico, ¿no? Es... es posible que influyan pues los datos y las encuestas que hay en el sentido de que... la opción del [siglas]CDS[fin de siglas] ya no iba a ser determinante para... la formación del próximo... gobierno... municipal, y... y es posible que estas cosas estén también latiendo ahí, pero como le decía antes, yo creo que estas cuestiones las deben de explicar los propios interesados, y a mí lo único que me... compete es eh... quedarme enterado y respetarlas, tanto si es por una cosa o por otra. De lo que sí le puedo decir es que... el [siglas]CDS[fin de siglas] no es nuestro enemigo ni nuestro adversario... electoral. Aquí el gran reto y el pulso sigue entre el... entre la derecha conservadora, que representa el Partido Popular y una opción más de progreso, que es la que representa el... el [siglas]PSOE[fin de siglas], y en ese sentido, yo creo que... sería bueno para... para todos que el [siglas]CDS[fin de siglas], independientemente de las personas, pudiera sacar una representación y tener una presencia en el ayuntamiento de... de Madrid, y que sus concejales, con sus ideas y con sus programas, puedan contribuir de una manera positiva a solucionar los problemas que tenemos el conjunto de los madrileños, porque eso es lo importante, el futuro de nuestra ciudad y resolver los problemas de los madrileños.
+H1: No, claro, sí. En eso estamos absolutamente de acuerdo, pero no porque lo digan los candidatos a la alcaldía, sino porque lo exigimos los que vivimos en Madrid, que es distinto. Pero, con el tema que íbamos, ¿Quién, quién se beneficia con la marcha de Rodríguez Sahagún?
+H2: Pues no sé quién puede ser el... el beneficiario. En principio, supongo que... supongo que nadie, ¿no?, Porque al propio [siglas]CDS[fin de siglas] esto no le viene bien, tenga usted en cuenta que después de una moción de censura el [siglas]CDS[fin de siglas] perdió el 60 por ciento de su electorado...
+H1: Sí
+H2: [ininteligible] de la moción de censura de... aquí de Madrid. Estaba ya en una situación delicada y supongo que esto no les viene bien. Y a los demás, pues... no lo sé. Me... no quiero hacer especulaciones, ¿sabe usted? Desde ni... políticas, ni... ni personales. Supongo que ganará el que más ideas y el que más alternativas tenga para solucionar los problemas de la ciudad en... de Madrid; y el que sea capaz de a esas ideas y a esos proyectos unir una lista de candidatos lo más atractiva posible de cara a nuestros ciudadanos.
+H1: Muy bien. Muchísimas gracias. Muy amable, y buenas tardes.
+H2: Gracias a ustedes, y un saludo muy corde[palabra cortada]...
+H1: Muy cordial.
+H2: ... muy cordial, como siempre, a todos sus oyentes.
+H1: Gracias, muy amable. Buenas tardes.

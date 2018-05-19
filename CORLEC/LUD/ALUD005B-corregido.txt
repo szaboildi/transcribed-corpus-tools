@@ -1,0 +1,185 @@
+#archivo: ALUD005B
+#fecha de grabación: 12-6-91 Multiplicidad de personajes representados por
+#fuente: radio
+#localización: Madrid
+#H1: varón, 26 años, locutor, (informático)
+#H2: mujer, 26 años, locutora, (informática)
+#H3: varón, 26 años, locutor, (físico)
+#H4: varón, edad desconocida
+#H5: varón, edad desconocida
+#H6: varón, edad desconocida
+#términos: tráfico, coches, circulación, motos, peatones, solución, atasco, concierto, invitación
+una sola voz
+H1: Y un día más con vosotros "Punto de mira". Ese espacio de debate, aquí en Radio Vallecas, en el 5 5 2 1 6 2 3 de tu dial y con el teléfono ciento siete punto cinco. Buenas noches, amigos de "Punto de mira". El espacio de delbate[sic] de "Canela en Rama" hoy con un tema que a todos nos interesa. A todos nos atañe este tema... que lo tenemos que sufrir todos los que vivimos en esta gran ciudad. Nada más y nada menos que la circulación. Esa circulación que no es precisamente la circulación... de nuestra sangre ni mucho menos, sino que es la circulación del tráfico. Bueno, pues hoy en "Punto de mira" tenemos unos invitados de excepción a nuestra charla-coloquión para hablar de los coches, las amotos, las viejas que cruzan inopinadamente... en fin, de todo lo que es la circulación aquí en Madrid. Voy a presentarles... sin más dilación a nuestros... invitados de hoy. Buenas noches, Lola Niflores. Conductora novata, apenas veinte días con su carné, recién estrenado... Bien venida a "Punto de mira".
+H2: Bien venida. Me he traído la "L" para demostrarlo.
+H1: Gracias, Lola. Luego tendremos una animada charla con nuestros invitados. También está con nosotros... Federico Bultaco. Macarra reconocido, conductor de motos, sin carné, por supuesto,
+H3: [solapamiento de turnos] Muy buenas.
+H1: Cuarenta peatones [fin de solapamiento de turnos] en su [sic]haper... en su haber.
+H3: Muy buenas. Yo soy un... [extranjerismo]brother[fin de extranjerismo] del asfalto y lo vais a ver.
+H1: Gracias, Fede. ¿Qué pasa, tronco? ¿Cómo va... el tema? ¿Has cambiado las bujías ya?
+H3: Bujías y todo. Los platinos he tenido que cambiar. [risas]
+H1: Y otro invitado más. Ni más ni menos que un representante... del Real Antiautomóvil Club de España, Juanpe Atón. Buenas noches.
+H4: Buenas noches.
+H1: Pues... ni más ni menos que con estos tres invitados vamos a mantener un coloquio acerca... de qué es lo que está pasando en el tráfico en Madrid. ¿Tiene solución el tráfico en Madrid? ¿Qué propuestas tienen nuestros invitados... para reducir el coñazo de r[palabra cortada]... circulación que existe en esta capital. Vamos a empezar por una conductora novata que ha tenido que empezar a... a padecer estos... estos atascos y este sinvivir. Lola, ¿qué... qué opinas tú... [solapamiento de turnos] de los atascos?
+H2: [onomatopeya] Pues... pues... [fin de solapamiento de turnos] no sabes tú bien lo de los atascos, pero... pero es que yo creo que... que aquí el tráfico... bueno, es que sería... fácil de resolver en Madrid, ¿no?, porque Madrid es una ciudad grande, y si ponemos muchas autopistas... pues en todas las calles, en todas las aceras y... pues mira, cada uno iría por su carril y no habría problema. ¿No te parece? Si es que... ¡pero si es que sería mucho más fácil!, ¿no? Y además, yo lo primero que hacía era quitar los autobuses, porque los autobuses... te quitan mucho sitio en la carretera y no ves nada. Y bueno, y ya l[palabra cortada]... los camiones de reparto, ni te cuento; porque... ya se te pone uno y ¡hala!, y yo, venga a darle el intermitente y no sé si me ven o no me... Yo, desde luego, quitaba los autobuses y ponía autopistas... Ah, y... y también quitaría los semáforos. Bueno, los semáforos, todos fuera, yo... pondría túneles, como los que ha hecho... el Ayuntamiento, que son muy bonitos y.. y todo túneles, y quitaría los semáforos.
+H1: Es la opinión de una conductora... un poco inexperta todavía...
+H4: Eh... se ve que es inexperta, está [solapamiento de turnos] claro. Sí.
+H1: Sí, sí. [fin de solapamiento de turnos] Bueno, aquí...
+H2: Pero... pero oye, intención pongo, ¿no?, y también conduzco. ¿O es que los de la "L" no tenemos derecho...? Voy a hacer una asociación [solapamiento de turnos] que se va a llamar "L club"
+H4: Bueno, ni... ni la "L"... [fin de solapamiento de turnos] No, no, no.
+H1: Hablando de asociaciones, Juanpe... Juanpe Atón tiene también... unas declaraciones, [solapamiento de turnos] porque él es...
+H4: Hombre, por supuesto [fin de solapamiento de turnos] Nuestro...
+H1: También...
+H4: Nuestro Real Automóvil Club está dispuesto a potenciar el transporte público con mejores servicios... Y bueno, pues la... las entradas las vamos a poner... así de... de principio, las bicicletas... para todo el mundo gratis, ¿eh?, y a todo el que usara los coches, un par de hostias y a quemar el coche. Y ya... ya hemos empezado quemando los coches y las amotos también.
+H1: Sí... ¿también las amotos?
+H4: Las a[palabra cortada]... también. Lo único, las bicicletas. Las bicicletas es lo que vamos a... a tener ahí. Y después ya tenemos el cuerpo de élite de los... de los "banzai" de los semáforos que van a ir dispuestos a cargarse a toda la dictadura del automóvil, que tiene copado todas las vías... de la circulación. Y esto es, señores, sólo el principio.
+H1: Es la postura, un po[palabra cortada]... tanto radical, de... [solapamiento de turnos] del Real... Sí...
+H4: Por supuesto. Por supuesto. [fin de solapamiento de turnos]
+H1: Más... bien [ininteligible] no se bajan del burro; es más, aquí Juanpe nos ha venido con... con la cabeza de varios automovilistas entre los brazos, como...
+H2: Yo... yo lo que creo es que este señor no debe tener dinero para pagar la letra de un coche y por eso [solapamiento de turnos] habla así.
+H4: Señorita, [fin de solapamiento de turnos] somos muchos.
+H1: Sí, muchos, y muy pobres. Porque no... porque no te puedes pagar la letra de un coche. Oye, guapo, pues cómprate un segunda mano, si no tienes dinero para otro.
+H4: Ustedes no saben lo que colapsan [solapamiento de turnos] la circulación.
+H2: Sí, sí. [fin de solapamiento de turnos] Bueno, claro. ¡Ja!
+H4: Ustedes no saben que los peatones no tenemos ni aceras ahora mismo, señores.
+H2: ¿A[palabra cortada]... a[palabra cortada]... qué? ¿A[palabra cortada]... qué ha dicho? ¡Pero si no se dice con "a"! ¡Se dice "ceras", sólo! ¡"Ceras"!
+H4: No, señora. Se dice "aceras". La reivindicación de la acera. [solapamiento de turnos] El peatón...
+H2: Bueno, mira; yo con incultos no hablo [fin de solapamiento de turnos]
+H4: ... tiene que circular.
+H1: Bueno, bueno, voy a tener que ejercer el papel de... de moderador, porque este... este coloquio s[palabra cortada]... parece que se está agriando un poco. En cualquier caso, también tenemos a otro representante de... de la fauna automovilística madrileña, y no es ni más ni menos que eh... un conductor de amoto. Un conductor de amoto que... que se llama... Federico Bultaco. Federico Bultaco, ¿qué... piensas tú, qué medidas tomarías con respecto a la circulación en este caos de ciudad?
+H3: Bueno, yo... [tos] oyendo a estos dos voy a tomar una postura intermedia. Lo que hay que hacer es... poner las amotos gratis para todo el mundo. Y ya está. Y buenos toldos por encima que ponga el Ayuntamiento para evitarnos de la lluvia. ¡Y ya está! ¡Arreglado! ¡Toldos y amotos gratis para todo dios! Y todo iría de puta madre. ¿Que queréis hacer las aceras más grandes? Pues las hacéis, pero dejar un carrilito para las motos. Arreglado. Y... bueno, hay gente que si tendría que comprar la moto, que son los taxistas. Primero quemarles el coche; ahí de puta madre.
+H4: Ahí te apoyo, tío.
+H3: Y luego regalarles una moto con sidecar, para que lleven a la peña. Taxistas. Y ya está. ¿Qué os parece?
+H2: Pues yo estoy bastante en contra de las motos, porque hay un ángulo muerto donde no veo bien por el retrovisor si viene una... y luego, ¡me dan cada susto! ¡Ay, las motos! ¡Es que se me ponen! Y nada, viene... viene un mensajero, y ¡hala!, se cruza, y... ¡y que se cree que todavía tengo yo controlado dónde está el freno y dónde el acelerador! ¡Es que un día de estos me los voy a llevar por delante! Yo que ellos, los mandaba a todos al paro y ya está. ¿No te digo? ¡Pues que vayan en coches oficiales!
+H1: Claro, sí, sí. Es una postura muy coherente la que... suscribe Lola Niflores; en cualquier caso [solapamiento de turnos] es una opinión más.
+H3: [ininteligible] Cómo se nota que no vives [fin de solapamiento de turnos] de las motos, ¿eh?
+H2: Pero... pero si es que yo tengo mucho... mucha razón. Porque vamos a ver, ¿qué hace tanta gente en la calle por el día? ¡Pues que están en las oficinas trabajando, oye! ¡Que las amas de la casa también tenemos derecho a ir a la compra en coche! ¡Que ya está bien de llevar el carrito por la acera! Hala, si estuvierais trabajando y no estuvierais todos allí en la calle no se formarían los atascos que se forman.
+H1: [solapamiento de turnos] (¡Pues muy bien!)
+H4: Mire usted, [fin de solapamiento de turnos] a comprar hay que ir en transporte público. Las motos se meten incluso por las aceras. Y a nosotros, los peatones, no nos dejan ir por ningún lado.
+H2: Mire, los peatones, yo no sé quiénes serán esos señores, pero le aseguro que [solapamiento de turnos] el transporte público...
+H4: Los peatones... [fin de solapamiento de turnos]
+H2: ... no hay quien lo coja; porque viene el autobús... que, oye, como para meterme yo allí con las lechugas. ¡Pues sí, hombre! ¡Se me espachurran los tomates! ¡N[palabra cortada]... ni hablar! Yo en mi coche, que voy muy bien con mi "L", dando... paso a todo el mundo, le pongo el intermitente...
+H3: Y atascando.
+H2: Pero... pero, ¿atascando el qué? ¡Pero si es que las calles deberían estar hechas para la gente que circula, o sea, si es que lo que no entiendo es por qué [solapamiento de turnos] la gente no circula!
+H4: La mejor circulación, [fin de solapamiento de turnos] señorita, es la peatonal. Las calles peatonales son las que mejor van. Cada uno va a su sitio y no hay... atasco de ningún tipo.
+H2: A mí me parece que este señor me está insultando, y se está sali[palabra cortada]... [palabra cortada]cando los pies del plato.
+H1: Bueno, vo[palabra cortada]... voy a tener que ejercer por segunda vez mi papel de moderador y... vistas las opiniones de nuestros invitados, vamos a ver, ya que estamos hablando del atasco y de la circulación, en estos momentos vamos a conectar con el centro de pantallas del ayuntamiento para que nos informe de la situación actual del tráfico. ¿Centro de pantallas del Ayuntamiento, por favor?
+H2: [duda] ¡Ordago! [vacilación]
+H1: ¿Cómo que órdago? ¡Pero si acabo yo de... estar jugando! ¡Qué no, [solapamiento de turnos] que estamos jugando a la chica!
+H2: ¡Oye, tío, tío! [fin de solapamiento de turnos] ¡Enciende, encien[palabra cortada]... [vacilación] enciende la pantalla, que han venido los de la tele!
+H1: [ininteligible] ¡Oye, que te llaman de la radio! Radio Vallecas, [solapamiento de turnos] atiende, atiende!
+H2: ¡Ah, bueno, de la radio! [fin de solapamiento de turnos] Entonces... Hola, ¿sí? Radio Vallecas, aquí el centro de pantallas del... Ayuntamiento de Madrid, sección tráfico. Buenas noches. Eh... Tenemos que informarles que el tráfico en Madrid está actualmente muy tranquilo en todas las vías de acceso a la capital; hay pocas retenciones a esta hora, ya se sabe, a esta hora no hay... apenas tráfico y... [duda] ya que ha pasado la hora punta, solamente nos [sic]taca destacar... los [duda]
+H1: [ininteligible]
+H2: La confluencia de las calles avenida de la Albufera y Payaso Fofó, donde ha volcado un camión de la "Mahou" y los vecinos han tomado la calle para llenar cubos, alambiques y lo que pillan entre los restos de la cerveza. Bueno, desde aquí es todo, nada más, buenas noches.
+H1: ¡Mira er tío ese! ¡Se está llevando catorce cajas de cerveza, el hijo puta, [onomatopeya]! ¡Quiyo, invita!
+H2: ¡Bueno, que órdago, que órdago he dicho! ¡Ah, que seguimos en el aire, seguimos en el aire!
+H1: Gracias, centro de pantallas del Ayuntamiento. La información, siempre puntual, siempre sincera de lo que sucede... en esta urbe, en esta metrópoli... de asfalto, cemento y conductores. Y... también tenemos en "Punto de mira" a unos invitados musicales. Hoy nos van a cantar las [extranjerismo]Xoxonees[fin de extranjerismo] un tema relacionado con... la circulación, que más... ni más ni menos se llama "En la circulación". Oigámosle. [música]
+H3: Está bien esto. [canción] No, no, no, no, no, no No, no, no, no, no. No, no, no, no, no, no No, no, no, no, no. Todas las ciudades están igual, el humo que las cubre no me deja respirar Todas las ciudades están igual pero a mí me gusta el atasco matinal. [coro] Atasco matinal, atasco matinal, atasco matinal, ah, ah, ah. [fin del coro] Pero a mí me gusta el atasco matinal. [coro] Atasco matinal. [música] En la circulación / con coche de ocasión. [música] En la circulación / con coche de ocasión. [música] Qué mogollón, ¡mogollón! Qué mogollón, ¡mogollón! [fin del coro] Con mi nuevo coche ya ligo más, último modelo, es super-super espacial Con mi nuevo coche ya ligo más Y en los grandes atascos toco el pito sin parar. [coro] Toco el pito sin parar, toco el pito sin parar, toco el pito sin parar, ah, ah, ah. [fin del coro] Y en los grandes atascos toco el pito sin parar. [coro] Toco el pito sin parar. [música] En la circulación / con coche de ocasión. [música] En la circulación / con coche de ocasión. [música] Qué mogollón, ¡mogollón! Qué mogollón, ¡mogollón! [fin del coro] Y al llegar la hora de aparcar me encanta dar vueltas y vueltas sin parar Y al llegar la hora de aparcar si me ponen multas me excito más y más. [coro] Me excito más y más, me excito más y más, me excito más y más, ah, ah, ah. [fin del coro] Si me ponen multas me excito más y más. [coro] Me excito más y más. [música] En la circulación / con coche de ocasión. En la circulación / con coche de ocasión. En la circulación / con coche de ocasión. En la circulación / con coche de ocasión. En la circulación / con coche de ocasión. En la circulación / con coche de ocasión. [fin del coro] [fin de canción]
+H1: Y como este programa... de debate quiere estar en el ojo del huracán, hablando de circulación y atascos, eh... vamos a poner un poco de publicidad para fomento, uso y abuso del atasco. Publicidad. [onomatopeya]
+H3: Imagínese un coche que consume medio litro cada cien mil millones de kilómetros. Un coche con una línea suave. Un [extranjerismo]comfort[fin de extranjerismo] y un acabado perfectos. Asientos abatibles, con almohadas incluidas, ordeñador a bordo, frenos "A ver ése", suspensión "Inexisten". Imagínese al volante de este coche. Lo están haciendo. Abra los ojos y dése cuenta de que este coche no sirve para usted. ¡Todo el día en un puto atasco! ¡No seas tonto, hombre! ¡Vete al Caribe! ¡O de guarras! Y no te compres un coche, hombre.
+H1: Y este ha sido el consejo publicitario que, evidentemente, también ha promovido hoy, un día más, preservativos "Barricada". Y vamos a seguir hablando de atascos, vamos a seguir con este debate, y... ni más ni menos que vamos a hacer una conexión con el atasco de la puerta de abajo. A ver, a ver, ¿estás por ahí? ¿Ramón... [onomatopeya]? ¿Ramón? [solapamiento de turnos] ¿Ramón, estás ahí?
+H4: Eh... ¿Sí, sí? [fin de solapamiento de turnos] Oye, ¿Coco? ¿Coco?
+H1: Sí... te oigo perfectamente. A ver, "Vespa" número siete, ¿Ramón?
+H5: Sí, sí. Eh... Bueno, he dejado la "Vespa" porque realmente no... no la necesito, ¿eh? Mira, estoy aquí, aquí, en la avenida de la Albufera, en el principio, en el puente, y estamos aquí desde hace hora y media... [ruido]
+H5: Y están todos a[palabra cortada]... todos parados, atascados; yo no sé si es una cuestión de semáforos de más adelante... [ruido]
+H2: [ininteligible] ¡Pero coño! ¡Hale! ¡Vale! ¿Pero es que no tienen ojos?
+H5: ¿Co[palabra cortada]... ? Co[palabra cortada]... ¡Co[palabra cortada]... !
+H1: ¡Sinvergüenza! [ininteligible]
+H5: ¡¡Coco!!
+H1: Sí, sí, te oímos, Ramón. Sigue[palabra cortada]... [solapamiento de turnos] sigues ahí.
+H5: Bue[palabra cortada]... bue[palabra cortada]... [fin de solapamiento de turnos] Sí, sí. Bueno, llevo aquí casi dos horas, porque esto...
+H1: Sí, sí.
+H5: Esto parece una cosa...
+H1: Ahora, ahora parece que se oye así el ruido de fondo.
+H5: ¿Sí? ¿Sí? Mira.
+H1: ¿Se oye el ruido de fondo?
+H5: Mira, han aparecido ya los gitanos; yo no sé los bocadillos que llevan haciendo desde hace hora y media... Los refrescos que se han apiñado aquí en todos los bares de la zona y es más; fíjate, las tiendas, las tiendas no han cerrado previendo que van a hacer su mes de junio; y no han cerrado ninguna. Y aunque parezca mentira, aquí la gente pues está muy tranquila, parece que esto se lo toman muy tranquilamente, están despreocupados, están haciendo sus compras, estas compras que...
+H2: Pero, ¿qué pasa, que otra vez quieres mear? Niño, hijo, ¡qué pesado eres, todo el día meando, todo el día meando!
+H5: Pero... Co[palabra cortada]... ¡Coco!
+H1: [risas] Sí te oigo, te oigo, Ramón. [solapamiento de turnos] Ramón, ¿estás por ahí?
+H5: Sí, sí, bueno, pero es que... es que mira, aquí hay un barullo...
+H1: Espera, que es que la conexión... [fin de solapamiento de turnos]
+H5: Sí, mira.
+H1: Sí, dime.
+H5: Vamos... vamos a hacer unas preguntas, aquí hemos llegado... hasta los micros... hemos traído a una señora conductora... [ruido]
+H5: ... que ya de[palabra cortada]... ha abandonado el coche, ¿eh?
+H1: Vale, sí; ahora parece que se oye perfectamente.
+H5: ¿Ya? ¿Ya? Bueno, vale, vale. [solapamiento de turnos] Es que parece mentira...
+H1: Sí... recibimos [ininteligible] [fin de solapamiento de turnos]
+H5: Parece mentira cómo está esto. Oye, e[palabra cortada]... ¿estás cansada de tocar el pito? [ruido]
+H2: Pues... pero bueno, pero ¡buf!, esto no tiene comparación con el de esta mañana. Fíjate, me he comido en el coche un paquete de palomitas y unas cortezas y hasta me he dormido la siesta y todo, vamos. Pero... ¡Pero huevón! ¡¿Es que no sabes dónde tienes los ojos?! ¡Pero que me va a dar! ¡Pero... pero... pero qué prisa tiene!
+H5: Bueno, un poco de calma, un poco de calma. Mire, aquí, aquí tenemos... Coco, mira, aquí tenemos a un limpiador de parabrisas que ha llegado... y que creo que está haciendo el negocio, ¿verdad? ¿Qué tal va la "limpia"?
+H3: ¿Negocio? ¡Me cago en la puta! ¡Chungo, tío, me he limpiado nada más que un coche en todo el día!
+H1: ¡"Limpia", que me has dejado aquí una caca de pájaro!
+H5: Pero, ¿cómo es posible, hombre? ¡Si tienes aquí el negocio del siglo!
+H3: ¡¿Qué negocio?! ¡Pero si todo el mundo baja y me da de hostias! ¡Que no puedo limpiar ni un coche, macho!
+H1: Pero, ¡quítate de ahí, me cago en la puta! ¡Venga, hombre, con el cubo, hostia!
+H3: Mira... Mira, mira el pie; me han chafado veinticinco veces ya.
+H5: Bueno, bueno, Coco, pues esto va a ser todo desde aquí, desde la avenida de la Albufera tres; ya te digo, esto dura toda la avenida de la Albufera, aquí los claxon tocan muchísimo... [ruido]
+H5: Y bueno, pues un atasco más en Madrid... despedida para "Canela en rama". El señor... destacado en esta ocasión, Ramón Dondón. [ruido]
+H2: Preservativos "Barricada". Si no tienes nada que hacer mejor en un atasco, no te olvides de nosotros. 5 5 2 1 6 2 3 es el teléfono al que puedes llamar para pedir la canción que más te apetezca escuchar en castellano, por supuesto. Ya puede ser bien hecha en España, o bien en Hispanoamérica o en cualquier otro país donde se hable nuestra lengua... o por lo menos se cante. 5 5 2 1 6 2 3. Radio Vallecas. Ciento siete punto... cinco. Y no vamos a olvidarnos de las personas que nos han llamado hoy pidiendo el concurso de la semana. Y, ¿qué pasa? ¿Es que esta semana no tenemos concurso? ¿Es que no tenemos nada que regalar acaso? ¡No me lo puedo creer!
+H1: Pues algo habrá que regalar. Por ejemplo, vamos a regalar hoy sin ir más lejos un par de invitaciones para ver ni más ni menos que... a los "Manos Mel", a los "Soul Bisontes" y a "Los porretas", el viernes 14 de junio a las ocho de la tarde. Con... con... invitación. [solapamiento de turnos] Ni más, ni menos.
+H2: Pero... pero, ¿invitación? [fin de solapamiento de turnos] Pero, ¿esto no hemos di[palabra cortada]... quedado antes que era entrada gratuita y...
+H1: Sí... Calla, coño, (¿Lo vas a decir todo?)
+H2: ¡Ah! ¡Ah, tío, me estabas asustando, yo ya había llamado a unos colegas que andan apurados de pelas y no saben qué hacer este viernes y les he dicho: "Oye, dan un concierto de puta madre, veniros conmigo"
+H1: Es gratis y además... [duda] os vamos a invitar a una cervecita... Aquí eh... "Canela en Rama" se va a tirar el rollo, [solapamiento de turnos] una vez en la vida...
+H2: ¡Anda, anda! [fin de solapamiento de turnos]
+H1: ... y va a tirar la casa por la ventana.
+H3: ¡Buah!
+H2: Bueno, y supongo que los preservativos "Barricada" contribuirán con su aporte semanal de... de preservativos, mismamente dicho, ¿no?, que, como todos sabéis, preservativos "Barricada", "no pasa nada".
+H1: Si, ni siquiera en el atasco pasa nada con preservativos "Barreca[palabra cortada]... "Barricada", porque... el atasco bien controlado, con "Barricada" es...
+H2: [solapamiento de turnos] Está chupado [risas]
+H1: Para un... [risas] [fin de solapamiento de turnos]
+H2: Bueno, pues... Mira, vamos a hacer una pregunta facilita para que todos aquellos que nos llaméis al 5 5 2 1 6 2 3 podáis acertar y os llevéis unas cervezas gratis en el concierto de este viernes. Y... la pregunta, como bien os digo es muy fácil. El tema que vamos a escuchar ahora se llama "El fantasma de la autopista", y os preguntamos el grupo que la interpreta. [solapamiento de turnos] Pues vamos allá, [extranjerismo]He-Man[fin de extranjerismo] magnífico.
+H1: Pues vamos... y un mo[palabra cortada]... y además os vamos... [fin de solapamiento de turnos]
+H2: [solapamiento de turnos] Dice que no, ¡dice que no! Pero... pero Germán...
+H1: No, vamos a dar una pista. [fin de solapamiento de turnos]
+H2: ¡Qué tú te la sabes! Pero que... que... que no vale que tú contestes, tío.
+H1: Que no[palabra cortada]... que no, que no va a cantar él, [solapamiento de turnos] Joe, que no es eso.
+H2: ¡Ah! ¡Joder! [fin de solapamiento de turnos]
+H1: Os vamos a dar, incluso, además de todo, a pesar de, una pista. [solapamiento de turnos] Vamos a dar.
+H2: ¿Una pista? [fin de solapamiento de turnos]
+H1: Sí.
+H2: Bueno, pues... no sé...
+H1: Vamos a darla, venga. Toma, ¡toma una pista! Ahora mismo.
+H2: Pues... no sé. Al... el teléfono al que tengo que llamar, por ejemplo, [solapamiento de turnos] eso es una buena pista para ganarme el premio.
+H1: Venga, sí, es una buena pista. [fin de solapamiento de turnos] Además, podéis llamar a... a... ¿cómo es?
+H2: Al...
+H1: A cobro revertido, incluso. [risas]
+H2: ¿Incluso? ¡Incluso! Bueno, pues el teléfono es el siguiente: 5 5 2 1 6 2 3.
+H1: Pues...
+H2: Tenemos en... teniendo en cuenta que no es una cinta, sino que es un disco, de "Los Ilegales"... ¡Anda, pero si es que ya me... he llevado yo el premio! ¡Que no, tíos, que no estaba preparado! Que no es[palabra cortada]... que no; bueno, no importa, ahora os hacemos una pregunta, que también va a ser fácil, mientras podemos escuchar este tema, que como bien he desvelado, son "Los Ilegales" y nos cantan "El fantasma de la autopista" [música] [canción] Se ha matado en accidente la chica del disco- [extranjerismo]pub[fin de extranjerismo] Su fantasma en la autopista hace dedo sin parar Sube a tu coche y poco antes de llegar señala la curva donde ella se mató. Estas algo atrompado y no sabes si creer porque ella desapareció. [música] Le pregunto donde vive, ella dice en el pasado, [ininteligible] llenos de arena y siempre cuenta la historia de Elena. [música] Toda una leyenda en la seiscientos treinta y dos, el fantasma de una chica suele hacer auto-stop. Periódicos y radio hablan de ella sin parar y tú en el coche la puedes llevar estabas pensando qué pálida está cuando ella desapareció [música] Le pregunto donde vive, ella dice en el pasado, [ininteligible] llenos de arena y siempre cuenta la historia de Elena. [música] Se ha matado en accidente la chica del disco- [extranjerismo]pub[fin de extranjerismo] Su fantasma en la autopista hace dedo sin parar Sube a tu coche y poco antes de llegar señala la curva donde ella se mató. Estas algo asustado y no sabes qué pensar. porque ella desapareció. [música] Le pregunto donde vive, ella dice en el pasado, [ininteligible] llenos de arena y siempre cuenta la historia de Elena. [música] [fin de canción]
+H1: Pues... ni más ni menos que eran... huy, huy, [vacilación]
+H2: "Manos Mel"
+H1: No, no, ¿cómo van a ser "Manos Mel"? No; eran "Ilegales" y cantándonos un tema también relacionado con la circulación y con una chica que se mató en un accidente. Y oye..
+H2: Yo me he quedado muy triste porque no podemos regalar las consumiciones para el concierto que va a haber el... día catorce para ver a "Manos Mel", "Soul Bisontes" y "Los Porretas", yo... ¿qué... qué pregunta podemos hacer? Yo... yo, de verdad, mira que soltar lo de "Los Ilegales"... ¡es que se me ha escapado!, no...
+H1: Sí... Bueno, no... importa. Podemos... podemos... vamos a pensar algo que todo el mundo sepa, que se haya enterado todo el mundo, e incluso que todo el mundo haya visto [solapamiento de turnos] en un... en una revista.
+H2: Venga, ¿quién patrocina [sic]esta programa? [fin de solapamiento de turnos]
+H1: Pero eso lo sabe todo el mundo...
+H2: Ah, bueno, está bien.
+H1: Preservativos "Barricada" ya... son conoci[palabra cortada]... conocidos, vamos. No, va[palabra cortada]... vamos a ver. ¿Qué ha pasado esta semana... ? Por ejemplo.
+H2: Venga. Ponme un ejemplo.
+H1: A... ¿a quién le han dado cuarenta kilos por quedarse en bolas en "Interviú"? ¿Eh? ¿Eh?
+H2: ¡Ah, ésa es una buena pregunta, sí! Así yo me entero, porque es que no me he enterado.
+H1: Sí. Pues... [solapamiento de turnos] se puede hacer una pregunta.
+H2: Pero ¿qué es, tío o tía? [fin de solapamiento de turnos]
+H1: Pues va[palabra cortada]... no sé, espérate un momento, que lo voy a ver. [solapamiento de turnos] Vamos a ver.
+H2: Bueno, venga. [fin de solapamiento de turnos] 5 5 2 1 6 2 3 y vamos, que nos digan quién se ha quedado en bolas por... cuarenta kilos, en el "Interviú"
+H1: Sí; y además no sólo que nos diga quién ha sido... Le vamos a dar una pista. O sea, la señora madre de la persona que... que se ha quedado en bolas, ha hecho las siguientes declaraciones; o sea, para daros una pista ya... [onomatopeya] que te cagas, ¿no? Dice: "Toda la familia está muy disgustada. me ha parecido muy mal. Sabía que... [onomatopeya] tenía intención de hacer esto, pero pensaba que no iba a pasar nunca. No pienso ir a ningún kiosco, ni quiero oír hablar del desnudo. Mi hija..." -pista- "... ha tirado el honor de la familia por los suelos. Y además, Marta, de disgusto en disgusto. En nuestra familia nunca ha pasado nada. Ya fue grave que se metiera a cantante. Ahora tiene un novio que ha sentado fatal, precisamente por su color. Y encima, se desnuda".
+H2: Bueno, pues en el 5 5 2 1 6 2 3 si nos decís quién es esta persona misteriosa que ha aparecido desnuda en varias revistas... Varias porque una ha pagado... un montón de dinero y otra le ha... le ha plagiado las fotos. Bueno, pues si nos decís quién es esta increíble... desconocida, en el 5 5 2 1 6 2 3, "Canela en Rama" os invita a unas consumiciones en el concierto del día catorce, donde podréis escuchar a los grupos "Manos Mel", "Soul Bisontes" y "Los Porretas".
+H1: Y además... para daros tiempo a que contactéis con nosotros, ahora sí, vamos a poner a Peret, "Clavo y martillo". [música] [canción] Para las rumbas gitanas yo he inventado un método raro Clavo, puntas y tachuelas; serrucho por contrabajo Las maracas, castañuelas, [ininteligible] cómo ha quedado. [coro] Martillo y clavo, clavo y martillo, Martillo y clavo, clavo y martillo. [música] Clavo y martillo, martillo y clavo, clavo y martillo [fin del coro] [música] Luego la cosa cambió, pues mis gitanos son muy vagos y como era de esperarse, todo quedó eliminado El serrucho, las tachuelas, [ininteligible] cómo ha quedado. [coro] Martillo y clavo, clavo y martillo, Martillo y clavo, clavo y martillo. [música] Clavo y martillo, martillo y clavo, clavo y martillo [fin del coro] [música] Martillo para gozar [coro] Clavo y martillo, martillo y clavo. [fin del coro] Oye, qué rico y qué bueno, querían bailar. [coro] Clavo y martillo, martillo y clavo. [fin del coro] Clavo y martillo, clavo y martillo, clavo y martillo para rumbear. [coro] Clavo y martillo, martillo y clavo. [fin del coro] [texto no transcrito] [fin de canción]
+H1: Eh... amigo-oyente de Radio Vallecas, de "Canela en Rama", ¿estás ahí?
+H6: Sí, buenas noches, ¿cómo estas? [risas]
+H1: Buenas noches. Te paso con nuestra responsable de... invitaciones y fiestas eh... Lola Gaos.
+H6: Vale.
+H2: Vaya por Dios. Bueno, pues... querido oyente, [duda]
+H6: Sí.
+H2: Suponemos que... te sabes la pregunta que hemos hecho para concursar.
+H6: Yo creo que sí, yo creo que sí; estamos aquí un par diciendo que... que es la Pantoja.
+H2: ¿La...?
+H6: La Pantoja, [solapamiento de turnos] la... la que está loca.
+H2: Pero... pero vamos a ver [fin de solapamiento de turnos], ¿tú has llamado al programa de hoy o de hace varias semanas? [solapamiento de turnos] Es que... Bueno, te repito la pregunta...
+H6: Al de... al de... hace varias semanas [fin de solapamiento de turnos], lo que pasa es que bueno, ¿qué más da, no? [risas]
+H2: Claro, yo... yo... te repito la pregunta...
+H6: Sí.
+H2: ... y a ver si así hay un poco...

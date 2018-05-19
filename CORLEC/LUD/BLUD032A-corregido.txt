@@ -1,0 +1,426 @@
+#archivo: BLUD032A
+#fecha de grabación: 30-11-91
+#fuente: televisión
+#localización: Madrid
+#términos: concurso, concursante, secretaria, azafata, máquina, dinero, millón, peseta, pregunta, respuesta, juego
+#H1: mujer, c.25 años, presentadora
+#H2: mujer, c.45 años, actriz
+#H3: mujer, c.45 años, actriz
+#H4: mujer, c.45 años, actriz
+#H5: varón, c.50 años, presentador
+#H6: mujer, c.25 años, secretaria del programa
+#H7: mujer, c.25 años, secretaria del programa
+#H8: mujer, c.25 años, secretaria del programa
+#H9: mujer, edad ignorada, concursante
+#H10: varón, edad ignorada, concursante
+#H11: mujer, edad ignorada, estudiante de dietética, concursante
+#H12: varón, edad ignorada, concursante
+#H13: varón, edad ignorada, concursante
+#H14: mujer, edad ignorada, concursante
+#H15: mujer, c.25 años, secretaria del programa
+#H16: mujer, c.25 años, secretaria del programa
+Público: [canta][texto no transcrito][deja de cantar]
+Público: [aplausos] [solapamiento de turnos] [música]
+H2:,
+H3:,
+H4: [extranjerismo]Ave[fin de extranjerismo] agasajorum [fin de solapamiento de turnos] undostresorum, [extranjerismo]ave[fin de extranjerismo], amadus públicus.
+H2: Vamos a ver una cosa, yo voy a decir: "[extranjerismo]Ave[fin de extranjerismo], públicus" y ustedes tienen que contestar: "[extranjerismo]Ave[fin de extranjerismo], derrochonus", ¿eh...? A ver si nos sale bien y bien fuerte, ¿eh? A ver: [extranjerismo]Ave[fin de extranjerismo], públicus.
+Público: [extranjerismo]Ave[fin de extranjerismo], derrochonus.
+H2: ¡Oy!, muy bien. Ahora, otra vez para que salga mejor, a ver:
+H2:,
+H3:,
+H4: [extranjerismo]Ave[fin de extranjerismo], públicus.
+Público: [extranjerismo]Ave[fin de extranjerismo], derrochonus.
+H2: ¡Uh....!, [solapamiento de turnos] ¡qué bien!, ¡qué oh...!, ¡qué bien!, es estupendo.
+H3: [risas] Mira que [ininteligible] [fin de solapamiento de turnos].
+H2: [extranjerismo]Ave[fin de extranjerismo], Miriam Cayo Octaviana Díaz Arocus.
+H1: Buenas...
+H3: ¿Y por qué la has llamado "Miriam Cayo Octaviana"?
+H2: Una romanización de su nombre.
+H3: ¡Jo, jo! ¿Y eso de "Miriam Cayo"?
+H2: ¡Hombre!, algo callo es.
+H3: [solapamiento de turnos] ¡Oh!
+Público: [risas]
+H2: ¿Y tú por qué saludas así?
+H4: Porque me siento romana de izquierdas.
+H2: ¡Já, já!
+Público: [risas]
+H2: A ésta se le está pegando la cutrez de este programa. Menos mal que el programa de hoy se dedica a Calígula, que si no... ¡Niñas!, vamos a nuestro sitio para ver este circo como funciona.
+H2:,
+H3:,
+H4: [solapamiento de turnos] ¡Ah! sí [ininteligible]
+Público: [aplausos] [fin de solapamiento de turnos].
+H1: ¿Qué... qué... qué decían de "Calígula" y de "cutreces" y así... no... no sé que...
+H2: Además, me cae gorda, ¡hija mía! Que el programa de hoy va dedicado a Calígula y al Imperio romano, ¿te has enterado ya? Y a propósito de cutreces, ¿nos permites?
+H1: Por favor. Adelante.
+H2: ¡Ah!, ¡Antonius!, ¡Petronius!, ¡Aureliano!, para dentro, por favor. Un momento, que van a pasar. Muchas gracias, muy amables. Muchas gracias. El tono: un, dos tres, ¡ya! [música]
+H2:,
+H3:,
+H4: [canta] Reloj..., no marques las horas porque voy a enloquecer... ella se irá para siempre... cuando amanezca otra vez... [texto no transcrito][deja de cantar] [texto no transcrito] [aplausos]
+H1: ¡Ay!, chicas... de verdad, chicas... pero... pero qué bolero más bonito: "El reloj".
+H2: Eso, "El reloj". Pero a qué mente perversa y retorcida se le ocurre la semana pasada tener a los pobres concursantes durante dos horas y media sufriendo para llevarse un mísero reloj.
+H3: Pero si lo peor fue lo... lo... lo... [solapamiento de turnos] los sufridores, esos.
+H2: Los sufrido[palabra cortada]... [fin de solapamiento de turnos]
+H2: Bueno, pero si es que se fueron con lágrimas en los ojos. Más que un "Un, dos, tres", parecía un culebrón.
+Público: [risas]
+H4: Hubo gente del público que a la salida les dio el pésame.
+Público: [risas]
+H1: [solapamiento de turnos] Pero... pero...
+Público: [risas] [fin de solapamiento de turnos]
+H1: ...si era un reloj... era un relod fantástico. Creo que está valorado en más de un millón de pesetas.
+H2: ¿Y qué es hoy un millón... un millón de pesetas?, ¡hija mía! Nada.
+H4: [solapamiento de turnos] Nada...
+H3: Nada, nada.
+H2: Hoy en España no es nada [fin de solapamiento de turnos]. Pero si hoy en día en España, con un millón no se va ni a la vuelta de la esquina.
+H3: Vamos a ver, si los niños les dicen a sus padres: "Papá, dame un millón de pesetas, que tengo que ir con unos amigos al cine"
+Público: [risas]
+H1: Ve[palabra cortada]... vamos a ver, yo... sois un poco exageradas, porque yo... vamos... yo con un millón de pesetas es que haría un montón de cosas.
+H3: [solapamiento de turnos] ¡Ah...!
+H4: ¡Ah...!
+H2: ¡Ah...!, [fin de solapamiento de turnos] ¿sí...? ¿Lo haría? ¿Te comprarías un piso...?
+H1: ¡Hombre!, un piso... un piso...
+H2: Já.
+H4: ¿La entrada de un piso?
+H2: ¿Ah...?
+H1: ¿La entrada? [vacilación] Lo que se dice "la entrada" pues... pues,... pues no...
+H3: No... ¿los muebles de un piso...?
+H2: ¿La televisión, un apartamento, un presentador de televisión, por ejemplo?
+H1: Eh... eh... eh... No me líe... no me líe como siempre. Que yo sepa... que yo sepa, los presentadores de televisión no se compran.
+H2: ¿¡Qué no se compran!? ¿Pero en qué mundo vives, hija mía? Como ahora hay tantas televisiones, tanta competencia, los presentadores cotizan en bolsa...
+H4: [risas]
+H2: ¡Anda!, dile lo que nos costó Joaquín [extranjerismo]Prat[fin de extranjerismo].
+H1: Eh... eh... eh... no me va a hacer creer que a Joaquín [extranjerismo]Prat[fin de extranjerismo]...
+H3: [solapamiento de turnos] Nos lo compramos.
+H4: Nos lo compramos. [fin de solapamiento de turnos]
+H2: ¿Y a Pedro Piqueras?
+H3: [solapamiento de turnos] Nos lo compramos.
+H4: Nos lo compramos. [fin de solapamiento de turnos]
+H3: Y ahora repite el telediario sólo para nosotras.
+H2: ¡Oy....! a mí, el que me pone a cien es el que nos compramos la semana pasada.
+H1: ¡Oy!, pero... pero ¿a quién se refiere? A ver, ¿a quién?
+H2: A José María Carrascal.
+Público: [risas]
+H2: Es que me va muchísimo con la salita de estar que tenemos decorada muy clásica y entonces nos va con una butaquita "Luis Catorce". Y con las corbatas que se pone, mire, tenemos un sofá, estilo "Imperio", que cuando se sientan, es que le va de maravilla, está monísimo... monísimo... Oiga, haga el favor de no pasarse usted, ¿eh...? Porque resulta que a este programa, hemos venido a comprar.
+H1: "A comprar", ¿a comprar qué?
+H2: Al último presentador que nos queda pues para nuestra colección.
+H2: [solapamiento de turnos] ¡Ah... ay...!
+H3: ¡Ah... ay...!
+H4: ¡Ah... ay...! [fin de solapamiento de turnos]
+H2: Es maravilloso, es... es fuerte, es alto, bonita voz, machote.
+Todos: [risas]
+H2: Es que ya le veo en mi dormitorio, desnudito, [solapamiento de turnos] sobre la mesilla de noche.
+H1: [risas] [fin de solapamiento de turnos]
+H2: ¡Oy!, ¡cómo me va a pegar, chica!, ¡cómo me va [solapamiento de turnos] pegar!
+H3: ¿¡Cómo [fin de solapamiento de turnos] sobre tu mesita de noche!?
+H2:,
+H3:,
+H4: [discusión] [ininteligible]
+H1: Eh... [silencio] eh... eh... eh... [silencio] eh...¡Señora!, ¡señoras!, por favor, ¡señora! ¡Señoras!, por favor, ¡señoras! [extranjerismo]¡Jordi!, ¡Jordi... Jordi[fin de extranjerismo], ¿no podrías hacer algo?
+H5: Pues no sé, no se me ocurre ahora mismo. [ininteligible] dicen que la música amansa a las fieras, ¿quieres que lo intentemos?
+H1: Por favor.
+H5: ¿Sí? Por favor, señores.
+H2:,
+H3:,
+H4: [discusión] [ininteligible]
+H5: Cuando ustedes quieran. [fin de solapamiento de turnos] [canta] Reloj... detén en tu cami[palabra cortada]... ...ino porque mi vida se apaga ella es la estrella que alumbra mi sed yo sin su amor no soy nada [deja de cantar].
+H1: [risas]
+H5: Gracias maestro.
+H2:,
+H3:,
+H4: [solapamiento de turnos] ¡Torero!, ¡torero!, ¡torero!, ¡torero!, ¡torero!, ¡torero!, ¡torero!, ¡torero!, ¡torero!
+Todos: [aplausos] [fin de solapamiento de turnos]
+Todos: [aplausos]
+H5: Muchísimas gracias, de verdad. Muchísimas gracias, señoras. Y... eh... señorita Miriam, cuando usted quiera, ya podemos proseguir.
+H1: Muchas gracias, [extranjerismo]Jordi[fin de extranjerismo]. Y aprovechando que volvemos a hablar del reloj, yo creo que debemos comenzar ya... el programa, ¿no? Pero... pero antes de nada, yo quiero contarles algo que ustedes están deseando que yo cuente, y es cómo se participa con "Diez Minutos". ¡Atención!, ¡atención!, porque ésta... ésta es la revista que concursa ho[palabra cortada]... con nosotros. Y mucha atención, doble atención, porque esta otra revista es la de la próxima semana y como no ha habido ni ganador ni ganadora del bote pues hay botazo. La próxima semana, con esta tarjeta de "Diez minutos", pueden ganar a través de "Camelia", ¡nueve millones de pesetas! Y otra cosa importante, por favor, no tiren la tarjeta, porque pueden venir aquí invitados, con todos los gastos pagados, con una suscripción a "Diez Minutos", con un poster dedicado de todo el equipo, como un matrimonio que ya tenemos hoy aquí. ¿Y cómo? Si sus dos últimas letras, coinciden con las dos últimas letras de la combinación ganadora, pues acceden a todos estos premios. ¿Y qué hay que hacer? Bueno, pues [vacilación] mandan esa tarjeta a esta dirección, ¿de acuerdo? Con todos los datos, perfectamente cumplimentada. Y... mediante sorteo, bueno pues felicidad a aquella tarjeta ganadora. Y ahora yo creo que es menester que conozcamos a los concursantes, concursanti. En... [vacilación] María, por favor.
+H6: [extranjerismo]Ave[fin de extranjerismo], Miriam, los que van a contestar, te saludan. Y mi pareja, ya verás que cantidad de respuestas te va a dar. Os presento a Miriam Ruíz y a Nise Abella. Son novios y residentes en Siches.
+Todos: [aplausos]
+H1: Y ahora conozcamos a la segunda parejus, pareji. Marta, tu turno.
+H7: Pues mi pareja hará que las otras dos sean arrojadas a los leones. Te presento a Marisol García y a [extranjerismo]Xavier Azcárraga[fin de extranjerismo]. Son novios y residentes en Pamplona.
+Todos: [aplausos]
+H1: Y por último, nos presentará a su pareja, [extranjerismo]Flavia Pompea Augusta[fin de extranjerismo] Carolina.
+H8: [risas] Qué nombre tan largo. Supongo que se trata de mí. Pues mi querida Miriam [extranjerismo]Pompeya Mesalina[fin de extranjerismo] Aroca,
+H1: [risas]
+H8: ...aquí te presento a una pareja de aguerridos gladiadores que sabrán luchar y vencer para responder a las feroces preguntas del césar [extranjerismo]Jordi[fin de extranjerismo]. se trata de Mercedes Iglesias y Carlos Latorre. Son amigos, residentes en Madrid y ésta es su segunda semana en el programa.
+Todos: [aplausos]
+H5: Y ahora mi bellísima y radiante vestal, si usted le da a... la maquinita, podemos eh... empezar el programa.
+H1: Por supuesto, Estadella Estadellae, si me permite la capa capae, ¿eh? conseguiré darle a la maquinita maquinitae, ¿eh? Y espero que salga... sacar u[palabra cortada]... un buen número para todos nosotros. A ver, es que está muy constreñido, ¿sabes? ¡Suerte!, ¡mucha suerte! [ruido] ¡Qué salga la más alta! [duda] uno... una [duda] ¡dos!, la primera, no va mal... no va mal, un uno y el último será pues el que quiera la máquina, doscientas doce pesetas.
+Todos: [aplausos]
+H5: Pues con esta cantidad capicúa, vamos a multiplicar las respuestas de nuestra primera pareja, la que vamos a conocer, son Miriam, bonito nombre, por cierto, bellísimo nombre, personal nombre, y dice que vienen desde Siches con amor. Miriam... Miriam, ¿a qué se dedica?
+H9: Al mundo de las [solapamiento de turnos] antigüedades.
+H5: Al [fin de solapamiento de turnos] mundo de las antigüedades. Y Nise... Nise, ¿cómo te enteraste de que venías a concursar al "Un, dos, tres"?
+H10: Pues eh... fue todo una anécdota porque... cuando entré en habitación, encontré que faltaba una... una fotografía,
+H5: [afirmación]
+H10: de la boda de nuestra hermana, y entonces... en la cual estaba... me quedé un poco sorprendido y entonces me dijo... fue cuando me dijo que la había enviado al "Un, dos, tres".
+H5: La fotografía que faltaba era la que había enviado.
+H10: Exacto.
+H5: Pues [vacilación] que tengáis mucha suerte y por favor, María, si eres tan amable.
+H6: ¡Venga, chicos!, os deseo muchísima suerte.
+H5: Gracias, Miriam. Y aquí está la primera pregunta para nuestra primera pareja por doscientas doce pesetas. [texto leído] Calígula fue un emperador cruel y caprichoso, capaz de matar para lograr sus mínimos deseos. Todo tiene un límite, claro, y Calígula, por mucho que lo desease, nunca pudo ir al cine. Así que, por doscientas doce pesetas, deben decirnos personas que trabajan en una película pero, ¡ojo!, que sólo valdrán las formas masculinas o femeninas, por ejemplo, si dice "actor", no valdrá "actriz". [fin de texto leído] ¿Entendido? [silencio] Personas que trabajan en una película, por ejemplo, un actor. Un, dos, tres, responda otra vez.
+H9: Un actor
+H5: Un actor.
+H10: Un director.
+H5: El director.
+H9: El realizador.
+H5: El realizador. [silencio]
+H10: El regidor.
+H5: El regidor.
+H9: El cámara.
+H5: El cámara.
+H10: El apuntador.
+H5: El apuntador. [silencio]
+H9: El espectador.
+H5: El espectador. [campanas]
+H3: Esa respuesta es muy burra, el espectador no curra.
+Todos: [aplausos]
+H5: Efectivamente, el espectador no trabaja en la película, aunque ustedes hablaron del apuntador que sí en ciertas películas se utiliza para los ensayos, para apuntar el papel a los actores. No hablaban del productor, que es quien administra el dinero. En este caso, nuestra productora es Miriam, ¿cuánto dinero ha ganado nuestra primera pareja?
+H1: Con todo lo que había: maquillaje, peluquería, atrezos, efectos especiales, bueno, pero con todo, primera pareja no están nada mal. seis respuestas, un total: mil doscientas setenta y dos pesetas.
+Todos: [aplausos]
+H5: Si nuestra pareja número uno venía desde Siches con amor..., nuestra pareja... número dos viene desde Pamplona con amor. Bien, Marisol, Marisol. Eh... ¿usted a qué se dedica?
+H11: Estudio... segundo de dietética y alimentación.
+H5: ¿Dietética y alimentación?
+H11: [afirmación]
+H5: ¿Eso sirve para adelgazar?
+H11: Bueno, sí.
+H12: [risas]
+H11: O para engordar también.
+H5: ¿Por qué estudia usted esas [solapamiento de turnos] cosas?
+Público: [risas]
+H11: [duda] [fin de solapamiento de turnos]
+H5: Clase de... de... de... de inducción traerme es[palabra cortada]... [vacilación] una estudiante al programa [vacilación]. Marisol, bienvenida. Javier, ¿usted... son de Pamplona, ha... ha corrido en los "san fermines" alguna vez.
+H12: Sí... [risas]
+H5: ¿Y qué es peor, correr delante de los toros o estar aquí?
+H12: ¡Hombre!, en los toros hay pocas posibilidades de que te pillen, aquí ya estamos pillados.
+Todos: [risas]
+H5: Pues María, píllales una pregunta buena.
+H6: Muchísima suerte.
+H5: Muchas gracias, Marisol. Vamos allá. La pregunta dice así: [texto leído] Calígula es un diminutivo latino de [extranjerismo]caliga[fin de extranjerismo], y vendría a significar "zapato pequeño" o "botita", quizá un mote cariñoso que los legionarios de su padre, Germánico, el padre era Germánico, dieron al niño aludiendo a las botitas militares que lucía por el campamento. Hablemos de zapatos y por doscientas doce pesetas, dígannos palabras del "Diccionario de la Lengua Española" que contengan la letra "z". Por ejemplo, "zapato" [fin de texto leído]. Un, dos, tres, responda otra vez.
+H12: Zapato.
+H11: Zanahoria.
+H5: Zapato, zanahoria.
+H12: Zueco.
+H5: Zueco. [silencio]
+H11: Zorro.
+H5: Zorro. [silencio]
+H12: Zorina.
+H5: ¿Zorina? [campanas]
+H3: Pues no me corto ni un pelo, lo que habéis dicho es camelo.
+Todos: [aplausos]
+H5: Sí, parece que no estaba esa palabra en el Diccionario, pero [silencio], hasta este instante, ¿cuántaz rezpueztaz acertadaz?
+H1: [risas] Pues eh... muy poquito [onomatopeya] riau-riaus [fin de onomatopeya] para nuestra pareja, pero han sido ¡cuatro! las respuestas son un total de ochocientas cuarenta y ocho pesetas.
+Todos: [aplausos]
+H5: A esta pareja, ya la conocen ustedes. Son nuestra pareja de campeones. Bienvenidos eh... de nuevo, Mercedes, Carlos. Mercedes, ¿qué habéis hecho con el dinero que os llevasteis de aquí en el último programa, [solapamiento de turnos] que ganasteis [ininteligible] con toda la razón?
+H13: [ininteligible] [fin de solapamiento de turnos]. De momento, pues pagar nuestras deudas y bueno, las que nos quedan [fin de solapamiento de turnos] todavía.
+H5: Y el resto que esperen [fin de solapamiento de turnos].
+H13: Sí. [solapamiento de turnos] [risas]
+H5: [risas] [fin de solapamiento de turnos]. Muy bien. Don Carlos, usted estaba preocupado el otro día eh... ¿cree usted que Pepe [extranjerismo]Itarburi[fin de extranjerismo] finalizará alguna vez alguno de sus chistes?
+H14: No creo, supongo que no.
+H5: Pero [solapamiento de turnos] acaba
+H14: Además [fin de solapamiento de turnos], espero que no porque... si... lo acaba alguna vez perdería su gracia, digo yo.
+H5: Claro, y además, como usted es amante... del piano las sinfonías inacabadas le gustan también.
+H14: También.
+H5: María, si eres tan amable. [silencio]
+H6: ¡Venga, campeones, a por todas!
+H14: Muchas [solapamiento de turnos] gracias.
+H13: Gracias [fin de solapamiento de turnos].
+H5: Muchas gracias. La primera pregunta para nuestra pareja de campeones, dice así: [texto leído] Los gustos del emperador Calígula nos lo muestran siempre sin corbata, no es de extrañar, porque esa prenda es croata, de ahí su nombre, y se introdujo en Francia en mil seiscientos treinta y seis. Pero basta de historias, ya que por doscientas doce pesetas, deben decirnos prendas masculinas de vestir. Por ejemplo, una corbata [fin de texto leído]. Un, dos, tres, responda otra vez.
+H13: Una corbata.
+H5: Una corbata.
+H14: Un calcetín.
+H5: Un calcetín. [silencio]
+H13: Un guante.
+H5: Un guante.
+H14: Un zapato.
+H5: Un zapato.
+H13: Un sombrero.
+H5: Un sombrero.
+H14: Una camisa.
+H5: Una camisa.
+H13: Un pañuelo [silencio] [solapamiento de turnos] de bolsillo.
+H5: Un [fin de solapamiento de turnos] Un pañuelo de bolsillo. [silencio]
+H14: [duda] Una chaqueta.
+H5: Una chaqueta. [silencio]
+H13: Una bufanda.
+H5: Una bufanda.
+H14: Una gabardina.
+H5: Una gabardina.
+H13: Un abrigo.
+H5: Un abrigo. [silencio]
+H14: Un jersey.
+H5: Un jersey.
+H13: [solapamiento de turnos] Una chaqueta. [bocina y campanilla] [fin de solapamiento de turnos]
+H2: ¡Hey...!
+Todos: [extranjerismo]Bye, bye fly[fin de extranjerismo]
+Todos: [aplausos]
+H5: Un [extranjerismo]bye bye[fin de extranjerismo] para nuestros campeones que han... eh... yo creo que realizado un perfecto ajuar para un caballero pero lo han dejado sin pantalones, de momento. Ya que la única prenda que [silencio] no va a salir, eh... a parte de prendas íntimas. Miriam.
+H1: Pues como la última respuesta ha entrado sobre las campanas, son doce maravillosas prendas de vestir del hombre que hacen un total para esta pareja de campeones de dos mil quinientas cuarenta y cuatro pesetas.
+Todos: [aplausos]
+H5: Y ya estamos con la segunda tanda de preguntas para nuestra pareja número uno. Marta, bienvenida. Buenas tardes.
+H7: Muchísima suerte.
+H5: Gracias, Nise. La pregunta dice así: [texto leído] Presten mucha atención a las fechas que vamos a recitarles y así sabrán por donde van los tiros: veintiocho de julio de mil novecientos catorce, once de noviembre de mil novecientos dieciocho, uno de septiembre de mil novecientos treinta y nueve, quince de agosto de mil novecientos cuarenta y cinco y ahora, sin discutir, deben decirnos por mil doscientas setenta y dos pesetas, países beligerantes en cualquiera de las dos últimas guerras mundiales... países beligerantes en cualquiera de las dos últimas guerras mundiales. Por ejemplo, Gran Bretaña [fin de texto leído]. Un, dos, tres, responda otra vez.
+H10: Gran Betraña[sic]
+H5: Gran Bretaña.
+H9: Italia.
+H5: Italia.
+H10: Alemania.
+H5: Alemania.
+H9: Francia.
+H5: Francia. [silencio]
+H10: Estados Unidos.
+H5: Estados Unidos.
+H9: Polonia.
+H5: Polonia. [silencio] [bocina y campanas]
+H2: ¡Hey...!
+Todos: [extranjerismo]Bye bye fly[fin de extranjerismo]
+Todos: [aplausos]
+H5: Y en... nuestra pareja número uno, ya lo ven ustedes, son así de pacifistas. Y a... ¿cuántos... cuántas eh... cuántas respuestas hasta ahora?
+H1: ¡Ayayayayay! Pues con seis cañones por banda [risas], siete mil trescientas treinta y dos pesetas a toda vela.
+Todos: [aplausos]
+H5: Y Marta, de nuevo, ya está aquí para ofrecer la segunda pregunta a nuestra segunda
+H7: ¡Suerte, chicos!
+H5: Gracias, Marisol. Vamos allá. A ver qué tal lo recito. [texto leído] "Mientras sentirse puedan en un beso dos almas confundidas, mientras exista una mujer hermosa, habrá poesía". No vamos a discutirlo nosotros ni tampoco ustedes, pero por ochocientas cuarenta y ocho pesetas, dígannos, poetas españoles de los siglos diecinueve y veinte. Por ejemplo, Gustavo Adolfo Bécquer. [fin de texto leído] Un, dos, tres, responda otra vez.
+H12: Gustavo Adolfo Bécquer.
+H5: Gustavo Adolfo Bécquer.
+H11: García Lorca.
+H5: García Lorca. [silencio]
+Público: [murmullos]
+H12: [interrupción de la grabación]
+H5: Jorge [ininteligible] [bocina y campanas]
+H3: ¡Jesús!, ¡qué cacho de error! Oteiza es un escultor.
+Todos: [aplausos]
+H5: Pocas respuestas pero mientras puedan sentirse confundidas las almas en un beso, ¿cuántas respuestas hasta ahora?
+H1: Pues para mantener el sentimiento bucólico y poético, para la segunda pareja, mil seiscientas noventa y seis pesetas.
+Todos: [aplausos]
+H5: Tercera pregunta, Marta, para nuestros campeones.
+H7: ¡Venga, chicos!, suerte.
+H5: Gracias, Carlos. La pregunta dice así: [texto leído] Es posible que hayan estudiado Medicina y que sepan mucho de enfermedades, de quirófanos y de operaciones pero nos tememos que no les va a servir de mucho cuando nos digan por dos mil quinientas cuarenta y cuatro pesetas, nombres de operaciones [silencio] aritméticas. [silencio] Por ejemplo, la suma. [fin de texto leído] Un, dos, tres, responda otra vez.
+H13: La suma.
+H5: La suma.
+H14: El logaritmo neperiano.
+H5: "El logaritmo"
+H14: Neperiano.
+H5: ...neperiano.
+H13: La resta.
+H5: La resta.
+H14: El logaritmo decimal.
+H5: Logaritmo decimal.
+H13: Multiplicación.
+H5: Multiplicación. [silencio]
+H14: [duda] División.
+H5: División. [silencio]
+H13: Derivada.
+H5: Derivadas.
+H14: Integración.
+H5: Integración. [silencio]
+H13: Raíz cuadrada.
+H5: Raíz cuadrada.
+H14: Potenciación.
+H5: Potenciación. [silencio]
+H13: Factoriales.
+H5: Factoriales. [silencio] [bocina y campana]
+H2: ¡Hey...!
+Todos: [extranjerismo]bye bye fly[fin de extranjerismo]
+Todos: [aplausos]
+H5: Y ahora la cosa es sencilla, vamos a hacer una suma y una multiplicación, Miriam, y eso da un resultado de:
+H1: Vaya demostración aritmética de esta pareja de campeones. Pues, chicos, once respuestas y... ni más ni menos que veintisiete mil novecientas ochenta y cuatro pesetas.
+Todos: [aplausos]
+H5: Y vamos ya con la... tercera tanda de preguntas para nuestra pareja número tres.
+H8: Mucha... mucha... mucha suerte.
+H9: [solapamiento de turnos] Gracias.
+H10: Gracias [fin de solapamiento de turnos].
+H5: Gracias, Miriam. Gracias, Carolina. [silencio] Hasta ahora. Ésta es la pregunta: [texto leído] Hacer o no el oso, según el diccionario, es en su primera acepción, "exponerse a la burla o lástima de las gentes haciendo o diciendo tonterías". En su segunda acepción significa "galantear o cortejar a una mujer", lo que viene a ser prácticamente lo mismo. Las mujeres, por lo visto, no hacen la osa, las constelaciones, en cambio, sí. Y por siete mil seiscientas treinta y dos pesetas, deben decirnos nombres de constelaciones. Por ejemplo, la Osa Mayor. [fin de texto leído] Un, dos, tres, responda otra vez.
+H10: La Osa Mayor.
+H5: La Osa Mayor.
+H9: La Osa Menor.
+H5: La Osa Menor. [silencio] [interrupción de la grabación]
+H5: La vía láctea. [bocina y campanas]
+H3: Buenas noches, muchas graxias, eso es nuestra galaxia.
+Todos: [aplausos]
+H5: Sí, efectivamente. Me temo que la Vía Láctea es... no una constelación, sino nuestra galaxia pero de osa a osa, perdón eh... me refería a las respuestas, ¿cuántas respuestas acertadas, Miriam?
+H1: Pues con esas pistas de horóscopo que llevaban encima podían haber acabado con la constelación zodiacal, pero [silencio] dos, en total, pareja, quince mil doscientas sesenta y cuatro pesetas. [música]
+Todos: [aplausos]
+H5: Carolina, adelante con la tercera pregunta para nuestra segunda pareja.
+H8: Venga, ánimo y tranquilidad.
+H5: Muchas gracias. [silencio] Tercera pregunta que dice así: [texto leído] Si con esta tercera pregunta pretenden conseguir de verdaderos ríos de oro, no tienen más que seguirnos la corriente, peregrinen a las fuentes y como un torren... de desbordado, ahóguennos con una benéfica inundación de contestaciones ya que por mil seiscientas noventa y seis pesetas deben decirnos ríos de África y de Asia. Por ejemplo, el Nilo. [fin de texto leído] Un, dos, tres, responda otra vez.
+H12: El Nilo.
+H5: El Nilo. [silencio]
+H11: El Amarío...Amarillo.
+H5: El río Amarillo.
+H12: El [silencio] Gárces.
+H5: El Gárces. [silencio] [bocina y campanas]
+H2: ¡Hey...!
+Todos: [extranjerismo]bye bye fly[fin de extranjerismo]
+Todos: [aplausos]
+H5: Y hasta este instante, ¿cuál fue el caudal [silencio] de respuestas, Miriam?
+H1: Bueno, pues, eh... realmente no ha habido ningún desbordamiento. Tres respues[palabra cortada]... respuestas únicas. Total, total: ¡cinco mil ochenta y ocho pesetas! [música]
+Todos: [aplausos]
+H5: Llegamos como siempre a la tercera pregunta de nuestra tercera pareja y hay muchos de ustedes que se están preguntando, al igual que nuestro público, "¿vendrá hoy, no vendrá?" Naturalmente hoy vendrá nuestro azafato especial, particular y exclusivo, en cuanto a apariciones exclusivas en el "Un, dos, tres". Un fuerte aplauso para recibir a ¡Curro...!
+Todos: [solapamiento de turnos] [música] [aplausos]
+H1: [ininteligible] [gritos] Sí... me alegro, coge las preguntas, ya te puedes ir. Adiós Curro.
+H5: Buenas noches, Curro. Bienvenido, como siempre. ¿Qué tal? Aquí tienes a nuestra pareja de campeones. Muchas gracias, Curro. ¡Hasta siempre! [fin de solapamiento de turnos] Curro, la mascota oficial de la "Expo Noventa y dos" que solamente aparece en exclusiva en el "Un, dos, tres", en "Televisión", naturalmente. [texto leído] Los grandes cantantes y los actores de cine y muchos otros personajes de nuestro tiempo, se convierten en mitos de sus [extranjerismo]fans[fin de extranjerismo] aunque a veces no sea por mucho tiempo. Así que, recordaremos a los más verdaderos cuando nos digan, por veintisiete mil novecientas ochenta y cuatro pesetas, dioses de las mitologías griega y romana, como por ejemplo, Júpiter [fin de texto leído]. Un, dos, tres, responda otra vez.
+H14: Júpiter.
+H5: Júpiter.
+H13: Neptuno.
+H5: Neptuno.
+H14: Minerva.
+H5: Minerva.
+H13: Vulcano.
+H5: Vulcano.
+H14: Juno.
+H5: Juno.
+H13: Marte.
+H5: Marte.
+H14: Apolo.
+H5: Apolo.
+H13: Afrodita.
+H5: Afrodita. [silencio]
+H14: Baco.
+H5: Baco. [silencio]
+H13: Zéus.
+H5: Zéus.
+H14: Marte.
+H5: Marte. [bocina y campanas]
+H3: ¡Por Júpiter! ¡Maldición! Ha habido repetición.
+Todos: [aplausos]
+H5: Hubo repetición, efectivamente en "Marte" y hoy no es martes, sino viernes y [solapamiento de turnos] hasta... hasta este instante, ¿cuántas respuestas?
+H1: [risas] [fin de solapamiento de turnos] Pero que... pero qué [vacilación] bien. Diez divinas respuestas para los campeones y han conseguido ¡doscientas setenta y nueve mil ochocientas [solapamiento de turnos] cuarenta pesetas!
+Todos: [música] [aplausos] [fin de solapamiento de turnos]
+H1: Por lo tanto, aquí van las tres primeras cifras de "Diez Minutos" y con esa combinación ganadora podrán ganar los tres millones que ofrece "Camelia": el cuatro, el ocho y... el cero y eso es todo. Y ahora, [extranjerismo]Jordi[fin de extranjerismo], tú proclama a los campeones.
+H5: Efectivamente. Proclamo y con mucho gusto y estará aquí nuevamente por tercera vez consecutiva, por tercera semana, Carlos y Mercedes, Mercedes y Carlos, que son nuestros campeones por haber logrado hoy ¡doscientas setenta y nueve mil ochocientas cuarenta pesetas!
+Todos: [aplausos]
+H2: Don Jorge, [solapamiento de turnos] perdone...
+H5: Dígame [fin de solapamiento de turnos].
+H2: Que qué se han llevado, que no... lo he oído muy bien, los campeones, la cifra, digo. ¿Qué se han llevado?
+H5: Pues ni más ni menos que doscientas setenta y nueve mil ochocientas cuarenta pesetas.
+H2: ¡Ah! ¿Y a cambio de quemarse las pestañas y el cerebro buscando respuestas, sólo se han llevado esa miseria?
+H5: [risas] Doscientas setenta y nueve ochocientas cuaren[palabra cortada]... no le llamaría realmente "miseria", [duda]
+H2: Pues lo es, don Jorge, lo es. Una mísera miserable miseria. Esa cantidad me huele a mí a repollo hervido.
+H5: Yo creo, ¡hombre!, [risas] yo creo, con... con el debido respeto que usted exagera.
+H2: No exagero nada, porque la culpa, la culpa la tienen ésas de ahí enfrente.
+H1: ¿Que nosotras tenemos la culpa?
+H2: Usted, sus vulgares secretarias y esa máquina roñica, antigua y herrumbrosa que divide la cantidad de pesetas por que hay que multiplicar, [afirmación], [onomatopeya][ininteligible]
+H1: Y ustedes, que tanto aire se dan, a ver, ¿dónde está su maquinita y su[sic] secretarias?
+H2: ¿Que qué máquinas y qué secretarias? [risas] Jorge, querido,
+H5: [interrogación]
+H2: ...va por usted.
+H5: Gracias. [canta] Libra... Virgo... Cáncer... Géminis... Tauro... Capricornio... Escorpio... Leo... Aries... Sagitario... Piscis... Acuario... ¡Viva la suerte...! Tu buena estrella va a brillar... Cruza los dedos y elige un signo zodiacal [deja de cantar]
+Todos: [aplausos]
+H5: Y yo debo confesarles que antes de empezar el programa de esta noche, las señoras Derrochonas me ofrecieron [vacilación] bueno, bueno no... no viene a cuento el qué y yo, [silencio] yo me dejé comprar, señoras y señores, me dejé comprar, debo confesarlo, a cambio de explicarles a ustedes cómo finalizará de hoy en adelante esta primera parte del "Un, dos, tres". Las Derrochonas quisieron recordarnos que nada tienen que ver con las desaparecidas "Tacañonas". Y para demostrar a Miriam lo que son, aquí nos han dejado a sus seis secretarias y a esta máquina estrella. Se trata del "Juego del Zodíaco" que está basado en la "Lotería del Zodíaco" que depende del Organismo Nacional de Loterías y Apuestas del Estado. Empiezo por recordarles que la "Lotería del Zodíaco", que se sortea todos los sábados, tiene unas características muy especiales. Por doscientas cincuenta pesetas, es decir, por un décimo de esta lotería, por sólo un décimo, pueden obtenerse doscientos cincuenta millones de pesetas. Usted puede solicitar en cualquier Administración de Lotería la cantidad de décimos que quiera, del signo que quiera, es decir, de Libra, Leo, Escorpio, Cáncer, Tauro y tengan en cuenta que esta lotería premia a todos los signos, hay premios para todos ellos y al menos, cuarenta y siete de cada ciento veinte décimos, obtienen uno u otro premio, por lo que es muy fácil que algo toque. "¿Qué ventajas tiene -se preguntarán ustedes- la Lotería del Zodíaco?" Ante todo, su bajo coste, por doscientas cincuenta pesetas se participa en el sorteo, y repito lo que antes dije: por doscientas cincuenta pesetas pueden obtenerse doscientos cincuenta millones. Pero, para colmo de ventajas, con los décimos que no hayan sido premiados de la "Lotería del Zodíaco", pueden ganarse muchos millones, muchos millones, aquí en "Un, dos, tres". Y en esto consiste el "Juego del Zodíaco". ¿Cómo se puede participar en nuestro "Juego del Zodíaco"? Pues en él podrán participar todas las personas que nos envíen una carta que contenga por lo menos, un décimo de los tres últimos sorteos celebrados de la "Lotería del Zodíaco" y que sean inmediatamente anteriores al viernes que se emite el programa. La forma de participar es muy sencilla y es la siguiente: hay que enviar una carta al apartado de correos número seiscientos veintiséis, seis, dos, seis y en el sobre, especificar: "Concurso 'Juego del Zodíaco', programa 'Un, dos, tres', apartado de correos seiscientos veintiséis, veintiocho, cero, ochenta, Madrid". Esta carta han de enviarla ustedes por correo o depositarla en cualquier Administración de Lotería. Tanto si la envían por correo, como si la depositan en una administración, deben consignar en su interior o en el remite los siguientes datos, ¡atención!: el nombre y apellidos del remitente y ¡atención!, que tiene que ser un solo remitente, y ahora diré por qué, la dirección exacta, haciendo constar la calle o plaza, el número, el piso, etcétera; el número de teléfono, si es que lo tiene y sobre todo, el día y mes de su nacimiento o su signo zodiacal. Sólo podrá haber un remitente por carta. Y ahora viene lo más importante porque de todas las cartas recibidas, ante la presencia de un notario, se extraerá una al azar. Las secretarias del "Juego del Zodíaco" harán girar la estrella que determinará el signo afortunado, es decir, saldrá... Cáncer, Tauro, Aries, eh... géminis, etcétera y si en esa carta hay un décimo que corresponda al signo afortunado, el remitente ganará ¡doce millones de pesetas!, doce millones de pesetas. Pero además, si la carta contiene un décimo por el signo afortunado y el signo del remitente también coincide con él, en lugar de doce, ganará ¡veinticuatro millones de pesetas!, sí señores, lo que acaban de oír, veinticuatro millones de pesetas. Se puede enviar un décimo o dos o tres, pero, claro, las posibilidades serán menores. En cambio, si se envían doce décimos, uno de cada signo, sean ustedes perspicaces, doce décimos, uno de cada signo, y si esa carta es la extraída al azar ante notario, con absoluta seguridad, el remitente obtendrá doce millones de pesetas porque la carta contiene los doce signos posibles. Y repito, para que quede bien claro: si el... signo zodiacal del remitente coincide con el signo afortunado, la cantidad se duplicará: veinticuatro millones de pesetas. Pero en cualquier caso, en cualquier caso, el remitente ganará siempre diez números completos en todos los signos para un próximo sorteo de la "Lotería del Zodíaco" con los que puede obtener, si tiene suerte en ese sorteo, más de doscientos millones de pesetas y como terminan del cero al nueve, obtienen premio seguro. Ustedes, quizá, no han visto esa cantidad de números de lotería. María, por favor, ¿quieres acercarme el paquete? Estos son los diez números completos que acaban del uno, o del cero al nueve, mejor dicho, y que dan premio seguro y además la posibilidad de ganar más de doscientos cincuenta millones de pesetas. Gracias, María. Para que el público que está en el plató participe en el juego a la entrada, como se ha hecho hoy, se les ha facilitado una pegatina con el signo zodiacal de cada uno y también una pegatina a cada uno de los campeones. Pueden ustedes comprobar, Carlos lleva la pegatina de Virgo, Mercedes, la pegatina de Libra. ¿Por qué hemos hecho esto? Primero, porque la "Lotería del Zodíaco" nos ha hecho ver que las "Derrochonas" pues tienen razón y los campeones, a cambio de haber contestado el mayor de respuestas posibles, pues a veces no son premiados con la cantidad que merecen. Entonces, ¿qué ocurre... qué ocurre si el signo afortunado de la noche de hoy coincide por ejemplo, pues con el de Carlos, que es Virgo, o con el de Mercedes, que es Libra? Pues que Carlos recibiría un millón de pesetas o Mercedes recibiría un millón de pesetas, si saliese Libra lo recibiría Mercedes, si saliese Virgo lo recibiría Carlos. ¿Qué pasaría en el caso de que fuesen los dos... no es [duda] el caso de hoy, pero fuesen los dos del mismo signo, pues recibirían dos millones de pesetas. Además, a todos aquellos amigos del público cuya pegatina coincida con el signo afortunado, se les entregará, al finalizar esta parte, un billete, o sea, diez décimos, a ser posible de su signo, para un próximo sorteo y de esta manera, todos en el plató podrán jugar. Pero como tienen razón aquéllos que dicen que la forma más sencilla de explicar algo es demostrándolo, hagamos, si les parece bien una demostración y ¡atención, atención! que esta demostración será válida tanto para los campeones de esta noche, como para el público presente en nuestro plató. Susana, una de las bellas secretarias de nuestro juego, tiene... en sus manos una carta, evidentemente esta carta es ficticia ya que no ha dado tiempo a que recibamos ninguna y este "Juego del Zodíaco" sólo comenzará a jugarse de verdad, de verdad... de verdad dentro de dos programas. Pues bien, Susana, que tiene una carta, se encargará de decirnos quién es el remitente, la abrirá y mostrará, como lo hará dentro de unos instantes, que la carta contiene uno, dos o hasta doce décimos con signos diferentes. El notario, previamente, habrá verificado que la carta es correcta, que tiene un solo remitente, su dirección, el signo astrológico del remitente y que en su interior hay décimos. Susana, ¿cuál es el... signo del remitente?
+H15: Vamos a ver... el signo es: Escorpio.
+H5: ¡Ah... ah!, ¡Escorpio!, me encanta. Me encanta porque es mi signo también. Y vamos a ver cuántos décimos ha enviado nuestro remitente en su carta.
+H15: Empezamos: uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once y doce. Y cada uno con un signo diferente.
+H5: ¡Perfecto! Doce décimos de un signo totalmente distinto, eso es lo que haría yo porque así me aseguraría el ganar doce millones de pesetas. Vamos a saber ahora cómo se llama el... remitente.
+H15: El remitente es [extranjerismo]Jordi Estadella[fin de extranjerismo].
+H5: [extranjerismo]Jordi [vacilación][fin de extranjerismo], sí, me... me suena [risas] Pues bien, ahora... ahora... haremos girar la estrella del "Juego del Zodíaco" y ¡atención, el público!, que está en nuestro plató que recibirá un billete, es decir, diez décimos, todos aquellos cuyo signo astrológico coincida con el signo afortunado de esta noche, y ¡atención, campeones! que si uno de ustedes pertenece al signo afortunado, si sale Virgo o si sale Libra, ¡ah!, podrán ganar un millón de pesetas a añadir a esta cantidad Bien, eh... naturalmente hay que decir que si los dos fueran del mismo signo, ganarían dos millones, uno para cada uno, no lo son en este caso. Eh... vamos pues a... a ver cuál es el signo campeón, Sandra, por favor.
+H1: [extranjerismo]Jordi, Jordi[fin de extranjerismo], un momentito... un momentito, ¿Tú no crees que antes de empezar deberíamos dar un aplauso muy fuerte todos para atraer a la suerte?
+H5: Yo creo que es una magnífica idea, Miriam.
+H1: ¡Pues venga, un aplauso muy fuerte y que cada uno grite su signo!
+Todos: [aplausos] [gritos] [ininteligible]
+H1: Bueno, yo creo que ahora está todo preparado para atraer a la suerte y [extranjerismo]Jordi[fin de extranjerismo] te toca a ti decir lo que quieras.
+H5: Muy bien, como el programa de hoy está dedicado a Roma: [extranjerismo]alia iacta est[fin de extranjerismo], "la suerte está echada" y, por favor, señorita Sandra, si es tan amable, ponga en marcha nuestra rutilante estrella del zodíaco.
+Todos: [aplausos] [gritos]
+H1: [ininteligible] ¡Cán[palabra cortada]... Cán[palabra cortada]... Cán[palabra cortada]... ¡Uh...!
+H5: El signo de hoy es ¡Cáncer!
+Todos: [solapamiento de turnos] [aplausos]
+H1: ¡Bien!, ¡Qué ha tocado Cáncer!, ¡qué tienes premio! Aquí uno, otro, ¡cuántos cáncer hay! Allí, uno, otro, otro cáncer [gritos]
+H5: Bien... bien... bien, pueden sentarse, por favor. Muchísimas gracias, [fin de solapamiento de turnos] de verdad... a todos y en especial muchas felicidades a todos nuestros amigos de Cáncer que hoy están en nuestro plató. Recuerden [silencio] los de Cáncer, que ahora mismo les será entregado un billete, o sea, diez décimos para un próximo sorteo. A todos los de Cáncer que han salido hoy afortunados, en cuanto a ustedes, señores, no puede ser más fácil. Recuerden que jugando a la "Lotería del Zodíaco" hay casi un cincuenta por ciento de probabilidades de que les toque algún tipo de premio, y a aquéllos que no les toque, señores, no puede ser más ventajoso, envíennos sus décimos, porque cada viernes, al finalizar esta primera parte del "Un, dos, tres", podrán ganar ¡doce o veinticuatro millones de pesetas! Y eso sí, eso sí, señoras y señores, que es un broche de oro. ¡Ah! y ahora [silencio] ahora damos paso a la publicidad.
+Público: [aplausos] [música]

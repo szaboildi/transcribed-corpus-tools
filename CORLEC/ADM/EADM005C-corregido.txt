@@ -1,0 +1,127 @@
+#archivo: EADM005C
+#fecha de grabación: 03-06-91
+#fuente: conversación telefónica en una empresa
+#localización: Madrid
+#términos: teléfono, carpeta, número de vuelo, lista de espera, conforme, vuelo
+#H1: mujer, telefonista, 27 años
+#H2: mujer, empleada de una agencia de viajes
+#Ha: varón, jefe de ventas, 38 años
+#Hb: mujer, secretaria, 32 años
+#Hc: varón, comercial, 35 años
+#Hd: mujer, servicio a clientes, 25 años
+H1: [teléfono] ...¿Me puedes poner con Marica? Soy... Teresa, de Celaje. Buenos días.
+H2: Buenos días.
+H1: ¿Qué tal?
+H2: Aquí estoy, hija.
+H1: ¿Menos liada?
+H2: En la mesa de mi vecino porque en la mía... tienen mi teléfono cogido [risas].
+H1: [risas].
+H2: Cuéntame.
+H1: Mira, que... [duda] yo quería decirte que pusieras ya un [siglas]P.T.A.[fin de siglas]...
+H2: Sí, pues espera que voy a por mi carpeta.
+H1: Vale.
+H2: Yo te tengo que contar de lo de Tenerife de ayer... te tengo que contar..
+H1: Sí, eso es, eso es.
+H2: Espera un poquito.
+H1: Vale. Perdóname un segundito. "Cilag", ¿dígame?
+Ha: ¿Teresa?
+H1: Sí.
+Ha: Hola, soy Miguel.
+H1: Hola, Miguel. ¿Qué te cuentas?
+Ha: ¿Qué tal, cómo estás?
+H1: Dime.
+Ha: Sí, ¿me pasas con Rocío?
+H1: Te pongo con ella.
+Ha: Vale.
+Hb: ¿Sí?
+H1: Miguel Llavori.
+Hb: Vale.
+H1: ¿Marica?
+H2: Sí.
+H1: Sí, eh... [duda]... ¿qué empiezas, por lo de Tenerife?
+H2: Sí, te cuento lo de Tenerife.
+H1: Venga, dime.
+H2: Mira, tú me habías pedido el Málaga, Tenerife el día once a las trece, cuarenta y cinco...
+H1: Sí.
+H2: ...Está conforme a las... [duda] el vuelo sale a las trece, diez, lo han cambiado la hora, porque es el mismo número de vuelo y todo; el cero ochenta y siete.
+H1: Vale.
+H2: Y luego la vuelta, el Tenerife, Málaga...
+H1: Sí...
+H2: ...eh... está completo. Tengo: lista de espera, clase "C", para ver si me lo pueden confirmar...
+H1: Espera un segundo. Lista de espera, clase "C", ¿no?
+H2: Clase "C", lista de espera [ininteligible] a ver si me lo pueden confirmar.
+H1: Vale.
+H2: Y luego... el día catorce, porque el día trece no hay otra... otra vía,...
+H1: Sí.
+H2: ...eh... Tenerife, Las Palmas, Las Palmas, Málaga. Saliendo el día catorce de Tenerife, a las nueve, treinta de la mañana...
+H1: [afirmación]...
+H2: ...llega a las diez y cinco a Las Palmas y sale de Las Palmas a las once, cuarenta y cinco para llegar a las catorce, cincuenta a Málaga. Pero el día catorce...
+H1: El día catorce.
+H2: Exactamente.
+H1: Y... ¿esto está conforme?
+H2: Eso lo tengo conforme...
+H1: Vale.
+H2: ...para el día catorce, que es que... es un día después.
+H1: Ya. Bueno, pues esto lo tengo que consultar.
+H2: Claro, me lo imagino.
+H1: [afirmación].
+H2: Yo, de todas las maneras, estoy... [duda] el [vacilación] vamos, en lista de espera, pidiendo ayuda...
+H1: Sí.
+H2: ...para ver si me pueden confirmar lo del día trece.
+H1: [duda]... vale.
+H2: Que el vuelo sale a las dieciseis, diez.
+H1: A las dieciseis, diez.
+H2: a ver si lo puedo arreglar, ¿sabes?
+H1: Sí. Y... [vacilación] luego tú, ¿qué me tenías que contar más?
+H1: Pues mira, yo... quería decirte que pusieras ya un [siglas]P.T.A.[fin de siglas].
+H2: A ver... ¿cuál de ellos?
+H1: El de Francisco de la Rosa.
+H2: Espérate... que... abro la carpeta... ¿Qué día salía?
+H1: El once.
+H2: Eso, el once; sí.
+H1: Sevilla, Madrid; Madrid, Sevilla.
+H2: Vale.
+H1: Pues nada, que se lo pongas, que quiere ir ya a recogerlo.
+H2: Vale. Oye, referente a lo tuyo...
+H1: Sí...
+H2: Probablemente lo tenga ya en mi poder esta tarde, ¿eh?
+H1: ¡Ah! ¡Qué bien!
+H2: Voy a llamarla ahora, porque la llamé ayer después de hablar contigo...
+H1: Sí.
+H2: ...y dice [vacilación]: ...[vacilación] "Mañana creo que te lo voy a mandar por el... [vacilación] vamos, en la mañana lo tengo resuelto para que lo tengas tú por la tarde". Digo: "¡Ah! Pues... ¡fenomenal!
+H1: Vale...
+H2: [ininteligible] ¿Eh?
+H1: Pues muy bien.
+H2: Como voy a volverla a llamar hoy...
+H1: Sí.
+H2: ...para... [duda] achucharla más...
+H1: Sí.
+H2: ...pues... [duda] ya te cuento yo eh... "¡Oye, que ya está en mi poder". Y ya se yo que... [vacilación]. Vamos, yo te lo mando, ¿eh?
+H1: Vale.
+H2: No hace falta que vengas, o sea que yo te lo mando.
+H1: Vale, vale.
+H2: ¿Eh? Y ya hablamos sobre eso, para dejarlo zanjado hoy.
+H1: Vale, pues muy bien [solapamiento de turnos]Marica.
+H2: Vale[fin de solapamiento de turnos]... Hasta luego.
+H1: Muchas gracias. Ya te llamaré con lo de Tenerife, ¿eh?
+H2: De acuerdo.
+H1: Hasta luego.
+H2: Hasta luego.
+H1: [teléfono] "Cilag", ¿dígame?
+Hc: ¿Ana o Alicia?
+H1: Teresa.
+Hc: ¿Teresa?
+H1: Sí.
+Hc: ¡Ah! Perdona...
+H1: Es que hay un pequeño jaleo estos días, ¿verdad?
+Hc: Bueno... además es que te oigo rara ahí... Pensaba que había marcado el de... el de... el de Ana.
+H1: No... [risas].
+Hc: [afirmación]. Pásame con ella, pues, si eres tan amable.
+H1: Un momentito. Ana está comunicando.
+Hc: Pues nada, no...
+H1: ¿Con Alicia?
+Hc: Con Alicia, sí, venga.
+H1: Venga. Hasta luego.
+Hc: Hasta luego, gracias.
+H1: Es un vendedor, ¡muy majete! ¿Eh? Alicia, te acabo de pasar una llamada. [teléfono] No, no la ha cogido nadie.
+Hd: Sí, dígame.

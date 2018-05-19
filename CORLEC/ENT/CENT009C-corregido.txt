@@ -1,0 +1,259 @@
+#archivo: cent009c
+#fecha de grabación: 1-3-91
+#fuente: radio, Cadena Cope
+#localización: Madrid
+#términos: Guerra del Golfo
+#H1: mujer, locutora
+#H2-H7: niños edad escolar
+#H2: varón, c. 10 años
+#H3: varón, c. 10 años
+#H4-H5: hermanos
+#H4: mujer, doce años
+#H5: varón, diez años
+#H6-H7: hermanos
+#H6: mujer, doce años
+#H7: mujer, nueve años
+#todos: H2-H7
+H1:Del fin de la guerra, de la paz, vamos a hablar hoy con nuestros niños. Alfredo, buenas tardes.
+H2:Hola, buenas tardes, Julia.
+H1:Hola, Jaime, buenas tardes.
+H3:Hola, ¿qué tal?
+H1:Maria Asunción, buenas tardes.
+H4:Hola.
+H1:José Luis, buenas tardes.
+H5:Hola.
+H1:Hola. En Barcelona, Ana Mari, buenas tardes.
+H6:Buenas tardes.
+H1:Hola Laura, buenas [solapamiento de turnos] tardes.
+H7:Buenas [fin de solapamiento de turnos] tardes, Julia.
+H1:Bueno, pues nada, que terminó la guerra por fin, ¡qué gran noticia! ¿no?
+H4:Sí, desde [solapamiento de turnos] luego.
+H5:Sí. [fin de solapamiento de turnos]
+H3:Claro.
+H1:Sí. Jaime ¿te alegraste mucho? [interrogación]
+H3:Hombre, ya... yo un poco se veía venir, ¿no? porque cada vez iban capturando más prisioneros y... iban destruyendo más Bagdad y todo Irak y ya un poco la gente se lo esperaba que [extranjerismo]Sadam Hussein[fin de extranjerismo] poco iba a aguantar ya.
+H1:Ya.
+H3:Y claro y hasta que se ha visto hasta el cuello que ya ha tenido que decir que basta.
+H1:Alfredo, ¿tú veías venir la paz, [interrogación] ?
+H2:Sí, tenía que venir de un momento a otro, porque estaba mucho... [extranjerismo]Sadam Hussein[fin de extranjerismo] diciendo que en el desierto, mucho decir de la batalla de... de tierra, ¿no? de que ahí
+H1:[solapamiento de turnos] Sí.
+H2:él [solapamiento de turnos] iba a vencer, porque el desierto era su terreno y todo eso, pero nada.
+H1:Lo de la madre, ¿no? que se ha dicho tanto, la madre de todas las batallas.
+H2:Sí. Pero nada, que ha durado la guerra de tierra tres días, que en seguida han vencido las fuerzas aliadas, y claro, pues que al final...
+H1:Sí. María Asunción, ¿a partir de que empieza la llamada ofensiva terrestre tú te interesas mucho más por las noticias, por la televisión y esas cosas, o... eh... después de un mes y pico, de cuarenta y dos días, ya te aburría la guerra, a través de la radio, a través de todos los medios informativos, de la tele, por ejemplo?
+H4:Yo es que creo que al principio, los primeros días, la gente, no sé, la gente estaba más pendiente a ver qué pasaba, no sé qué, y luego yo creo que al final, lo han ido dejando así ya un poco como de lado, sin... sin hacerle tanto caso, pero en cuanto... bueno, cuando hacían ataques aéreos, pero cuando han dicho lo del ataque terrestre, que iba a morir más gente y que a lo mejor ganaba [extranjerismo]Sadam[fin de extranjerismo] pues yo creo que la gente ha... ha atendido más.
+H1:[afirmación] Cucho, como si nos hubiéramos... eso que dice tu hermana es cierto, como si ya, después de cuarenta y tantos días, nos hubiéramos acostumbrado a la guerra, "Bueno, pues ya..."
+H5:Ya como una costumbre [ininteligible].
+H1:Es verdad, ya acabarán cuando [solapamiento de turnos] quieran, ¿no?
+H5:[ininteligible] [fin de solapamiento de turnos] sí. Porque al principio, mucho con la guerra, "Ay, ay, mira, aho[palabra cortada] ahora de repente dice que le va a tirar un misil y una bomba nuclear", y despues ya...
+H1:Sí.
+H5:ya cuando pasa un tiempo pues ya...[ininteligible]
+H1: Y tu pensabas, Cucho, vete a saber si es verdad todo eso que dicen. porque como ya nos habíamos creído todos que... de lo que nos informaban, pues eh... en fin, un tanto por ciento podía ser verdad, pero había mucha cosas que no... que no traslucían objetivamente a la opinión pública, es decir, que... que como Guerra en ta[palabra cortada] en sí tenía muchos secretos de guerra ¿no? muchos secretos de información que no se podían dar a todos, pues tu debías de pensar: "A saber si eso es verdad, ¿eh?, a saber si se va a terminar la guerra [solapamiento de turnos] como dicen".
+H5:Hombre, algunas [fin de solapamiento de turnos] cosas sí [solapamiento de turnos] porque...
+H1:¿Sí? [fin de solapamiento de turnos]
+H5:yo que sé, a lo mejor dicen, "Han tirado un misil", dice, "y han matado a tres personas". Hombre, se supone que si cuestan quinientos millones, pues no creo que sea para matar a una persona, que eso lo matas tú con una escopeta y vamos, va que chuta. Entonces yo creo que... no sé, alguna parte será mentira.
+H1:[afirmación] Ni que un misil fuera una cosa que la vieras venir y que tarda una hora en bajar y que le da tiempo a toda la gente a salir corriendo para que no nos haga pupa, ¿no? [risa]
+H5:Sí.
+H1:Una cosa así. Ana Mari, ¿qué piensas de cómo sa han desarrollado los acontecimientos?
+H6:Pues bueno, pues la verdad es que cuando, [fin de extranjerismo]George Bush[fin de extranjerismo] dijo el Jueves que Kuwait, bueno que kuwait ya estaba libr[palabra cortada] libre, yo, bueno, supercontenta, superalegre, porque era algo que esperaba sinceramente. Porque mucha gente dice que los niños no hemos vivido la guerra, pero muchos niños hemos dibujado misiles y aviones de combate, hemos aprendido a diferenciar un [extranjerismo]scud[fin de extranjerismo] de un [extranjerismo]patriot[fin de extranjerismo], hemos buscado en el mapa Basora, Tel-a-viv, Bam[palabra cortada] Bagdad, ¿no? y también nos hemos identificado con los que tiran bombas y con los que las reciben,
+H1:[afirmación]
+H6:y hemos tenido miedo, hemos tenido angustias, pesadillas, y ya te digo, muchos mayores creen que los niños somos seres ajenos a la violencia y a la agresividad que nos rodea, pero es que no es cierto, porque yo a veces he sentido como si tuviese el corazón arrugadito como un manzana.
+H1:[afirmación] Oye y ¿sabes tú la diferencia entre un [extranjerismo]scud[fin de extranjerismo] y un [extranjerismo]patriot[fin de extranjerismo]? Es que como yo no voy a la escuela pues ahora mismo, si me dicen: dibuja un [extranjerismo] scud[fin de extranjerismo], dibuja un [extranjerismo]patriot[fin de extranjerismo].¡Ay, madre mía, ¿cómo lo hago? Y eso que no se me da mal el dibujo.
+H6:Pues, como si te lo crees como si no. A nosotros en sociales nos han hecho aprender lo que era... lo que era cada cosa.
+H1:Ya, ya, ya, ya. Y la profe o el profesor ¿también os hacía sobre el encerado un mapa de la guerra?
+H6:Sí. Nos ha hecho hacer mapas, recoger información,
+H1:¿Sí?
+H6:y sobre los armamentos, y todo eso.
+H1:Ya. ¿Y se os preguntaba vuestra opinión?
+H6:Sí, claro.
+H1:Ya, [afirmación]. Una por una. ¿Tú que piensas? ¿Quiénes son los... quiénes son los malos de la película? Eso os decían... bueno, con otras palabras naturalmente porque no se trata de un cuento [risa].
+H6:[afirmación]. Claro.
+H1:Ni de una película, desgraciadamente, o sea, que teníais conversaciones en clase, en clase de sociales, sobre el desarrollo de la guerra.
+H6:Sí.
+H1:¿Sí? Y... tu hermana con... ¿cuántos años tienes Laura? que se me ha olvidado, nueve, ¿no?
+H7:Sí, nueve.
+H1:Sí. ¿En tu... en tu escuela también hablabais de la guerra?
+H7:Nosotros, bueno, cuando el profesor, decía: "Eh... ahora [duda] ha empezado la guerra". Y el día que se acabó la guerra nos dijo: "Ahora se ha acabado la guerra". Y todos ahí diciendo: "Bien, bien".
+H1:Ya, ya, ya, ya. ¿Y tú has visto alguna manifestación, Laura, en la calle?
+H7:Yo no, pero la he oído que... que iban a hacerla.
+H1:Ya. [afirmación] Bueno, pues ya se ha acabado la guerra. ¡Qué bien! ¡Qué contentos todos! [interrogación] Jaime, lo que pasa es que se ha acabado la guerra, pero...para la gente... que vive en esos territorios, que han vivido pues, este tremendo drama, [duda] lo que ha acabado es el eh... el eh... han acabado los combates, o sea, se ha hecho el alto al fuego, pero ahora empieza la... [duda] la supervivencia, más bien ¿verdad? más que la vida normal y corriente. ¿Cómo crees tú que lo están pasando en este momento toda esa gente?
+H3:Claro, claro porque, ahora, hasta ahora pues ha sido la guerra pues, la guerra con misiles y todo, que estaba ahí explotando y todo, pero es que ahora, se presenta a la gente, pues, el después de la guerra ¿no? que yo creo que es incluso un poquito peor, porque por ejemplo, en Irak, ver a todo... todo el... la ciudad destruida, toda la gente por las calles y eso, sin tener a dónde ir y también pienso yo, que en Kuwait que antes era, creo que la... la ciudad con más an[palabra cortada] alto nivel de vida en el mundo, pues ahora que mucha gente que seguro que no tenga ni... vamos, a lo mejor no tiene ni casa para ir a donde dormir.
+H1:[afirmación]
+H3:Y yo creo que deben... se deben ver un poco...
+H1:Ya. Oye, pozos de petróleo ardiendo por todos los sitios, ¡qué... qué imágenes tan deprimentes hemos visto en la tele! Lo que pasa es que, no sé, yo el fin de semana que me dediqué a ver la tele bastante, siempre eran los mis[palabra cortada]... la misma gente.
+H3:Claro, porque...
+H1:A lo mejor es que a las cadenas de televisión o a la CNN no le dió tiempo a hacer más reportajes, ¿no?
+H3:Sí, [duda] te fijas en todas las cadenas sale una imagen de... de la gente a... allí, muriendo o como sea y siempre sale la misma, en todas las cadenas.
+H1:[risa]
+H3:No sé por qué.
+H1:Jaime, cuéntame, anda. [afirmación] Digo Jaime, Alfredo. Eh... ¿Estuvistes tú pendiente... pendiente... de una manera pues así, ya, como muy... eh... de una manera interesado, estuvistes tú pendiente de las... de las imágenes de la televisión, cuando se anunciaba: "Ya, ya se acaba la guerra". [interrogación]
+H2:Bueno, para... para enterarse de cómo iba la guerra yo creo que era necesario todo, tanto imágenes de televisión, como perióidico, como radio, como de todo, todo era bueno.
+H1:[afirmación]
+H2:Pero a mí, de las imágenes de televisión, las dos que meas... que más me han sorprendido, han sido una, que iban en el desierto pues los soldados americanos y que te llevaban prisioneros, algunos iraquíes, pero iban atados y que les dieron un poco de comida a ellos para que la comieran y que empezaban a... pues, es que era como si fueran animales, a matarse por ella, a pues, y eso debe ser porque debían estar muertos de hambre. Luego con razón, a lo mejor, por eso pues no han durado ni tres días en la guerra por... por tierra, porque ahí [extranjerismo]Sadam[fin de extranjerismo] ha dejado quinientos mil hombres en... en Kuwait, para hacer la guerra por... por tierra, pero, ¡quién sabe cómo estaban! a lo mejor algunos no podían ni, ni mover los brazos de como estaban de cansados. [solapamiento de turnos] Y la o[palabra cortada] bueno.
+H1:María Asunción, [fin de solapamiento de turnos] es verdad lo que está diciendo Alfredo porque además nos llamaba mucho, sí, la imagen que ibas a decir, me parece, bueno, no te la quiero pisar, la de los... los prisioneros ¿qué? venga.
+H2:Y bueno, la otra, pues que... salió por televisión española que en la [siglas]CNN[fin de siglas] había un programa pues así con... con un principio de mucha guerra y sonidos de misiles que se titulaba "La Guerra del Golfo". Y con cosas así, pues de fuego y de cosas así, y que ahora pues salió que... el programa seguía siendo lo mismo, lo que pasa que se titulaba "La Paz en el Golfo" y que en vez de eso que salía con música más bonita, con colores más bonitos y eso también va...
+H1:[afirmación] Hay gente que en vez de decir "ya..." en fin, "ya tenemos paz" dice: "ha estallado la paz". Fíjate tú, que juego de palabras tan extraño ¿no? Pues no, no, no has dicho lo que yo estaba pensando, Alfredo. Eh... maría Asunción, que... cuando los soldados eh... iraquíes, eh... se rinden en una de esas tomas, en una de esas imágenes se ve como uno de ellos besa la mano de un soldado americano y eso te pone los pelos de punta, ¿verdad?
+H4:Es que yo pienso que una persona, no tiene que ir ahí adorando a otra persona porque aunque sean de... de distinto país o que uno haya ganado la guerra al otro, no creo... o sea, no sé por qué tiene el que ha perdido ir besándole la mano al otro, porque es una persona igual, haya ganado o haya perdido y... tiene que mantenerse en su condición de persona, no... no hacerse inferior al otro, porque...
+H1:[afirmación]
+H4:eso de que un iraquí le bese la mano a un americano, pues...
+H1:Ya.
+H4:yo no creo que esté demasiado bien.
+H1:Y ¿qué te parece a ti, María Asunción, el hecho de que haya sido el presidente de los Estados Unidos el que haya decretado el fin de la guerra? [interrogación]
+H4:Hombre, pues, no sé, es que, si lo hubieran... yo creo que [extranjerismo]Sadam[fin de extranjerismo] se tendría que haber rendido antes y no esperar a que... a que se lo dijeran los demás y verse que estaba hasta el cuello de... de cosas y... si él lo hubiera... si él hubiera parado antes la guerra, muchas cosas y muchos desastres se habrían evitado porque, eh... la mancha esta de petróleo que hay ahora en el mar, a ver ahora quién la quita de ahí, porque, muy bien podrán quitar muchas toneladas de petróleo pero, todo el daño que han hecho ya no lo pueden remediar.
+H1:[afirmación] Cocho, a ti [extranjerismo]Sadam Hussein[fin de extranjerismo] nunca te cayó simpático, ¿eh?
+H5:Jope, yo creo que ni a mí ni a nadie que... que esté viviendo la guerra así, bueno, o aunque no la esté viviendo tan profundamente, pero que... que sepa que... millones de personas están muriendo por ese loco.
+H1:Ya. ¿Sabes que en América... [duda] han comercializado un montón de... de objetos, de cachibaches, de chucherías relacionadas con la guerra? Por ejemplo hacían muñequitos así,
+H5:De [extranjerismo]Sadam Hussein[fin de extranjerismo]
+H1:Sí, sí, sí, sí, sí. Los hacían así de pequeñitos y entonces era para que la gente que fuera en contra de [extranjerismo]Sadam Hussein[fin de extranjerismo] para que le pinchara alfileres como eso del budú, "¡Ale! ¡ale! a ver si se rinde, a ver si le da un... un dolor de cabeza que no pueda más" y cosas así.
+H5:Hombre, pues en cierto modo, molaría.
+H1:[risa] Y también han comercializado máscaras antigás. ¡Andá que los americanos también!
+H5:Se han forrado.
+H1:Tú... ¿Tú para qué querrías una máscara antigás? ¿Para qué te ibas a gastar el dinero aquí, por ejemplo en España que no hay peligro, ¿para qué quieres gastarte cuatro mil pesetas...
+H5:Para los carnavales.
+H1:en una máscara antigás? Para los carnavales, ¿no? porque para otra cosa, para qué tiene que servir eso?
+H5:Ya, porque, aquí, no sé, como no sea una... una cosa así muy importante, que tiren aquí una... una bomba nuclear, vamos que sea hasta ese punto, pues yo creo que un máscara no sé para qué la quieren.
+H1:Ya y la gente, yo pienso que es un poquito morbosa ¿no?; llaveros con la cara del americano, o del... o del iraquí,
+H5:Es que parece que somos masocas.
+H1:¡hasta papel de water! Fíjate, ¿qué iban a hacer con el papel de water?
+H4:¡Ay!
+H5:¡Qué cosas!
+H1:[risa] Bueno, ya sabemos todos lo que iban a hacer con elpapel de water que tuviera la cara de un presidente o del otro presidente. [risa] Ana Mari, que sí, que somos un poquitín así, raros, sádicos ¿no? ¿eh?
+H6:Sí, un poquito, sí.
+H1:Sí. Y ¿qué más han comercializado? a ver que me acuerde yo. Ah, bueno, cintas amarillas que por lo visto en América es un distintivo de suerte, las atas, eh... pues qué sé yo, a la... [duda] a la antena del coche o... a un árbol. Cintas amarillas, por lo visto dan suerte y deseaban de esa manera suerte a los soldados americanos.
+H6:Sí.
+H1:Y la gente compraba también trajes de la guerra. Oye, ¿tú te ibas a poner en paz y en España un traje de la guerra? ¿Para qué se pone uno un traje de la guerra? Bastante desgracia tienen los que se lo han tenido que poner y hacer frente pues a todas esas explosiones, ¿no? y... y encima haber salido con vida.
+H6:No, yo no me lo pondría, pero a una... a una, a una niña que va a clase conmigo, le regalaron una máscara antigás.
+H1:¡Qué curioso! [risa]
+H6:Y se ve que donde trabaja su madre, la... las da[palabra cortada], las regalaban. Y... tenía ella una.
+H1:Ya. ¿Sabes... sabéis las últimas noticias se[palabra cortada] según nuestros compañeros de los servicios informativos [extranjerismo]Sadam Hussein[fin de extranjerismo] podría haber pedido asilo político en Argelia, o sea que está vivito y coleando y lo que quiere es salvarse, naturalmente, ¿eh? y que no le ocurra nada.
+H6:Pero es que, Julia, nosotros vemos claro, el malo [extranjerismo]Sadam Hussein[fin de extranjerismo] pero tampoco los americanos serán del todo buenos, porque por ejemplo el Sábado eh... cuando se iba a acabar el ultimatum, bueno, ya cua[palabra cortada], a las seis de la tarde ¿no? las condiciones aliadas te podías morir, las que eran. Porque en... antes de las seis de la tarde, eso era el Sábado por la mañana, pues antes de las seis de la tarde se tenían que re[palabra cortada] retirar todas las tropas iraquís. Eso es que era totalmente imposible.
+H1:Ya. Un poco durillos sí, sí, han estado. Sigue, sigue.
+H6:Y luego, bueno, en cuaren[palabra cortada] en cuarenta y ocho horas se tenía que... establecer otra vez en Kuwait el Gobierno legítimo.
+H2:Yo no estoy de acuerdo con eso.
+H1:A ver, a ver Alfredo.
+H2:Porque lo... los... yo creo que los americanos en ningún momento han sido tampoco malos. Ellos han... incluso han hecho cosas buenas, no es que hayan sido no[palabra cortada] normales pero han hecho cosas buenas porque, mira, han unido a pa[palabra cortada] a... a más... a más de dos países, para luchar, para dejar libre a un tercero, ahora unido, pues a... Gran Bretaña, a Estados Unidos, cada país ha puesto un poquito de ello y,
+H1:Nosotros también un poquito, ¿eh?
+H6:Sí.
+H2:Sí, cada... Yo creo que ha sido, pues eso, Estados Unidos el que ha puesto, pues, [solapamiento de turnos] la mayoría...
+H1:[afirmación] [solapamiento de turnos]
+H6:[solapamiento de turnos] Pero en eso se ha visto...
+H2:pero ha ido uni[palabra cortada]... [fin de solapamiento de turnos] ha ido uniendo... ha ido uniendo a muchos más países para defender a un tercero, yo creo que eso es algo muy importante. [extranjerismo]George Bush[fin de extranjerismo]
+H1:Ya.
+H2:ha sido un poco el que ha llevado un poco la batuta y en ningún momento ha sido malo.
+H1:Sí.
+H2:Ha sido defender algo justo,
+H1:Sí.
+H2:pero no ha sido malo.
+H6:pero por otra [solapamiento de turnos] parte...
+H1:Ana Mari. [fin de solapamiento de turnos]
+H6:había el plan... el plan soviético que era mucho más normal, vamos, que... que bueno, que la retirada comenzara al día siguiente, pero que no se hiciera en cuarenta y ocho horas, que se efec[palabra cortada] efectuara en un plazo de veintiún días,
+H1:[afirmación]
+H6:y de cuatro días [duda] de la ciudad de Kuwait, lo que es la ciudad de Kuwait, lo que es la ciudad.
+H1:Ya.
+H6:Y luego, que después de salir las fuerzas iraquís, eh... pede[palabra cortada] perdieron el vigor las... las resoluciones del Consejo de Seguridad.
+H1:Ya.
+H6:Y que luego, los prisioneros de guerra serían liberados tres días después del alto del fuego. Yo creo que... que... ba[palabra cortada] basándome en hechos reales,
+H1:Sí.
+H6:pienso que cincuenta mil soldados en do[palabra cortada] en dos, tres, cuatro horas, no pueden abandonar un país.
+H1:La cosa se calienta, hay polémica, Cucho, tú has levantado el dedo, ¿qué quieres decir?
+H5:Yo creo que ta[palabra cortada] que también estoy en desacuerdo con Ana Mari, porque lo primero, los americanos puede que hayan hecho obras buenas, igual que todos los países. Yo creo que también a su tiempo Irak también habría hecho una cosa buena, no creo que sea la oveja negra de la familia pero... de todas formas, yo creo que él se está forrando.
+H1:[afirmación]
+H5:Así, en plata. Porque él vende armamento, él e[palabra cortada] él está... con los soldados, a lo mejor pierde, pero de lo que pierde... a lo mejor cinco millones, once gana.
+H1:[afirmación]
+H5:Así que yo creo que... hombre, también son malos, pero no creo porque el [extranjerismo]Hassan Hussein[fin de extranjerismo] yo creo, el que más lo ha provocado.
+H1:Cuando empezáis a polemizar no tengo más remedio que decirle a nuestros oyentes las edades que tenéis. El que ha hablado últimamente tiene nueve años, ¿verdad?
+H5:No, diez, diez.
+H1:¿Ya hicistes diez? Bueno, bueno, pero qué... qué honesto eres. Diez años, Cucho. Su hermana, ¿qué es lo que piensa? María Asunción. Doce años.
+H4:Que... es que yo creo que en una guerra no hay ni buenos ni malos, todos son, todos son... malos para mí, aunque si... si hubiera uno más malo que el otro, yo creo que sería [extranjerismo]Sadam Hussein[fin de extranjerismo] porque ha sido el que ha empezado y el que ha provocado a que pasase todo esto. Pero en una guerra, yo creo que no hay ni buenos ni malos. Todos luchan contra el otro y... y cada uno se defiende como puede.
+H1:Y cada uno tiene s[palabra cortada] sus razones ¿no?
+H4:Claro.
+H1:Cada una de las partes contendientes. A veces hay mucha gente que está a favor de uno y hay mucha gente que está a favor de otro, o sea, las opiniones mundiales, eso sí que tenemos que tener muy claro, han estado eh... divididas. Aunque a lo mejor mayoritariamente de parte de la eh... coalición multinacional. Espera un momentito que hace mucho tiempo, Jaime, que no habla Laura y yo no sé con quién iba Laura. Laura, ¿tú para qué lado estabas cantea[palabra cortada] con quién estás de acuerdo, con [extranjerismo]Sadam Hussein[fin de extranjerismo] con el presidente de los estados juntitos?
+H7:Yo no entro en polémica.
+H1:Muy bien. [duda] Pero di algo, anda.
+H7:Me gustaría escribirle una carta a [extranjerismo]Sadam[fin de extranjerismo] y decirle simplemente "gracias". Gracias por parar la guerra.
+H1:Sí.
+H7:Y cuando quieras hacer batallitas, te mando yo unos cuantos guerreros de juguete y te lo pasas [argot]guay[fin de argot].
+H1:[risa]Eso está bien, eso está bien. Jaime, venga.
+H3:Yo lo que quería decir es que dice Ana Mari que... que los Americanos también han sido malos, pero yo es que creo que los americanos han representado muy bien el papel que... que la [siglas]ONU[fin de siglas] le ha... le ha recomendado en esta guerra. Y que ellos han sido los que han puesto, pues, casi me[palabra cortada] quinientos mil soldados, y muchos medios para ayudar a liberar a un país que ha sido ocupado ilegalmente.
+H1:Ya.
+H6:[fin de solapamiento de turnos] Pero, de momento...
+H3:Yo... yo. [fin de solapamiento de turnos]
+H1:Sí. [solapamiento de turnos] No tenéis mucho tiempo más.
+H6:Bueno. Sí continúa. [fin de solapamiento de turnos]
+H1:Tres [solapamiento de turnos] minutitos o así, vamos a ver.
+H3:Luego, por lo que también, [fin de solapamiento de turnos] que [extranjerismo]Bush[fin de extranjerismo] ha sido muy criticado pero considero que sin razón, porque... porque él no quería la guerra, y ahora claro, ahora... también se queja mucha gente porque hay que pagarle lo que... hay que pagarle, pues cada país mucho dinero pero yo creo
+H1:Ya.
+H3:que eso es normal.
+H6:Yo leí un reportaje que...
+H1:Sí.
+H6:El título ya lo dice todo [duda] "¡Viva la guerra, hipó[palabra cortada] hipócritas!"
+H1:¡Buf! ¡Qué fuerte!
+H6:Y es que de momento, Estados Unidos, ya se va a quedar seis meses más en Kuwait.
+H1:Sí.
+H6:O sea que Estados Unidos no ha estado luchando por ayudar a los Kuwaitís,
+H1:Ya.
+H6:Ha estado luchando por unos intereses creados que tiene allí.
+H1:Ya, oye,
+H2:No, no creo porque...
+H1:Si.
+H2:Estados Unidos está defendiendo un país que estaba totalmente atacado, que no tenía nada qué hacer con Irak, que ha sido un pa[palabra cortada] un país, Irak, que ha visto que se podía meter ahí por las buenas,
+H1:[afirmación]
+H2:que creía que los demás países no le iban a hacer ni caso...
+H1:[afirmación]
+H2:pues claro, que se iba a meter ahí, pero nada, le ha salido
+H1:Ya.
+H2:todo mal, pero...
+H1:Alfredo, y ¿por qué estamos hablando todo el tiempo de [extranjerismo]Sadam Hussein[fin de extranjerismo] y del presidente de los Estados Unidos y dónde está la [siglas]ONU[fin de siglas] y todo eso? ¡Ay qué ver! ¿eh?
+H2:Bueno, pero es que yo creo que han sido los más... los máximos protagonistas. Yo creo que había que ponerlos, en un ril de bonceo en un lado [extranjerismo]George Bush[fin de extranjerismo] y en otro [extranjerismo]Sadam Husein[fin de extranjerismo], ¡había que verlo!
+H1:Brevemente, María Asunción y Cucho y nos vamos ya ¿eh? Nos vamos porque el... el reloj dice que es tardísimo pero, fíjate, justo ahora cuando la cosa se pone calentita y bien.
+H2:Sí.
+H1:María Asunción, brevemente.
+H4:Pero que yo creo que, eh...[extranjerismo] Bush, Bush[fin de extranjerismo] ha hecho ésto de ayudar a Kuwait muy bien porque... porque era... era de... o sea, iba con ellos y era muy bien para ayudarle y todo eso, pero también tenía intereses allí, porque eh... ahora... ahora se queda él y luego nada, pues, eh... quieras que no, los kuwaitíes les deben... le deben un favor a... a [extranjerismo]Bush[fin de extranjerismo] y se puede aprovechar en el momento que quiera. Tiene allí mucho, mucho dinero y muchos intereses.
+H1:[afirmación]Y ¿tú qué dices, José Luis, Cucho? [interrogación]
+H5:Yo creo que nuestros [ininteligible] que en estos momentos, ahora bueno, ahora ya porque se ha acabado la guerra...
+H1:Sí.
+H5:Pero yo creo que la [siglas]ONU[fin de siglas], ya sé que ha intervenido muchísimo, pero ha... tendría que haber intervenido más y...
+H1:Sí.
+H5:[extranjerismo]Bush[fin de extranjerismo], en vez de hablar tanto,
+H1:Sí.
+H5:y decir...
+H1:que escuchara.
+H5:bueno, pues eh... han dado discursos y a lo mejor después dice: "A ver, veinte mil soldados por aquí, cuarenta por allá".
+H1:Ya.
+H5:Pues tendría que haber intentad tranquilizar más la cosa, aunque [extranjerismo]Hassan Hussein[fin de extranjerismo] iba mu[palabra cortada], iba muy animado y cada dos por tres, "¡hala! pues ahora a atacar aquí, atacar allá", y bueno.
+H1:[afirmación] [solapamiento de turnos]Bueno,
+H6:Julita. [fin de solapamiento de turnos]
+H1:pues así ven esta representación de los niños de España el estallido de la paz. [risa]
+H6:Julia, una cosita.
+H1:Sí. Tenemos que seguir con esa expresión. Muy cortita, muy cortita, ¿eh?
+H6:Sí. Bueno que nosotros los niños vemos la paz, azul como el cielo, rosa como la felicidad, amarilla como el sol, verde como la esperanza y me he reservado para el final el blanco
+H1:[afirmación]
+H6:Porque ese color inspira mucha hermosura y belleza,
+H1:Sí.
+H6:Y por eso mismo con nuestra ilusión, bueno hace[palabra cortada] los niños hacemos una hermosa bandera blanca
+H1:Sí.
+H6:Que izamos muy muy alta a ver si conseguimos construir un poquito de paz.
+H1:Muy bien, muy bien, muy bien ese... ese... ese epílogo.
+H2:Julia. Y yo, yo para, decir así algo final,
+H1:Sí.
+H2:quería así mandar un mensaje de paz, pues a todos los líderes... a todos los líderes del mundo, que antes de atacar a... a un país o a otro país, que se lo piensen dos veces
+H1:Ya.
+H2:Que cada uno tiene que conformarse con su terreno,
+H1:[afirmación]
+H2:y no ser egoísta, porque... a lo mejor en un pasado ya ven que fué [extranjerismo]Hitler[fin de extranjerismo] ahora en un presente es [extranjerismo]Sadam Hussein[fin de extranjerismo] y a lo mejor en un futuro pues le puede tocar a él, que se lo piense mejor.
+H1:Cada día habláis mejor y cada día me siento, o nos sentimos, en "Directamente Encarna" más orgullosos de vosotros. A todo esto, Jaime, Alfredo, María Asunción, Cucho, Ana Mari, Laura. ¿Sabéis quién es Chanquete?
+Todos:Sí.
+H1:Pero si sois muy pequeños. ¿Sabéis quién es Chanquete?
+Todos:Sí.
+H1:A ver, Laura, ¿Quién es Chanquete?
+H7:Bueno, yo conozco como uno que salía en "Verano Azul".
+H1:¡Ah! Bueno, pues dentro de un ratito, vamos a hablar con él, ¿eh? o sea que seguid escuchando la radio que vamos a hablar con... el protagonista de "Verano Azul", con Chanquete. Su nombre como actor es Antonio Ferrandis, eso también lo sabéis, ¿no?
+Todos:Sí.
+H1:¡Qué pacífica aquella serie! ¡Qué bonita! Ah, ya sé por qué la conocéis, porque la han repuesto, [solapamiento de turnos]otra vez
+H6:Claro. [fin de solapamiento de turnos]
+H1:en televisión.
+H7:Sí.
+H1:Bueno, pues muchas gracias y hasta la semana que viene. ¿De acuerdo? ¿eh? Id pensando en el tema que queréis tratar la semana que viene.
+H2:Vale.
+Todos:Adiós.
+H1:Buenas tardes, adiós.

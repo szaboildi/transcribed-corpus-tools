@@ -1,0 +1,64 @@
+#archivo: AENT006C
+#fecha de grabación: 11-4-91
+#fuente: radio
+#localización: Madrid
+#H1: varón, locutor, edad desconocida
+#H2: varón, presidente de Comisión Tutelar de Menores, edad desconocida
+#términos: menore, tráfico ilegal, órgano, delito, proceso, niño, abuso, adopción, acogimiento
+H1: ...de menores de la Comunidad de Madrid. Señor Merín, muy buenos días.
+H2: Muy buenos días.
+H1: En primer lugar ese... ese dato que nos... nos parece de lo más trágico. ¿Existe, podemos... podemos constatar que existe tráfico de menores?
+H2: Hombre, podemos constatarlo porque ya en algún caso ha habido actuaciones, tanto de carácter policial como incluso judicial al respecto, y porque, bueno, pues la propia realidad, el contacto con la realidad de cada día nos eh... denuncia, de alguna manera, que pueden seguir existiendo algunas prácticas de este tipo. Y de hecho, pues como... en estos últimos días hemos comentado, eh... hay algunas investigaciones abiertas al respecto en estos momentos.
+H1: Sin embargo, parece que este asunto choca con un problema grave, y es que eh... al parecer, este... este delito no está eh... tipificado, o estas... estas acciones no tif[palabra cortada]... tipificadas como delito en España. Hay una... una especie de laguna.
+H2: Sí, el tráfico de niños en sentido puro; es decir, la laguna sería el... el hecho en sí de la... lo que... en lenguaje coloquial podríamos llamar la venta del menor; es decir, el intercambio de un niño por dinero, con fines de adoptar a ese niño quien da el dinero, eso en sí no constituye un delito en nuestro país en este momento. Entonces eh... para poder ir a una represión de este tipo de prácticas, eh... la policía y los jueces... [ininteligible] se ven obligados, el ministerio fiscal a la hora de acusar, se ven obligados a buscar la... otros delitos que pudieran haberse cometido en... en ese proceso.
+H1: [afirmación]
+H2: Lo lógico, lo esperable, lo deseable es que en la reforma que se va a proceder, que se va a hacer próximamente del código penal, pues se incluya ya este nuevo tipo de delito, con lo cual la cobertura, la seguridad jurídica... ganará mucho, evidentemente.
+H1: Desde luego, señor Merín... supongo que estará conmigo, el mundo de los menores es tremendamente complejo; es decir, por un lado están esos... esos casos que antes comentábamos, esas 3 niñas desaparecidas en... en los 2 últimos meses, eh... la posibilidad de que exista un tráfico de órganos, incluso; o de... o de niños, que ya es suficientemente grave; por otro, el que en determinadas ocasiones, precisamente en la Comunidad de Madrid, como el resto de... de estamentos autonómicos de... de España tengan que hacerse cargo de... de menores maltratados abandonados por los padres, y paradójicamente, padres eh... bueno, pues un tanto desesperados que por razones de naturaleza no pueden tener hijos y están en lista de espera para poder adoptar a uno de estos pequeños.
+H2: Pues sí, pero fíjese usted que decía al principio de este comentario que... que lo que era tremendamente complejo era el mundo de los menores. Yo creo que lo que es tremendamente complejo son los intereses de los mayores sobre los menores,
+H1: Pues sí.
+H2: El mundo de los adultos. Porque al fin y al cabo, los niños... con todo... en todo lo que usted ha explicado, no son más que el objeto de un deseo, en unos casos legítimo, como es adoptarlos y quererlos y cuidarlos, y en otros casos absolutamente ilegítimos, como es abusar de ellos y explotarlos, claro.
+H1: Pero uno se pregunta si... si está disminuyendo el número eh... de niños que puedan ser adoptados; y por otro lado, pues eh... prácticamente eh... con, con una... una frecuencia bastante elevada escuchamos casos de niños maltratados, de niños abandonados y demás, ¿cómo es que, cómo es que existen esas listas de espera para padres que pueden acoger en su seno familiar a uno... a uno de estos críos?
+H2: Pues mire usted, porque no es lo mismo acoger que adoptar. La gente...
+H1: Adoptar, adoptar.
+H2: Claro. Eh... para acoger si que podría haber eh... más casos, y hay niños que podrían ser acogidos. Lo que pasa es que no es tan fácil encontrar familias dispuestas sólo acoger. Las personas que se dirigen a nosotros, mayoritariamente lo que quieren es adoptar un niño. Es decir, convertirlo en hijo suyo a todos los efectos. Y para eso, ese niño tiene o que no tener padres, o que sus padres consientan esa adopción.
+H1: [afirmación]
+H2: Consientan el renunciar a ese hijo. Y claro, esto no ocurre. esto no ocurre con facilidad. Padres que renuncian a su hijo y que consientan la adopción son casos escasísimos. Y los casos de adopción que se... promueven pues son los casos en los que hay un abandono en el momento del nacimiento, prácticamente, y algún caso más de... abandono más tardío, pero muy escasos. Entonces, el año pasdo, por ejemplo, en la Comunidad de Madrid, que es una de las comunidades que promueve mayor número de adopciones en toda España, pues se promovieron 121. De esos 121, 103 eran niños recién nacidos, y el resto eran otros casos en los que se había producido un abandono posterior.
+H1: [afirmación]
+H2: Pero eh... ese mismo año, nosotros hemos recibido más de quinientas solicitudes de... familias dispuestas a adoptar un niño. Entonces, evidentemente no es posible satisfacer a quinientas familias si lo que venimos eh... teniendo como niños abandonados es un número de 121, y además, un número descendiente, porque el año anterior habían sido 127, y el anterior ciento treinta y... seis, creo recordar. Eh... El año que viene pues en vez de 121 serán 115 o 117 o 112.
+H1: [afirmación]
+H2: Y sin embargo, es muy fácil que las familias que nos soliciten niño, en vez de quinientas pues sean ya 550 o seiscientas.
+H1: Ya.
+H2: Entonces, eso es difícil de... de... de conciliar.
+H1: [afirmación] Otro asunto que nos parece interesante es hablar de que la Comunidad de... de Madrid prepara ese programa de acogimientos especiales destinados fundamentalmente a regular el destino de menores con deficiencias psíquicas, o incluso portadores de anticuerpos del SIDA. ¿Qué nos puede decir eh... sobre esto?
+H2: Sí, eh... Y no sólo. Por ejemplo, dentro de ese programa también pretendemos que esos niños que han sido objeto de malos tratos, que la familia... biológica, la familia natural de ese niño, es difícilmente que pueda volver a recuperar la convivencia con el niño, pero que no se termina de romper, lógicamente, esa relación, porque además tienen derecho, tanto el hijo a mantener su historia, a conocerla y a... y a vivirla, como los padres a... a ten[palabra cortada]... seguirse relacionando con ese hijo, pues que esos chicos puedan tener una acogida, una vida familiar, sin renunciar a la suya propia, a sa[palabra cortada]... la suya biológica, pero... pero que puedan tener una vida familiar en un lugar de acogida. También dentro de ese programa hemos... queremos crear un proyecto específico para que los casos de niños que nos llegan con... habiendo sufrido un grave trauma psíquico y físico, pues no tengan que pasar por un centro de acogida, que aunque ya se intenta que estos centros estén muy humanizados, y se... y tengan un ambiente cálido y lo más hogareño posible, pues bueno, hacer un hogar de convivencia de mano[palabra cortada]... varios menores con profesionales, en definitiva, pues no reúne las mismas condiciones que un hogar familiar. Entonces ta[palabra cortada]... vamos a montar también un programa para que esos menores puedan pasar directamente con una familia de acogida que les dé ese cariño, esa calidez, eh... esa humanidad que en ese momento el niño necesita pues para volverse a... a serenar emocionalmente después de haber sufrido ese grave trauma. Entonces, es un programa que vamos a intentar montar con varias entidades privadas, con las que estamos manteniendo conversaciones eh... y... desarrollando el proceso técnico, y esperamos pues en el plazo máximo de un mes que este programa pueda empezar a aplicarse.
+H1: Señor Merín, 2 últimas cuestiones. De un lado que... qué es lo que se exige... [extranjerismo]grosso modo[fin de extranjerismo], porque quizá sea largo de explicar, ¿qué es lo que se... qué es lo que se exige a una... a una pareja que pretende adoptar un niño?
+H2: Bueno, básicamente eh... y esto viene regulado en el Código Civil, lo que se exige es que sean... mayores de 25 años, al menos uno de ellos 2... si son pareja, ¿eh?, que es en el único caso en el que 2 personas pueden adoptar a un niño, si no tiene que ser sólo una persona quien lo adopte.
+H1: [afirmación]
+H2: La adopción puede ser individual o en pareja. Entonces [vacilación] la persona, o las personas tiene que tener más de 25 años y luego tienen que tener una... diferencia de 14 años respecto al adoptado.
+H1: [afirmación] Y... me...
+H2: Esos son los requisitos que establece el Código Civil.
+H1: Sí.
+H2: Luego, a la hora de... de nosotros aplicar esos criterios, pues se hacen extensivos a algunas otras consideraciones, como conseguir que esa pareja pues tenga una cierta estabilidad, en todos los órdenes de la vida. En... en la emocional, en la de la convivencia, en la... en la económica, eh... o que tengan una salud que les permita... adaptarse a las necesidades del niño, eh... Bien, toda una serie de condiciones que nos eh... garanticen que ese niño va a estar bien atendido.
+H1: Pues la segunda cuestión que yo le iba a plantear ha quedado contestada, porque... le iba a preguntar precisamente si una... una sola persona puede... puede... adoptar a... a un niño; una persona que no viva en pareja, un hombre o una mujer.
+H2: Sí, sí, sí. Efectivamente, puede ser.
+H1: Aunque me imagino que no... no será tan frecuente.
+H2: No es tan frecuente sobre todo en los casos de adopción, porque como le decía, en la medida en que estamos promoviendo la adopción de niños recién nacidos, pues procuramos que tengan cubiertas las 2 figuras, la del padre y la de la madre.
+H1: Claro.
+H2: Y por... y máxime, habiendo el número de peticiones que le he dicho,
+H1: [afirmación]
+H2: , donde, lógicamente, pues hay mucho donde escoger. Pues escogemos lo mejor.
+H1: Naturalmente.
+H2: Eh... pensando siempre en el bien del niño. No obstante, para los pr[palabra cortada]... programas de acogimiento, no de adopción, pero sí de acogimiento, a veces sí que es interesante que sea una persona sola la que acoja a determinado menor, porque en función de la historia o de los problemas que ese niño ha tenido, pues conviene reforzarle la figura psicológica del padre, o de la madre, o de... vamos, del hombre o de la mujer, y... y conviene un acogimiento de estas características. De hecho, yo le puedo... significar que sí, que acogimientos con personas solas, ya sean hombres o mujeres hemos... hacemos va[palabra cortada]... no... no puedo decir que muchos, pero sí bastantes al año, ¿eh?. Algunas decenas.
+H1: Sí, es[palabra cortada]... est[palabra cortada]...
+H2: Y sin embargo, pues las acogimientos de persona eh... de parejas, pues ya pasan de... del ciento, desde luego.
+H1: Estamos hablando de acogimiento y adopción, y quizá no queden bien claros estos 2 conceptos. ¿Qué diferencias hay?
+H2: Pues mire, se lo aclaro muy rápidamente. La adopción es que el niño pasa de formar parte integramente... íntegramente y a plenos efectos de la familia. Como si fuese un hijo más.
+H1: Sí.
+H2: Con cambio de apellidos, plena integración en todos los derechos y obligaciones de la familia. En cambio, en el acogimiento, no. El acogimiento al menor mantiene su propia vinculación con la familia en caso de tenerla, mantiene sus propios apellidos, no se establece un vínculo de parentesco...
+H1: Sí.
+H2: Y... lo que hay, en definitiva, es una acción pues digamos que de voluntariado social, de apoyo, de ayuda a un crío que lo necesita, y que esta familia le ofrece solidariamente su ayuda.
+H1: Pues aclarado este concepto, vamos a agradecer al señor Tomás Merín, presidente de la Comisión Tutelar de menores de la Comunidad el que haya atendido a nuestra llamada, y ojalá estos programas y estos proyectos sigan adelante en beneficio de... de los que más lo necesitan, de los pequeños.
+H2: Muchas gracias a ustedes.
+H1: Un saludo.
+H2: [ininteligible]
+H1: Ahí estaba la noticia de la que queríamos eh... hacernos eco. Precisamente ese intento por parte de la Comunidad de Madrid de establecer un bienestar para los más pequeños, así como reducir el tráfico de menores. Todo esto... bueno, pues al hilo de esos sucesos que mantienen inquieta a la opinión pública española, con esos 3 casos que se han dado en los 2 últimos meses de menores, de niñas, concretamente, que han desaparecido; y que la policía pues sospecha de una red de venta de órganos para trasplantes, o vaya usted a saber que es... cuál es el destino en estos momentos de estos pequeños. Así comenzamos hoy nuestro programa en Onda Cero.

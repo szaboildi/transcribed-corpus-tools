@@ -1,0 +1,24 @@
+#archivo: ccon016c
+#fecha de grabación: 17-1-91
+#fuente: conversación entre portero de residencia y estudiante
+#localización: Madrid
+#términos: llamada telefónica
+#H1: estudiante, mujer, 23 años
+#H2: portero, varón c. 28 años
+H1:¿Qué tal Antonio?
+H2:Vaya.
+H1:Bueno, no hay nada.
+H2:Pues ajetreada está la tarde.
+H1:¿Sí?
+H2:Te han llamado con una voz así de chiquita joven o algo así. Ha dicho... dice: "No". Digo ¿tomo recado? dice: "No, [solapamiento de turnos] no hace falta".
+H3:¿Quién es? [fin de solapamiento de turnos]
+H2:¿Laureano?
+H3:Sí.
+H2:[solapamiento de turnos] ¿Sabes?
+H1:O sea [fin de solapamiento de turnos] y... no te ha dicho absolu[solapamiento de turnos]tamente nada.
+H2:No me [fin de solapamiento de turnos] ha dicho nada porque le he dicho que si dejaba nota y...
+H1:Y ¿ha... ha sido hace poco?
+H2:No, hace bastante. Hace un par de horas por lo menos.
+H1:Pues voy a llamar a ver si es mi hermana. Gracias, ¿eh?
+H2:Nada. [solapamiento de turnos] Hasta luego
+H1:Hasta luego. [fin de solapamiento de turnos]

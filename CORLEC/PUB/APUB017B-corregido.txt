@@ -1,0 +1,75 @@
+#archivo: APUB017B
+#fecha de grabación: 12-91
+#fuente: radio
+#localización: Madrid
+#H1: varón, locutor, edad desconocida
+#H2: mujer, oyente, edad desconocida
+#H3: mujer, esteticista, edad desconocida
+#términos: venta, alfombra, moldeador, estudio, playa, ropa, grieta, remedio casero
+H1: Consulta de mercado, siete menos nueve... ¡Buenas tardes! [timbre de teléfono, interrupción de la llamada] [onomatopeya]¡Pi, pi, pi, pi![fin de onomatopeya] Eso... eso, todo seguido a mano izquierda. Eh... que pase la siguiente. ¿Buenas tardes?
+H2: Bue[palabra cortada]...
+H1: ¿Hola? ¿Sí? [silencio] [solapamiento de turnos] No.
+H2: ¿Oiga? [fin de solapamiento de turnos]
+H1: Hola, buenas tardes.
+H2: Hola, buenas tardes.
+H1: Dígame, señora.
+H2: Eh... por favor, mire; quería vender una alfombra...
+H1: [afirmación]
+H2: ... de dos treinta por uno setenta.
+H1: ¿Persa, pakistaní, española?
+H2: No, eh... en muy buen estado; vamos, eh... no es de lana, es una alfombra que vale para cualquier tiempo.
+H1: Sí.
+H2: Está en muy buen estado, ¿eh? Y el precio, bien, también.
+H1: Dígame...
+H2: Eh... quería vender también un moldeador de pelo...
+H1: Sí...
+H2: [extranjerismo]"Braun"[fin de extranjerismo]...
+H1: [solapamiento de turnos] Para hacerse lo[palabra cortada]...
+H2: ... prácticamente [fin de solapamiento de turnos] sin estrenar, ¿eh?
+H1: Para hacerse los ricitos.
+H2: Sí. Pero... eléctrico, a doscientos veinte; prácticamente sin estrenar, ¿eh?
+H1: ¿Teléfono de contacto?
+H2: Sí, eh... Bueno, ¿puedo decir que compro un estudio, también?
+H1: ¿Usted compra un estudio? ¿Dónde?
+H2: En... la playa, al[sic] ser posible, pues zona Benicasim, o por ahí.
+H1: Muy bien.
+H2: Que esté en buen precio, claro. ¿Teléfono?
+H1: ¿Le digo yo un teléfono?
+H2: Cuatro... [risas] Sí, ya le he oído el suyo.
+H1: ¿Le digo el mío?
+H2: Sí, si le he oído; pero, de todas formas, si me le quiere dar, me le da, ¿eh?
+H1: Cinco veintiuno...
+H2: ¿Eh?
+H1: Es que le va... le va a encantar ese estudio.
+H2: ¡Ah!, pues estupendo.
+H1: Cinco veintiuno...
+H2: Sí...
+H1: Cuarenta y seis...
+H2: Sí...
+H1: Cero cuatro.
+H2: [solapamiento de turnos] Cero cuatro.
+H1: No creo [fin de solapamiento de turnos] que encuentre otra cosa de playa más bonita que esa.
+H2: [solapamiento de turnos] ¿Dónde?
+H1: Man[palabra cortada]... [fin de solapamiento de turnos] Mañana llama.
+H2: ¿Dónde? ¡Ah! Ya sé dónde, sí.
+H1: En Torrevieja.
+H2: Vale, muchas gracias.
+H1: Dígame su teléfono también.
+H2: ¡Ah! Cuatro tres nueve...
+H1: Cuatro tres nueve...
+H2: Tres cuatro...
+H1: Tres cuatro...
+H2: Uno nueve.
+H1: Uno nueve. [solapamiento de turnos] Gracias. [timbre de teléfono]
+H2: Sí, eh... [fin de solapamiento de turnos] tengo ropa de señora de...
+H1: También.
+H2: ¿Me oye?
+H1: Sí, sí.
+H2: Eh... tengo ropa de [timbre de teléfono] señora de vestir en muy buen estado,
+H1: [solapamiento de turnos] De acuerdo.
+H2: ... ¿eh?, [fin de solapamiento de turnos] de la talla cuarenta y dos - cuarenta y cuatro.
+H1: Muchas gracias.
+H2: A usted.
+H1: Que no nos veamos en la playa. Siete menos ocho minutos, [teléfono] Punto y final a la consulta de mercado. [silencio]
+H1: Estamos en la consulta, Radio Intercontinental, y ahora mismo tenemos una consulta de belleza. Belleza, estética, con Luz. Buenas tardes.
+H3: Hoy vamos a hablar sobre un problema que nos afecta a muchas personas, tanto hombres como mujeres. Esto son las grietas de los talones. Os voy a dar un remedio que es muy eficaz y es casero. Tenéis que mezclar yogur y vinagre. Esta mezcla se hace... doble de yogur que de vinagre. Se abri[palabra cortada]... se aplica sobre los talones dando un pequeño masaje ascendente y se deja aproximadamente media hora. Esto se hace todos los días. Os lo voy a repetir por si no habéis cogido. Mezclar yogur y vinagre; doble de yogur que de vinagre. Se deja aproximadamente veinte minutos, media hora y se hace todos los días. Muchas gracias y que tengáis suerte. [música] [texto no transcrito]

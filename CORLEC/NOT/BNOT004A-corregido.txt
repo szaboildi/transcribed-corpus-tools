@@ -1,0 +1,27 @@
+#archivo: BNOT004A
+#fecha de grabación: 8-7-91
+#fuente: radio
+#localización: Madrid
+#términos: conexión, carretera, tráfico, intensidad, fluidez, hora punta, circulación, casco urbano, red, tramo, entrada, salida, retención, corte, patrulla, búsqueda, pantalla, período, volumen, distribución, circulación, sentido, Ayuntamiento
+#H1: varón, c.40 años, presentador
+#H2: varón, edad ignorada, periodista
+#H3: mujer, c.35 años
+#H4: varón, edad ignorada
+H1: La primera conexión, nueve, cuarenta y nueve minutos de la mañana, es con el Gabinete de Carreteras de la Comunidad. Paco Tomás, buenos días.
+H2: ¡Hola!, buenos días.
+H1: Bienvenido a "Mi Querida Radio". ¿Cómo están hoy las carreteras en este día nubladillo?
+H2: Bueno, pues hoy un tráfico que no ha sido... que no ha llegado a tener las intensidades circulatorias de los días precedentes y que lógicamente ya a esta hora se ha remitido bastante la hora punta y ya casi se puede hablar de una total fluidez en toda la red aunque, bueno, todavía... conexionar con el casco urbano, más que nada pues tiene circulación un poquito lenta en esa conexión de la carretera de La Coruña, en la de Toledo y en la de Barcelona y luego, ya también circulación lenta pero sin retención en el tramo de las obras del [siglas]MOPU[fin de siglas] en la carretera de Burgos tanto en sentido de entrada como en sentido de salida. Las temperaturas de la Sierra, entre ocho y diez grados y medio con un sesenta por ciento de humedad relativa del aire. Por último, tan sólo advertir hoy segunda etapa de la octava vuelta ciclista internacional a Madrid, saldrá a las dos de la tarde y treinta minutos del Escorial, llegará a esta misma localidad madrileña a las diecisiete treinta y cinco, es decir, a las seis menos veinticinco y luego pasará por diversas localidades como Robledo de Chabela, el Puerto de Cruz Verdes, San Martín de Valdeiglesias, pasará un poquito por la provincia de [ininteligible], Toledo, y retornará de nuevo a nuestra Comunidad Autónoma para pasar por Valdemoro...Valdemorillo, queremos decir, y últimamente, como decimos, terminar también en El Escorial. Cortes, por supuesto, intermitentes del tráfico al paso del pelotón.
+H1: Muy bien, pues muchas gracias Paco Tomás por esta información. Hasta mañana, buenos días.
+H2: Hasta mañana, buenos días.
+H1: Son ya las nueve y cincuenta minutos de la mañana. Vamos a conectar con el Gabinete de Prensa de la Policía Municipal. Buenos días, Rosa.
+H3: ¿Qué tal? Buenos días.
+H1: Bienvenida a "Mi Querida Radio". ¿Qué podemos contar a nuestros oyentes a estas horas de la mañana?
+H3: Bueno, hoy hacemos protagonistas a dos chavales que emprendieron una aventura juntos y que la aventura ya ha terminado. Faltaban de un colegio, donde residían interno en Zarande de los Ríos y no se les había encontrado hasta esta madrugada, gracias a unos vecinos que han visto a dos chavales como deambulaban a la una y pico de la madrugada por... por esta calle. Un patrulla inició la búsqueda por esta zona y al final los encontramos, curiosamente, en un camión donde pretendían dormir, se habían subido a la caja, donde estaba la carga del camión, y con la... y con una improvisada manta que era la lona del propio vehículo intentaban pasar la noche, allí fueron sorprendidos durmiendo plácidamente y han sido devueltos de nuevo a su colegio.
+H1: Pues muchas gracias, Rosa, por esta información para todos nuestros oyentes. Hasta mañana, buenos días.
+H3: Hasta mañana.
+H1: Son las nueve y cincuenta y un minutos, vamos a conectar con el gabinete de Pantallas del Ayuntamiento. Buenos días Antonio.
+H4: ¡Hola!, muy buenos días.
+H1: Bienvenido a "Mi Querida Radio". ¿Hoy el tráfico está un poquito más tranquilo?
+H4: Sí... sí, con diferencia. Hoy está muchísimo más tranquilo y... y bueno, la prueba está en que a las nueve ha comenzado ya a declinar el período de hora punta [duda], con lo cual en estos últimos cuarenta y cinco minutos más o menos se ha solucionado, bueno, se ha solucionado de una forma genérica porque todavía sigue entrando un fuerte volumen de tráfico desde carreteras pero la diferencia está en que hoy absorbe mucho mejor la ciudad y las grandes vías de distribución ya no tienen [ininteligible]. Lo único a evitar, recuérdenlo a lo largo de la mañana, las obras que se realizan en Marqués de Monistrol y también que... bueno [duda] se mantiene la circulación lenta en el Puente de Vallecas, en María de Molina, en ambos sentidos, y en la parte alta de Bravo Murillo, pero vamos, en definitiva una gran diferencia respac... respecto al día de ayer.
+H1: Muy bien, muchas gracias Antonio. Hasta una próxima conexión. [solapamiento de turnos] Buenos días.
+H4: Hasta luego [fin de solapamiento de turnos] .

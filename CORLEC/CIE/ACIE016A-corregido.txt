@@ -1,0 +1,146 @@
+#archivo: ACIE016A
+#fecha de grabación: 21-1-92
+#fuente: radio
+#localización: Madrid
+#H1: varón, médico internista, edad desconocida
+#H2: varón, médico, director del programa, c.44 años
+#H3: varón, pediatra, edad desconocida
+#H4: varón, cirujano, edad desconocida
+#H5: mujer, coordinadora del programa, edad desconocida
+#H6: varón, traumatólogo, edad desconocida
+#Ha: varón, oyente, edad desconocida
+#Hb: varón, oyente, edad desconocida
+#Hc: varón, oyente, edad desconocida
+#Hd: mujer, oyente, edad desconocida
+#He: varón, estudiante de odontología, oyente, edad desconocida
+#Hf: mujer, oyente, edad desconocida
+#Hg: varón, oyente, 28 años
+#términos: enfermedad, síndrome, intestino irritable, alteración psíquica, paciente, fibra, estreñimiento, gases, tumor, cirugía, pierna, tendón, peroneo, vista, cataratas, operación, láser, caída, traumatismo, región glútea, flúor, hueso, vitamina, pecho, secreción mamaria, cólico nefrítico, riñón, posición de los pies, prótesis, cadera, gota, mancha en la piel, soplo
+H1: Eh... refiere... dos síntomas fundamentales, que son meteorismo y estreñimiento pertinaz, eh... imagino que... los médicos que le han visto le habrán realizado un estudio... en este sentido, del aparato digestivo, en el sentido de descartar cualquier problema que condicione... el estreñimiento, es decir, que... dificulte el tránsito intestinal y... y, probablemente, si esto es así, eh... el... el... el diagnóstico más probable sería el de "síndrome de intestino irritable", eh... ma[palabra cortada]... eh... entidad que se manifiesta fundamentalmente pues por alteración del tránsito intestinal, molestias abdominales y meteorismo intermitente. Eh... [solapamiento de turnos] en este sentido...
+H2: Y como es psicosomática, [fin de solapamiento de turnos] ¿no?
+H1: Evidentemente, ésta es una enfermedad eh... [duda] sin alteración orgánica del tracto digestivo; fundamentalmente lo que se produce es una alteración de la motilidad del... mismo y suele estar asociada a distintas alteraciones de la esfera psíquica, fundamentalmente ansiedad crónica, como aparentemente...
+H2: [solapamiento de turnos] Sí...
+H1: ... este paciente [fin de solapamiento de turnos] parece que tiene, eh... por su forma de hablar cuando exponía su caso.
+H2: Claro.
+H1: En este sentido, es necesario tratar su estado de ansiedad crónico y además de eso eh... utilizar algunas medidas dietéticas eh... fu[palabra cortada]... que fundamentalmente consisten en eh... [duda] el aporte de suplementos de fibra en cantidad suficiente. Eh... una mala medida que ha referido este... enfermo en cuanto al tratamiento que ha utilizado en distintas ocasiones es eh... la administración de laxantes, puesto que la administración continuada de laxantes lo que produce es una atonía intestinal y agrava el estreñimiento eh... produciendo, es decir, agravando eh... el... síntoma que se quiere corregir. Por lo tanto, debe de tomar mucha fibra, debe de ponerse en manos de un solo médico... quizás en estos casos, es decir, el síndrome de intestino irritable, cuando eh... intervienen muchos médicos eh... y se hacen múltiples exploraciones, lo que se hace con el paciente es crearle una gran incertidumbre y agravar el estado de ansiedad que suele asociarse, y... utilizar eh... algún ansiolítico en dosis pequeñas y durante un tiempo no excesivamente prolongado.
+H2: Perfecto, doctor Fernando Martín. El... doctor Eduardo Junco, como pediatra, ¿constata que los niños tienen muchos gases, a la vez... de vez en cuando, que consultan por eso las madres?
+H3: Pues es un síntoma relativamente frecuente. De hecho, los gases, en... en la época primera de la vida, cuando el niño es un lactante, durante los primeros meses, es un síntoma... al cual las madres muchas veces achacan el llanto... nocturno de los niños y la intranquilidad de los niños, aduciendo a que la mala digestión es la causa de ello. En ocasiones están equivocadas, porque muchas veces son otros problemas los que inducen el su[palabra cortada]... el llanto del niño... Y luego, cuando son más mayorcitos, pues efectivamente, si existe un estreñimiento por una alimentación inadecuada, por una escasez de... de fibras en la dieta, por ausencia de ejercicio físico, por una dieta muy monótona, pues también pueden ser causa eh... los gases de molestias digestivas.
+H2: Claro. El doctor Antonio... Sierra, como cirujano, ¿ha comprobado en algunos casos que alguien que tenía síndrome de intestino irritable, lo que llamamos comúnmente "colon irritable", al hacerle una colonoscopia, eh... se ha detectado un cáncer... colorectal o un cáncer de sigma? ¿Lo ha compriobado alguna vez, que... lo que está etiquetado a veces de colon irritable acaba siendo o... diagnosticándose un cáncer?
+H4: Bueno, el colon irritable no tiene fisiopatológicamente... ninguna base para que pueda dar cáncer, pero muchas veces coexiste con cáncer. Por eso, como ya ha dicho bien el doctor Martín, en todos casos de alteraciones de este tipo es indispensable eh... la exploración radiológica y endoscopia, para descartar si es un proceso exclusivamente eh... neurofisiológico, o si ese tema, además, añade otra patología orgánica. [texto no transcrito]
+Ha: (...) Eh... no es que esté tampoco preocupado, ¿no? pero como tumores y cosas de estas no... no gustan a nadie, pues me ha enterado un poquitín y he leído sobre tumores de piel y estas cosas... sin realmente enterarme de nada.
+H1: Vamos a ver. Entonces no se preocupe, siga con nosotros y vamos a ver lo que nos dice el doctor Antonio Sierra que es... una parte de la dimensión que usted nos plantea.
+H4: Bien. Este... ante todo tipo de tumor melánico o tumor névico de la piel, ¿eh?, hay que ir, indudablemente, a un especialista; a un dermatólogo o a un cirujano que se lo... vea. generalmente, la mayoría no tienen ninguna importancia. Ahora, cuando estos tumores... névicos a[palabra cortada]... eh... aumentan de tamaño, cambian... de color, sangran o tienen alguna alteración, entonces, casi siempre es necesario extirparlos, hacer una biopsia amplia de estos tumores si... en el caso de que sean benignos no hay ningún problema y en el caso de que pudieran ser malignos, seguramente la cirugía tiene que ser un poquito más amplia y seguida de injertos y, en algunos casos, extirpar los ganglios en que... han... drenado. Yo creo que su caso, si se los han extirpado y el conocimiento histológico por parte del cirujano que... se lo ha hecho lo tiene y no le ha pedido ni que haga ningún otro gesto quirúrgico ni ningún otro tratamiento, debe de olvidarse usted del tema porque es señal de que si era bueno está bien quitado y si era malo, la cirugía que se le ha hecho ha sido lo suficientemente amplia para que usted pueda considerarse como curado y todo lo mar[sic]... ir de vez en cuando a revisiones periódicas, a que le vea ese cirujano.
+H2: Pues... menos mal que hemos hecho este programa, ¿no? y que él ha planteado la pregunta y que ha podido entrar en nuestra centralita, porque realmente... usted lo dice así; estamos en la radio, sin verlo... tranquilamente... o sea, insi[palabra cortada]... ¿Es así?
+H4: Sí, es así; generalmente, las pecas, los tub[palabra cortada]... las manchas... de la piel, los angiomas; todo tipo de tumor... coloreado que asiente sobre la superficie de la piel, el noventa o noventa y nueve por ciento de los casos son tumores benignos. Ahora, cuando súbitamente existe una transformación de las que... de las... características que yo he dicho, de tamaño, de color, de... sangrado, etcétera, etcétera, entonces hay que pensar que puede haber algo más y la mayoría de los casos, el diagnóstico exacto nos la va a dar unas[sic] análisis y una biopsia del mismo, que se puede hacer con una cirugía menor y sin la mayor importancia.
+H2: Perfecto. Miriam de las Heras, ¿dónde vamos ahora?
+H5: Nos vamos a Canarias, a las Palmas. Buenas noches.
+Hb: Buenas noches.
+H2: Díganos.
+Hb: Buenas noches, doctor Beltrán.
+H2: Buenas noches.
+Hb: Mire, yo quisiera... [interrupción de la grabación]
+Hb: (...) A los... cuatro días la operaron, le hicieron una operación de... de... o sea, le apareció un síndrome compartimental de pierna derecha. Entonces, la niña eh... lleva un año de... en rehabilitación y... y en el médico, ¿no? Y entonces, ahora le quieren hacer... o sea, [ininteligible] anterior se lo quieren desplazar un poco hacia la derecha para que pueda tirar de la pierna [duda] bien hacia arriba, ¿verdad?
+H2: Sí...
+Hb: ... porque no le funciona el... o sea, dice que no le funciona totalmente los... peroneos eh... bajos del pie. Entonces, bueno, mi pregunta es la siguiente; osease... ¿qué...? si este tipo de operación que lleva la niña, pues... se po[palabra cortada]... se podrá quedar perfectamente, o sea, o por lo menos mejor de lo... de lo que está, ¿no? Osease, a ella también le extirparon, según dicen aquí... le extirparon el... extensor... o sea, le afectó al ten[palabra cortada]... [duda] [texto leído]"...la necrosis... muscular afectó al tendón como un (extensor) común de los dedos, por lo que hubo que resecarlo, suturándose el muñón listal sano al tendón del músculo tibial anterior con dexión... con dexón reabsorbible"[fin de texto leído]
+H2: Bien. No se preocupe usted, porque el doctor Vicente Borregón, que es el especialista que usted... quería que el contestara...
+Hb: [solapamiento de turnos] Sí.
+H2: ... le va [fin de solapamiento de turnos] a contestar y tiene suficientes datos. Doctor Borregón.
+H6: Eh... probablemente, este síndrome compartimental ha afectado fundamentalmente al... compartimento externo de los peroneos, y, entonces, al afectar a este compartimento, se lesionan una serie de tendones que... levantan, el[palabra cortada]... elevan el pie; producen una... flexión dorsal del mismo. Entonces, la operación que... el indican o que le aconsejan este... a esta paciente es eh... una transposición del... del músculo del tendón del tibial anterior a la parte externa, no la parte derecha, la parte externa del pie para suplir de esta manera el... déficit de función de estos tendones de los peroneos. Si esto es así, considero que es correcta la intervención quirúrgica. [silencio] [música] [texto no transcrito]
+H2: Seguimos adelante, seguimos con más preguntas, esta vez de Madrid. Madrid, buenas noches.
+Hc: Hola, buenas noches.
+H2: Díganos.
+Hc: Mire, quería hacer una pregunta con respecto a... la vista.
+H2: Sí...
+Hc: A los... a los ojos. [duda] Yo es que tengo cataratas congénitas. Entonces, de pequeño me han operado unas... cinco veces, y ahora pues fui para que me a[palabra cortada]... [duda] porque me habían comentado que se hacía un láser y limpiaban la catarata y quedaba bastante mejor, ¿no? Entonces, me han visto varios médicos, eh... uno particular me dijo que sí, que me lo podían hacer, que era una ilictomía, o algo así...
+H2: [afirmación]
+Hc: ... y entonces fui eh... al Clínico, por la Seguridad Social y... me dijeron que sí, pero en cuanto vieron la tensión del ojo, que estaba alrededor de noventa y siete treinta me dijeron que el láser no se me podía hacer porque... afectaría bastante la subida de la tensión, ¿no? Entonces, yo me recomendaron una operación para bajar la tensión y en la misma operación hacer la ilictomía.
+H2: [afirmación]
+Hc: Entonces, claro, como sólo tengo ese ojo, que es el único que ve, no sé si eso sería algo... peligroso o... si había algún láser especial que se pudiera hacer sin que afectara a la tensión; un láser frío o... a[palabra cortada]... de argón, o algo de esto que me han comentado también que hay.
+H2: Pues bueno, eh... realmente las cataratas sí que es un tema apasionante, es un tema que hemos tratado profusamente aquí, en este programa; el noventa y ocho por ciento de los casos se soluciona y quedan perfectamente bien, es lo que sabemos, es lo que hemos aprendido; todos como médicos sabemos lo que es la opacidad del cristalino, que son las cataratas, pero... ¡usted nos ha pillado! Es decir, hoy no... no podemos afrontar temas oftalmológicos, no debemos hacerlo y, además, es conveniente que no lo hagamos, salvo que alguno de ustedes... doctor [ininteligible], ¿usted estaba?
+H7: No; yo, únicamente, que se refería el enfermo a que padece cataratas congénitas. En realidad, generalmente, las cataratas congénitas pues son cataratas de... la primera época de la vida y en relación con problemas... pues de infecciones connatales eh... como la rubeola o de... problemas de tipo metabólico, como pueden ser enfermedades de depósito o enfermedades metabólicas que crean alteraciones en... en el cristalino. De todas maneras, la evolución quirúrgica, con varias operaciones que tiene este enfermo y la situación actual no la... no se res[palabra cortada]... no... no sabemos resolverla porque es una... pregunta, pienso yo, de una especialidad eh...
+H2: Que se nos... se nos desborda de... [solapamiento de turnos] del ámbito de esta noche.
+H7: Exactamente. [fin de solapamiento de turnos]
+H2: Seguimos adelante y nos vamos a Asturias.
+H5: Oviedo, buenas noches.
+Hd: Buenas noches. Verá, yo quería hacerle la consulta al traumatólogo.
+H2: Vamos a ver.
+Hd: Verá, yo hace tres años pues caí por una escalera y me di un golpe muy fuerte en la zona lumbar...
+H2: Sí...
+Hd: ... pero solamente tenía... el moratón. Entonces, bueno, acudí... Empecé a tener un dolor e[palabra cortada]... de cadera, a raíz de este... de esta caída; fui varias veces al traumatólogo y me hicieron análisis, me hicieron radiografías y dicen que todo es normal, pero yo cada vez estoy peor de la cadera. Ya me duele toda la pierna, [duda] a veces se me bloclea[sic]... se me bloquea, incluso, la... la rodilla y... bueno, es que, además, cuando más me duele es cuando estoy acostada.
+H2: [afirmación]
+Hd: Entonces, [duda] yo o[palabra cortada]... oí hablar de la resonancia magnética y quisiera que me indicaran pues [duda] si esta... e[palabra cortada]... esto... este sistema pues si detecta cualquier tipo de dolencia y si es muy costoso, para poder hacérselo particular.
+H2: Muy bien.
+Hd: Muchas gracias.
+H2: Gracias a usted por llamar. Doctor Vicente Borregón.
+H6: [duda] Por lo que me cuenta esta paciente, eh... Ella dice muy bien que... tuvo un traumatismo en la z[palabra cortada]... en la región lumbar y que posteriormente le... comenzó a doler eh... l[palabra cortada]... dolor en la cadera, que... ella dice en la cadera, pero probablemente sea en la región glútea. Eh... [duda] [vacilación] efectivamente, las radiografías que le hacen en la... [duda] en la articulación coxofemoral correspondiente son normales porque creemos que el problema no viene de eh... de la cadera, sino que el problema viene de la... región lumbar. Aunque le hayan hecho radiografías y estas hayan sido eh... normal, eh... es normal que eh... esto sea así, porque muchas veces no... se tiene por qué tener una fractura, sino que a veces hay unas lesionas en el ligamento anular de los discos intervertebrales que posteriormente este disco se va abombando, eh... a veces se rompe el ligamento anular, el disco sale de... su espacio y comprime eh... bien la cola de caballo, que es la parte distal de la médula eh... o comprime una raíz. Entonces, pues produce un dolor en la región glútea que se irradia eh... según la topografía de la lesión a l[palabra cortada]... los miembros inferiores, localizándose unas veces en el glúteo, otras veces en la rodilla, etcétera, etcétera. Entonces, me parece correcto eh... el... que se le efectúe eh... un estudio de resonancia nuclear magnética para... a ver si hay alguna altera[palabra cortada]... alteración... discal.
+H2: Perfecto. Después de oír la opinión del doctor Borregón, seguimos adelante y volvemos ahora con las llamadas. [texto no transcrito]
+H2: Vamos otra vez a Andalucía.
+H5: Granada, buenas noches.
+He: Buenas noches.
+H2: ¿Sí?
+He: Eh... sí. Eh... yo soy estudiante de odontología.
+H2: Sí...
+He: Y... mi pregunta era sobre el flúor.
+H2: Sí...
+He: Pero... pero era dirigida al traumatólogo.
+H2: Vamos a ver.
+He: Porque... vaya, yo he estudiado el flúor cómo afecta a los dientes, pero también me han dicho un poco de pasada... que puede ser un tratamiento bueno para la osteoporosis, porque tiene mucha afinidad (...) sobre el calcio, sobre el fósforo... incluso, también, es bueno para la... para la arterioesclerosis, [solapamiento de turnos] porque...
+H2: Y para [fin de solapamiento de turnos] el bocio endémico.
+He: Bueno, sí; pero [duda] ¿no sería un tra[palabra cortada]... un... una opción eh... aceptable cuando, por ejemplo, la calcitonina... no... no está indicada, o...?
+H2: Muy bien. Vamos a ver lo que nos dice el doctor Fernando Martín. [solapamiento de turnos] ¿Qué opina de...
+He: De acuerdo. [fin de solapamiento de turnos]
+H1: [solapamiento de turnos] Hombre, efectivamente...
+H2: ... de las utilidades [fin de solapamiento de turnos] terapéuticas del flúor?
+H1: Efectivamente, el flúor se utiliza en la osteoporosis y eh... el mecanismo de acción de... este... [vacilación] compuesto sería el de favorecer la formación de sustancia osteoide a nivel del hueso. Eh... este tratamiento casi nunca se realiza aisladamente, se debe de combinar con el... aporte de suplementos de calcio y de vitamina de ("D") puesto que si se utiliza de forma aislada puede conllevar a que... el paciente desarrolle osteomalacia, es decir, formación de hueso sin mineralizar. Eh... eh... se utiliza... [duda] habitualmente en el tratamiento de fondo de la osteoporosis, con pocas[sic]... efectos secundarios, eh... aunque el efecto sobre... el aumento de masa ósea eh... está en entredicho en cuanto a que [duda] es menos eficaz cuando... que cuando está indicado la utilización de estrógenos.
+H2: La utilización de flúor, según nuestros datos, doctor Fernando Martín, también... [vacilación] en exceso, provoca molestias gástricas e incluso...
+H1: Eh... diarrea...
+H2: Sí, sí...
+H1: Náuseas, vómitos, etcétera... dispepsia... pero en las dosis habituales que se utiliza en la osteoporosis suele... ser bien tolerado y, realmente, la... el único cuidado que hay que tener es que debe de ser combinado con la utilización de otros fármacos que favorezcan la mineralización, porque al favorecer solamente [solapamiento de turnos] la formación de sustancia osteroide...
+H2: O sea, calcio y vitamina de ("D"). [fin de solapamiento de turnos]
+H1: .... se puede producir osteomalacia, que es el equivalente en el adulto del raquitismo infantil.
+H1: Perfecto. Suficientemente... ampliada esta pregunta, que también se nos iba, se nos iba de nuestro campo... de acción aunque es profuso, grande y dilatado esta noche. Seguimos adelante y nos vamos otra vez a Aragón.
+H5: Zaragoza, buenas noches. Hola, buenas noches, Zaragoza.
+Hf: Buenas noches.
+H2: Sí, díganos.
+Hf: Doctor Beltrán, perdone que le vuelva a molestar; [risas] porque es que llamé ayer al programa de los doctores de ginecología...
+H2: Sí...
+Hf: Y resulta que lo que... pensando que lo iban a contestar ustedes por la radio, pues me estuve esperando aquí y no pude oír nada de lo que me dijeron.
+H2: ¡Pues sí!
+Hf: Bueno, pues en primer... Solamente eh... nada, es muy corto. Lo que más me interesaba era que ya... comenté, usted se acordará, de que tenía secreción de un pecho...
+H2: [afirmación]
+Hf: ... y fue muy poca, o sea... simplemente pues igual fueron quince o veinte días... y ya me miraron, me hicieron unas eco[palabra cortada]... unas mamografías y unas ecografías... me miró eh... un... un cirujano... Bueno, me hicieron esas pruebas. Y no me sacaron nada, me dijeron que no... pasaba nada; que podía ser un problema hormonal. Aquello desapareció y llevo dos años ya que no me ha vuelto a pasar.
+H2: Sí...
+Hf: Pero, no obstante, pues claro, como no le escuché quería saber de que podía haber sido o si tenía alguna cosa... podía tener alguna cosa...
+H2: Pues aquí se planteó... Le contestó concretamente a esa pregunta el doctor López de la Osa y dijo que el... riesgo estaba en que pudiera estar usted afecta en ese momento o pudiera tenerse, lo que había que descartar era un papiloma intraductal de mama. Concretamente, eh... ellos pensaban que había que hacer un estudio radiológico y si no se encontraba nada usted podía vivir absolutamente tranquila, puesto que se había detenido la secreción... del pezón. Doctor... doctor Antonio Sierra, ¿algo más que añadir?
+H4: Bueno, el derrame del pecho, que nosotros lo conocemos con el nombre de telorrea, si es una telorrea... [solapamiento de turnos] clara...
+H2: Era de un [fin de solapamiento de turnos] sólo pecho y de color...
+H4: ... y de color blanquecina, generalmente suele ser por algún problema de estos que ha aludido el doctor Beltrán, y si se ha detenido, no cabe darle más vuelta. De todas formas, una mamografía y una galactografía todo lo más puede ser necesario para, más que nada, descartar de pueda haber cualquier tipo o bien de papiloma eh... intraductal o bien cualquier enfermedad que afecte a los conductos. Yo pienso que usted debe hacerse la exploración, depende de su edad, eh... de sus mamas al menos anualmente, vigilarse y si no vuelve a tener ningún derrame por el pecho puede olvidarse tranquilamente del tema.
+H2: Perfecto. Pues viva usted tranquila, señora. Vamos adelante, que nos quedamos con una llamada de Madrid.
+H5: Madrid, buenas noches.
+Hg: Hola, buenas noches, doctor Bel[palabra cortada]... Beltrán.
+H2: [solapamiento de turnos] Buenas noches.
+Hg: En primer lugar, [fin de solapamiento de turnos] felicitarle por el problema que tan (dignamente) dirige, y bueno, o sea, paso a exponer el motivo de mi consulta.
+H2: Vamos a ver.
+Hg: Actualmente tengo veintiocho años, bueno, y hace cinco años sufrí un cólico nefrítico, concretamente en el riñón derecho...
+H2: Sí...
+Hg: ... se me hicieron pruebas simples y el diagnóstico pues bueno, fue... en principio, arenilla. Hace seis meses, o sea, cinco años después, [duda] volví a sufrir un cólico nefrítico, pero esta vez en el riñón izquierdo. Entonces, [ruido] [ininteligible] un poco más a fondo, entre ellas está la... radiografía con contraste y se me diagnostica el riñón derecho en esponja en su fase mínima, y bueno, un índice de critia[palabra cortada]... de... perdón, de creatinina de uno coma veinticuatro (1,24). Dos o tres meses después me vuelvo a hacer una analítica y el índice de creatinina ya ha bajado y estaba en... bueno, en uno cero ocho (1,08). Pienso que normal. Entonces, mi pregunta concreta era...
+H2: [solapamiento de turnos] Vamos a ver.
+Hg: ... en primer lugar... [fin de solapamiento de turnos] ¿Sí, perdón?
+H2: Sí, vamos a ver su pregunta concreta.
+Hg: ... (concreta) bueno, pues era, en primer lugar, si existe algún tratamiento para combatir en su totualidad[sic] este pequeño quiste, o en s[palabra cortada]... o en caso de que no exista ningún... fármaco o... vamos, o a través de la cirugía, etcétera, etcétera, cómo evolucionaría... O sea, este quiste, cuánto tiempo... puede tardar en alcanzar su fase máxima y demás; o sea, y...
+H2: [solapamiento de turnos] Bien.
+Hg: ... bueno, [fin de solapamiento de turnos] una vez alcanzada, qué tratamiento se podría aplicar, o si... se[palabra cortada]... vamos, sería conveniente intervenir quirúrgicamente, pues... concretamente qué es lo que... [solapamiento de turnos] o sea, [ininteligible]...
+H2: Claro, pues [fin de solapamiento de turnos] qué es lo que... cuál es la solución que tenemos para usted. Doctor Fernando Martín.
+H1: Mire, el riñón en esponja en una... enfermedad congénita que se caracteriza por la formación de microquistes a nivel de los túbulos colectores; es una enfermedad benigna, no evolutiva, nunca evoluciona hacia la... insuficiencia renal y lo que produce fundamentalmente es una tendencia a la formación de microcálculos y de... y la posibilidad de infecciones urinarias sobreañadidas. En este sentido, es conveniente que los pacientes afectos de esta enfermedad beban una suficiente cantidad de agua y vigilen la posibilidad, sobre todo si tienen síntomas, de que aparezca una infección eh... urinaria sobreañadida. [música]
+H2: Doctor Junco, tenemos aquí una preocupación que es constante y va quedándose a lo largo de programas, eh... me refiero, desde el punto de vista pediátrico, las alteraciones en la posición de los pies... al nacimiento, al parecer son más o manos frecuentes. ¿Deben ser controlados por el pediatra? ¿Cómo... cómo afrontan ustedes este problema?
+H3: Pues es un tema que a veces pasa desapercibido en la exploración física del recién nacido y que... más tarde puede dar... alteraciones en la deambulación, en la marcha de los niños, o, sin más, en la posición de los pies. Entonces, eh... son... alteraciones generalmente posicionales y no estructurales, condicionadas por eh... la posición del niño intrauterina durante todo el período de gestación, durante la vida embrionaria. Estas alteraciones se pueden corregir, y de hecho se corrigen, eh... por métodos muy simples durante los primeros meses de vida y... es una forma de hacer medicina preventiva en la edad infantil y evitar problemas que luego... estamos constantemente viendo en la primera y la segunda infancia de utilización de prótesis, de plantillas, de... de diferentes métodos para corregir las alteraciones... no estructurales, sino más bien posicionales de los pies en los niños. [música]
+H2: Y así hemos llegado rápidamente al final del programa, pero tenemos que apurar algo más. Tenemos que sacar alguna que otra conclusión sobre las inquietudes y la disciplina a la que se dedican los especialistas que nos acompañan. Doctor Borregón, usted eh... Prótesis de cadera y rodilla: situación actual, eh... ¿Hay muchas personas que tienen dudas, le han dicho que tienen que ponerse una prótesis... de cadera, me refiero, por ejemplo?
+H6: Eh... sí, efectivamente, la cirugía... de las prótesis, en este caso de las prótesis de cadera, es una zo[palabra cortada]... una cirugía que ha venido... [vacilación] en los últimos años, desde hace veinte o treinta años, a... remediar una serie... de problemas, porque permiten actualmente mantener la función de esa articulación, en este caso la cadera, sin eh... limitar eh... función de la misma como se... efectuaba... anteriormente.
+H2: Perfecto. Doctor Fernando Martín, usted, como internista, díganos eh... la gota. Hay muchas personas que están afectas de una hiperuricemia. Eh... en este caso, eh... ¿qué les recomienda usted?
+H1: Bueno, la hiperuricemia, si es asintomática y no tiene un nivel excesivo, lo único de que se necesita es la vigilancia del ácido úrico y de otros factores de riesgo. Si presentan síntomas, entonces sí tienen la enfermedad metabólica, conocida como tal, como gota; y haciendo un tratamiento hipouricemiante nunca tendrán problemas. Ésta es una enfermedad que se controla perfectamente.
+H2: Muy bien. Doctor Antonio Sierra, cirujano del Doce de Octubre, díganos: las manchas en la piel, o de la piel. Eh... ¿pueden ser peligrosas?
+H4: Bueno, pues repito lo que he dicho antes de una forma muy breve. Las manchas en las piel [sic]... en la piel las tiene todo el mundo y en la gran mayoría de los casos no hay ningún problema. Ahora, debe de pes[palabra cortada]... de prestar todo el mundo atención a estas manchas de la piel en cuanto de una forma indeterminada y de una forma espontánea sangran, cambian de color, crecen, o presentan algún síntoma como prurito, picores, molestias, etcétera, etcétera. Ante un caso de este tipo siempre deben de quensurtar[sic] con su cirujano o su dermatólogo, porque alguna vez puede haber algún problema y puede ser necesario hacer una biopsia y una [ininteligible] de las mismas.
+H2: Doctor Eduardo Junco, en muchos hay niños que a los dos, tres meses, después de una revisión, les dice el pediatra: "Este niño tiene un soplo." Y dice: "Es un soplo inocente." En esos casos, eh... se preocupan mucho los padres, pero ¿deben o no deben preocuparse?
+H3: Pues en principio, deben de vigilar... Posiblemente... ese pediatra les aconseje que tengan controles periódicos del niño, pero el soplo inocente, "soplo de [extranjerismo]Stil[fin de extranjerismo]", denominado también, o "soplo funcional", eh... es un... ruido eh... que se obtiene tras la auscultación del corazón del niño, pero que no representa ninguna alteración anatómica estructural o funcional de la víscera cardíaca.
+H2: Pues muy bien. Doctor Borregón, doctor Fernando Martín, doctor Antonio Sierra, doctor Eduardo Junco, muchas gracias a los... a todos, a los cuatro y buenas noches.
+H5: En la redacción, Elena Zabalza. En control, Jesús Mejuto. Realizaron Carmen Pino y Maite Alcalde. Coordinó quien les habla, Miriam de las Heras y dirigió, como cada noche, el doctor Bartolomé Beltrán. [texto no transcrito]

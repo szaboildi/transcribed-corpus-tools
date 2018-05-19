@@ -1,0 +1,74 @@
+#archivo: AJUR004A
+#fecha de grabación: 6-12-91
+#fuente: radio
+#localización: Madrid
+#H1: varón, edad desconocida
+#H2: varón, locutor, edad desconocida
+#H3: varón, abogado, edad desconocida
+#H4: mujer, edad desconocida
+#H5: mujer, edad desconocida
+#términos: delito, privilegio, defensa, ley, inocencia, herencia, testamento, ascendiente, descendiente, primogenitura, mejora, alquiler, renta antigua, subida, "ley Boyer"
+H1: ... quiero preguntar al abogado cuál es la ley que marca que a nuestras señorías, el que cometa delito le ampara y le trata como a un ciudadano especial. Cuando ha sido notado por personas en las cuales tiene que responder él, y se le ampare de tal forma que se le permite solo eh... declarar incluso hasta por escrito. Gracias.
+H2: Muchas gracias, señor. ¿Abogado?
+H3: Bueno, vamos a ver. Eh... yo lo que... lo que quería decir, que efectivamente... es decir, una cosa es eh... lo que se considere delito y otra cosa es que lo sea; las sospechas y los hechos. Entonces, la constitución española tiene algo muy importante; muchísimas cosas, pero hay un artículo, el artículo veinticuatro, concretamente, donde se habla de la tutela efectiva de jueces y magistrados, y la presunción de inocencia mientras no se demuestre lo contrario. Pero hay algo también muy importante, no sólo en la Constitución española, sino reconocido internacionalmente, incluso en la declaración universal d los derechos humanos, que es la legítima defensa: el derecho a que todo ciudadano o ciudadana, por muy grave que fuera el hecho, tiene derecho a esa legítima defensa.
+H2: Bien. Eh... creo que hubo un tema que no quedó demasiado claro y me gustaría... repetirlo antes de la próxima consulta, [timbre de teléfono] eh... a ver si... Una consulta y enseguida te formulo esa pregunta, Jesús. Buenas tardes.
+H4: Hola, buenas tardes.
+H2: Dígame, señora.
+H4: Mire, s[palabra cortada]... quería consultarle al señor abogado.
+H2: Sí.
+H4: Mire, nosotros tenemos unas tierras por parte de... del abuelo de mi marido,
+H2: [solapamiento de turnos] Sí.
+H4: ... que [fin de solapamiento de turnos] ya falleció. Entonces, ahora... eh... reclamándolas, una tía de... de nosotros, por parte de mi marido, claro, pero que ya se ha muerto el marido de esta señora, y no tiene hijos. Entonces, el abogado que nos lleva esto nos dice que tiene derecho a la herencia, ¿es verdad?
+H3: [solapamiento de turnos] ¿Que tiene derecho a la herencia la tía...?
+H4: Es que no sé si me he explicado bien, claro. [fin de solapamiento de turnos]
+H3: Vamos, es que no la he en[palabra cortada]... A lo mejor se ha explicado usted bien, pero yo no la he entendido; es decir, pregunta si tiene derecho a la herencia, ¿quién directamente?
+H4: Sí, pues eh... por parte de... de... de mi marido, sus abuelos.
+H3: Sí.
+H4: Entonces, eh... a... el... el hermano de... digamos de mi suegro, que ese ha sido el que ha fallecido...
+H3: Sí.
+H4: N[palabra cortada]... no tenían hijos.
+H3: Sí.
+H4: Entonces, esta señora dice que sí que tiene derecho a esta herencia.
+H3: Bueno, pues escúchenos, si es tan amable, a través del aparato [solapamiento de turnos] [ininteligible]
+H4: Vale, [fin de solapamiento de turnos] muchas gracias.
+H2: [solapamiento de turnos] Gracias.
+H3: Los... [fin de solapamiento de turnos] los temas de testamentaría son complejos; voy a intentar ser breve, ya que sería muchísimo tiempo del que tendríamos que disponer para hablar de este tema, además tan importante. Cuando una persona fallece y ha hecho testamento, hay que cumplir la voluntad del testador. Pero si fallece y no ha hecho testamento, hay que solicitar la declaración judicial de herederos. ¿Quiénes son los herederos? Pues si esta persona no tiene ni ascendientes, es decir, ni padres, ni hijos, los herederos son los colaterales. Pero si esta persona tiene padres, es evidente que aunque no tenga hijos, son los padres. Pero si no tiene padres y tiene hijos, son los hijos. Es decir, si no hay ni padres ni hijos, los herederos son los hermanos. Si esos hermanos han fallecido, los hijos de esos hermanos tienen la parte que les correspondería a sus padres en la herencia; es decir, hacia arriba los ascendientes; hacia abajo, los hijos; ni ascendientes ni hijos, los colaterales - los hermanos-, los hermanos han fallecido, los hijos de esos hermanos.
+H2: Al hilo de esta pregunta, como complemento, eh... lo que te iba... a formular anteriormente, Jesús. El hijo primogénito, el mayor de los... de los hijos, ¿tiene alguna prebenda, algún privilegio, por encima de sus hermanos... [solapamiento de turnos] Eh...
+H3: No t[palabra cortada]... no tien[palabra cortada]... [fin de solapamiento de turnos] Perdón, perdón; dime.
+H2: ... eh... a la hora de heredar? ¿Sí o no?
+H3: No tiene por qué tener [solapamiento de turnos] ni[palabra cortada]...
+H2: Es que [fin de solapamiento de turnos] hemos tenido más preguntas [solapamiento de turnos] después de que lo explicaste.
+H3: Pues no... no... no hay... [fin de solapamiento de turnos] legalmente no hay privilegio. Es decir, afortunadamente, en nuestro país -vamos a decirlo así, en un lenguaje de entendernos- rige el principio de la autonomía de la voluntad; es decir, el testamento es un acto personalísimo. La persona decide cómo quiere que quede su situación de bienes, de derechos, eh... No sólo son los bienes inmuebles, de tierras, de... también hay derechos; también hay, incluso muchas veces, eh... seguros que se hacen a determinadas personas, beneficiarios... Si se ha hecho testamento, es evidente que son eh... las personas que se designe, respetando siempre la legalidad vigente. Pero si no se ha hecho testamento, pues en este caso concreto, serían todos los hijos. Lo que sí que es cierto es que los progenitores pueden, a cualquiera de los hijos, mejorarle; concederle el "tercio de libre mejora", el "tercio de libre disposición"...
+H2: Claro, claro.
+H3: Pero si no hay ninguna mejora, el hecho de ser primero en el tiempo, primogénito, no te da derecho por ley a que heredes más que el resto de tus hermanos,
+H2: [solapamiento de turnos] Muy bien.
+H3: ... entre [fin de solapamiento de turnos] otra razones porque la ley establece -y hoy que es el día de la Constitución- en su artículo catorce, [timbre de teléfono] la madre de las leyes, la ley de leyes, la igualdad de todos ante la ley. Entonces, sería eso [timbre de teléfono] injusto. Pero como al mismo tiempo hay que compaginar la igualdad con ese don preciado que es la libertad, el testador elige libremente y dice: "A uno de estos hijos lo quiero proteger económicamente más" o menos,
+H2: [solapamiento de turnos] Claro.
+H3: ... también [fin de solapamiento de turnos] la legislación establece causas para desheredar a los hijos: cuando ha habido malos tratos de obra, de palabra...
+H2: Sí.
+H3: También establece causas para desheredar a los cónyuges.
+H2: Deprisa... vamos a recibir la última consulta...
+H3: [solapamiento de turnos] Pues muy bien.
+H2: Buenas tardes... [fin de solapamiento de turnos]
+H5: Sí, buenas tardes...
+H2: Dígame, señora.
+H5: Mire, por favor; yo vengo... para el abogado.
+H2: Sí.
+H5: [duda] Tengo un... una casa alquilada, o tenemos, vamos, [solapamiento de turnos] [ininteligible]
+H2: Usted tiene [fin de solapamiento de turnos] una casa alquilada.
+H5: Sí, una casa alquilada; que estamos cobrando... por ella... doce mil pesetas.
+H2: Doce mil.
+H5: Una casa bastante buena.
+H2: Sí.
+H5: Bien. Pero entonces, eh... mi marido [vacilación] le dijo el otro día, cuando vino el señor a pagar, que te teníamos que subirla... tres mil pesetas más, quince mil... ¿Me oye?
+H2: Sí, sí, sí.
+H5: Y le dic[palabra cortada]... Claro, el señor dice que... que lo que marque la ley, que más no nos da. Entonces, yo quisiera que me informase cuánto es lo que le podremos cubrar[sic]... cobrar más, porque no lo sabemos.
+H2: La subida. Jesús [solapamiento de turnos] [ininteligible]
+H3: Muy bien. [fin de solapamiento de turnos]
+H2: ¿Entendido?
+H3: Muy bien; perfectamente.
+H2: Escúchenos, señora, por la radio, por la "Inter". Gracias.
+H3: Bueno, hay que distinguir, voy a ser breve, hay que distinguir lo que es la le[palabra cortada]... las[sic] contratos que se han hecho anterior a la... ese real decreto del treinta de abril de mil novecientos ochenta y cinco, lo que se conoce popularmente como "Ley Boyer" -insisto, a mí esa terminología no me gusta, pero para que lo entiendan los oyentes- y los contratos que se han hecho, digo, anterior a ese real decreto y posteriormente. Los que se han hecho anteriormente es un contrato por tiempo indefinido; los que se han hecho posteriormente es en cuanto la tiempo que se haya establecido. Tendríamos que ver cuándo se hizo ese contrato para ver, incluso, si se puede resolver ese contrato. Si no hay nada al respecto, ni incluso hay ninguna cláusula que hable de actualización, de elevar anualmente la renta, la parte propietaria no tiene derecho a elevar de por sí esa renta mensualmente.
+H2: Claro.
+H3: Es[palabra cortada]... eso es un tema importante. Ahora bien, si se ha establecido que es conforme al [siglas]IPC[fin de siglas] que i[palabra cortada]... que fije, publique el Instituto Nacional de Estadística, hay que acudir a las oficinas, si es en Madrid, aquí están, en el Paseo de la Castellana, para que le... le den el certificado y le digan: "Pues el año mil novecientos noventa y uno ha sido tanta la subida". Entonces, se aplica a la última [solapamiento de turnos] renta.
+H2: Bien. [fin de solapamiento de turnos] Abogado, muchas gracias.

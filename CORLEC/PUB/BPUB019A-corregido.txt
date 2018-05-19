@@ -1,0 +1,19 @@
+#archivo: BPUB019A
+#fecha de grabación: 22-12-91
+#fuente: televisión
+#localización: Madrid
+#términos: revista, portada, programa, tarjeta
+#H1: varón, c.45 años, presentador
+#H2: mujer, c.45 años, actriz
+#H3: mujer, c.25 años, presentadora
+#público: niños
+Público: [solapamiento de turnos] [aplausos]
+H1: Ante todo, señoras, muy buenas noches, [fin de solapamiento de turnos], pero... pero vamos a ver de que sorpresa se trata.
+H2: Pues verá, hoy Miriam, que se lleva muy bien con todo quisqui siempre que tenga menos de doce años, hará el trabajo de usted y usted hará el papel de Miriam. ¿Qué le parece?, ¿eh? ¿Os parece bien, chicos?
+Público: Sí...
+H1: Fantástico. Pues, a bien, no me queda más remedio y, además, es un placer que aceptar pues la decisión democrática de la mayoría, o sea que, señorita Miriam, cuando usted quiera, diga lo de "Diez Minutos" si es tan amable.
+H3: Por supuestísimo. Pues super[palabra cortada]... ¡qué elegante... qué elegante! [solapamiento de turnos] [extranjerismo]Jordi[fin de extranjerismo]
+H1: Ja, ja. [fin de solapamiento de turnos]
+H3: Eh... ya lo saben ustedes, pero, por si las moscas, yo se lo voy a recordar. ¡Atención! Esta revista que está aquí, ésta es la que participa hoy con nosotros. Y que además, hoy [extranjerismo]"Freixenet"[fin de extranjerismo] regala nueve millones de pesetas a través de "Diez Minutos", ¡nueve millones de pesetas!, ¿eh? Y que ésta otra es la revista de la próxima semana. ¿Han cogido ya la diferencia de portadas de que du[palabra cortada]...? Bueno, pues ya está. Y ahora decirles, por supuestísimo, que no tiren la tarjeta, que no la desintegren, que no la muerdan, que no se la coman, que la envíen a este programa. Porque así podrán venir ustedes a conocernos con todos los gastos pagados y... y con mucha alegría y mucho lujo y... y bueno, yo ya he dicho todo y ¿ahora qué?
+H2: Pues ahora, muy sencillo. Usted se pone en el lugar de don [extranjerismo]Jordi[fin de extranjerismo], don [extranjerismo]Jordi[fin de extranjerismo] se sienta ahí. Ya está. ¿Os parece bien, chicos?
+Público: Sí...

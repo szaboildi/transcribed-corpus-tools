@@ -1,0 +1,175 @@
+#archivo: EDEB010A
+#fecha de grabación: 07-05-91
+#fuente: reunión de empresa
+#localización: Madrid
+#términos: prueba, comunicación, remota, señal, satélite, válvula
+#H1: varón, ingeniero, jefe de proyecto, 40 años
+#H2: varón, ingeniero, jefe de proyecto, 34 años
+#H3: varón, ingeniero de proyecto, 28 años
+#H4: varón, ingeniero de proyecto, 32 años
+#H5: varón, ingeniero jefe de proyecto, 36 años
+#H6: varón, ingeniero de proyecto, 40 años
+#H7: varón, ingeniero de proyecto, 36 años
+#H8: varón, ingeniero de proyecto, 28 años
+#H9: varón, jefe de proyecto, 36 años
+H1: ¿Cuándo tendríais pensado vosotros lo de... [duda] "Eliop"?
+H2: [carraspeo] Bueno, nosotros habíamos pensado hacerlas el [duda]... empezarlas el veinticuatro y... [duda] y bueno, lo que pasa, yo había eh... [duda] habíamos previsto hacerlas del veinticuatro al veintiocho. Claro, si se pretende, o so[palabra cortada]... [vacilación] si las pruebas son de funcionamiento continuo, pues entonces hasta que... [duda] hasta que acaben.
+H1: Bueno, pero vosotros con una semana, ¿podemos decir que... [duda] que... que... que está liquidado el tema?
+H2: Yo entiendo que sí.
+H1: Vale, vamos a poner una semana para... [duda] para que sean... [vacilación] días, semanas exactas, ¿no?.
+H2: [afirmación].
+H1: Es decir, que "Eliop" sería de aquí hasta aquí. [ininteligible]...
+H3: [ininteligible]... Sí, yo creo que una semana... [vacilación] [ininteligible]...
+H1: Eh... [ininteligible] [extranjerismo]for[fin de extranjerismo]... [duda] [extranjerismo]for[fin de extranjerismo] [siglas]A.B.B.[fin de extranjerismo]people[extranjerismo]is[fin de extranjerismo] [extranjerismo][siglas]OK[fin de siglas][fin de extranjerismo] [ininteligible]...
+H4: [ininteligible]... de "Eliop" y la prueba de [siglas]A.B.B.[fin de extranjerismo]...
+H1: Sí.
+H4: ...la misma semana.
+H1: [afirmación]. Son las pruebas públicas, propias de la compañía. Ahora viene, ¿cuando [siglas]SAINCO[fin de siglas] necesita... [duda] hacer pruebas de comunicaciones? ¿En qué fechas?
+H5: Bueno...
+H1: Dentro de estas [siglas]F.A.T.[fin de siglas], dentro de estas [extranjerismo]F.A.T.[fin de extranjerismo].
+H5:. Den[palabra cortada]... dentro de esas [siglas]F.A.T.[fin de siglas] nosotros... los primeros días, no vamos a... [duda] a hacer, o sea, no vamos a necesitar las remotas, pero a partir... de la segunda semana ya posiblemente... [vacilación], o casi con seguridad, necesitaríamos tener... [duda] algunas remotas enganchadas con las que poder telemandar desde aquí. Otra de las pruebas que hay que hacer de... [ininteligible], tener una remota enganchada, porque... [ininteligible] ¡señales, ver que entran bien en los históricos, que entran... [duda] las alarmas correctamente!
+H1: Entonces, serían prácticamente todo el tiempo.
+H5: A partir de ahí... convendría tener, por lo menos...
+H1: Una remota.
+H5: Una remota... o un [duda], si puede ser una de cada tipo, un [duda]...
+H1: Sí, yo estoy pensando una remota de [siglas]A.B.B.[fin de siglas] y otra de "Eliop".
+H5: Efectivamente. Sería... [vacilación] porque el... [duda] el procedimiento no te... [duda] no te especifica que tengas que tener una remota... [vacilación] fulanito; o sea, te dice que pruebes con una señal analógica de una remota, la que quieras, una... [duda] Pero... [duda] pero lo ideal sería que tuviéramos una de cada tipo.
+H1: ¿Vosotros tenéis algún problema, los de "Eliop", en tener una... [duda] una remota?
+H2: Absolutamente ninguno.
+H1: [solapamiento de turnos]¿Vosotros?
+H6: De hecho, ya la tenéis, ¿no?
+H2: De hecho, ya la tenemos, pero vamos tendremos una... [vacilación] de las de verdad[fin de solapamiento de turnos].
+H1: Bueno, pues entonces, [solapamiento de turnos]por ejemplo...
+H2: Una o más[fin de solapamiento de turnos].
+H1: ¿Qué es lo que vamos a probar allí con vosotros, en las [siglas]F.A.T.(es)[fin de siglas]? Probaremos... [duda] fundamentalmente Tarragona.
+H7: Sí.
+H1: Fundamentalmente, Tarragona, ¿no?.
+H7: Tarragona y... [duda] [ininteligible]...
+H4: ¿Cómo? ¿[siglas]TA.BA.GE[fin de siglas] completo...?
+H7: El [siglas]TA.BA.GE.[fin de siglas], a nivel de que tú puedes... [duda] recibir todas las señales y... [duda] y enviar todas las órdenes de satélite...
+H4: ¿Quieres decir que tienes tres [siglas]R.T.U.S.[fin de siglas]?
+H7: Dos, dos [siglas]R.T.U.S.[fin de siglas]. Uno es redundante.
+H4: Tarragona.
+H7: Tarragona.
+H4: Vale
+H8: Que esa es Mafumet.
+H7: [ininteligible]... Tarragona... sabes que hay dos estaciones... [ininteligible] ¡Mafumet!
+H5: Dentro de esto, yo quiero hacer un comentario que... [duda] [ininteligible]... lo he dicho siempre, que... [vacilación] que sería [duda], o sea, sería interesante, seguramente pudiéramos hacer pruebas de comunicaciones con [siglas]A.B.B.[fin de siglas] antes de... [ininteligible].
+H2: ¿Antes de qué fecha?
+H8: Antes del veinticuatro.
+H5: [ininteligible] O sea, no meternos en el [siglas]F.A.T.[fin de siglas] sin haber... probado absolutamente nada...
+H3: [solapamiento de turnos]No, no claro.
+H5: porque... de hecho[fin de solapamiento de turnos] con "Eliop", pues oye, ha ido bastante bien, pero han surgido... [duda] cosas que... [vacilación] matices... [duda] del protocolo que no estaban... [duda] perfectamente especificados, o cosas que... [duda] que ellos... [duda] que habíamos entendido de distinta manera. Entonces, si pudiéramos probar algo antes, pues sería... [duda] sería muy conveniente. Yo...
+H1: ¿Cuándo... vosotros est[palabra cortada]... [vacilación] tendríais algo... [vacilación] en comunicaciones?
+H3: Yo ante[palabra cortada]... [vacilación] quería... yo, mi idea era empezar a probar con [siglas]SAINCO[fin de siglas] entre... entre la semana del quince al veintidós.
+H1: Quince, veintidós; sería fenomenal.
+H5: Sí, sería... [ininteligible] bueno, vamos a ver todo lo que podamos progresar en esa semana. Sí, pruebas de protocolo. [ininteligible]
+H5: Sería con una remota... [duda]... de verdad, o sea, una de las... [duda], por ejemplo la de Tarragona o un... [duda] Lo digo porque nosotros, para pru[palabra cortada]... [vacilación] para probar...
+H3: O sea, cuando la dices por una remota por... [vacilación] ¿para tener todas las señales...? De todo, ¿dices?
+H5: Es que... [ininteligible] perdona nosotros para... [duda] para...
+H6: Tenemos un... [duda] tenemos un tremendo problema con... [vacilación] con probar, y el problema consiste en que... [vacilación] toda la comunicación... [ininteligible]
+H1: [ininteligible]
+H6: Una semana antes, ya te digo, que una semana antes de empezar el [siglas]F.A.T.[fin de siglas] me parece un poco... [duda] absurdo.
+H3: Claro, ¿sabes mi problema con eso? Que yo... [vacilación] mientras sean señales que sólo dependen de mi [siglas]P.L.C.[fin de siglas] sí, lo que son entradas salidas; pero cuando dependa de aparatos externos que no tenga en ese momento... porque no los tengo ahí en [siglas]A.B.B.[fin de siglas]...
+H6: [vacilación] No me preocupa.
+H3: Es que estás hablando... [vacilación] tú estás hablando de muchas señales.
+H5: Yo creo que eso no importa.
+H4: Porque eso se prueba en la parte de protocolo.
+H3: Claro.
+H4: [ininteligible] un registro de tal... ese...
+H3: [onomatopeya]¡Ah![fin de onomatopeya] Yo los registros [ininteligible]... Otra cosa es que no los estoy variando porque no tengo aparatos...
+H8: Sí, sí... los registros los llenas.
+H6: No importa, no importa.
+H3: Entonces los llenas...
+H6: No me importa. Lo que sí nos gustaría es hacerlo con... [duda] con señales de verdad.
+H4: Con remotas de verdad, con remotas de verdad.
+H3: Sí, eso sí.
+H5: Es que con... [duda] con ellos hicimos... [vacilación] era una remota prototipo, que tenía de todo, mucho más grande que... [duda] que las... [duda] que las autenticas y tuvimos que generar toda la base de datos y listas, y todo específicos para esa prueba. Pero lo cómodo sería con vosotros probar con una remota que fuese, dice aquí, la de Tarragona y con las señales de Tarragona. Pues... [duda] pues eso es lo ideal, pues entonces ya no...
+H6: Luego el treinta por ciento se actualiza porque depende de un "Solartrón" que no tenéis...
+H5: Pues da igual, da igual.
+H6: Bueno, pues... [ininteligible]
+H4: Lo que sí se ve es que están llegando esos registros, con el valor que tengan.
+H3: Sí.
+H4: Me da igual.
+H7: Entonces los valores se pueden simular ahí, o sea...
+H1: ¿... [ininteligible] de las otras remotas de Barcelona y Gerona?
+H7: Sí, bueno... [ininteligible] porque tendríamos que... [duda] dedicarnos a ellas y... ver que hay, no merece, pienso yo, la pena, pero... [duda]...
+H4: ¿Para las pruebas éstas de protocolo?
+H1: No, para la pruebas de protocolo no, pero...
+H6: Yo creo que no.
+H1: ...pero para las...
+H9: [vacilación] Que... [duda] ni siquiera son [siglas]F.A.T.[fin de siglas], si te das cuenta porque vas a probar únicamente lo es comunicación con el satélite, pero te falta probar... [duda] pues todas.
+H1: [afirmación].
+H9: ¿Eh?
+H2: Hay una cosa... [duda], respecto a las [siglas]P.A.T.[fin de siglas] nuestras, por lo que veo entonces, según las estamos planteando. ¿se las haríamos de forma local, no enlazados con... [duda] no enlazados con [siglas]SAINCO[fin de siglas]?
+H1: Al principio, del veinticuatro al uno de junio, localmente; después, del ocho al dos de agosto, tendríais ahí una remota...
+H2: [ininteligible]...Que realmente, una de las cosas que yo creo que habría que probar en las [siglas]F.A.T.[fin de siglas], vamos [duda] es... [vacilación] es la... [duda] bueno, pues por ejemplo... [vacilación] lo... [vacilación] algunos temas [duda] que quedaron... [duda] que quedaron pendientes para probarse en las [siglas]F.A.T.[fin de siglas], como son los temas de la señal esa de fallo de módulo, que se... [duda]
+H1: Sí.
+H2: ...que se introduce [duda], el cambio de velocidad...
+H1: Sí.
+H2: ...en fin, ese... [duda] ese tipo de cosas porque sino las [siglas]F.A.T.[fin de siglas] que vamos a hacer nosotros, pueden ser... [duda] a nivel local, es ver que... [vacilación] que el armario está hecho de... [solapamiento de turnos] [ininteligible]...
+H1: [ininteligible][fin de solapamiento de turnos]...
+H2: Y comprobar... [vacilación] y comprobar con el... [duda] con un [siglas]P.C.[fin de siglas] que realmente ahí las señales están y esas cosas. O sea, serían entonces unas [siglas]F.A.T.[fin de siglas] muy sencillas.
+H1: Muy sencillas. Y después lo que pasa que claro, para después engancharme con [siglas]SAINCO[fin de siglas] necesito... [duda] decirlo donde esté [siglas]SAINCO[fin de siglas] disponible...
+H2: Claro.
+H1: ...por decirlo de alguna manera.
+H2: Entonces, hay una cosa, yo necesitaría... [vacilación] me parece bien, a nivel de organigrama nuestro aquí ahora programar estas [siglas]F.A.T.[fin de siglas] así, pero estas [siglas]F.A.T.[fin de siglas]... [duda] bueno, para mí son unas [siglas]F.A.T.[fin de siglas] muy sencillas...
+H1: [solapamiento de turnos]Vale.
+H2: ...que yo podré hacer[fin de solapamiento de turnos] de cualquier forma, pero lo que sí necesito programar, porque para eso necesito el concurso, como cuando hemos hecho las pruebas, en concurso de la gente de desarrollo de [siglas]I.[fin de siglas] más [siglas]D.[fin de siglas], que tiene que estar pendiente del... [duda] del tema, necesito programar cuándo vamos a poder hacer unas [siglas]F.A.T.[fin de siglas] reales de... [duda] con enlace, contra... [duda] contra un punto de control.
+H1: Sí, a partir del ocho del... ocho de julio.
+H2: ¿A partir del ocho?
+H1: Sí.
+H2: O sea, ¿esa semana sería posible hacerlas? [ininteligible]...
+H5: Tendríamos que programar un momento concreto, porque... [vacilación] va a ser... [duda] va a ser un... [duda]... digamos un...
+H4: [solapamiento de turnos]Objeto de duda.
+H5: ...objeto[fin de solapamiento de turnos], un paréntesis... [ininteligible] Lo que pasa es que nosotros vamos a estar... [vacilación] trabajando contra un procedimiento nuestro, o sea de pruebas... [vacilación]... Y... [duda] y entonces para hacer este tipo de [duda] de pruebas pues tenemos que hacer un inciso, o sea, un día dedicarlo... el día que se programe, yo creo que no pasa nada porque programemos un día o una... [duda] o una tarde, o... [duda] o algo en un momento determinado para hacer esas pruebas que... [duda] que ellos necesitan... y que requieren de nuestro... [duda].
+H1: [solapamiento de turnos]Ya.
+H5: ...de nuestro concurso[fin de solapamiento de turnos], pero...
+H1: Ya, ya... Tú imagínate que desde el ocho al... [duda] al dos de agosto, desde el ocho de julio al dos de agosto, bueno, pues estáis... [duda] estuviese disponible vuestra remota allí en... [duda] en vuestra empresa, ¿no?.
+H2: [afirmación].
+H1: ¿Qué problemas habría de que fuera un día o que fuera otro día?
+H2: Bueno, el problema es disponer de un recurso que esté atento a eso, porque claro... yo tengo [risas] la remota puesta y se prueba, y se puede probar perfectamente. Ahora bien, si... [duda] la prueba, como puede ocurrir y...
+H1: [solapamiento de turnos]Sí.
+H2: ...de hecho ha ocurrido[fin de solapamiento de turnos], pues a lo mejor una prueba hay una cosa que... [duda] que parece que falla o... [vacilación] y... ahí alguien tiene que discernir realmente [duda] poder, poder mirar qué es lo que estamos haciendo, si lo estamos enviando bien o mal, si falla algo, si no falla nada...
+H1: Ya.
+H2: Es alguien... [duda] alguien debe estar, debe estar atento a la prueba.
+H1: Yo creo que lo que me estás diciendo que te concrete más este tiempo desde el ocho al dos de agosto exactamente.
+H2: Claro. Para... [vacilación] para...
+H4: [ininteligible] Lo que quiere decir es que a lo mejor ese día están todos de vacaciones.
+H1: [solapamiento de turnos]No, no, no.
+H2: ¿Eh?[fin de solapamiento de turnos].
+H4: Que a lo mejor ese día estáis todos de vacaciones.
+H2: No, hasta... [duda] hasta agosto, hasta agosto... el dos de agosto no me las pongas, que probablemente estemos de vacaciones [ininteligible].
+H4: Es decir que hay una persona allí, explícitamente dedicada a eso.
+H2: Claro.
+H5: Vosotros cualquier día, o sea, la [extranjerismo]test[fin de extranjerismo] es una prueba que necesitan [vacilación] hacer ellos para... [duda] digamos para... para quedarse a gusto de que el... [duda]...
+H2: Claro, de que la comunicación es buena y que es un sistema aceptable.
+H1: Bueno pues entonces el... [duda] día.
+H5: Te ponemos un día y ya está.
+H2: Le ponemos un día.
+H1: El día ocho.
+H2: ¿El día ocho?
+H1: El día ocho para probar exactamente... [duda] y después les dejáis la remota.
+H2: Mira, la remota se queda puesta por supuesto.
+H1: Exactamente.
+H8: Lo que os falta es poquito, ¿no?
+H2: Sí, sí.
+H8: Probar ¿sabes?
+H2: No, no falta muy... [duda] muy poco, pero vamos, es con... [vacilación] es probar para que luego las pongamos en campo...
+H8: Ya.
+H2: ...estén en garantía.
+H5: ¿Que... qué eran qué cosas eran en concreto? Era... el tema de la señal ésta que se ha incluido... [duda] de...?
+H4: Fallo de módulo.
+H1: Sí, fallo de módulo.
+H2: Bueno y además, además la prueba la haremos ya... [duda] con una remota... con una remota real, o sea, con la configuración real de... [duda]...
+H1: [afirmación].
+H2: ...la configuración real de [siglas]CAMPSA[fin de siglas].
+H6: Me gustaría que fuera la válvula de línea ochocientos siete.
+H2: ¿La ochocientos siete en particular?
+H5: [risas] No, no.
+H2: [risas] Es... es igual porque son todas iguales.
+H6: No, pero te digo, me gustaría que fuera la válvula de línea... equis.
+H2: Sí, sí, sí...
+H1: Bueno...
+H2: ... exactamente eso va a ser.
+H1: Pasemos entonces al... [duda] al siguiente tema. [continuación de la grabación]

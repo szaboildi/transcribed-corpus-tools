@@ -1,0 +1,84 @@
+#archivo: cedu020a
+#fecha de grabación: 25-3-91
+#fuente: clase de Matemáticas de nivel séptimo de EGB en un colegio nacional
+#localización: Segovia
+#términos: matemáticas, ejercicio
+#H1: profesora. Mujer, c. 30 años
+#H2: varón c. 12 años
+#H3: varón c. 12 años
+#H4: varón c. 12 años
+#H5: mujer c. 12 años
+#H6: varón c. 12 años
+#H7: mujer c. 12 años
+#H8: varón c. 12 años
+#H9: varón c. 12 años
+#H10: varón c. 12 años
+#H11: varón c. 12 años
+#no identificado: uno de los alumnos
+#todos: alumnos
+H1: Había que hacer el tres, ¿no? el dos y el tres acaso.
+Todos: No sólo el tres. El tres.
+Hablante no identificado: El tres. Y otro que no hemos corregido.
+H1: Fernando Marcos ¿tampoco?
+H2: El tres y uno que no habíamos corregido, ¿no?
+H1: [interrogación]
+H3: El tres y uno que no había corregido, dice. [silencio]
+H1: ¿Cuál era el que no habíamos corregido?
+H2: Uno que nos dictaste, ¿no? [silencio]
+H1: César ¿le has hecho?
+H4: Yo sí. [silencio]
+H1: ¿Juan Carlos le has hecho?
+H5: Sí.
+H1: Sara ¿y tú?
+H6: Sí.
+H1: ¿Me los enseñáis? [silencio] Fernando, ¿cuál es el que yo he dictado que dices tú?
+H2: Nada, nada, nada. Era uno que yo tenía.
+H1: ¿Y quién no le ha hecho? [ininteligible] [silencio] Javier, ¿me enseñas el cuaderno? Javier y Fernando. [silencio] ¿Por qué no le has hecho? ¿No has tenido tiempo en todo el fin de semana? [silencio] [ruido] Arancha . Lo está haciendo. Arancha lo está haciendo. Te puedes sentar Juan Carlos. Alberto.
+H7: La mitad, o sea... Lo del cuatro x.
+H1: O sea que... lo has hecho ahora.
+H7: No. [silencio]
+H1: Fernando. [silencio]
+H2: No sabía que era el tercero también.
+H1: Con que os mando un ejercicio en todo el fin de semana y ni eso lo hacéis. Belén.
+H8: No lo tengo hecho.
+H1: ¿No lo tienes hecho? ¿Por qué? ¿Razón?
+H8: Es que no... no sabía que...
+H1: ¿No sabías que había que hacerle?
+H8: Pero es que no... [ininteligible]
+H1: Pero, no es que no supieras que había que hacerle, ¿no? Y eso que solamente dije que con tres valores bastaba. [silencio] A ver, ¿alguien más no lo ha hecho o tengo que pillarle? [silencio] ¿Alguien más? [silencio] ¿Hay alguien más? Como pille yo a alguno que le falta... le falte... le pongo dos ceros no uno. ¿Alberto, tú?
+H7: Yo ya he levantado la mano.
+H1: Pero la has levantado a la segunda y no después cuando yo he dicho eso. ¡Señor! pongo los exámenes fáciles y luego tengo que poner por un ejercicio un montón de ceros. [silencio] Bueno, la gente que no le tiene hecho prácticamente que le haga ahora. Ahora, ahora mismo. La pregunta era ¿César? que qué recta se aproxima más al eje de ordenadas.
+H4: La primera.
+H1: No. Cuál se aproxima más. [silencio] ¿Cuál es el eje de ordenadas?
+H4: Éste.
+H1: No. Ese es el de abcisas. Ese es el de orde[palabra cortada] el de ordenadas, ¿no? ¿Qué recta de las dos que tú has trazado está más cerca del eje de ordenadas? [silencio]
+H1: La roja. ¿No? Si lo pudiéramos ver así, a las dos, ¿cuál llegaría antes, la roja o la blanca? La roja llegaría antes, ¿no? En cambio, ¿cuál estaría... ? si nos preguntaran que cuál está más cerca del eje de abcisas sería la blanca, ¿eh? Está más cerca de este lado que la otra. Vale. O sea, sería la recta, si no me equivoco, y es igual a tres x. ¿Vale? Y tenemos otro más que corregir creo.
+H4: Sí. [silencio]
+H1: Jerónimo ¿éste tampoco? Pues uno de los dos, yo creo, estaba hecho en clase.
+Todos:Sí.
+H9: ¡Ah! [ininteligible]
+H1: ¿Qué? [silencio].
+H9: Es que yo tengo el cuaderno de sucio. Le hice aquí. Luego cuando le pase a limpio.[ininteligible]
+H1: ¿Y el cuaderno de limpio dónde le tienes ahora mismo, en casa? [silencio] Pues seguro [ininteligible] que no tienes ningún cuaderno de limpio.
+H9: Si. [silencio]
+H1: Vale. Me le traes mañana. A ver si existe ese famoso cuaderno. [ruido]
+H1: Lo habéis hecho con los valores, con los otros [ininteligible]luego sacamos dos ejercicios [ininteligible] [ruido]
+H10: Si ponemos los dos [ininteligible]
+H1: Es que el ejercicio, te dan los valores... para una función que es dos x más cuatro. Tienes que averiguarlo para el punto l,m,n y q con esos...
+H11: Con esos ....
+H1: Entonces como tú has dicho eso y a lo mejor lo ha hecho otra gente también, podemos hacerlo así y luego de otra manera. ¿Vale? [ininteligible]
+H7: El número de delante, el número de delante.
+H1: ¿Está el punto p , que es el par dos seis en el gráfico de la función f de x igual a dos x más cuatro? Entonces el punto dos se represen[palabra cortada], se pone aquí, sustituye por la x, dos por dos , se coge el primero, el paréntesis [ininteligible] ¿Me dejas que te lo cuente? Además viene ahí el ejemplo. Se cogen dos, dos por dos cuatro, ¿no? Pero cuatro y cuatro son ocho, o sea, ese sería el par dos ocho no el dos seis, ¿vale? [silencio] ¿Sí o no? Vamos a ver, ¿Cuál es la función que nos sale?
+H2: F de x igual a dos x más cuatro.
+H1: F de x igual a dos x más cuatro, ¿no? Y nos dan el par dos seis. Nos dan el par dos seis, vamos a ver, si yo aquí [ininteligible] a éste, le doy el valor dos [ininteligible] ¿Cuántas veces lo hemos hecho x es igual a no sé qué? [ininteligible] [ruido] x e y [ininteligible] el valor dos [ininteligible] de la y [ruido] Esto no es cierto. El dos seis. El dos seis para esta función es el correcto porque es el dos ocho. A ver, o no. Entonces dicen, eh... es distinto de seis el punto p dos, p dos seis no está en el gráfico, ¿vale? No puede estar, por esa función, no puede ser. Para que esto fuera verdad habría que poner nuestro ejemplo, dos x más dos. Sí que sería dos seis, ¿no es correcto? aquí dos seis. [silencio] [ininteligible]
+H9: Entonces cogemos siempre el pri[palabra cortada] el primer número de cada par.
+H1: Claro, el primer número porque el segundo es el resultado de hacerlo ya.
+H9: Con el eje de ordenadas [ininteligible] aquí. Sin eje solo... sin eje solo...
+H1: Venga sin ejes si.
+H9: Porque si no...
+H1: Si no... [ininteligible]
+H9: Salen dieciocho.....
+H1: Que sí. [silencio]
+H1: ¿Dieciocho? ¿Dónde ves tú el dieciocho?
+H11: [ininteligible]
+H1: No pero sin darles sus valores, simplemente si eso [ininteligible] abajo son ciertos o no lo son. [silencio] [ininteligible] ejercicio [ininteligible] pero no lo habéis mirado.

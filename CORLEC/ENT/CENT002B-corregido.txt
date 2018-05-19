@@ -1,0 +1,77 @@
+#archivo: cent002b
+#fecha de grabación: 30-1-91
+#fuente: televisión, Antena 3. Programa "De tú a tú"
+#localización: Madrid
+#términos: cantante, Guerra del Golfo, amor, impuesto
+#H1: mujer, c. 40 años, presentadora
+#H2: mujer, c. 25 años, periodista
+#H3: varón, c. 45 años, cantante
+#H4: varón, c. 25 años, periodista
+#H5: varón, c. 25 años, periodista
+#H6: mujer, c. 25 años, periodista
+#H7: varón, c. 25 años, periodista
+#H8: varón, c. 25 años, periodista
+#H9: mujer, c. 25 años, periodista
+#H10: voz de fondo, masculina
+#no identificado: un periodista
+H1:... ¿el primero con cuál? Blanca.
+H2:El primero es la política y la economía. Y... y como todo el mundo está pendiente de la Guerra del Golfo y aunque el tema no le gustaba demasiado...
+H1:¿No le gustaba demasiado?
+H2:Dijo que sabía... se había preparado la pregunta porque sabía que se lo íbamos a preguntar, que era la última vez que la contestaba y que él era cantante y no político y que no le gustaba hablar del tema, pero como humano tenía que contestarla y la contestó. Y en ese mismo bloque, hemos incluido, la economía, le preguntaron por los impuestos, si declaraba sus impuestos y dijo que sí,que los declaraba todos aunque le parecían un poco altos, en España.
+H1:[afirmación] Pues vamos a empezar con las respuestas de Julio Iglesias, hablándonos del Golfo pérsico.
+H3:Es evidente que... que para mí en estos momentos existen dos... tres tipos de guerra, la guerra que [silencio] Por supuesto, he pensado mucho en ésta pregunta porque sé que me la iban a preguntar, la guerra que tienen los políticos, que es la guerra exacta, es la guerra que sale de ellos, que conocen profundamente, que nosotros en el fondo casi desconocemos, la guerra fundamental, que es la que tienen las familias, que tienen a sus hijos y los soldados que están en, en el frente en estos momentos, que es la guerra emocional, la guerra auténtica, porque son los que sufren de verdad, y después está, eh... nuestra opinión, cuando encendemos la televisión y vemos veinticuatro horas seguidas, cómo los aviones se cargan de bombas, vamos, las descargan, cómo se tiran tiros y lo que vivimos como si fuera una película. [silencio] Desgraciadamente, nosotros no somos un país, justamente, que hemos estado apartado de las guerras. Nuestra vida ancestral, ya por... por siglos, ha sido una... una continua guerra, ¿no? De hecho hemos tenido una de las peores. [silencio] Hace poco, incluso, para... hace poco pueden ser cuarenta años. Y es evidente que nadie, [silencio] quiere esta guerra, [silencio] pero que estamos en ella. Y estamos en ella con todas sus consecuencias. Y digo estar con todas sus consecuencias porque es la opinión y la aliación política de nuestro presidente, que es el presidente que hemos votado nosotros... en las urnas. Si me preguntas concretamente qué es lo que pienso de la guerra te digo que... nadie de buena voluntad quiere una guerra.
+H4:Has comentado que cantas en Alemania, ¿no temes que pueda haber un atentado debido a que Alemania apoya un poco, eh... la [ininteligible] de... bueno, el ataque a Irak?
+H3:Por amor de Dios, yo no... yo no tengo miedo a nada en la vida, no ten[palabra cortada]... no tengo miedo a nada en la vida más que a la muerte. La muerte va a llegar cuando tenga que llegar, pero no te[palabra cortada]... si tuviera miedo yo en estos momentos, me hubiera quedad parado en el siglo diecisiete. Yo no tengo miedo ni lo tiene mi padre que está ahí.
+H5:¿Miedo a envejecer tampoco?
+H3:A eso sí tengo miedo, mira.
+Hablante no identificado: ¿A qué?
+Hablante no identificado: ¿A qué?
+H3:A estar viejo ¿no? Pero mientras tenga las piernas rápidas, que a uno ya le van fallando un poquillo, pues estoy bien. Es evidente que [ininteligible] más viejo. Y me cuido, ¿eh? me cuido. No bebo vino más que diez veces al día. He pagado todos mis impuestos en España, físicos y afísicos. O sea que... pero no. No es exactamente... ¿estáis contentos vosotros? [risa]
+H6:Una pregunta que le hago yo a Julio Iglesias y que me gustaría que contestaras.
+H3:Pues, la verdad que... que... no sé. [vacilación] Me parece que pagáis demasiado, ¿no? [risa] Yo no pagaría tanto. [silencio]
+H1:Bueno pues ahí tenemos a Julio Iglesias, hablando, pues así, como él, sin... pelos en la lengua. Dice que su único miedo, ya lo han escuchado ustedes, no tiene miedo a que le ocurra nada en Alemania, ni en ningún país que está visitando estos días, sino que su miedo auténtico es a envejecer. Vamos con otro de las... de los bloques que hemos seleccionado para todos ustedes. Él ya saben que perteneció al Real Madrid en sus años mozos y que también salió el tema del Real Madrid.
+H2:[afirmación] Él se hizo firmemente partidario de Mendoza y otra de las preguntas que hemos seleccionado es el gol que más le ha dolido como portero del Real Madrid que fue y como persona. Y eso también nos lo contesta.
+H1:Por lo que veo, ayer a... a Julio Iglesias se le sometió a toda la actualidad ahora mismo, del mundo y de España.
+H2:A toda, a toda, a toda. Y estaba puesto, ¿eh?
+H1:Pues, vamos con la actualidad deportiva: el Real Madrid.
+H7:Sabemos que eres madrilista, como quien dice,
+H3:Sí.
+H8:hasta la médula. Eh... ¿sabes la crisis que está pasando ahora el Madrid?
+H3:Sí.
+H7:¿Te presentarías presidente si...?
+H3:Ramón Mendoza es el mejor presidente del Madrid, de manera que... hay que equivocarse.
+H7:Y, como portero de fútbol, ¿qué gol de los que te han metido te ha dolido más en los últimos diez años?
+H3:Todo lo que afecta emocionalmente a mi familia y no es verdad. [silencio] Todas las demás críticas profesionales, siempre han sido... o sea todos los que me han criticado a ellos les he aplaudido porque de ellos he aprendido y gracias a las críticas sigo vigente. De hecho, sin las críticas, ¿qué hubiera pasado en mi vida?
+H1:Pues ahí han visto ustedes su postura absolutamente al lado de Ramón Mendoza. Vamos con otro de los bloques, quizás el que más morbo despuerta... despierta, siempre que Julio Iglesias aparece en cualquier lugar del mundo: el amor. El amor, Blanca.
+H2:Pues sí, parece u[palabra cortada]... una constante que siempre los españoles tratemos de buscarle una novia. Pero él dice que no le importaría casarse pero que de momento no hay nadie que... que le quiera. Y luego otro tema que se trató también fue el de su hija Chabeli, si le gustaba su matrimonio. Él lo dejaba todo a la libertad de su hija y... y dijo que ella era muy libre de hacer lo que quisiera aunque sí le gustaría que le diera un nieto.
+H1:Eso del nieto se lo preguntaste tú.
+H2:Sí, sí, sí.
+H1:Pues vamos a ver las respuestas con respecto al tema del amor. Hoy vamos a hablar mucho de amor en este programa.
+H3:No me he casado porque no ha surgido oportunidad ni para ella ni para mí. Pero no estoy en contra del matrimonio. Sobre todo el ca[palabra cortada]... matrimonio a corto plazo me encanta. [risa]
+H8:Vaitiare, Vaitiare ¿está otra vez muy cerca de ti, Vaitiare?
+H3:Pues Vaitiare siempre ha estado cerca de mí. [vacilación] Yo siempre he estado cerca de Vaitiare, es una amiga entrañable. Ahora ha estado en París, por cierto, estos días.
+H8:[ininteligible] Estuvisteis apartados y ahora veo que estáis mucho [ininteligible].
+H3:No. No siempre he sido... siempre he sido muy amigo de Vaitiare. Está más guapa que nunca Vaitiare.
+H8:Al principio habías anunciado que te casarías con ella incluso.
+H3:No, eso lo anunciasteis vosotros. [risa]
+H9:¿Te sientes utilizado por las mujeres?
+H3:¿Me siento utilizado? Me encantan las mujeres. Me encantan las mujeres. Quiera el cielo que uno envejezca, pero me gustan las mujeres desde que era pequeñito. Desde que tenía cuatro cinco años, ya empezaba a mirar las piernas a las chicas, pero siempre me han gustado las mujeres. Ayer, antes de ayer, me preguntaba la televisión francesa, ¿qué me preguntaban? me preguntaban que por qué me gustaban tanto las mujeres y yo les contestaba que... que me gustan desde... desde siempre y además me gustan de verdad. Que si hubiera sido un poco maricón pues sería el más grande maricón de todos, pero, me gustan las mujeres. Aunque no ando muy bien ahora, de cintura para bajo yo. [silencio]
+H10:¿Será por el agua? [risa]
+H3:Ando mal, ando mal, ando mal. Pero me defiendo ¿eh? me defiendo ¿eh? me defiendo. Si. [silencio] Me defiendo. Más tiempo, necesito más tiempo.
+H9:¿Con ayuda, quiero decirte...? [risa]
+H3:Con la cabeza, con la cabeza. La cabeza... la cabeza es importantísima en vida, ¡uf! la cabeza me ayuda...
+H9:¿Te tomas algún estimulante o algo de eso...?
+H3:No,no,no. Me pongo, me pongo la máquina, empiezo a pensar, a pensar, a pensar, a pensar, a pensar, a pensar y... y me voy a otra galaxia.
+H2:¿Qué vas a ... que te gustaría ser padre y abuelo a la vez? ¿Significa eso que has encontrado ya la mujer de tu vida?
+H3:No, no, no, no he encontrado, no, no. Me gustaría ser abuelo [silencio] Voy a ser abuelo, de todas maneras, lógicamente, voy a ser abuelo, no sé si dentro de... de poco, o dentro de mucho. Voy a ser abuelo. Y... ¿me gustaría ser padre? Yo no sé si puedo, ya ser padre, la verdad. Ojalá que pueda. Pero ¿por qué no? Si... uno... uno nunca está... al margen de esa oportunidad, si... si emocionalmente surge esa oportunidad... además no es solamente una respuesta de una persona sino de dos personas, ¿por qué no ser padre?
+H1:Pues ahí han escuchado ustedes, aquí nos hemos reído mucho cuando ha hecho determinadas declaraciones. Sobre todo cuando él ha dicho así con toda naturalidad que él anda mal de cintura para abajo. Lo dice Julio Iglesias. Bueno, nosotros seguimos. Vamos a hablar de creencias ¿no? Blanca.
+H2:Sí, porque... otro de los temas que más preocupaban a todo el mundo, era, en qué cree un hombre que lo tiene todo. Y a parte de creer en los niños, que es lo que más recalcó, que [siglas]UNICEF[fin de siglas] le había devuelto la ilusión a un hombre que parece ser que lo tiene todo, pues él nos hizo también unas declaraciones de lo que creía él, a parte de... pues la caridad y la beneficencia que es a lo que ha dedicado gran parte de sus conciertos ahora.
+H1:[afirmación] Pues vamos a escucharlo también.
+H3:Yo creo en las gentes que aprenden, creo en las gentes... que continuamente están en evolución, las gentes que descubren nuevos colores. La parte del color es una parte importante de la vida, sobre todo las gentes que se renuevan. Creo en las gentes que aman profundamente lo que hacen. Creo en la igualdad de los doctores, como digo yo, la igualdad de la medicina y la igualdad de la educación. Y lo demás, cada uno es libre de hacer lo que quiera.
+H1:Pues ahí lo dejamos. Fue una hora larga, intensa de preguntas y respuestas. El hombre que estaba como centro de atención era la estrella, Julio Iglesias. Pues, bien, vamos a hacer un resumen ya, eh... con todo lo que... tu experiencia, después de esa larga hora... ¿Cómo viste a Julio Iglesias?
+H2:Yo le vi con menos pelo, muy moreno, eh... y muy listo porque le hacían preguntas con doble sentido, eh... preguntas comprometidas y se defendió bien.
+H1:Y se defendió bien.
+H2:Y se defendió bien.
+H1:¿Dónde está ahora mismo...? a estas horas de la mañana, cuando son ya las diez y media pasadas, una hora menos en Canarias, ¿dónde está Julio Iglesias?
+H2:Pues ayer, después de salir de aquí, cenaba con su padre y se iba a Alemania. Me imagino que habrá llegado ya, y tenía esta tarde un concierto para irse luego a Australia, donde tenía otro,
+H1:Por cierto, que ayer estuvo Julio Iglesias con José María Carrascal aquí en Antena 3 y le verán ustedes el próximo Martes también con Encarna, Encarna Sánchez. Así que nosotros vamos a hacer una cosa, ¿qué les parece si nos despedimos escuchando cantar a Julio iglesias ese [extranjerismo]"I can't help falling in Love"[fin de extranjerismo] que por cierto, empezó cantándonoslo también , especialmente para "De tú a tú". Vamos a escucharle.

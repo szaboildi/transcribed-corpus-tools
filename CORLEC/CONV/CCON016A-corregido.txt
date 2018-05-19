@@ -1,0 +1,172 @@
+#archivo: ccon016a
+#fecha de grabación: 15-1-91
+#fuente: Conversación entre amigos en un colegio mayor durante la cena
+#localización: Madrid
+#términos: calefacción, ordenador, Guerra del Golfo, tráfico, metro,
+#H1: mujer de 23 años, licenciada en Sociología. Procedente de Segovia
+#H2: mujer de 23 años, licenciada en Filología. Procedente de Segovia
+#H3: mujer de 24 años, estudiante de 5 de Bellas Artes. Procedente de Ciudad Real
+#H4: varón de 23 años, estudiante del último curso de Ingeniería de Telecomunicación. Procedente de Granada. Hermano de H5
+#H5: varón de 21 años, estudiante de penúltimo curso de Ingeniería de Telecomunicación. Procedente de Granada
+H1: ¿Tú es que habías quedado con él o algo aparte? No, ¿no?
+H2: No. A [solapamiento de turnos] mí
+H1: No. [fin de solapamiento de turnos]
+H2: me ha llamado Antonio [solapamiento de turnos] para decirme
+H1: Sí. [fin de solapamiento de turnos]
+H2: que no había.
+H1: Sí, entonces yo... a mí me ha llamado ¿no? entonces como esperaba llamada digo pues si subo de... si subo y tal, digo pues me voy a bajar abajo y si no te localizo, digo, te llamo desde abajo y si no para decirte que bajamos a y media. Total que vo[palabra cortada] estoy abajo ¿no?, bueno, a todo esto ya sabes que Antonio cuando tiene más de una llamada se pone nervioso, tarda media hora en ponerte. Y a mí lo que más me hierve la sangre porque es que eso, es una lástima pero bueno, es que no puede ser. [ruido][ininteligible] [silencio] [interrupción de la grabación] Total que mira, luego llaman a Nicolás y yo pensando... total que le ha dicho: " Bueno pues bájate porque te tengo que dar una foto[palabra cortada] una copia" ¿no? bueno pues ha baja[palabra cortada]
+H2: ¿Una?
+H1: Una copia, una... un libro, una fotocopia que le había hecho a Nicolás, no sé qué. Total que se ha bajado. [silencio] Total que llaman por teléfono y es que ya le había dado la copia, o sea, simplemente estaba hablando con Nicolás y ¡no cogía la llamada tía! ¡no cogía la llamada! O sea ha esperado a acabar de hablar con Nicolás, lo que había empezado, ha tardado su minuto y luego ya ha cogido la llamada.
+H2: [solapamiento de turnos] ¿Y qué me dices a mí?
+H1: O sea me pone histérica [fin de solapamiento de turnos]
+H2: ¡Hola!
+H1: Buenas noches.
+H3: ¿Sabíais que se ha anulado la...[solapamiento de turnos] la reunión?
+H2: No [fin de solapamiento de turnos]. Lo acabamos de saber, vamos.
+H1: Va a tener un niño José Andrés ¿no?
+H2: Fíjate, oye, es que me ha llamado a mí Antonio para decirme que anulaba la reunión y a los veinticinco minutos o así ha subido vuestro hermano Luis a decirme que... que le acababa de decir el portero que me dijera que no había reunión [risa]. Digo...
+H3: Joder como te tratan ¿eh?
+H2: Digo no, no, me enteraré bien, desde luego. [silencio] Oye, tendremos, tendremos que esperar porque se anulado la reunión ¿eh?
+H4: Me imagino que con todo este follón hay para rato.
+H5: ¿En tu pasillo hay calefacción?
+H2: Sí, [solapamiento de turnos] bueno justo a[palabra cortada] justo ahora,
+H5: ¿y fuerte, bien o... [fin de solapamiento de turnos]
+H2: está quitada. Oye yo lo que estoy harta es el agua. Últimamente me voy a las duchas de Enrique porque es el único sitio donde sale agua caliente. En... en mi pasillo sale... frío templadillo vamos cuando lo dejas mucho rato.
+H5: Arriba en el tercero, lo de la calefacción, [silencio] nada pues yo qué sé, agua templadilla, es lo que pasa por allí. [silencio]
+H4: ¿No has oído las noticias?
+H2: No, ¿por qué?
+H4: Nada, eh... se va a liar ¿eh?
+H2: ¿Sí? [silencio] ¿Qué es lo último que has oído?
+H4: Pues nada los iraquíes eh... los que pueden se van al extranjero y los otros se van al Norte ¿no? y [silencio] éste el rey de Jordania. A...
+H2: [extranjerismo]Arafat[fin de extranjerismo]
+H5: No, el rey [extranjerismo]Hussein[fin de extranjerismo]
+H4: el rey [extranjerismo]Hussein[fin de extranjerismo]
+H2: Ah, [extranjerismo]Hussein[fin de extranjerismo] de Jordania.
+H4: ha hecho un llamamiento en la radio y eso que... o sea, como diciendo que... se va a liar. [silencio]
+H5: Pero el Papa lo va a arreglar todo.
+H2:[risa] Sí, sí.
+H5:Ha dicho que a las seis de la mañana, cuando... cuando sea la hora, va a estar levantado y rezando mucho.
+H2:¿Lo ha dicho?
+H5:Lo han dicho en las noticias.
+H2:Bueno, si ese hombre debe confiar que todo se arregla así. [silencio] Porque vamos. [silencio]
+H5:¿Has hablado con Enrique para lo del ordenador?
+H2:No.
+H5:¿Qué vas a hacer?, ¿Te vas a traer el tuyo?
+H2:Sí. [silencio]
+H5:¿Y dónde lo vas a meter?
+H2:[risa] [silencio] Pues nada.
+H5:¿Lo vas a llevar al piso de tu novio?
+H2:No, no. Si lo necesito aquí porque necesito muchas... estar muchas horas diarias, o sea que... [silencio] [interrupción de la grabación]
+H2: ¡Ah! que ya me ha dicho Chema que lo del aparatito ese que necesita entre cuarenta y sesenta micro[palabra cortada], microprocesadores Z Ochenta. O sea que vamos que no es cosa de hacerla así.
+H4:Ya te dije yo [solapamiento de turnos] que eso no era...
+H2:Es que yo soy muy ingenua [fin de solapamiento de turnos] y me lo había creído.
+H5:Hombre. La esperanza es lo último que se pierde. [silencio]
+H1:La verdad es que deberíamos proveernos de alimento. No porque vaya a pasar algo, sino porque como sigamos así no podemos ir a comprarlo, ¿eh?
+H2:[solapamiento de turnos] Exactamente.
+H1:No porque no haya [fin de solapamiento de turnos] [silencio]. No si es que entorpece muchísimo. Hoy había unas colas de autobús, en las paradas.
+H4:He tardado hora y media en venir desde la escuela hasta aquí.
+H2:¡Hora y media! ¿Y en qué has venido?
+H4:En F hasta Cuatro Caminos y en Cuatro Caminos he cogido el ciento veinticuatro.
+H2:Y ese es el que ha tardado, ¿no? sobre todo cerca de Plaza Castilla.
+H4:El F fue inmediato. Fue diez minutos. Pero el otro ha tardado hasta aquí...
+H2:Si yo he cogido el Ciento cuarenta y siete, desde San Bernardo, y al principio paraba pero en La Castellana es que no ha parado a coger gente en ninguna. Eso es lo malo que... cuando ves que no... que no para eso es que es desesperante.
+H1:Pero bueno en La Castellana ves que tienes muchos.
+H2:Sí ya, pero... [silencio]
+H4:En Cuatro Caminos también tienes muchos, tienes el Ciento Veinticuatro el [ininteligible] Pero como estaba aquello de gente, te pones en una cola y te y si ves otro ya sabes que te toca estar el último, vamos.
+H1:Anda que ahora que estás diciendo eso os voy a pegar una guantada, ¿qué es eso de que el metro viejo que valía menos no entra?
+H2:Pues te lo digo en serio a mí me ha pasado.
+H1:Jolín, llego yo como una pazguata; en vez de meterlo, llego a la taquilla y digo... digo, claro, para que me lo cambiaran, y me dicen: "¿qué pasa es que no te entra?" Digo: "Ay no, no. Perdone que no lo he pasado". Lo paso y me ha entrado, lo vuelvo a pasar en Ríos Rosas y me ha entrado el viejo, vamos, y como Dios manda.
+H5:En el metro sí porque además es igual.
+H1:Me ha dicho Carmen esta [solapamiento de turnos] mediodía que no, que ella lo tuvo que cambiar.
+H2:Pues te digo yo que a mí no [fin de solapamiento de turnos] pero el bono transporte. O sea el billete de metro, el billetito del bono transporte.
+H1:Ya.
+H2:Ese no me pasaba. Entonces yo fui a la taquilla...
+H5:Nos ha jodio como que ha cambiado el mes.
+H2:No, hombre, [solapamiento de turnos] el de Enero
+H1:[solapamiento de turnos] El de Enero [fin de solapamiento de turnos] no la pasaba
+H2:El de Enero no me pasaba, entonces yo fui a la taquilla pensando que era cosa especial de que ese no funcionaba y me dijo la gente "Anda pues claro, pues es que hay que cambiarlo, no sé qué"; vamos me lo dijeron en ese tono porque yo inten[palabra cortada], no es que me intentara colar, sino,que yo pasaba enseñándoselo sólo la tarjeta, digo: "Mire, se lo enseño y paso, que mire que es de este mes pero que no... no me lo coge" y entonces empezó la gente: "Anda, claro que no te lo coge, como que hay que cambiarlo y ponerse a la cola". Digo: "Bueno, bueno, vale". Y me...
+H1:Pues yo como una pazguata, así que nada.
+H2:Pues entonces, [solapamiento de turnos] claro
+H5:Y ¿por qué hay [fin de solapamiento de turnos] que cambiarlo?
+H2:Porque no valía, porque al subirlo lo han cambiado el [solapamiento de turnos] bono, el bono del... del...
+H1:Bueno, ¿tu no estabas cuando lo hemos dicho esta [fin de solapamiento de turnos] mediodía? Pues la estabas dando la razón. También has dicho que a mí no me iba a entrar el bono.
+H2:No le acuses así, por fa[palabra cortada]
+H5:No, este mediodía hemos hablado de lo del bono bus.
+H1:Y del bono metro también.
+H5:Del bono metro yo no he...
+H2:Del bono he sido yo la que te he dicho el del...
+H1:Sí.
+H2:pero era del abono transporte.
+H4:Yo te dije que a mí me entraba, el bono metro que tenía [solapamiento de turnos] yo de vacaciones,
+H2:¡Ay por favor! ¡Qué cuchillo! [fin de solapamiento de turnos]
+H4:cuando vine me entraba.
+H1:¡Claro!, eso, el bonometro es hasta que te lo acabes.
+H2:Pues nada, chica. [ruido][ininteligible]
+H4:[ininteligible] lo que pasa que te arriesgas.
+H1:Pero es que, bueno.
+H5:No pero en el billete de metro no pone nada que se sepa que lo has comprado antes. Ah, bueno, sí. Te ponen la fecha cuando...
+H4:Y el día, porque... bueno, es que depende de cuándo, [ininteligible] Los que te venden en las máquinas son de diez. Los que te venden en el metro son de nueve.
+H2:Ah, bueno, ya.
+H4:Entonces no puedes comprar varios porque no te sale rentable eso. [silencio]
+H2:No. Pero los da de otro color. ¿No lo has visto?
+H5:No los... si pides más de uno, los siguientes [solapamiento de turnos] te los da...
+H2:Son rosas. [fin de solapamiento de turnos]
+H5:de los de diez.
+H2:Son rosas. [silencio]
+H4:Es que no se me había ocurrido nunca. [silencio] Seguro que a Carmen se le ha ocurrido y por eso...
+H2:¿El qué? ¿El qué? ¿Lo de comprar más de uno? Sí. Yo hay veces que he comprado tres de un golpe. Entonces te dan uno amarillo y dos rositas.
+H4:[ininteligible] Anda niña. Termina ya que tengo un frío de la ostia.
+H1:Que me lo como arriba, hombre, que arriba hace calor. [silencio] ¿A quién se lo estás diciendo a Carmen o a mí?
+H4:A... todos. [ininteligible]
+H1:[ininteligible] [silencio]
+H5:Ahora ya que hemos comido ya no hace frío.
+H1:Yo... en mi habitación hace un calor, de verdad. No os lo creéis pero es verdad, ¿eh? con ese invento, tengo todos los cristales empañados de calor.
+H2:Yo también lo he hecho lo de... lo de poner vapor.
+H1:¿Se nota o no se nota? Se nota.
+H5:¡Poner vapor.!
+H1:El infiernillo y agua [solapamiento de turnos] hirviendo.
+H2:Y huele mejor [fin de solapamiento de turnos] y con eucalipto, o en su defecto laurel, que cogemos del jardín mismo.
+H1:¿Qué no da calor? [solapamiento de turnos] Te lo crees tú.
+H2:El vapor [fin de solapamiento de turnos] sí que da sensación de calor.
+H5:[solapamiento de turnos] Mira,
+H1:Da humedad y calor[fin de solapamiento de turnos]
+H5:de la red salen mil vatios y esos mil vatios van en calor, pongas agua, o no pongas agua, no pasa más calor a... al ambiente.
+H1:Hombre, hombre, vamos a ver.
+H4:Pero si pones agua caliente, al tener una constante, una capacidad calorífica mayor, siempre... conserva más el calor, al tener más humedad, la temperatura se mantiene más estable que si no la tiene.
+H1:Ah, ¿es esa la explicación? Jo, [solapamiento de turnos] hace que no veo Física.
+H4:Oye, igual que [fin de solapamiento de turnos]... igual que el agua, el agua tarda menos en calentarse que un trozo de tierra, por ejemplo.
+H1:Hombre, yo imagino que será eso, pero lo que sí que es verdad es que cuando pones el infernillo en una habitación, me da... se me calienta más tarde, me tarda mucho más que cuando estoy poniendo el agua
+H4:Ya. A parte [ininteligible] un...
+H1:No es la sensa[palabra cortada] no es la sensación que me da, es que realmente es así.
+H2:En la ducha ya veis el calorcito que hace cuando...
+H4:A parte de eso, sabes que cuando llueve y hace frío pues se nota menos el frío que cuando está seco. Porque... si hay más humedad en el ambiente me imagino... [silencio]
+H1:Bueno, sobre todo que y si no con el calor se te reseca la habitación, si estás poniendo agua, por lo menos tienes el ambiente humedecido y para la respiración es lo me[palabra cortada] muchísimo mejor.
+H2:Sí, para la [solapamiento de turnos] respiración
+H5:Pero con que pongas [fin de solapamiento de turnos] un vaso de agua
+H2:No, pero el vapor que sube del cacharro hirviendo es muchísimo mayor, mucha más cantidad de vapor.
+H4:[ininteligible] La gente recomienda que...
+H5:Que no se seque el ambiente...
+H2:Para que no se seque la nariz.
+H5:pones un vaso de agua...
+H2:Yo lo... a vosotros... a mí... es que eso depende de si se tienen problemas o no. Yo tengo el problema de que en seguida se me queda la nariz seca.
+H1:O sea, que tú roncas.
+H2:Pues no. [risa]
+H4:¿Tú qué sabes? ¿Y tú que sabes?
+H2:No, porque no duermo con la boca abierta.
+H1:No, si lo de roncar es de respiración, es de...
+H2:Pero, hombre si se te tapona y abres la boca porque si no... [interrupción de la grabación]
+H4:Mira.
+H2:Ana, ¿tienes lo de los médicos para dejárselo?
+H1:Sí.
+H2:Es que...
+H1:Vamos que se va... vamos que se va. Vamos que se va el calor.
+H2:Mira, es que... te iba a bajar yo lo de los médicos pero como lo tiene ya aquí Ana.
+H1:¿Qué? ¿Hace más calor o no?
+H5:Joder. Hace mucho más calor pero por el radiador.
+H1:Por el radiador. ¿Pero es que no notas que es como [ininteligible]?
+H5:Claro que se nota la humedad. Pero aquí hace más calor porque tienes un radiador
+H2:Mira.
+H5:que, que da calor, no como el nuestro
+H2:José María.
+H5:de ahí arriba que pasa el agua tibia.
+H2:Este es el que está más cerca de Félix Boix más cerca que el otro que te decía yo.

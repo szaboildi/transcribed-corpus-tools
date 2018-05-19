@@ -1,0 +1,67 @@
+#archivo: PJUR005C
+#fecha de grabación: 07-11-91
+#fuente: radio
+#localización: Madrid
+#términos: abogado, juicio, juzgado, contrato, arrendamiento
+#H1: varón, edad desconocida, locutor de radio
+#H2: mujer, edad desconocida demandante
+#H3: varón, edad desconocida, abogado
+#H4: mujer, edad desconocida, arrendataria
+#H5: mujer, edad desconocida, copropietaria demandante
+#H6: mujer, edad desconocida
+#H7: mujer, edad desconocida
+[texto no transcrito]
+H1: Ha[palabra cortada]... haga su pregunta rápida.
+H2: Sí, mire, era para decirle al... del... abogado.
+H3: Sí, buenas tardes.
+H2: Buenas tardes. Que si un señor le llaman a un juicio, y no se presenta, y le vuelven a llamar a otro segundo juicio, y no se presenta, el... el juez no quie[palabra cortada]... en este caso no quiere dictaminar ninguna sentencia. Eh... ¿Qué recursos puedo yo tener hacia eso?
+H1: Bueno. Escuche como [ininteligible] dicho, don Luis Sanjurjo por favor, por su radio.
+H2: Gracias.
+H1: De nada.
+H3: Vamos a ver señora. Depende primero del procedimiento que se lleve a cabo. Por ejemplo, para hacer... para ir muy rápidamente, debido a las distintas llamadas que estoy esperando. En primer lugar, si es un procedimiento en cuanto a lo que se está reclamando o notificando por parte del juzgado, es una declaración, una confesión judicial, en que no se presente automáticamente lleva lo que se denomina la declaración [extranjerismo]en confeso[fin de extranjerismo] una vez que se ha notificado por dos... en dos ocasiones. En segundo lugar, si el procedimiento es relativo a una cuestión civil, y automáticamente no se ha presentado por una demanda, eh... se puede llevar a cabo lo que es la denominación de declaración en rebeldía. Usted lo que debe de hacer es a través de un abogado y un procurador, que así presuponemos que está personado ya en ese procedimiento, hacerlo constar a ese ilustre juzgado que lleve a cabo dicha tramitación legal y judicial a los efectos de que no continúe a cabo esta incomparecencia constante reiterada y continúe el proceso exclusivamente con ustedes personados.
+H1: Nueva llamada, para nuestro abogado. Buenas tardes. [silencio] Sí, buenas tardes.
+H4: Hola, buenas [solapamiento de turnos] tardes.
+H1: Haga [fin de solapamiento de turnos] su pregunta. [texto no transcrito]
+H3: En primer lugar hay que decir que las mejoras [silencio] las debería de llevar a cabo , si es que no las lleva a cabo, la parte arrendataria. Si... esas mejoras las lleva a cabo el inquilino, como usted debe de saber, y si no se lo digo yo encantado, quedarán en... como beneficio, en beneficio, de ese [vacilación] inmueble, de esa vivienda, sin que la parte arrendataria tenga derecho, que además así debería de... especificarse en el contrato de arrendamiento, a ningún tipo de indemnización. Si usted va a llevar a cabo es mejora durante la vigencia del plazo contractual arrendaticio, usted no puede subir esa renta, porque usted ha acordado una renta y el aumento será en conformidad con lo que usted haya establecido en una estipulación; en este caso, [ininteligible] de la correspondiente aumento de la vivienda. Por lo tanto, para anular el contrato de arrendamiento, usted lo que sí podrá es aplicar una renta superior si es que ha llevado a cabo una mejora de esa vivienda.
+H1: Nueva llamada para nuestro abogado, don Víctor Manuel [ininteligible]. Buenas tardes.
+H5: Buenas tardes.
+H1: Haga la pregunta.
+H5: Mire [ininteligible]. Nosotros somos una comunidad de [vacilación] propietarios,
+H3: [afirmación]
+H5: ...resulta que... el portero se jubiló y está viviendo... en la vivienda... de la... comunidad.
+H3: Sí.
+H5: Entonces él se ha ido a... [duda] la vivienda ya, pero no ha entregado las... llaves. Esto está... en juicio y ha salido [ininteligible] a nuestro favor.
+H3: Sí.
+H5: Y ahora... a él [sic] no entregar las llaves, ¿nosotros qué medidas tenemos que tomar?
+H3: Bueno, pues escúcheme por favor, si es tan amable, por el [solapamiento de turnos] [ininteligible]
+H5: Sí, muchísimas [fin de solapamiento de turnos] gracias.
+H3: [solapamiento de turnos] De nada.
+H5: ...muy amable [fin de solapamiento de turnos].
+H3: Gracias a usted por su llamada, señora. Pues las medidas que tienen que tomar es en primer lugar [silencio] hacérselo constar al ilustre juzgado que haya dictaminado esa sentencia, para que tenga conocimiento de los incumplimientos, al parecer, según sus palabras, reiterados, de la parte demandada, es decir, del portero, del emplea[palabra cortada]... del empleado o ex-empleado de la finca urbana. Y automáticamente, en conformidad con esa súplica a ese juzgado, actuar ustedes siempre con conocimiento del titular del correspondiente juzgado.
+H1: Nueva... nueva llamada, buenas tardes.
+H6: Sí, hola buenas tardes.
+H1: Haga su pregunta.
+H6: Mire, es... [vacilación] para hacer una pregunta al señor abogado, [solapamiento de turnos] ¿no?
+H1: Hágala [fin de solapamiento de turnos], [solapamiento de turnos] hágala.
+H3: La escucho [fin de solapamiento de turnos], buenas [solapamiento de turnos] tardes.
+H6: Buenas [fin de solapamiento de turnos] tardes. Mire, es una casa que estamos haciendo. Entonces una de las paredes de... de la casa da a casa de un vecino, al patio y no nos deja de pasar a revocarla.
+H3: Sí.
+H6: Porque quiere que le dejemos nosotros de... de pasar un reguero, [solapamiento de turnos] un desagüe
+H3: Sí... [fin de solapamiento de turnos]
+H6: ...por el patio nuestro.
+H3: Sí...
+H6: Qué derecho tenemos para poder revocar nosotros esa pared.
+H3: Bueno, pues... si... [solapamiento de turnos] si es tan amable
+H6: Muchas gracias [fin de solapamiento de turnos].
+H3: ...escúcheme, por favor. Bueno los derechos que usted tiene los tienen que haber hecho constar en la correspondiente junta de seguridad de propietarios. El presidente, a través del acuerdo del abogado, notificará de una forma, por escrito, a ese convecino para que permita llevar a cabo las actuaciones correspondientes. Y no hay que olvidar que lo que está pidiendo el o[palabra cortada]... el o[palabra cortada]... el otro señor con [ininteligible] evidentemente puede tener parte de razón. Por lo tanto y de una forma conciliadora, que ese señor cumpla con su deber que es dejar transcurrir y dejar pasar ese acuerdo de la comunidad, y escuchar si tiene derecho a llevar a cabo las otras actuaciones, el otro señor, [vacilación] propietario de esa vivienda.
+H1: Con nueva llamada. Vamos rápidamente. Buenas tardes.
+H7: Hola, buenas tardes.
+H1: Haga su pregunta.
+H7: Mire, eh... es que... mi marido está trabajando en un bar,
+H3: Sí.
+H7: ...desde hace diez años. [texto no transcrito]
+H7: Entonces mi marido no sabe qué... qué va a hacer el jefe ni qué va a pasar con él, ni qué derechos tiene... [solapamiento de turnos] ni...
+H3: Bueno [fin de solapamiento de turnos]. sí. [silencio] Bueno, pues escúcheme se es tan amable.
+H7: Sí, gracias.
+H3: En primer lugar su marido lo que debe de estar es continuando en esa relación laboral y si es posible, hablar con el patrono, a los efectos de saber si va a continuar ese negocio o no. En cuanto a los derechos que tiene, son todos. Lo que no debe es de irse por propia voluntad. Esta es a [extranjerismo]grosso modo[fin de extranjerismo] la contestación, estimada señora.
+H1: Bien, pues... pues punto final. Punto final porque nos queda un [vacilación] minuto un poquito largo, y... para terminar el... el programa del Club de Oyente, pero antes escuchen... [interrupción de la grabación]

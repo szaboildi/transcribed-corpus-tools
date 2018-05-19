@@ -1,0 +1,37 @@
+#archivo: APUB004B
+#fecha de grabación: 5-12-91
+#fuente: radio
+#localización: Madrid
+#H1: varón, edad desconocida
+#H2: mujer, edad desconocida
+#términos: tinte vegetal, canas, farmacia, herbolario
+H1: Algo natural, ¿eh?
+H2: Algo natural.
+H1: Algo que no perjudique el cabello.
+H2: Lo tengo. "Vegetal color".
+H1: ¿Vegetal...?
+H2: Color. Es ideal para cubrir las canas sin atacar al color original.
+H1: Verás la vida de color de rosa.
+H2: No, y que desaparece gradualmente a partir del sexto lavado.
+H1: Vamos a dar un teléfono de información acerca del "Vegetal color," para tus canas. En farmacias [solapamiento de turnos] y herbolarios.
+H2: En farmacias [fin de solapamiento de turnos] y herbolarios, disponible en trece tonos.
+H1: Bueno, puedes llamar... es una llamada gratuita, con el novecientos delante. Novecientos uno cuatro uno uno cuatro uno. Novecientos uno cuatro uno uno cuatro uno. Bueno, si nos hablas de tintes... [timbre de teléfono]
+H1: ... si nos quieres consultar sobre tintes...
+H2: [solapamiento de turnos] Pues aquí está.
+H1: ... ya la cosa varía. [fin de solapamiento de turnos] [solapamiento de turnos] No...
+H2: Sí, sí. [fin de solapamiento de turnos]
+H1: No es "Vegetal color"...
+H2: No, no.
+H1: [solapamiento de turnos] Para...
+H2: Lo tengo [fin de solapamiento de turnos] también.
+H1: Para tintes.. ¿es?
+H2: "Herbatin"
+H1: "Herbatin"
+H2: La alternativa más natural para la coloración del cabello. Tinte vegetal permanente sin amoniaco.
+H1: También farmacias y herbolarios.
+H2: También en farmacias... [solapamiento de turnos] y herbolarios.
+H1: ¿Cuántos...? [fin de solapamiento de turnos] ¿Cuántos colores?
+H2: Tiene trece colores [solapamiento de turnos] también.
+H1: ¡Trece [fin de solapamiento de turnos] colores!
+H2: [afirmación]
+H1: O sea, para... para teñirte el pelo no te compliques la vida; cuidado, hay gente que tiene problemas de... de erupciones en la piel, alergias... No, no, no; esto es natural, no tiene... amoniaco. "Herbatin" Y marca, consulta en el teléfono novecientos... llamada gratuita, novecientos uno cuatro uno uno cuatro uno. [música] [texto no transcrito]

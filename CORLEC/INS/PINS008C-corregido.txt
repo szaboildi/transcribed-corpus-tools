@@ -1,0 +1,23 @@
+#archivo: PINS008C
+#fecha de grabación: 21-12-91
+#fuente: grabación directa en taller de instalación de radios en automóviles
+#localización: Chamberí, Madrid
+#términos: radio, memoria, emisora, sintonizar, manejo
+#H1: varón, c. 30 años, técnico de radio, madrileño
+#H2: varón, 35 años, cliente, madrileño
+[texto no transcrito]
+H1: Venga, primer botón de encendido y apagado, el segundo de [extranjerismo]balance[fin de extranjerismo] y [extranjerismo]fader[fin de extranjerismo], ¿no?
+H2: [afirmación]
+H1: El tercero graves y agudos, [interrupción de la grabación] expulsión de cinta, quinto y sexto dándole a los dos a la vez es [extranjerismo]reverse[fin de extranjerismo] y no rebobinado. La fila de abajo, el [extranjerismo]tuner[fin de extranjerismo] búsqueda manualmente hacia alante, hacia atrás, bandas es [sic] [siglas]F.M.[fin de siglas], [siglas]A.M.[fin de siglas], memoria para memorizar, [extranjerismo]scan[fin de extranjerismo] para sintonizar las... emisoras, local o distante, mono [extranjerismo]stereo[fin de extranjerismo] y [extranjerismo]loudness[fin de extranjerismo]
+H2: [afirmación]
+H1: Y abajo las seis memorias y el [extranjerismo]sic[fin de extranjerismo], búsqueda hacia alante y hacia atrás y... la cinco y la seis, la cinco es el [extranjerismo]dolby[fin de extranjerismo] en cinta y la seis es metal en... en cinta también.
+H2: ¿Para memorizar bandas?
+H1: Para memorizar bandas la... la dos de la segunda fila,
+H2: [afirmación]
+H1: [vacilación] ..."memo" y... apre[palabra cortada]... aprietas y la memoria que quieras.
+H2: De acuerdo.
+H1: ¿Eh?
+H2: Pues ya está.
+H1: ¿Vale más o menos?
+H2: Muchas gracias.
+H1: De nada. [interrupción de la grabación]

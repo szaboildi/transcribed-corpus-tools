@@ -1,0 +1,43 @@
+#archivo: BNOT015C
+#fecha de grabación: 2-11-91
+#fuente: radio
+#localización: Madrid
+#términos: curso estival, Universidad Complutense, profesor, alumno, Reina, zoofilia, animal, alma, lógica borrosa, reto demográfico
+#H1: varón, c.40 años, presentador
+#H2: varón, c.30 años, locutor
+#H3: varón, edad ignorada, profesión ignorada
+[música]
+H1: A menos de siete minutos de las doce del mediodía en el... en "Mi querida radio a la sombra" vamos a irnos a conocer datos, detalles de como se están desarrollando los cursos de verano de la Universidad Complutense en El Escorial. Jesús Lumbreras.
+H2: Buenos días. Como cada día, hemos seguido los cursos estivales de la Sierra de Madrid y hemos anotado cuidadosamente las declaraciones de las personalidades que han intervenido en ellos. Por ejemplo, [texto leído][texto no transcrito][fin de texto leído]. Y vamos a contactar ya con el Gabinete de Prensa de los cursos de la Complutense, desde donde Isaac García del Río nos va a informar de la actualidad. Buenos días.
+H3: ¡Hola!, buenos días, Jesús, ¿qué tal?
+H2: [solapamiento de turnos] [ininteligible]
+H1: Por cierto... [fin de solapamiento de turnos] por cierto, Isaac, eh... ¿terminó de decir Aranguren eh... qué grande de España es el que tiene el animal en casa, [vacilación] orangután, o no?
+H3: No... no. Dijo que... digamos revelaba el pecado pero jamás diría el nombre de... de esta persona.
+H1: Supongo que inmediatamente todos los eh... informadores habrán empezado a hacer sus averiguaciones, ¿no?
+H3: Yo dudo que... el profesor Aranguren... vaya... a... a concretar más en la... en lo que expuso ayer, además, delante de la Reina, que... que está asistiendo al curso sobre "Los derechos de los animales". Y fue en respuesta pues a alguna pregunta de los alumnos [silencio] eh... comenzaron a... discutir sobre [silencio] el amor a los animales y no sólo el amor, sino incluso, pues como dijo el profesor Aranguren,sobre el uso sexual, ¿no?,
+H1: [afirmación]
+H3: ...de algunos animales, en fin, un fenómeno pues conocido como la... la zoofilia que el mismo calificó como de... de aberración,
+H1: [afirmación]
+H3: ...eh... y que lo dijo bien claro, que no iba... de ninguna forma a revelar el nombre de esta persona.
+H1: Pues desde luego, sí que... sí que la armó con esta declaración.
+H3: [solapamiento de turnos] [ininteligible]
+H1: Al parecer [fin de solapamiento de turnos]
+H3: Es que es un poco... es muy llamativa, [solapamiento de turnos] evidentemente,
+H1: Sí... sí... sí. [fin de solapamiento de turnos]
+H3: pero el curso lleva otros derroteros. Eso es, claro, la anécdota que es siempre lo que se refleja, pero el curso pues... [duda] en fin, yo creo que lleva otros derroteros más... de más calado y más interesantes que esta anécdota.
+H1: Isaac, el hecho de que Su Majestad, la Reina, esté asistiendo a este curso... ha creado... digamos espectativa... ha creado...
+H3: ¡Hombre! pues para los cursos es un... gran honor, ¿no?, contar con la... la presencia de Su Majestad, la Reina. Eh... en cuanto a creación de espectativa, yo creo que sí... lo que hay que fijarse, sobre todo, es en que la Reina ha elegido este curso eh... pues porque... es un tema que le interesa, que le preocupa y que... y que supongo que querrá... eh... apoyar o alentar eh... la defensa de los... de los animales. ella no ha querido que se dé ningún tipo de publicidad a su... a su presencia, lo que pasa es que es inevitable, porque aquí hay muchos medios de comunicación acreditados, están permanentemente, y, lógicamente, sabían de su llegada, pero hoy está participando en el curso y de hecho, pues la prensa... ha procurado, atendiendo a los deseos de Su Majestad, eh... no es... no... entorpecer el... el... el desarrollo normal de la clase, [solapamiento de turnos] ella ha ido a asistir como una alumna más.
+H1: A eso... a eso [fin de solapamiento de turnos]. A eso me refería, que si trastoca de alguna forma el desarrollo de los cursos, ¿no?, porque [solapamiento de turnos] lógicamente...
+H3: En absoluto... en [fin de solapamiento de turnos] absoluto. Ella... ha llegado a las diez en punto esta mañana, eh... estaba... ya los alumnos en la clase, ha entrado a la clase y han comenzado las sesiones, entonces eh... es deseo expreso de Su Majestad no interferir el desarrollo normal de los cursos, los alumnos son los que estaban, ellos no sabían nada, que iba... que iba a asistir eh... la Reina, y yo supongo que se llevaron una gran sorpresa, lo cual no [solapamiento de turnos] [ininteligible]
+H1: Una gran [fin de solapamiento de turnos] y grata sorpresa, supongo.
+H3: Claro, evidentemente.
+H2: Isaac, ¿qué más actividades tenemos para hoy?
+H3: Bueno, pues eh... vamos a ver eh... continúa desarrollándose el curso de... sobre la "Seguridad en el Mediterráneo", que lleva el exministro Fernando Morán, continúa también el curso este de la "Actitud sobre... la actitud del hombre frente a los animales", que hoy cuenta con la intervención del Padre Mario [extranjerismo]Canciani[fin de extranjerismo], que es rector de la Iglesia de San Juan Bautista de los Salentinos, y es profesor de teología de la Universidad [silencio] [ininteligible] de Roma, y... y... y va a desarrollar un tema sobre religión y animales, "Una mirada a la Iglesia Católica", yo no sé si va a ser aquí donde se va a... a tocar otra vez el... el tema recurrente que ya ha sido tocado pues muchas veces acerca de si los animales tienen o no tienen alma, que es una vieja disquisición, yo no sé si escolástica, eh... y hasta que punto... bueno... no quiero entrar en más profundidades en... en el tema este.
+H1: Que lo digan... que lo digan en el curso.
+H3: Que lo... que lo digan... que lo digan en el curso, efectivamente. Eh... continúa Miguel Delibes [silencio] con nosotros. Se está desarrollando también un curso científico sobre lógica borrosa, que es un... concepto que yo no soy capaz de explicar en breves momentos aquí en la... en la radio. Y otro curso sobre el reto demográfico, ¿no?, los problemas que plantea el crecimiento de la población en el... en el... en el mundo actual... en el mundo contemporáneo. Y esta noche, eh... contando con la presencia [silencio] de Miguel Delibes, eh... se va a proyectar la película "Los santos inocentes".
+H1: ¡Ah!, ya.
+H3: Tam[palabra cortada]... eh... va...van a... van a estar eh... los... el director y varios de... varios de los actores.
+H1: [afirmación]
+H3: Eh... [solapamiento de turnos] [ininteligible]
+H1: Y tenemos ya... [fin de solapamiento de turnos] y tenemos ya que marcharnos, Isaac, porque llegamos eh... a las doce. Gracias, [solapamiento de turnos] Isaac.
+H3: Muy... [fin de solapamiento de turnos] gracias.

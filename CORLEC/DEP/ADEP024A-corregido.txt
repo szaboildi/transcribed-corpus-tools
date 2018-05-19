@@ -1,0 +1,16 @@
+#archivo: ADEP024A
+#fecha de grabación: 17-7-91
+#fuente: televisión, del "Telenoticias" de Telemadrid
+#localización: Madrid
+#H1: varón, locutor, c.30 años
+#Ha: varón, entrenador, c.40 años
+#Hb: varón, boxeador, c.24 años
+#Hc: varón, entrenador, edad desconocida
+#términos: boxeo, boxeador, título mundial, peso ligero, vuelta ciclista, equipo ciclista, etapas de montaña, triunfo, "Bonoloto"
+[música]
+H1: Poli Díaz, el púgil español que aspira al título mundial de los pesos ligeros viaja en estos momentos hacia Estados Unidos. Allí tiene previsto pelear a finales de este mes contra [extranjerismo]Pernell Whitaker[fin de extranjerismo], actual campeón del mundo. En el momento de abandonar Madrid, Poli Díaz se ha mostrado muy dicharachero, [ininteligible] incluso cuando el alcalde se acercó a despedirle. [texto leído][texto no transcrito][fin de texto leído]
+Ha: Puede haber estado considerado el número uno o el mejor boxeador del mundo de todos los pesos, pero yo estoy totalmente convencido de que Poli es mucho más boxeador y que va a ganarle antes del sexto. [texto leído][texto no transcrito][fin de texto leído]
+Hb: [extranjerismo]Whitaker[fin de extranjerismo] es un gran boxeador, es uno de los mejores boxeadores de todos los pesos en estos tiemp[palabra cortada]... eh... en todos los tiempos, y es un fuera... una.... un... un... un fuera de... clase, lo que pasa que... yo creo que yo estoy escondido, me tapo mucho y ahora estoy saliendo. Y yo le he dejado engordar... para luego yo llegar y... cortarle... cuando hay que cortar.
+H1: La caravana del [extranjerismo]Tour[fin de extranjerismo] de Francia viaja en estos momentos desde [extranjerismo]Nantes[fin de extranjerismo] a Po, en las proximidades de los Pirineos. Tras consumarse ayer la controvertida retirada del equipo [siglas]PDM[fin de siglas], todo señala a [siglas]BANESTO[fin de siglas] como nuevo jefe de carrera. El equipo inevitablemente encargado de atacar al norteamericano [extranjerismo]Greg Lemond[fin de extranjerismo]. Buena parte de las esperanzas de [siglas]BANESTO[fin de siglas] se localizan en las etapas pirenaicas de mañana y pasado. [texto leído][texto no transcrito][fin de texto leído]
+Hc: Hay que contar con mucha gente... mucha gente que ha estado ahí escondida en etapas llanas, tanto los colombianos, que pueden ser muy decisivos, como... [extranjerismo]Bugno[fin de extranjerismo], como [extranjerismo]Chiapucci[fin de extranjerismo], como mucha gente que tiene que romper. [texto leído][texto no transcrito][fin de texto leído]
+H1: El combate de Poli Díaz o la victoria en el [extranjerismo]Tour[fin de extranjerismo] de Francia reportan unos interesantes ingresos económicos. Algo menos habrán ganado quienes hayan marcado en su boleto los números que se correspondan con los premiados en el sorteo del "Bonoloto" de esta mañana. Ahí tienen la combinación correcta, formada por los números 11, 23, 32, 37, 45 y 46. Número complementario, el 14. Repito, 11, 23, 32, 37, 45 y 46; y como complementario, el 14. [texto no transcrito]

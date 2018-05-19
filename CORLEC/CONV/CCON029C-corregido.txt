@@ -1,0 +1,58 @@
+#archivo: ccon029c
+#fecha de grabación: 25-3-91
+#fuente: conversación telefónica
+#localización: Segovia
+#términos: cita
+#H1: mujer, 20 años
+#H2: varón, 25 años
+H1:Hola. ¿Quién es?
+H2:Eh... soy Perico de los Palotes.
+H1:Perico de los Palotes. No te conozco. Bueno, hasta luego.
+H2:Vale, hasta luego.
+H1:¿Quién eres?
+H2:¿Eh?
+H1:¿Qué pasa?
+H2:Nada, ya iba a colgar.
+H1:¿Qué? ¿Por qué?
+H2:Porque [ininteligible]
+H1:¿Qué? No, pero es que a Perico de los Palotes no le conozco.
+H2:Ah, bueno, entonces adiós.
+H1:¡Luis!
+H2:¿Qué?
+H1:¿Qué?
+H2:¿Qué de qué?
+H1:Pues que mi madre se ha llevado el coche con mi hermana Alicia. O sea, mi madre ha cogido el coche y ha metido dentro a mi hermana Alicia y se ha ido al médico con ella.
+H2:Bueno, nada, pues hasta luego.
+H1:¿Sí?
+H2:Te voy a buscar.
+H1:¡Ay, qué bien!
+H2:¿Sí?
+H1:Anda. ¿Te apetece? ¿Ya te has aburrido de estudiar?
+H2:[ininteligible]
+H1:¿Cuánto te ha aprovechado la tarde para estudiar?
+H2:Algo.
+H1:¿Algo?
+H2:¿A qué hora quieres salir conmigo?
+H1:¡Buah! no sé, un rato.
+H2:¿Y cuánto es eso?
+H1:Pues no sé, hora y media, dos horitas.
+H2:Fenomenal.
+H1:Entonces ¿qué? ¿Vienes para aquí arriba?
+H2:Claro.
+H1:¿Cuándo quieres?
+H2:[ininteligible] que merendar.
+H1:¿Ya has merendado?
+H2:[ininteligible]
+H1:¿Quieres merendar?
+H2:¡No he merendado!
+H1:¿Quieres merendar antes de salir?
+H2:[ininteligible]Ya decía yo: "¿Qué tengo en el estómago?" digo nada.
+H1:Bueno, pues entonces a las siete y media, ¿no?
+H2:Eh... antes, a y veinte, bueno, a y media, pon a y media por si acaso, porque como... como yo me entiendo y no... no me aclaro.
+H1:Vale.
+H2:Pues, pues claro. Porque tiene una lavadora que no aclara, señora.
+H1:Bueno, que no te entiendo. Venga, pues a las siete y media bajo al portal y te espero. ¿Vale?
+H2:[duda] Vale.
+H1:Pues nada, hasta luego.
+H2:Vale, hasta luego.
+H1:Hasta luego. Chao.

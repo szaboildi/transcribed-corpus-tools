@@ -1,0 +1,13 @@
+#archivo: BPUB019B
+#fecha de grabación: 28-12-91
+#fuente: televisión
+#localización: Madrid
+#términos: paz, "Expo Noventa y dos", país
+#H1: varón, c.45 años, presentador
+#H2: mujer, c.25 años, presentadora
+[música]
+Público: [solapamiento de turnos] [gritos] [aplausos]
+H1: ¡Hola, Curro!, ¡Feliz Navidad!, ¡Curro! Muchas gracias, ¡qué bonito regalo!, ¡qué detalle, Curro! ¡Ahí está Miriam! ¡Qué bonito regalo!
+H2: ¡Curro...! ¡Hola! Esto es para mí. Gracias Curro. [onomatopeya] Mua [fin de onomatopeya]. Hasta lueguito.
+Público: ¡Bien...!
+H2: Tengo que contarles algo porque es mi opinión preparar un [fin de solapamiento de turnos] recado antes, un recado importante. Él me ha traído un mensaje de paz... un mensaje de paz en nombre [duda] de... los... eh... países... más de cien países que estarán presentes en la "Expo Noventa y dos" durante seis meses en el mes de abril. Como es un poco tímido y no me lo quería decir y aquí me ha dejado esta bandeja, que en teoría me la tenía que traer Carol y Carolina. Ven aquí. Ven aquí, mujer. Ven aquí, tú tienes suerte y les ofreces suerte. ¡Venga! ¡Suerte!, ¡venga! Pero suerte de verdadero buena, pero así, ¿eh?

@@ -1,0 +1,384 @@
+#archivo: cdeb008b
+#fecha de grabación: 18-3-91
+#fuente: clase de doctorado de Lingüística Informática
+#localización: Madrid, Universidad Autónoma
+#H1: mujer, 24 años, alumna
+#H2: varón, c. 45 años, profesor
+#H3: mujer, 24 años, alumna
+#H4: varón, 24 años, alumno
+#H5: mujer, c. 25 años, alumna
+#H6: mujer, c. 26 años, alumna
+#H7: mujer, 24 años, alumna
+#H8: varón, c. 24 años, alumno
+H1: Ya. Es como los noticiarios que...
+H2: Claro...
+H1: Ahora son todos de [extranjerismo]Sadam[fin de extranjerismo].
+H2: [ininteligible] hay que hacer... esa es la cuestión; hay que hacer todos los meses que os toque [ininteligible] las noticias, porque claro, si decís: "nos dedicamos el mes de febrero a grabar las noticias". Pues parece que en todo el año 91 no ocurriera más que la guerra de Kuwait.
+H1: Ah, y tenemos un problema bastante serio, no sé si te acuerdas...
+H3: ¿Cuál?
+H1: El de los nombres propios.
+H3: Ah, el de los... ya, estamos hartas.
+H1: El de los nombres propios extranjeros pero también me refiero extranjeros a... a catalán... y a gallego, etcétera y a Latín. Vamos, que no sabemos...
+H3: Y los nombres inventados, Chumy Chúmez.
+H1: No, eso... pero eso... eso... eso es... eso no da problemas. Es como yo decir el Tiri o así. Pero... pero eso, los que tienen grafía española pero son extranjeros, son nombres de países, ciudades etcétera extranjeros, que a veces se cruzan incluso, bueno, eso es un poco lioso. Y... y los latinos, las conju[palabra cortada], las... los latinismos que se dicen normalmente al hablar. Eso no... [ininteligible] le pones... como extranjera, ¿verdad?
+H2: Eso normalmente debería marcarse con las etiquetas de lengua extranjera.
+H1: Sí. Hasta ahora estamos marcando todo, para luego poder... quitarlo pero...
+H2: No, no, pues ya sabéis que no tenéis que marcar lo que penséis que luego vais a quitar poque perdéis el tiempo.
+H3: Claro.
+H1: Pero por ejemplo, Irak, [ininteligible] yo todos éstos.
+H3: Yo es que eso no lo marcaría extranjero.
+H2: No. No. Es español.
+H3: Yo los nombres...
+H2: ¿Cómo decimos nosotros Irak?
+H3: Claro, o... aunque sea Washington, yo lo dejo, yo no pongo extranjero. Se entiende que en español no existe la secu[palabra cortada] esa secuencia, ¿no?
+H1: ¿Cómo? ¿Pero quién lo entiende?
+H3: Pero, bueno, pero aparece una vez...
+H1: ¿Eso lo entiende una máquina a la hora de hacer frecuencias? No.
+H3: Pero no, pero yo [ininteligible]
+H2: Hombre, si puede, se le puden dar unas tablas, es decir, que cuando saque eso se puede corregir y se puede revisar y decir: "pues quítame esto y esto y esto y esto que no me interesa".
+H1: pero es que entonces...
+H2: A parte que eso todo empieza por mayúscula [ininteligible] luego ya ni entra...
+H1: Eso sí es verdad.
+H3: Claro.
+H4: Le estaba diciendo a Juan que si os acordáis de una película de los años cincuenta por ahí, creo que es de [extranjerismo]Cary Grant[fin de extranjerismo] y precisamente es un... me hace gracia porque es lo mismo, es un grupo de lingüistas que están encerrados y le... y le toca a él salir a recoger el habla actual, ¿no?
+H2: Sí, sí, sí.
+H4: después de varios años que llevan sin contacto
+H3: Ah, "La Gran Bola de Fuego".
+H4: Y entonces ahora ¿cuál es el habla actual? Pues [ininteligible] yo me iría a una sala Xenon, por ejemplo. O al Berlin Cabaret o al... cosas así.
+H2: No. Es. Es. [ininteligible] Es que, [ruido]
+H3: Claro, entonces recoges,
+Todos: [ininteligible] Entonces transcribes mil palabras diarias y no cuatro mil trescientas, que es lo que tenemos que hacer.
+H4: Ya, pero las... las [vacilación] el recoger información se convierte en algo necesario, entonces...
+H3: Anda... pero...
+H1: Pero... [ruido]
+H2: Yo de todos modos prefiero que no os pase todo lo que le ocurre a [extranjerismo]Gary Cooper[fin de extranjerismo] en la película [ininteligible] salir a buscar palabras. [risa] No es muy conveniente. [silencio]
+H5: [vacilación] Es que hay mucho material que no se graba de la televisión.
+H3: No, pero si eso lo sabemos. El problema es que tenemos que meter cuatro mil trescientas palabras diarias. Entonces si te vas a... recoger material por ahí, ese día lo recuperas en Domingo y ya no tenemos Domingos en el año para recuperar lo que hemos perdido [ininteligible]...
+H1: Es verdad.
+H3: O sea, es que... Ese es el... el problema básico. Está claro. Yo lo que no sé si...
+H1: Por eso estamos hasta ahora metiendo tanto de radio y televisión, porque es que...
+H3: Es la única manera de cumplir el calendario.
+H1: Sí.
+H3: La única manera.
+H2: No, pero tampoco puede ser que luego cuando lleguen diga: "esto ya no me sirve porque ya a partir de ahí..." y entonces hayáis metido [duda] un millón de palabras que ya no valga. Porque...
+H3: No, si es eso.
+H4: Bueno, pues entonces,
+H3: Yo lo...
+H4: podemos hacer un curso, perdón, un trabajo de campo.
+H1: Sí, sí, sí. [risa] Sería fantástico.
+H3: ¡Qué idea, oye!
+H1: Fantástico.
+H4: Nos repartimos al[palabra cortada] alguna sala de fiestas, algún... algún local...
+H1: No, de verdad.
+H4: [ininteligible] película y nos vamos...
+H1: Todas las conferencias del Siglo de Oro.
+H4: A mí no me importa.
+H5: A mí tampoco. Si... [ininteligible]
+H4: Trabajo de campo de curso.
+H5: Pero decírnoslo ya.
+H1: Ya.
+H5: No, explicadlo un poco más y... [ruido]
+H4: [ininteligible]donde ir... [ininteligible]
+H1: Sobre todo donde [ininteligible]
+H2: Y sobre todo que ahora hay casi un mes que...
+H6: ¿Conversaciones... de...?
+H1: Sí.
+H3: Claro.
+H1: Pero... pero tú.
+H2: Hasta el quince de abril... o sea que... se puede recoger material.
+H1: Yo a la gente que le he pedido...
+H4: [ininteligible]un tablado flamenco. Ahí hay un vocabulario que no está recogido en cualquier otro sitio. [silencio] Yo no me pido ir al tablado flamenco, pero en fin.
+H1: Las palabras que no... hemos oído en la vida Carmen y yo, y de repente pronuncia alguien y...
+H2: ¿Estáis grabando sermones en las iglesias?
+H1: Sí. Yo tengo uno.
+H3: Yo de religioso tengo también el programa del Domingo por la mañana, esa... en la televisión...
+H2: Sí, pero seguís igual. Si eso no cuesta ningún trabajo ir a misa y además es muy recomendable. [risa]
+H1: Ah, sí, ¡buah! Creo... es una tontería pero eso, palabras...
+H2: En lugar de oíros una misa entera, eso ya [ininteligible]
+H3: No, pero...
+H2: Os oís sólo la homilia y ya no volvéis a misa en el resto de vuestra vida. [risa] Porque claro. [silencio]
+H3: ¿Qué ibas a decir?
+H1: Pues eso, palabras inventadas que seguro que en un tablado flamenco oirías [ininteligible].
+H2: Pero daos cuenta que todavía para mucha gente, digamos, el... el tipo de lengua más culta que oyen es el de la homilia de la misa. [silencio] [ininteligible] normal. [silencio]
+H3: Sí, no, sí.
+H2: Hombre, ya no tiene la importancia que ha tenido en épocas anteriores, que era realmente todo, y a veces la única posibilidad de información veraz sobre las cosas pero... pero para mucha gente es... no hay más nivel que el... porque claro... los programas televi[palabra cortada] de televisión o radio de mayor nivel lingüístico que el de la misa del Domingo, son los que automáticamente quitan, ¿no? [silencio] Así que... que hay una buena parte de la población que todavía mantiene... Yo no me atrevería a decir cuánta pero no me extrañaría nada que fuera más de la mitad de la población. [silencio] Posiblemente esa sea una de las razones del pésimo uso del español [ininteligible].
+H3: ¡Ay! una cosa que me imagino que no tiene importancia, es para quedarme tranquila nada más, eh... el orden en el que... o sea, porque las cintas, al principio queríamos ser muy ordenadas y tener una cinta sólo para lúdico, una cinta sólo para entrevistas, pero claro, te das cuenta de que eso es
+H1: Imposible.
+H3: imposible.
+H2: No, porque te pasarías un montón de tiempo [ininteligible]
+H3: Claro.
+H2: tendrías que tener un técnico de laboratorio,
+H3: Claro.
+H2: que clasificara.
+H3: Entonces yo me imagino que es...
+H2: Eso si después alguien tiene interés en las cintas como tales, pues que ponga un técnico de laboratorio
+H3: Claro.
+H2: que las clasifique porque...
+H3: Por eso, porque yo tengo en una misma cinta, a lo mejor al principio la entrevista uno y luego la conversación cinco y luego la publicidad nueve.
+H2: lo que hace falta es que sepamos lo que hay dentro de cada cinta.
+H3: Sí, sí. Vale.
+H2: Y a ser posible el lugar en donde está pero eso ya no...
+H3: Ya me he quedado tranquila. ¿A ser posible?
+H2: El lugar en donde está. Pero eso sólo se puede saber con una grabadora con...
+H3: ¿Con los números? Sí, sí. Yo si que... a veces lo pongo.
+H2: Entonces... No hay ningún problema ¿Habéis mirado lo de los dictáfonos?
+H3: Yo he preguntado pero...
+H1: Tengo que ir ahora.
+H3: He preguntado en varias tiendas pero ese es un modelo muy sofisticado. O sea, este era un "Olympus T sescientos" y lo más que tienen es el doscientos, o así. Y el doscientos ya vale cuarenta mil pesetas.
+H2: Ah, cuarenta mil pesetas no me parece muy caro.
+H3: No, el doscientos pero es que... el que queremos es el sescientos.
+H2: [vacilación] Lo que tendréis es que [vacilación] uno que os permita parar, volver... tampoco...
+H3: No. Estos eran sin pedal.
+H1: Ah, sin pedal. Pues yo lo que quie[palabra cortada]... lo importante es que tenga pedal y tú puedas regular la velocidad, eso el minímo.
+H2: No, si lo... Si lo importante es el pedal. Ese... eso es...
+H1: El pedal y rebobinar...
+H2: Eso es... eso es lo fundamental. Porque... porque claro, ahí es ganar tiempo, que siento yo que con mi invento no...
+H3: Fue una desilusión.
+H2: Era demasiado... demasiado barato.
+H3: Para ser bueno.
+H1: Eso también con el transformador, también lo podías hacer, con el botón del transformador. Y que, claro, se pierden palabras.
+H2: Es una lástima. Es una lástima que no tengan como los equipos de cintas de vídeo. El vídeo [ininteligible] rebobina un poquito...
+H1: Claro, el vídeo se rebobina solo.
+H2: Pues... Lo otro no hay ningún problema. Arrancas otra vez y ya estamos.
+H3: Yo también lo que pregunté en una tienda de servicio técnico de Sony, si podían ellos, a mi grabadora hacerle algún... pues eso, una conexión o algo para ponerle un pedal y bueno, el señor me miraba como si yo estuviera loca. [risa]
+H2: Claro, no, no.
+H1: Yo he intentado explicarle lo que quería pero me dijo que no.
+H2: Simplemente es un inte[palabra cortada], el interruptor de la pausa. Si eso es lo único que hay que hacer. Es decir, la conexión del interruptor de la pausa, en lugar de... en lugar de salir al botón, salir al pedal.
+H3: Ya. Yo desde luego, vamos, me miró así con cara extraña y no...
+H2: Si es... si es simplemente eso. [silencio] Te miraría con cara extraña porque claro, un [ininteligible] técnico [ininteligible] brillante [ininteligible]. [silencio] No, pero ya te digo que la solución es esa, simplemente. Lo que pasa es que luego, eso dudo mucho que se pueda hacer sin soldar. Y eso te obligaría a tener una grabadora sólo para reproducir y una grabadora para grabar, porque claro, no vas a ir con el pedal. [silencio] Por... bueno, por pequeño que sea, ¿no? Porque de todos modos puedes poner siempre un interruptor de éstos. Si en [ininteligible] la cuestión es esa, es decir, la pausa lo que hace es cortar y dejar la cinta quieta sin que pase nada más y eso es exactamente lo que necesitáis, o sea, que con una... con una posibilidad de poner el interruptor a la pausa se solucciona. Que me imagino que será lo que harán los de pedal. No creo que... O sea los más sencillos que tengan pedal hacen eso. [silencio] Ahora, la cuestión es esa que hay que buscarlo. A lo mejor convenía que lo buscarais porque, desde luego, yo creo que por cuarenta mil pesetas no tendríamos grandes problemas en que la Sociedad Estatal lo comprara. Sale de nuestro presupuesto del Corpus sin grandes dificultades. Claro, si ya es de cuatrocientas mil pesetas pues ya se pone más difícil. [silencio] Lo que pasa es que hay que pedirlos y tiene que venir el suministro y...
+H3: Claro, es que eso es lo que... ah. No, que yo digo que el modelo éste, lo más normal es que lo tengan que traer de fuera. Porque yo he preguntado en tiendas buenas y no...
+H1: Yo tengo que pasarme ahora por... por el, por el [siglas]ICE[fin de siglas] para... para preguntar y todo esto.
+H3: Ah, dónde lo han cogido... dónde lo han... conseguido.
+H1: Sí. Me van a dar la dirección de donde lo han comprado y cuánto vale y todo eso. [interrupción de la grabación]
+H2: Bueno. Entonces, volviendo a... a esto, yo quería plantear algunas cosas más del corpus oral como objeto de... bueno. Aquí tengo unas cosas que me ha mandado mi amigo [ininteligible] que son de enero del noventa y uno, que son bastante recientes. Es el que está encargando... es el presidente del comité al... de la [siglas]TEI[fin de siglas], al que yo pertenezco y se está encargando ahora de... del corpus oral para la [siglas]TEI[fin de siglas], o sea que lo que nosotros podamos decir para eso...
+H1: Huy, qué bien.
+H2: Pues será muy tenido en cuenta, porque además con [extranjerismo]Steve[fin de extranjerismo] tengo buenas relaciones, o sea que, sé que... que me va a hacer caso. No... no es de Oxford. Entonces, el... Es decir, que no ha nacido sabiendo. Entonces el... eh... vamos a ver, él arranca de... de dos problemas. Dice, primero, que no hay convenciones generalmente aceptadas para la codificación de textos orales en forma legible por ordenador, ¿no? y segundo que... que históricamente hay una enorme cantidad de posibilidades de transcribir los textos. Y que... y que entonces hay... que tener en cuenta lo que ya existe pero que tampoco puede uno atarse a lo que ya existe porque lo que ya existe es muy variado. Simplemente esa es la... la cuestión. Y entonces, lo que... lo que él propone es en primer lugar empezar por decir quién necesita los textos hablados legibles por ordenador y para qué.
+H1: Claro.
+H2: Entonces, eso es lo que nos marca las diferencias entre... Y nosotros ahí sí que podemos empezar a dar respuestas de qué es lo que... para qué queremos los textos hablados. Es decir, de momento, vamos a fijarnos eh... nosotros vamos a tener al final dos corpus de textos orales como habíamos dicho. Vamos a tener por un lado las cintas, ¿eh? Es decir, todo un corpus, que se podrá meter en forma digital en el ordenador y recuperar como palabra hablada, ¿eh? y que posiblemente pues tendrá también su interés, no sabemos si para [siglas]IBM[fin de siglas] o para quién, pero, bueno, en todo caso nosotros eso lo tendremos allí y [ininteligible] tendremos que decir que para procesar eso nos hace falta un laboratorio. [silencio] Vamos, no... no tener nosotros un laboratorio y... y de paso que nos den una escobita y barremos el local sino que... que alguien ponga un laboratorio y... entonces eso sí le interesa, que podemos contratar un laboratorio que nos procese, que nos meta todas las cintas clasificadas en un mismo sitio, que las pase al ordenador y las tenga el ordenador grabadas en formato eh... digital recuperable con [ininteligible] altavoces y todo eso...
+H3: Como se las borre.
+H1: [interrogación]
+H3: Que como nos las borre... [risa]
+H2: No porque eso...
+H3: Yo... hago copia antes de dar las cintas.
+H2: No, porque eso lo que ya sabéis que es muy fácil se rompe el... el pivotito éste de las cintas, además que yo creo que es una cosa que deberíais ir haciendo a medida que... que las fueráis grabando enteras.
+H1: Claro.
+H3: Claro.
+H2: Y entonces para borrarlas tienen que poner un papelito... vamos, no sé si ahora habrá variado algo las técnicas de...
+H1: Sigue igual.
+H2: Si, no, pero sigue haciéndose igual, ¿no? en eso...
+H1: Un celo y ya está.
+H2: eh... seguimos en la civilización de la celulosa y derivados, ¿no? [silencio] Se sigue metiendo el trocito de papel y adelante. Bueno. Pues muy bien. Y entonces, claro, dice, la [ininteligible] da una serie de usuarios, ¿no? y además especifica lo que le interesa a cada uno. Por eso nos conviene irlo teniendo en cuenta, dice: "Estudiosos de la historia oral", ¿no? de la evolución oral histórica, y éstos lo que les interesa es una investigación basada en el contenido. Es decir, son los estudios... por eso os decía que es esencial no hacer todas las conversaciones en la calle en el mes de Agosto porque, claro, entonces la visión que uno tiene del año noventa y uno es que en el año noventa y uno hizo en España tanto calor que todo el mundo se lo pasaba en la playa, ¿no? Que no, que hay... que hay que hacerlo de un período completo, ¿no? Porque claro, es decir de qué se habla, es decir, la historia de qué se habla. [silencio] En segundo lugar los lexicógrafos que lo que les interesa son las acepciones, los usos de las palabras, sus colocaciones, ¿no? y similares. Luego vienen los estudiosos de la Lingüística que a estos pobres les interesa todo, claro. Fonolofía, morfología, léxico, sintaxis... todo. [ininteligible] Y por lo tanto pues sea lo que sea, el estudioso de la lingüística, sea el corpus que sea siempre va a... a venirle bien. Y de todos modos os recuerdo que... que... sobre el corpus americano llamado el corpus de [extranjerismo]Brown[fin de extranjerismo], que es un corpus de un millón de palabras, ¿eh? hay un estudio fundamental que es el estudio de [extranjerismo][ininteligible][fin de extranjerismo] y no me acuerdo quien es el otro, que es un estudio lingüístico completo sobre el corpus Brown y es un millón de palabras, es decir, que nosotros sólo con el oral, vamos a tener dos millones y medio, ¿eh? o sea que se puede hacer un estudio siguiendo las pautas del... del de [extranjerismo][ininteligible][fin de extranjerismo] y este otro que ahora no me acuerdo de quién era que... que puede dar una información riquísima, es decir que aquí hay materiales para trabajar en montones de cosas con dos millones y medio de palabras sin ningún género de duda, puesto que con un millón nada más y lo hizo a base de dar estadísticas, ¿eh? Es decir, que el trabajo sobre el corpus de [extranjerismo]Brown[fin de extranjerismo] es un trabajo estadístico y... y es una de las guías de trabajo para el futuro, ¿no? Luego después están los dialectólogos y sociolingüistas a los que los interesa sólo los esquemas de variación en los distintos niveles, que ahí también vosotras muchas veces pues me habéis dicho que hay una serie de cosas.
+H1: Pero...
+H2: Otra cosa que vosotras no estáis haciendo, me parece, pero que habría que hacer, ¿eh? y entonces a lo mejor Juan y Pedro, la cinta que hagan, les podemos encargar ésta, ésta. Los estudiosos de la lengua de los niños. ¿Eh?
+H4: ¿De los niños?
+H2: Sí. Y vosotras dos hacéis las de los cabaretes y esas cosas y ellos dos que se hagan las de los niños. [risa] No hay excusa. Ves, ahí a Fernando le puedes decir que si él quiere colaborar con las grabaciones...
+H6: Sí, sí.
+H1: Podíamos... podíamos, grabar... textos infantiles y meterlo, "infantil", ¿si?
+H6: [ininteligible]
+H3: Yo tengo uno, del programa de Encarna, [ininteligible] un debate entre niños.
+H1: ¿Sí?
+H4: Es todo lo que tengo.
+H1: Yo tengo uno de "Juego de Niños".
+H6: [ininteligible] grabadora no tengo.
+H2: Yo te puedo dejar la... la mía. Yo por ahora no la voy a usar. Habrá que ver cómo te la... te la dejo. Te la llevo a la Sociedad Estatal.
+H6: Vale, sí, sí.
+H5: Y yo grabo conversaciones...
+H2: Ya verás las sorpresas que te ibas a llevar. [risa]
+H5: [ininteligible]hablar algo de mí.
+H2: No, no si es que eso es lo malo, es decir, que... dejar la grabadora abierta en un sitio donde uno no está... es preferible que sea... Yo desde luego lo recomiendo vivamente, ¿eh? que sea un sitio donde no puedan hablar de nosotros, ¿eh? Porque se puede llevar uno disgustos muy serios, ¿eh?
+H7: Mejor, así te enteras. De lo que piensan.
+H2: ¿Eh?
+H7: Así te enteras de lo que piensan.
+H2: No, no, no, no es mejor, no. Es mejor que no. [silencio] No, no, porque Paula piensas que todo el mundo va a hablar bien de ti pero...
+H7: No. Pero por ejemplo... [ininteligible] eso.
+H2: A lo mejor.
+H7: Así te enteras de lo que piensan.
+H6: No, pero yo pienso que es mejor no saberlo.
+H2: Porque, porque, porque...
+H6: Se tiene que sufrir un poquito también, ¿no?
+H2: Lo tuyo... yo creo que tú con que... disfrutarías tanto nada más que con saber que están hablando...
+H6: Es que a parte de egocéntrica y [ininteligible] soy masoquista. [risa] Sí, sí disfrutaría, sí.
+H2: Ya lo sabemos todos, ¿no? todos los que te conocemos que estamos aquí ya has visto que no ha hecho falta que terminara la frase. Para el analizador del corpus en este momento [ininteligible] "¿Qué querría decir con eso de...?" No pero entonces lo que sí es... se nos ha ido el santo al cielo con no sé que historias y no hemos acabado diciendo qué es lo que conviene que haga... que haga cada uno. Sobre todo en estas vacaciones. ¿Tú tienes niños a tu alcance?
+H5: Eh... ¿estas vacaciones?
+H2: ¿O prefieres de veinticinco años?
+H5: ¿De qué tiempo, de qué edades? ¿cómo de qué edades?
+H2: Eso, ves, ya... Tú de veinticinco para arriba, ¿no Aurora?
+H5: No... estas vacaciones... entre... [ruido]
+H2: Entre treinta...
+H5: Quería decir entre quince y...
+H1: Eso no son niños.
+H5: entre quince y veinticuatro.
+H1: No, hombre, no. Niños es desde que pueden hablar y se les entiende, que sé yo, desde seis, siete...
+H2: No, pero nos interesa también,
+H3: De todo.
+H2: los adolescentes, claro.
+H1: Claro, pero eso, hasta los... pero es que los adolescentes, yo hasta ahora los estoy metiendo en...
+H5: [ininteligible] cuatro años, pero es que no se si eso es lo que en definitiva os va a interesar.
+H3: ¿Nos vendría, nos vendría bien hacer alguna clasificación... grupos de edades? O sea, decir... bah, de cinco en cinco, ¿no?
+H2: [ininteligible] la cinta con los datos, después ya los clasificaremos. ¿Cuántas cintas queréis que os traiga cada uno? ¿Dos?
+H3: Todo lo que sea.
+H2: No, ya. Pero hay que decirle, porque si a Pedro le dices puedes traer todo lo que sea, luego dice: "mira, no he tenido tiempo", no sé qué. Si le dices: "Oye, que si quieres tu nota de esta asignatura, tienes que darle dos cintas a Almudena y Carmen".
+H3: Dos a cada una.
+H6: También te lo pregunto porque si las conversaciones pueden estar cortadas.
+H3: Sí, sí.
+H6: No hay problema. O sea que... si se te acaba...
+H3: Fragmentos. Sí, sí.
+H1: Sí, sí, sí, sí
+H5: fragmentos, o sea que si se te acaba la cinta no pasa nada,
+H1: Y a ser, claro, claro y a ser preferible de...
+H2: [ininteligible] una conversación en un lugar determinado, ves que hay algo que no te apetece, [onomatopeya]ras[fin de onomatopeya]
+H5: Lo borras.
+H2: lo borras...
+H1: Sí, sí, eso. A ser preferible, dos personas, tres como mucho.
+H5: Ah, ¿dos o tres como máximo?
+H1: Es que si no es volverse loco.
+H3: Bueno, eso, da igual. Pero mientras... si no que nos dijera más o menos quiénes son los que hablan.
+H6: Bueno, claro, siempre poner...
+H3: Que si hay siete personas... si hay siete personas hablando, un poco orientarnos de quiénes son.
+H6: De acuerdo.
+H2: No. Procura dejar un hueco antes...
+H6: Para poder grabar quiénes...
+H2: exactamente, o sea, dejar un hueco antes de la cinta para poder grabar, "a continuación tal, tal" y si no [ininteligible] después.
+H6: Claro.
+H1: Yo lo hago, digo: "grabación de tal y cual".
+H3: Yo eso no.
+H2: A ver, venga, vosotras mandáis, ¿qué es lo que queréis que...?
+H6: [ininteligible] ¿cuánto tiempo y qué tipo?
+H2: Juan puede hacer conversaciones de moto a moto y... [ruido]
+H5: Y de las pesonas que hablan ¿qué queréis que pongamos? ¿edad? eh... ¿qué más?
+H1: Edad aproximada o...
+H3: Sí, edad aproximada y si sabéis la profesión o qué estudian...
+H1: Ale, no hombre, ¿sí?
+H2: Claro. [ininteligible] Sexo, nivel cultural... [silencio]
+H7: Cuando se pueda, porque a veces es muy difícil.
+H3: Claro. No, yo...
+H2: [ininteligible]
+H4: Y cuando no se pueda decir el sexo, pues... [risa]
+H2: Ya entendemos que es aparentemente varón de aparentemente veinte años, aparentemente...
+H3: Como ponías tú, "supuestamente leído".
+H1: Supuesta[palabra cortada]...
+H2: Pero tú no tienes que poner el aparentemente.
+H1: Nos hace mucha falta...
+H2: [ininteligible] que es estudiante, pues ya se sabe que [ininteligible]
+H5: [ininteligible] Os hace mucha falta ¿qué?
+H1: Eh... textos de... científicos, técnicos, jurídicos... [ininteligible]
+H3: Sí. Eso, o sea, gente que conozcáis que por ejemplo estudia medicina, que os grabe una clase de Medicina...
+H1: De Derecho, de Física, de Química, de Matemáticas...
+H6: [ininteligible] sí que lo puedo hacer.
+H3: O sea, clases.
+H4: Yo puedo proporcionar una clase de astronomía.
+H3: Ah, fenomenal.
+H1: Y tú alguna... los coloquios de Generativa, pues...
+H6: Textos en público, o sea, clases os... os va bien, ¿no? ¿De distintas materias? ¿Cómo cuántas clases?
+H1: Que tú veas que no va a ser super horroroso.
+H2: No, no. Tú de lo que puedas.
+H6: Pero, ¿cuántas clases necesitan? ¿cuántas por ejemplo?
+H3: Mira,
+H6: Clases yo os puedo grabar de distintas cosas.
+H1: Pues eh... [ininteligible]
+H3: Hasta un total de treinta mil palabras. De cada cosa o sea que sin miedo.
+H1: No, mucho.
+H6: Pero eso ¿cuánto corresponde?
+H2: O sea, que se les puede grabar un par de clases de cada cosa, perfectamente.
+H1: Sí, sí, sí.
+H6: ¿Un par de clases de cada cosa?
+H1: Sí, sí. [silencio]
+H2: Perfectamente. Luego ya, a la vista de eso, ya decidiremos si hace falta más, cuánto da una clase, que es difícil saberlo ahora mismo. Porque yo calculo que de una clase pueden salir cinco mil palabras.
+H1: Una clase da... Más.
+H3: Sí. Seis mil palabras...
+H1: Unas seis... Sí.
+H3: Una hora, seis mil, siete mil palabras.
+H1: Más o menos. Algo más.
+H2: Sí, pero teniendo en cuenta que en una clase puede haber trozos leídos que haya que...
+H3: Claro.
+H2: cortar o una cosa de éstas. Es decir, que si vemos que tenemos mucho material entonces es preferiblemente suprimir trozos leídos.
+H1: La verdad si... si son... yo ya es que me estoy viendo el problema, si son super super técnicas, de Física,
+H2: Pero, que además si... si están ya transcritos tampoco los borréis, simplemente se va haciendo un corpus subsidiario, de textos leídos en... en... entre los textos orales. Porque eso ya lo tenemos transcrito.
+H1: Claro, pero eso son palabras que no cuentan del oral y tenemos que transcribir mucho.
+H2: No, quiero decir que si ya lo tenéis transcrito, y decimos: "ah, pues esto no era tal cosa" que no lo borréis [ininteligible] lo aprovecharemos.
+H1: Ah, bueno. Ah y una cosa que... que... que me pasó el otro día, en medio de un debate, de repente apareció una chica extranjera hablando perfectamente español pero... y habló y tal, pero es que luego todos se referían a ella. Todos, todos, todos los que hablaban, el resto, porque estaban hablando de la [extranjerismo]perestroika[fin de extranjerismo] tal, y era rusa, estaban hablando todo el rato de lo que decía ella y refiriéndose y patatín...
+H2: Pues mala suerte.
+H1: Pero... ¿qué significa, que no vale el texto entero?
+H2: Pues me temo que no. Es poco aconsejable. ¿Ya lo has transcrito?
+H7: ¿Quién era...?
+H1: Sí.
+H7: la nieta de... era la nieta de Dolores Ibarurri?
+H1: Sí.
+H7: Es que habla muy bien español.
+H1: No, esa sí... no sé, me parece que sí.
+H2: de todas maneras también tienes que ver si es un hablante bilingüe porque si es bilingüe...
+H7: Es que a lo mejor es bilingüe.
+H6: Porque es la sobrina de...
+H1: Es que no lo cogí entero. No lo sé.
+H6: de la Pasionaria.
+H2: Ah, bueno.
+H1: Era esa.. ah, sí. Sólo se... sólo se nota que es extranjera por el acento pero... desde luego habla perfectamente.
+H2: O sea, que lo que pasa que cuando se digitalice eso ahí sí que habrá que advertir que, si no va a salir con un acento ruso. Pero claro, si... si la construcción es correcta...
+H1: Sí, es perfectamente....
+H2: Lo otro de la transcripción no es problema. Bueno, venga, que os salís de eso y no repetís [ininteligible]
+H6: Bueno, clases...
+H1: Clases, conversación...
+H3: Conversaciones entre amigos y clases lo... [ininteligible] y ya está.
+H1: Es lo que más falta nos hace. Y luego...
+H6: Y de conversaciones, ¿qué tipo de conversaciones?
+H3: Cualquier cosa.
+H1: Todo.
+H3: Cualquier cosa, esto que... sirve.
+H2: No vais a tener más remedio que iros a las discotecas y demás porque no... [ininteligible]
+H3: Huy, ¡Pues menudo ruido de fondo!
+H1: ¿En una discoteca? Y te mueres ya.
+H3: Menudo ruido de fondo en una disco[palabra cortada].
+H2: Si se lo digo a Juan y a Pedro, que...
+H1: No, no. Ah, otra cosa os pedimos. Si, si va a ser una conversación eh... que va a tener tantísimo ruido, en un bar, ruido de fondo, etcétera, que no se va a oir...
+H2: ¿Y por qué no... por qué no concretáis de verdad lo que queréis?
+H1: Bien.
+H2: Si yo os diera las instrucciones [ininteligible] [ruido]
+H3: Conversaciones entre amigos o en casa, en la familia.
+H6: [ininteligible] con unos amigos que me voy a ir de Semana Santa,
+H3: Sí.
+H6: seguro que tenemos alguna partida de parchís.
+H1: Vale.
+H3: Sí.
+H6: O de alguna cosa, ¿vale eso?
+H3: Sí.
+H1: Cualquier... las conversaciones que sean al aire libre o en casa son perfectas. Las que son en bares o autobuses son horribles. Y en discotecas, ¿sabes?
+H3: Hombre, en discotecas...
+H1: Son horribles, sí. Son muy difíciles...
+H2: [ininteligible] entonces. Y ¿vosotros? ¿qué pensáis que podéis hacer?
+H1: Eh... si podéis acceder a eso, con[palabra cortada] las conferencias de...
+H3: Si como sirven fragmentos, aunque sean pequeños fragmentos de una conversación entre amigos.
+H8: [ininteligible]
+H1: ¿Sí? Si no les...
+H8: Lo que pasa es que puede estar lleno de palabras brocaces y de...
+H1: Eso no... al fin y al cabo así hablan los españoles. Todas las converasciones que yo tengo, bueno, no las he traído porque son... son de lamentar.
+H2: No si...
+H1: Pero eso no importa.
+H2: luego cuando le digamos: "la palabra más usada por los españoles en la conversación es... [risa]
+H1: Es "pues". ¿A qué sí?
+H3: O sea.
+H1: ¿Es "o sea"? Es "pues".
+H3: No. Entre "pues" y "o sea".
+H1: Es "eh" y "pues".
+H3: Eh.
+H1: "Pues" es increíble.
+H3: Y "o sea".
+H1: "O sea", y pu[palabra cortada], pero lo de "pues"... Yo una vez grabé uno que de cada cinco palabras...
+Todos:[ininteligible] Y en conversaciones "puta madre" se usa... Y... ¿qué más? Ah, la megafonía. ¿Qué hacemos con eso?
+H3: Ah, es verdad.
+H1: ¿Qué hacemos con...?
+Todos:[ininteligible]
+H6: Yo por ejemplo, las clases le voy a avisar que le voy a grabar, ¿no hay problema?
+H1: Eh, no. Avísaselo luego. Le decís, oye os he grabado...
+H6: No, pero comprenderás que a Medicina yo puedo ir a grabar una clase a un amigo pero no le voy a decir: "Oye, que voy a ir a tu clase de Medicina porque sí." Hombre, lo que sí sé...
+H5: [ininteligible]
+H6: No pero sí sé que no...
+H2: No... a los cinco minutos no.
+H6: Que van a... que... que no van a... [ininteligible]
+H7: De Juan Carlos... Habla muy bien [ininteligible]
+H1: Pero las conversaciones sí que no se lo puedes decir.
+H3: Si tú le dices que es anónimo...
+H2: Y que por favor, que es anónimo y que por favor no haga ninguna alusión a que se está grabando ni...
+H1: Las conversaciones no se pueden enterar. Luego lo dices, luego, "Oye os he grabado, ¿os importa?". Pero antes no se pueden enterar porque entonces...
+H2: que se olvide totalmente de ti.
+H1: ¿Vale?
+H2: De la grabación... y que si cuenta algún chiste o alguna cosa o hace algún comentario que es normal, que nadie va a saber que es él. A no ser que él quiera figurar como...

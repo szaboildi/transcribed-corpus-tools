@@ -1,0 +1,296 @@
+#archivo: PINS002E
+#fecha de grabación: 28-10-91
+#fuente: grabación directa en domicilio particular
+#localización: El Escorial, Madrid
+#términos: comida, chuleta, filete, vino, cerveza, azafato, línea aérea, níscalo, parrilla
+#H1: mujer, c. 23 años, azafata
+#H2: varón, 25 años, universitario
+#H3: varón, c. 35, Fernando, cerrajero
+#H4: varón, c. 35 años
+#H5: mujer, c. 25 años, periodista
+#H6: mujer, c. 30 años, Rosa
+#H7: varón, 28 años, biólogo
+#H8: mujer, c. 20 años, estudiante universitario
+#H9: varón, c. 50 años, padre de H2, H3 y H4
+H1: [solapamiento de turnos] Cogi.
+H2: Vale, vale. [fin de solapamiento de turnos]
+H3: ¿Quién quiere vino?
+H4: A mí échame un poquito.
+H5: Yo un poquito también.
+H3: Rosa, ¿tú quieres vino?
+H6: [solapamiento de turnos] No,
+H4: Vale [fin de solapamiento de turnos].
+H6: ...yo prefiero...
+H3: Richi ¿vino o cerveza?
+H7: Me has pillado ocupado.
+H1: ¿Quieres pillar? ¿Qué es lo que te has costado?
+H3: Bueno, ¿habrás comprado las chuletas tiernas? ¿No serán de negro?
+H1: Lo que... la que ha quedado. Exactamente lo que a las dos y cinco había. ¿No chicos?
+H2: Sí, sí.
+H1: Ten en cuenta que yo hoy trabajaba.
+H2: Tú no has trabajado en tu vida.
+H1: Anda que tú, guapo, que te tenemos que sacar de la cama. [texto no transcrito]
+H1: Richi, este es tuyo, guapo ¿eh? Toma, anda, tu filete, que tanto querías.
+H7: Tú [solapamiento de turnos] filete.
+H1: Huy, Richi, [fin de solapamiento de turnos] digo... perdón, Perico. Guai del Paraguai. ¿Tenéis algún [solapamiento de turnos] cuchillo?
+H2: ¿Tienes [fin de solapamiento de turnos] limón?
+H1: ¿Limón? ¿Te gusta el limón? Nelva ¿tienes limón para el caballero?
+H8: [afirmación]
+H3: Espera, voy a [solapamiento de turnos] ponérmelo aquí.
+H8: ¡Ay, hijo! [fin de solapamiento de turnos] [texto no transcrito]
+H3: Pisa, pisa, pisa con garbo.
+H1: Papá, pilla, [solapamiento de turnos] pilla
+H8: Trae [fin de solapamiento de turnos] anda. ¿A quién se le ocurre?
+H3: Joder, pues pa[palabra cortada]... [vacilación] no... no me [solapamiento de turnos] des otros.
+H8: Toma, anda [fin de solapamiento de turnos].
+H3: Si es para echar los huesos.
+H8: ¿Es para echar los [solapamiento de turnos] huesos?
+H3: Claro [fin de solapamiento de turnos].
+H8: [solapamiento de turnos] ¿Sí?
+H1: ...tráeme [fin de solapamiento de turnos] a mí... tráeme a mí...
+H8: Papá.
+H9: ¿Qué?
+H8: Que vengas a papear [ininteligible] [solapamiento de turnos] [ininteligible]
+H9: Ya [fin de solapamiento de turnos].
+H8: Mira, me voy a aposentar aquí.
+H2: ¿Y el limón?
+H1: Nelva, ese [solapamiento de turnos] limón.
+H8: No se [fin de solapamiento de turnos] me queje. ¡Ay! Perdone, [solapamiento de turnos] oiga.
+H1: Aquí [fin de solapamiento de turnos] no os sentéis nadie [sic] porque os vais [solapamiento de turnos] a asar.
+H8: Aquí tienes [fin de solapamiento de turnos] tu cítrico, amarillo.
+H2: Sí, o... o [sic] ovoide, o por ahí.
+H7: O por ahí, dice.
+H1: Paco quieres un filete, [solapamiento de turnos] de estos guais.
+H2: A lo mejor tienen [fin de solapamiento de turnos] limones de fantasía. Yo qué sé.
+H1: Te lo comes un [ininteligible] frío.
+H4: [negación]
+H1: Que sí. Por cierto, voy a dejar mientras tanto, así, al lado [silencio] de... tal y cual y... para que no se enfríe, y quien quiera...
+H3: Estas chuletas te las han traído los del [extranjerismo]cutleting[fin de extranjerismo] ese, la empresa esa...
+H1: Las hemos comprado en Valdemorillo, [solapamiento de turnos] tío
+H3: ...que te... [fin de solapamiento de turnos] que dan las chuletas numeradas y todo.
+H1: [solapamiento de turnos] Sí...
+H3: [ininteligible] [fin de solapamiento de turnos]
+H1: [ininteligible] son de esas que le [solapamiento de turnos] echas agua
+H2: La número tres [fin de solapamiento de turnos].
+H1: ...y salen.
+H3: Eh... pasajeros de primera, pasajeros de... turistas y pasajeros de los que van en...
+H1: ¿Ya has visto Richi lo que hay que aguantar? Todos los domingos lo mismo. [solapamiento de turnos] [ininteligible] papá.
+H2: ¿Y siempre [fin de solapamiento de turnos] distribuyes bien a la gente o a veces lo haces mal?
+H9: Más cuchillos, porque si no.
+H1: Bueno papá, ¿te sientas ahí mismo?
+H9: Aquí, [solapamiento de turnos] bueno.
+H1: Sí [fin de solapamiento de turnos].
+H9: Vale.
+H3: Esto es lo que da la vida, a los... a los pasajeros de primera especial hasta calcetines les [ininteligible].
+H2: ¿Ah sí?
+H9: Espera que voy a sacar [solapamiento de turnos] un poco [ininteligible]
+H1: Toma papá [fin de solapamiento de turnos]. [solapamiento de turnos] No, siéntate ya.
+H3: Y a los turistas [fin de solapamiento de turnos] no los meten en las ruedas [solapamiento de turnos] [ininteligible]
+H1: Siéntate.
+H9: [ininteligible] la mitad...
+H1: Tú empieza. Papá que se enfría.
+H9: Espérate, ahora voy, [solapamiento de turnos] espérate.
+H1: Crees, desde luego, ni arte, [solapamiento de turnos] ni arte, está en su punto.
+H2: Si te dan calcetines sí los ves.
+H3: ¿Eh?
+H1: Está en su punto, papá. ¿Cómo me puedes hacer [solapamiento de turnos] esto?
+H3: Y a las [fin de solapamiento de turnos] mujeres las dan crema y cosas de esas.
+H1: Bueno, ¿quién se lo come? Tú has empezado ya.
+H2: Necesito...
+H1: Si ahí hay cuchillos. Cuchillos. [texto no transcrito]
+H1: Es limón de Valdemorillo. Nelva, a comer, ahora mismo. ¿Qué quieres [solapamiento de turnos] chuletas
+H2: [ininteligible] [fin de solapamiento de turnos]
+H1: ...o filete?
+H8: Espera voy a poner... Yo...
+H1: Pido papel, tijera.
+H8: ...de todo.
+H1: ¿Empiezas con la [solapamiento de turnos] chuleta o empiezas con el filete?
+H8: De lo que haya hecho ya. [fin de solapamiento de turnos].
+H1: ¿De lo que haya hecho ya? Pues las chuletas.
+H8: De lo que haya hecho ya.
+H1: Y ahora sigues ¿no?
+H9: Así que se pone uno... [interrupción de la grabación]
+H8: Espera, están las... servilletas.
+H9: Están a[palabra cortada]... hay aquí.
+H8: ¡Ay!
+H1: Nelva, sienta, no tienes excusa. Toma, anda. [solapamiento de turnos] [ininteligible]
+H9: Jolín cómo le pega esta [fin de solapamiento de turnos].
+H1: ...filete.
+H8: Bueno, ahora me hago yo un plano, Espo.
+H3: A ver.
+H8: Porque...
+H3: Ahora te lo explico yo.
+H8: Espera, me voy a pasar al ala norte. [solapamiento de turnos] Así no [ininteligible] a nadie.
+H3: A ver, ¿dónde te pasas? [fin de solapamiento de turnos]
+H1: Mira, papá, toma.
+H3: Ponte para acá [solapamiento de turnos] que [ininteligible]
+H1: Tú empieza a comer o después [ininteligible] [fin de solapamiento de turnos] sobrar por tu culpa.
+H9: Yo no quiero... todo.
+H1: Tú empieza.
+H9: Bueno... [risas]
+H2: Delante de la chimenea. [silencio]
+H9: Y Nelva diciendo que laves los níscalos.
+H8: Este, [solapamiento de turnos] ¿este vino es del bueno
+H9: Y está siempre lavando los níscalos [fin de solapamiento de turnos].
+H8: ...o del malo?
+H9: [solapamiento de turnos] Estos no se han comido níscalos como debían de comérselo
+H8: Bueno, lo puedo aguar a gusto ¿no? [fin de solapamiento de turnos]
+H9: ...que es recién cogidos y a la brasa.
+H1: Yo sí. [texto no transcrito]
+H1: Yo lo he hecho [silencio] con... Miguelín, el de la [extranjerismo]Függer[fin de extranjerismo], los dos allí, [texto no transcrito]. A ver qué come[palabra cortada]... qué cenamos hoy, qué tenemos para cenar hoy, y nos fuimos al campo a pillar níscalos. Como mongólicos.
+H9: A ver [duda] me... eh...
+H1: Estábamos en una casa que no tenía ni cuarto de baño. Teníamos que ir al campo a hacer un pis. [texto no transcrito]
+H1: Déjamelo aquí. Tú... trae un plato y te pongo... ¿qué quieres [solapamiento de turnos] Silvia
+H5: Sí, padre [fin de solapamiento de turnos].
+H1: Tortilla [solapamiento de turnos] o...?
+H5: No, no, no [fin de solapamiento de turnos], no. Tú... yo no quiero nada.
+H8: [solapamiento de turnos] Yo quiero...
+H1: ¿Cómo [fin de solapamiento de turnos] no quieres nada, Silvia?
+H5: No quiero nada, vale.
+H1: [ininteligible] una [solapamiento de turnos] una chuletilla
+H2: ¿Cómo [fin de solapamiento de turnos] que no?
+H5: He dicho [solapamiento de turnos] no.
+H2: Pues [fin de solapamiento de turnos] este lo quiere todo.
+H5: Pues dile que [solapamiento de turnos] [ininteligible]
+H4: ¿Quieres el hueso? [fin de solapamiento de turnos] [solapamiento de turnos] ¿Te doy el hueso?
+H3: No, espérate luego.
+H5: Cuando digo que no [ininteligible] es que no me apetece.
+H4: ¿Te lo vas a comer? [fin de solapamiento de turnos]
+H9: ¿Cómo que si se lo come?
+H4: No, pero no te dejo que lo chupes, para mí. [texto no transcrito]
+H1: Bueno, Paco un filete [solapamiento de turnos] ¿no?
+H4: Un filete así, ¿eh? y no te creas tú, ni investigado ni leches.
+H3: Para llevarle a [solapamiento de turnos] vacunar
+H7: [ininteligible] tiempo ¿no? [fin de solapamiento de turnos]
+H3: [solapamiento de turnos] ...pesaba noventa quilos el perro y eh... le... cogíamos en el camión cuando eh... había que vacunarle y entre dos subíamos a la caja, le atábamos y cuando veía al veterinario ma[palabra cortada]... era lo... la... la... la... vamos veía la bata blanca y bueno, horrible. Sujetándole para allá para acá, bueno. [texto no transcrito] [fin de solapamiento de turnos] [texto no transcrito]
+H2: Luego te daré el hueso, si te portas bien.
+H1: Paco, filete. Dame tu plato o... este mismo.
+H4: Aquí, aquí tengo uno. Toma. Pero no muy grande ¿eh?
+H1: Bueno, te pongo aquí...
+H4: Que esté poquito pasado.
+H2: Mira, la que no quería nada. [texto no transcrito]
+H1: ¿Lo quieres más pasado?
+H4: No, está bien, está bien.
+H1: ¿Quién quiere más? Fernando. [texto no transcrito]
+H5: Cubiertos ¿tenéis?
+H3: Entre dos cachos de pan.
+H1: [solapamiento de turnos] Dame...
+H9: Fal[palabra cortada]... [fin de solapamiento de turnos] faltan [solapamiento de turnos] [ininteligible] algún tenedor
+H7: No están ahí, ahí [fin de solapamiento de turnos].
+H9: [ininteligible]
+H1: Tú come y calla, cago en Ros. Toma. [ininteligible]
+H5: Papi, siéntate en la mesa.
+H9: [ininteligible] muy bien sentado.
+H3: Rosa, ¿quieres un cachito de esto? [solapamiento de turnos] ¿Eh?
+H6: No [fin de solapamiento de turnos], cómetelo tú.
+H3: Toma.
+H6: Que no, ahora, ahora [solapamiento de turnos] [ininteligible]
+H1: Ahora, ahora [fin de solapamiento de turnos].
+H9: Ahora, vamos a ver níscalos que eso sí que... a mí.
+H5: Espérate que acabe. Para que se les pueda usar la [ininteligible].
+H9: Pero no los pases mucho, ¿eh?
+H1: [solapamiento de turnos] No...
+H5: Que no [fin de solapamiento de turnos], papá, tranquilo.
+H1: Toma. [texto no transcrito] [interrupción de la grabación]
+H3: Repite, repite. Por favor, por favor.
+H1: No. Que no pienso decirlo. [solapamiento de turnos] Socorro
+H2: American Airlines [fin de solapamiento de turnos]
+H1: Eh, Cogi, [vacilación].
+H3: No, ese no es Cogi, es [solapamiento de turnos] American Airlines [fin de solapamiento de turnos] [risas]
+H1: Eres un cabrito, [solapamiento de turnos] tío
+H2: ¿Cómo [fin de solapamiento de turnos] se dice? ¿Cómo se dice?
+H3: Repite, repite.
+H2: ¿Cómo se llama tu empresa?
+H1: Pero si es que no puedo [solapamiento de turnos] [ininteligible] [texto no transcrito]
+H2: [solapamiento de turnos] A ver.
+H1: Si no [fin de solapamiento de turnos] puedo mejorarlo [solapamiento de turnos] tío
+H2: A ver.
+H3: A ver [fin de solapamiento de turnos], a ver, a ver, dilo... dilo... dilo.
+H2: A ver.
+H3: A ver, tú ponte en plan serio. [ininteligible] [solapamiento de turnos] que soy el supervisor general.
+H1: En plan serio, con vuestros caretos de... [fin de solapamiento de turnos].
+H2: Hasta... hasta "ri" es fácil, "ameri". [risas] Hasta ahí es fácil.
+H3: Venga, venga.
+H1: No, si es que el máximo problemilla [duda] o fallo y tal es cuando dices [extranjerismo]airlines[fin de extranjerismo]. [texto no transcrito]
+H1: Pues tío, quítate el cerumen.
+H3: A ver, no. [ininteligible] A ver, [extranjerismo]American[fin de extranjerismo] ¿cómo?
+H1: [extranjerismo]airlines[fin de extranjerismo]
+H3: [extranjerismo]airlines[fin de extranjerismo] [texto no transcrito] [ininteligible]
+H1: Desgraciado. Menos mal que... que Perico no es de campo, que si no. Y [solapamiento de turnos] no viene nunca.
+H3: Es un hom[palabra cortada]... [fin de solapamiento de turnos] hombre muy ilustrado y muy cultivado.
+H1: Oh Dios mío qué pareja. Jo, qué horror. Y venga a echar mandarinitas, anda... echa un boniato a ver si... si cuece. [texto no transcrito]
+H2: Joder.
+H1: Casi me he convencido yo misma.
+H2: Sí, sí.
+H1: Yo misma mismamente.
+H3: [solapamiento de turnos] Con lo fácil que es decir...
+H2: [ininteligible] mejor que ellos [fin de solapamiento de turnos].
+H1: Jopé, he hecho una nueva versión que suena mil veces mejor.
+H2: Lo dices mejor que ellos [fin de solapamiento de turnos], vamos.
+H3: Con lo fácil que es decir Aviaco, Spantax, [solapamiento de turnos] ¿eh?
+H1: Claro [fin de solapamiento de turnos].
+H3: Iberia.
+H8: [solapamiento de turnos] Oye pues yo volé... yo volé en Spantax
+H1: [texto no transcrito] [fin de solapamiento de turnos]
+H8: ...y [solapamiento de turnos] hay que ver qué bien me trataron ¿eh?.
+H5: [texto no transcrito] [fin de solapamiento de turnos]
+H8: En Spantax y además debió ser uno de sus últimos vuelos [solapamiento de turnos] porque... [ininteligible]
+H1: Espantada... espantada...
+H5: Salía la gente [fin de solapamiento de turnos] espantada, es que es verdad.
+H8: Oye, pues un gustito. [risas] No había... [solapamiento de turnos] no había niños. No había niños por ningún lado.
+H5: Cuenta, cuenta. Cuenta, no omitas detalle, cuenta [fin de solapamiento de turnos]. [risas]
+H8: [ininteligible] azafatos, oye.
+H5: Una cosa.
+H8: [extranjerismo]...latín lovers[fin de extranjerismo] ahí, [extranjerismo]tipical [solapamiento de turnos] spanish[fin de extranjerismo]
+H1: Qué uniforme [fin de solapamiento de turnos] de cuero más bonito que llevaban.
+H8: Con la moto ahí, [solapamiento de turnos] que se paseaban.
+H5: Nelva, Nelva, Nelva, ¿me emociono?
+H9: Que yo no he perdido a [fin de solapamiento de turnos] los chinos eh...
+H5: Venga, venga. Me emociono.
+H9: Que yo no he [solapamiento de turnos] perdido a los chinos.
+H5: De verdad, Nelva, ¿me emociono?
+H1: ¿Pues quién [fin de solapamiento de turnos] ha perdido, pues?
+H3: Hombre, ha perdido tu hermana. Tu hermana es la...
+H4: Yo lo que estoy deseando es que alguien me explique por qué cojones en las compañías aéreas a todo le acojonan cuando sube al avión, explicando por qué... qué coño es lo que tienen que hacer cuando se pega la hostia el avión.
+H1: [vacilación] ...que [solapamiento de turnos] acojonas...
+H8: Si nadie le hace ni puto caso.
+H1: Un momento [fin de solapamiento de turnos]. Me he perdido por lo de [solapamiento de turnos] hostia.
+H5: Mira tengo... [fin de solapamiento de turnos] conozco a gente que... [ininteligible]
+H4: Lo primero que hacen es te ponen el video diciendo qué cosa tienes que hacer cuando te pegas la hostia.
+H1: [solapamiento de turnos] Hombre por si aca[palabra cortada]...
+H4: A ver, ¿por qué? [fin de solapamiento de turnos] [texto no transcrito]
+H9: Te decían que te pusieras el carné de identidad en la boca para identificar al cadáver.
+H8: Y te lo avisan, oye. Te dicen: mira yo [solapamiento de turnos] no me [ininteligible]
+H1: Ah... Ya te lo dije [fin de solapamiento de turnos], ya te lo [solapamiento de turnos] dije... Ah... Ah...
+H8: Tú sabrás macho [fin de solapamiento de turnos]. Si te asegurase o no, eso ya [solapamiento de turnos] no es problema mío.
+H9: Si llego a perder a los [fin de solapamiento de turnos] chinos, fíjate.
+H4: Eso es... eso es una manera de... de coaccionar a la gente, de cohibirla. [solapamiento de turnos] Decir: ¡joder qué hostia te vas... lo que... lo que nos va a pasar...
+H1: Muy bien, ha conseguido... Sí, ha pillado el tío, eh, la movidilla [fin de solapamiento de turnos].
+H4: [solapamiento de turnos] [ininteligible]
+H8: Cuando [fin de solapamiento de turnos] en realidad todo el mundo sabe que accidentes de avión nunca hay.
+H3: [solapamiento de turnos] No.
+H4: No [fin de solapamiento de turnos], no, no.
+H3: No suele haber.
+H4: [solapamiento de turnos] Y que si
+H8: Nunca [fin de solapamiento de turnos].
+H4: ...hay no suele haber... no suelen contarlos nunca.
+H8: Exacto. [solapamiento de turnos] Por eso no hay,
+H1: ¡Hombre! Es que...
+H8: ...porque nadie te lo [solapamiento de turnos] cuenta.
+H4: Claro [fin de solapamiento de turnos]. [silencio]
+H3: Es que [solapamiento de turnos] estos america[palabra cortada]... estos americanos, son... son mucho. Tienen un nivel muy fuerte.
+H5: Eh, Cogi, déjalo en paz [silencio] rico. Ven aquí [fin de solapamiento de turnos].
+H4: Ya.
+H5: No, no.
+H3: [vacilación] ...tú te [solapamiento de turnos] caes de cien mil metros de altura, pero llevas puestas las pantuflas.
+H9: No cuadra, esto no cuadra, eh. Ah, sí cuadra [fin de solapamiento de turnos] sí cuadra.
+H1: Si nunca no pasa nada. Está garantizado. [solapamiento de turnos] Ah, no os lo creéis.
+H9: Sí cuadra [fin de solapamiento de turnos].
+H1: [solapamiento de turnos] Ah, pues... [ininteligible] [fin de solapamiento de turnos]
+H1: ¿...cómo, que no os lo creéis? [texto no transcrito]
+H8: Si hay algún tipo de accidente, algún tipo de... anomalía [solapamiento de turnos] [ininteligible]
+H3: Quien ríe el último... [fin de solapamiento de turnos]
+H8: ...a la venta... [solapamiento de turnos] [ininteligible]
+H1: El último no, gilipoyas [fin de solapamiento de turnos].
+H8: ...por si acaso... [solapamiento de turnos] parapente ¿no?
+H4: Diez minutos [fin de solapamiento de turnos]. Diez minutos. [texto no transcrito]

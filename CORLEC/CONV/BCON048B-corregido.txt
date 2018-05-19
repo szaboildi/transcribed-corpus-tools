@@ -1,0 +1,80 @@
+#archivo: BCON048B
+#fecha de grabación: 5-1-92
+#fuente: conversación con una niña
+#localización: Madrid
+#términos: Reyes, juego, muñeca, jarra
+#H1: mujer, 27 años, filóloga
+#H2: niña, 9 años, estudiante
+#H3: mujer, 66 años, ama de casa
+H1: ¿Qué es lo que le has comprado?, ¿qué le quieres comprar a mamá?
+H2: Eh... no sé... no sé, en realidad no sé bien que [ininteligible], sino que pues... le compro... no sé.
+H1: ¿Qué vas a comprarle? A ver si te llega el dinero.
+H2: Una jarra porque se... se nos rompió el otro día.
+H1: [solapamiento de turnos] ¿Una jarra?
+H2: Se le cayó [fin de solapamiento de turnos] a... a Leli
+H1: ¿Una jarra de agua?
+H2: Sí. Se le cayó a Leli y le vamos a comprar una.
+H1: ¿Y sino?
+H2: Y sino, pues... pues... yo que sé... yo que sé pues... una chaqueta o algo.
+H1: Oye, ¿y la jarra, cómo era?, ¿era bonita o era normal?
+H2: Pues... es ésa que... que... que... que... que parece un florero.
+H1: Ya. ¡Ah...! No, porque estaba pensando en alguna otra tienda que hubiera por aquí [silencio] pero no se me ocurre ahora mismo. [silencio] Vamos a ver. [silencio] O en una tienda por aquí cerca, no lo sé, que vendan jarras. [silencio] No se me ocurre. Ya te lo diré, si me acuerdo.
+H2: [risas]
+H1: ¿Vale? [silencio] ¿Y qué más? ¿Has hecho todas tus compras de Reyes?, [silencio] [interrogación] ¿Ya está todo comprado? Bien... mañana vienen, bueno, vienen en esta madrugada.
+H2: Y esta noche vamos a casa de mi abuela a recoger lo... nuestros juegos.
+H1: ¡Ah!, ¿sí? ¡Qué pronto!, vienen antes de tiempo, ¿no?
+H2: [risas]
+H1: ¿Y ese privilegio?
+H2: Porque es que nuestros primos van mañana,
+H1: Sí.
+H2: ...pero como ellos no lo saben, lo de los Reyes, todavía.
+H1: ¡Ah!, las pequeñitas, Sandra y...
+H2: No. Son... de... la... de la familia de mi padre.
+H1: ¡Ah!, a casa de tus abuelos...
+H2: Sí.
+H1: ...al... a los abuelos... padre de tu padre, no a casa de Leli.
+H2: Sí. [silencio] Pues allí. Y van... los otros primos que a... aunque... aunque va... va ir una niña que es más mayor que ellos, es como Irene, pues que no lo sabe. Ésa me parece que sí lo sabe, pero los otros dos pequeños no lo saben y van mañana, nosotros vamos esta tarde.
+H1: ¡Ah!, bien. [silencio]
+H2: [risas]
+H1: ¿Qué te han traído allí los Reyes? ¿Ya lo sabes?
+H2: Pues a Juan Luis, como no saben que comprarle, porque... el otro primo ya es pequeño, pues eh... dice la abuela que le va a dar dinero y a... y a mí, lo mismo que las primas, que será, como siempre, cacharritos y la "[extranjerismo]Nancy[fin de extranjerismo]".
+H1: [risas] No te gustan... a ti sí te gustan los cacharritos, ¿no?
+H2: Sí, pero... [solapamiento de turnos] no mucho. [risas]
+H1: Ya te estás haciendo mayor. [fin de solapamiento de turnos] Ya te estás haciendo mayor, ¿no, Bicho?
+H2: Yo ya... lo que hago es con los juegos de mesa.
+H1: ¿Los juegos de mesa, es lo que más te gusta? [silencio]
+H2: O... una muñeca también me gusta pero...
+H1: ¿También te gustan las muñecas? Pero ya no juegas con muñecas, ¿o sí?
+H2: No.
+H1: ¿No?
+H2: Sólo cuando viene Irene, si nos apetece.
+H1: Jugáis y si no, pues nada.
+H2: Y si no, pues nada.
+H1: Estás constipada, ¿no?
+H2: Estoy constipada y [solapamiento de turnos] me duele la tripa.
+H1: Con colitis [fin de solapamiento de turnos]. ¿Qué has comido, para que estás así de la tripa?
+H2: "Cola Cao".
+H1: ¿"Cola Cao"? [silencio]
+H2: Mucho "Cola Cao".
+H1: ¿Mucho "Cola Cao"?
+H2: Y no duermo... no duermo
+H1: ¿No duermes, por qué?, ¿tienes pesadillas?
+H2: Porque no tengo sueño. [risas] [solapamiento de turnos] Ayer
+H1: ¿No tienes sueño? [fin de solapamiento de turnos] Las preocupaciones, el trabajo
+H2: Los Reyes [solapamiento de turnos] [risas]
+H1: Las vacaciones [fin de solapamiento de turnos], que se están acabando.
+H2: Y... ayer estuvimos desde que Sergio y mamá apagaron la luz, se vino Juan Luis
+H1: ¿"Desde que Sergio" qué?
+H2: Y mamá.
+H1: ¡Ah!
+H2: Apagaron la luz ya [solapamiento de turnos] anoche
+H1: Como estás afónica, te enten[palabra cortada]... ¡Huy, "afónica"! Nada... nada, tonterías. Sigue.
+H2: Constipada.
+H1: Sí, eso. [risas] Has dicho: [onomatopeya]"mamá"..."mamá"[fin de onomatopeya]. [risas]
+H2: [risas] Pues eh... Juan Luis y yo nos... nos fuimos a mi cuarto, allí a hablar y luego nos fuimos al suyo y luego, al mío otra vez.
+H1: [exclamación]
+H2: Y estuvimos hasta las dos. [llaman a la puerta]
+H1: ¿Hasta las dos?
+H3: Vamos a comer.
+H2: Sí.
+H1: Bueno, pues venga, vamos a comer.

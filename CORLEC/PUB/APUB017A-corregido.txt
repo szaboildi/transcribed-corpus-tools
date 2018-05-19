@@ -1,0 +1,15 @@
+#archivo: APUB017A
+#fecha de grabación: 28-11-91
+#fuente: radio
+#localización: Madrid
+#H1: varón, edad desconocida
+#H2: mujer, edad desconocida
+#términos: mueble, precio, horario
+H1: ... con cariño, bien hecho...
+H2: El seis dieciséis cero cinco veintiuno es el teléfono, y es por la carretera de San Martín de Valdeiglesias antes de llegar a Villaviciosa.
+H1: ¡Gran fábrica de muebles "Franmobel"!
+H2: De verdad: son baratos y muy buenos.
+H1: ¡"Franmobel"!
+H2: Abierto domingos hasta las dos de la tarde.
+H1: Mañana está abierto hasta las dos de la tarde. [solapamiento de turnos] ¡"Farnmobel!"
+H2: No lo dude. [fin de solapamiento de turnos] "Franmobel". [música]

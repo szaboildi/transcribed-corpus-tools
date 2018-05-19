@@ -1,0 +1,17 @@
+#archivo: PLUD008B
+#fecha de grabación: 16-12-91
+#fuente: televisión
+#localización: Barcelona
+#términos: programa, humorista, humor, concurso, reír, chiste, premios, aplauso
+#H1: varón, c. 30 años, presentador de concurso
+#H2: varón, c. 40 años, humorista
+#H3: mujer, c. 25 años, Sandra, concursante
+[aplausos]
+H1: [texto leído] Le habla el contestador automático del programa "No te rías que es peor", al oír la señal acústica deje su mensaje, gracias. [fin de texto leído] Hola, buenas tardes, oye que soy Ramón García, que se me ha estropeado y estoy en el taller, y como no me da tiempo... para llegar, adelanto trabajo por teléfono. A ver si queda bien, ¿vale? Vamos allá, eh... [risas] Buenas tardes y bienvenidos a "No te rías que es peor", el gran programa de humor de la sobremesa, que hoy cuenta con la presencia serrana del mejor equipo de humoristas de la tele. [aplausos] Bueno, parece que está quedando bien, ¿no? A ver si me da tiempo ya... y mientras tanto le dejo en la compañía de... Marianico el corto... [aplausos]
+H2: Bienvenidos. [ininteligible] que no... luego parece que salen espontáneos, vale. Y hablando de espontaneidades y de cosas os habéis dado cuenta... conforme pasan los años de matrimonio, aquí que veo yo a personas así maduras de mi edad [risas] de veintiocho treinta años... [risas] Casados ya, se... me refiero. Verdad que... las cosas tan bonitas que te decían de novios y luego los maridos, verdad que de casados no... [solapamiento de turnos]
+Público: No...
+H2: ...no dicen nada [fin de solapamiento de turnos]. Ha[palabra cortada]... ha[palabra cortada]... hay que ser como... como yo... a mi mujer la tengo yo amaestrada. [risas] El otro día me dice: "cariño"; y yo le digo: "dime". Yo estaba ahí leyendo el periódico y dice: "¿verdad que tengo un cuerpo bonito?" Digo: "sí..." Me dice: "¿verdad que mis ojos son preciosos?" Digo: "sí..." Dice: ¿verdad que mi boquita te excita?" Digo: "sí..." [risas] Dice: "¿verdad que mis pechos son... eh?" Digo: "sí..." [risas] "¿Verdad que mi culito...?" Digo: "sí..." Dice: "cada vez me gustas más por las cosas tan bonitas que me dices. [risas] [música] [aplausos]
+H1: [ininteligible] Creí que no llegaba por cosas de los coches y de los talleres, el programa ha empezado, los concursantes aquí y por un pelín, eh, por un pelín. Pero bueno, más vale tarde que nunca, ¿no? Aquí tenemos a los dos concursantes de hoy, se los presento [ininteligible] [vacilación] aquí el presentador. Nos vamos hasta Valladolid, ¿no es así...? para conocer nuestro primer concursante que se llama Emmanuel, viene con ganas de ganar muchísimos puntos, dinero, regalos, premios, y para animarle un aplauso para Emmanuel, claro. [aplausos] Y nos vamos... nos vamos desde Valladolid hasta aquí, hasta Cataluña, porque nos quedamos en un pueblecito, que yo no lo conocía, que se llama... a ver si lo digo bien, San Quintín de Vellona, ¿lo he dicho [solapamiento de turnos] bien?
+H3: Sí [fin de solapamiento de turnos], sí.
+H1: Pues precisamente de allí es nuestra chica de hoy en el programa, en "No te rías que es peor", y se llama Sandra. Sandra, buenas tardes.
+H3: Buenas tardes. [aplausos] [texto no transcrito]

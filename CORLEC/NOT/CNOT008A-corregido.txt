@@ -1,0 +1,20 @@
+#archivo: cnot008a
+#fecha de grabación: 11-3-91
+#fuente: radio
+#localización: Madrid
+#términos: Gobierno, política
+#H1: varón, locutor
+#Ha: varón, ministro
+#Hb: varón, periodista
+#Hc: varón, secretario de acción sindical de Comisiones Obreras
+#Hd: varón, presidente de COE
+#H2: varón, periodista
+H1:Uno de los ministros de permanencia en su puesto es Fernández Ordóñez. De él se llegó a rumorear que era candidato a la vicepresidencia, aunque nunca, al menos públicamente, admitió tener esa vocación.
+Ha:Pues que yo no sé quién lo está manjeando, que... que yo eh... no... eh... eh... no he oído jamás al presidente decirme nada de eso, nunca.
+Hb:Ministro...
+Ha:Y que... y que no sé ni siquiera ni si se le ha pasado por la cabeza y que a mí me parece eh... que yo no soy la persona más adecuada ni mucho menos. [texto leído][texto no transcrito][fin de texto leído]
+Hc:Sigue siendo el Gobierno del 14 de diciembre, es decir, no parece que vaya a cambiar la política económica. Es por lo tanto o apunta a ser más de lo mismo, y desde luego el parto de los montes que se ha producido para dar a luz este nuevo Gobierno no se justifica... el nivel de expectativas creado con el resultado final. [texto leído][texto no transcrito][fin de texto leído]
+Hd:Puede haber empresarios que incluso... han demostrado cierto[sic] preocupación o cierto nerviosismo en los... últimos tiempos, bueno porque continuara la actual política económica, y porque además, eh... permanecieran los responsables...
+H1:Las primeras palabras de José María Cuevas, en un instante continuamos. [publicidad]
+H1:Son las ocho de la tarde veintiocho minutos. Hemos trazado los perfiles y las claves políticas del nuevo equipo ministerial de Felipe González. Nos quedan todavía algunas cuestiones importantes para entender esta remodelación sobre todo a propósito del nombramiento de Narcís Serra como nuevo vicepresidente. Deja vacante la cartera de Defensa a la que accede el hasta hoy ministro [duda] el hasta hoy ministro [duda] de sanidad. Un puzzle más sencillo de lo que en principio, eh... pueda parecer. En el Ministerio de Defensa ha estado nuestro compañero Didac Boza, ¿cuál puede ser Didac, la fotografía sonora de esta tarde de relevo?
+H2:[texto leído] Pues la fotografía es la del flamante vicepresidente Narcís Serra reunido con los cuatro Jefes de Estado Mayor. [fin de texto leído]

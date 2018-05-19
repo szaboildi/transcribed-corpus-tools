@@ -1,0 +1,36 @@
+#archivo: ccon029f
+#fecha de grabación: 25-3-91
+#fuente: conversación telefónica
+#localización: Segovia-Madrid
+#términos: armario
+#H1: mujer, 45 años. Llama desde Segovia
+#H2: mujer, 50 años, esposa de un carpintero. Habla desde Madrid
+H1:Buenas noches.
+H2:Buenas noches.
+H1:Mire, quería hablar con Paco para hablar de lo del armario... que somos los vecinos.
+H2:Sí. Pero mire, está acostado.
+H1:Ah, está acostado.
+H2:Sí.
+H1:Bueno, pues...
+H2:Está un poco acatarrado y se ha acostado antes.
+H1:Sí, sí. Era para decirle que definitivamente que le queremos de dos metros.
+H2:De dos metros.
+H1:De dos metros. O sea, que en vez de más grandote de dos metros.
+H2:De dos metros.
+H1:Así lo apunta usted ya que van tres puertas [duda] como ya nos llamaremos.
+H2:Pero ¿dónde la puede ver a usted?
+H1:Pues es que nosotros iremos... a lo mejor el... el sábado o el domingo,
+H2:Ya.
+H1:vamos. Mire, si quiere apunte nuestro teléfono, en caso de que fuera muy importante pero... muy urgente, yo de todas formas...
+H2:No...
+H1:le puedo llamar.
+H2:Hasta la semana que... que viene no creo yo que...
+H1:Por eso.
+H2:pueda empezar,
+H1:Sí.
+H2:¿comprende? Así que tiene usted tiempo de...
+H1:Pues ya le llamaré otro rato.
+H2:¿Eh? Sí. (Que vaya bien)
+H1:Hala, pues que se mejore.
+H2:De na[palabra cortada], gracias. Adiós.
+H1:Hale, adiós, adiós.

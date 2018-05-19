@@ -1,0 +1,84 @@
+#archivo: AENT020B
+#fecha de grabación: 21-12-91
+#fuente: televisión
+#localización: Madrid
+#H1: varón, periodista, c.45 años
+#H2: varón, edad desconocida
+#H3: varón, concejal del Ayuntamiento de Madrid, c.55 años
+#términos: lotería, premio, dinero, millones, pregunta
+#público: risas
+#público: risas, gritos, aplausos
+#público: risas
+#público: risas, aplausos
+#público: aplausos
+#público: risas
+[solapamiento de turnos] #público: aplausos
+#público: risas
+#público: risas
+[solapamiento de turnos] #público: risas, aplausos, gritos
+[solapamiento de turnos] #público: risas, aplausos
+#público: aplausos
+[texto no transcrito]
+H1: Yo, señor Matanzo, a lo que oigo me remito. Eh... las radios, eh... aquí mismo... y... he oído que...
+H2: ¿Qué va a hacer con tanto dinero?
+H1: Eh... ¡Usted tiene una voca[palabra cortada]... [palabra cortada]ción...!
+H1: Usted tiene una vocación por preguntar... que yo le felicito por ella. Ha[palabra cortada]... haga usted una cosa: Pásese aquí.
+H1: Pásese aquí. Pas[palabra cortada]... Oye, ¿no quiere preguntar tanto? Siéntese aquí. ¿Me da un[palabra cortada]...? ¿Me dan un micrófon[palabra cortada]...? ¡Cuidado! Métete ahí. No, con este micrófono. Siéntese ahí. Pregúntale... Pregúntele al señor Matanzo. Le permito... dos preguntas rápidas.
+H2: Pues... Yo no...
+H1: ¡Ah! [risas]
+H2: Que a ver... Esto es más complicado de lo que parece. Sobre todo, en directo.
+H1: Pregunte, pregunte.
+H3: Es muy sencillo; yo te voy a ayudar.
+H1: [risas] ¡Qué bien!
+H1: ¡Venga, pregunte!
+H3: El dinero para contarlo y lo que sobre para gastar.
+H2: No...
+H1: Segun[palabra cortada]... ya le ha contestado la primera pregunta. La segunda.
+H2: Que si se va a acordar de los que le han elegido.
+H3: ¿Que si me voy a acordar de lo que me han elegido? [solapamiento de turnos] Yo me acuer[palabra cortada]...
+H2: Quiere [fin de solapamiento de turnos] decirse que si se lo va a... abonar a asociaciones benéficas, etcétera, etcétera, [solapamiento de turnos] [ininteligible]
+H3: Mira si... [fin de solapamiento de turnos] Mira si me acuerdo, que el lunes que viene, sin haberme tocado la lotería, yo voy a una niña... a donar mi paga... y a donar la paga extraordinaria.
+H2: [solapamiento de turnos] [ininteligible]
+H1: [ininteligible] [fin de solapamiento de turnos]
+H1: Ha... contestado a sus dos preguntas. Bueno. Bah. Gracias, ¿eh? Gracias. Esto es una de las cosas que nunca debe nadie hacer, [fin de solapamiento de turnos] porque... ¿quién sabe? Es decir, [duda] Vas y te quita la silla, vamos; sale un fiera y te quita la silla. [risas]
+H3: [afirmación] Es muy difícil. [solapamiento de turnos] Es muy difícil.
+H1: Eh... No, no; [ininteligible] [fin de solapamiento de turnos] ¡Huy, huy, si yo contara!
+H3: Es [solapamiento de turnos] muy difícil.
+H1: Si yo... [fin de solapamiento de turnos] Si yo contara. Vamos a ver, eh... Ya... una pregunta. Es decir... concretemos. Usted, señor Matanzo, [duda] llevaba [duda] diez décimos, -treinta mil pesetas-, del número cuarenta y siete mil novecientos... ¿sesenta y seis o noventa y seis?
+H3: [solapamiento de turnos] Novent[palabra cortada]...
+H1: Noventa [fin de solapamiento de turnos] y seis, premiado con el gordo de este año, en Navidad ¿Sí o no?
+H3: Si usted dice que son diez, pues son diez. Yo [solapamiento de turnos] no tengo [ininteligible]
+H1: No, yo... yo... [fin de solapamiento de turnos] yo digo lo que he oído, vamos...
+H3: No, no; no es [solapamiento de turnos] cierto.
+H1: ¿No [fin de solapamiento de turnos] llevaba?
+H3: Yo no, no.
+H1: Ya.
+H3: [ininteligible] opinión, como todavía no lo sé... Porque tengo un décimo de prueba, como el que... Como la [ininteligible], [solapamiento de turnos] en un [ininteligible]
+H1: Sí. [fin de solapamiento de turnos]
+H3: ... nada más.
+H1: O sea, vamos a ver; o sea, señor Matanzo, ¿usted niega y dice que sólo lleva un décimo?
+H3: No, no; llevo más, [solapamiento de turnos] pero...
+H1: Lleva usted [fin de solapamiento de turnos] más.
+H3: Pero, de momento, no lo puedo [solapamiento de turnos] comprobar.
+H1: Vamos a ver, [fin de solapamiento de turnos] ¿cuántos más? ¿Me lo podría decir?
+H3: Pues unos tres o cuatro.
+H1: Unos tres o cuatro décimos más. Bueno. Bueno, bueno. Y... vamos a ver, tres o cuatro más, eh... déjeme que multiplique... A treinta millones, tres por cuatro... Cien o unos ciento cincuenta harán; menos mal que tengo aquí a mis gentes, que son matemáticas... Eh... Y... y... y... ¿y por qué lo ha dicho usted? Lo normal o de modo es callarse...
+H3: ¡Pero si no lo he dicho [ininteligible]...!
+H1: ¡Ah, usted no lo ha dicho!
+H1: ¡No lo ha dicho!
+H3: [ininteligible] he dicho tres o cuatro; cuando le toca a uno el gordo sabe lo que le ha tocado.
+H1: Cien.
+H3: Y he dicho que llevo una prueba, que es la cara; luego lo demás será una sorpresa.
+H1: Ya. Ya...
+H3: No les voy a decir por qué...
+H1: Ya. Justo.
+H3: Creo que el dinero, cuando llegas a... una altura o una edad... donde lo más bonito es poder disfrutar de lo que tienes, lo demás te sobra.
+H1: Ya. O sea, que ¿usted sigue el principio... de que "tu mano derecha no sepa..." Al revés, al revés, "tu mano derecha no sepa lo que hace la mano izquierda"?
+H3: No; yo quiero que mi mano derecha, que es la que uso siempre, sepa dar... lo que guarda la izquierda.
+H1: ¡Toma ya!
+H1: Señor Matanzo... [fin de solapamiento de turnos] Señor Matanzo, una vez alguien dijo: "Serás... esclavo de tus palabras... y señor... de tus silencios" Que sea usted señor de su dinero como a usted le guste. En cualquier caso, sean dos, tres, cuatro, veintisiete, lo reparta o no, enhorabuena.
+H3: Sólo tengo una envidia.
+H1: ¿Cuál?
+H3: No poderte invitar.
+H1: Invíteme, invíteme. Enhorabuena.
+H1: Enhorabuena, señor Matanzo. Muchas gracias. [música]

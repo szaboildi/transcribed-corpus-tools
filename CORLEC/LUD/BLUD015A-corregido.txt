@@ -1,0 +1,114 @@
+#archivo: BLUD015A
+#fecha de grabación: 25-7-91
+#fuente: radio
+#localización: Madrid
+#términos: concurso, concursante, radio, equipo, verano, dificultad, premio, gente, teléfono, canción, actualidad, hora, minuto segundo, mañana, amigo, playa
+#H1: varón, c.40 años, presentador
+#H2: mujer, edad ignorada
+#H3: mujer, edad ignorada
+#H4: mujer, edad ignorada
+#H5: mujer, c.40 años
+#H6: varón, edad ignorada, cantante
+#H7: coro
+[música]
+H1: Son ya las diez y seis minutos, cuarenta y dos segundos de la mañana, les habla José Luis Fradejas en nombre de todo el equipo y a partir de ahora entramos ya en la segunda hora en "Mi querida radio a la sombra [eco] " [música]
+H1: Pues nada, todos preparados porque les vamos a contar cositas. Dentro de unos vamos a ofrecerles nuestro concurso, el del verano, el concurso de "Ulpiano". También nos acercaremos a la actualidad del mundo de la noche, haremos un viaje al mundo de la farándula con Carmen Hornillos, que es "Carmen de noche". [música]
+H1: Tendremos un tiempo para la conexión con los informativos de Radio Nacional en Madrid para que ustedes sepan todo lo último que hay que saber sobre Madrid y su Comunidad, será a las diez y treinta minutos. Les vamos a hablar después de los embarazos extrauterinos y nos vamos a acercar a esa actualidad que produce el verano con todas las noticias fresquitas, sabrosas y divertidas que se producen en el mundo, será el tiempo del "Especial Verano" y nos vamos a acercar también a las "Fiestas del Carmen" en el Puente de Vallecas, para que ustedes tengan un poco de información de todo en esta segunda hora de "Mi querida radio a la sombra". [música]
+H1: Como siempre, los teléfonos están abiertos, el cinco, seis, cuatro, cero, tres, cuatro, cuatro y el cinco, seis, cuatro, cero, tres, seis, cuatro y los teléfonos están abiertos para que ustedes, en directo, nos vayan pidiendo la música que quieren escuchar a lo largo de esta mañana. ¡Hola!, Pili, buenos días.
+H2: ¡Hola!, José Luis.
+H1: Bienvenida a "Mi querida radio".
+H2: Gracias.
+H1: ¿Qué tal?, ¿Cómo va todo?
+H2: Muy bien.
+H1: Y lo de las vacaciones, ¿cómo lo lleva?
+H2: Fenomenal.
+H1: ¿Hasta cuándo?
+H2: Hasta que empiece otra vez todo.
+H1: ¡Anda, qué bien! ¡Qué alegría! ¿Se va ir fuera de Madrid o se queda aquí a disfrutar?
+H2: No, me quedo aquí.
+H1: Porque en Madrid es un disfrute, ¿eh?, constante.
+H2: Sí.
+H1: Muy bien Pili, a ver qué quiere escuchar.
+H2: Quería escuchar a Serafín, la canción esa que dice " ni [ininteligible] sentido algo así".
+H1: Supongo que será la de "Polvo de estrellas", [solapamiento de turnos] no lo sé.
+H2: Esa, sí [fin de solapamiento de turnos].
+H1: ¿"Polvo de estrellas"?
+H2: Sí, se la quería dedicar a mi padre, que al pobre le operaron de una hernia y está muy jorobado.
+H1: ¿Está... pachuchillo?
+H2: Sí.
+H1: Pues nada, ¡hombre!, que tenga un poquito de confianza, que seguro que se recupera pronto.
+H2: Vale.
+H1: Muchas gracias, Pili.
+H2: Adiós.
+H1: Hasta luego.
+H1: ¡Hola Miriam!, buenos días.
+H3: ¡Hola! ¿Qué tal, José Luis?
+H1: Pues muy bien, estupendamente. Aquí, pasando una mañana alegre y divertida con las gentes que nos quieren escuchar cada día.
+H3: Ya, pero se está mejor en la playa.
+H1: [duda] Bueno, no creas tú, ¿eh?, no creas, que hay mucha... mucha arena, no creas. A ver, Miriam, ¿qué quieres escuchar?
+H3: Me gustaría una de la "Década".
+H1: "La década prodigiosa".
+H3: Sí.
+H1: Perfecto, [solapamiento de turnos] te la vamos
+H3: A ver, se [fin de solapamiento de turnos] la dedico a mi familia,
+H1: [afirmación]
+H3: ...y a Carlos.
+H1: Y a Carlos, ¿tú amigo íntimo?
+H3: Amigo solamente.
+H1: Amigo sólo. Bueno, pues Carlos, de momento amigo sólo, ahí te quedas.
+H3: Sí.
+H1: Muy bien. Muchas gracias, Miriam.
+H3: Vale, hasta luego.
+H1: Un abrazo fuerte, hasta luego. Y bueno, vamos a comenzar esta segunda hora de "Mi querida radio a la sombra" con el cantante de todos los días, Sergio Dalma, que nos lo piden los oyentes. Nos lo ha pedido Olga para Ángela, para Maite, para Darin, en fin, para mucha gente. Sergio Dalma. [canta][texto no transcrito][deja de cantar]
+H6: [canta] ¿Las chicas cuándo llegarán?
+H7: Oé..., oé...
+H6: Estamos impacientes ya.
+H7: Oé, oé, oé [deja de cantar]
+H1: Todos y todas estamos impacientes porque llegue el concurso del verano, el de "Ulpiano". [música]
+H1: Pues venga, venga, ¡a jugar!, a ver la primera persona que nos llama por teléfono, que es quien va participar hoy en nuestro concurso de "Ulpiano". Ya parece que están sonando los teléfonos, seguro que tenemos ya a la concursante o el concursante en cuestión. ¡Hola, Charo!, buenos días. ¿Cómo es?
+H4: Sí, sí.
+H1: ¿Saro?
+H4: Sí.
+H1: ¡Hola!
+H4: ¡Hola!.
+H1: Saro.
+H4: Sí.
+H1: No Charo, sino Saro.
+H4: Cha... Cha.
+H1: ¡Ah! Cha... Cha...
+H4: Sí.
+H1: Chacha, ¿qué tal?
+H4: Bien. ¿Y vosotros?
+H1: Encantados, aquí, a jugar con Ulpiano. A ver, ¿sabe usted jugar?
+H4: Sí.
+H1: Bueno, pues preparada. Primera dificultad rosa.
+H5: [texto leído] El hijo mayor de la actriz italiana, Sofía Loren [extranjerismo]Carlo Ponti[fin de extranjerismo], [extranjerismo]Carlo[fin de extranjerismo], tiene una novia española, ¿quién? [fin de texto leído]
+H1: A ver, puede ser Lola Forner, Odil Rodríguez de la Fuente o Adriana Vega.
+H4: Odil Rodríguez de la Fuente.
+H1: [solapamiento de turnos] ¡Muy bien, muy bien, estupendo, un premio ya para usted!
+Todos: [aplausos] [vocerío] [fin de solapamiento de turnos]
+H1: Vamos con la dificultad blanca.
+H5: [texto leído] Hace unos días hablábamos de [extranjerismo]Mickey[fin de extranjerismo] Molina y su próxima paternidad con su actual compañera, Lidia [extranjerismo]Bosh[fin de extranjerismo], ¿sabe cuántos hijos tenía con su exmujer, [extranjerismo]Kirsa[fin de extranjerismo] [fin de texto leído].
+H1: Atención, Charo, pueden ser tres, puede que sea uno o puede que sean dos.
+H4: Dos.
+H1: Dos, muy... pero bueno [solapamiento de turnos], lo sabe usted todo, mujer. ¡Qué locura!, ¡Qué locura!
+Todos: [vocerío] [aplausos] [fin de solapamiento de turnos]
+H1: Vamos con la dificultad amarilla.
+H5: [texto leído] Francis Franco, se separó hace tiempo de su mujer, ¿recuerda su nombre? [fin de texto leído]
+H1: ¿Cati Acañedo, María Suelves o Ana Lacalle?
+H4: María Suelves.
+Todos: [vocerío] [solapamiento de turnos] [aplausos]
+H1: Bueno... Charo, nos va a dejar usted sin premios [fin de solapamiento de turnos]. ¡Por Dios! Vamos a ver, dificultad negra.
+H5: [texto leído] Una pareja de actores que trabajaron juntos y fueron matrimonio en la vida real, ella es Paula Martel, él, que ya murió, ¿quién era? [fin de texto leído]
+H1: Podía ser José María Mompín, Julio Núñez ¿o José Bódalo?
+H4: José Bódalo. [solapamiento de turnos] [frenazo coche]
+H1: Ah... ay... ¡Qué pena, Charo! [fin de solapamiento de turnos] ¡Qué pena! No... no... era José María Mompín.
+H4: ¡Ay...!
+H1: ¡Huy..., Dios mío! Tenía usted, casi al alcance de su mano todos los premios que tenemos para ustedes. Pues, de momento, se ha quedado con dos, que no está nada mal.
+H4: Vale.
+H1: ¿De acuerdo, Chacha?
+H4: Vale.
+H1: Un abrazo. No cuelgue, no cuelgue.
+H4: [risas] Vale.
+H1: Adiós. [música]
+H1: Pues ya lo saben, así de fácil es cada mañana el concurso del verano, el concurso de "Ulpiano". Son las diez y catorce minutos de la mañana y nos vamos directamente a "Carmen de noche". [música]

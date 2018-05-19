@@ -1,0 +1,63 @@
+#archivo: PINS002D
+#fecha de grabación: 28-10-91
+#fuente: grabación directa en vivo
+#localización: El Escorial, Madrid
+#términos: dirección, sentido, derecha, izquierda, carretera, autopista, ruta, señalización, semáforo, desvío
+#H1: varón, c. 35, Fernando, cerrajero
+#H2: mujer, c. 20 años, estudiante universitario
+#H3: mujer, c. 23 años, bióloga
+#H4: mujer, c. 25 años, periodista
+#H5: varón, c. 50 años, padre de H2, H3 y H4
+#H6: varón, 25 años, universitario
+#H7: varón, c. 35 años
+[texto no transcrito]
+H1: Tienes que bajar desde aquí todo directo, te puedes bajar a Navalcarnero. [solapamiento de turnos] Sin dejar la carretera.
+H2: Sí, Navalcarnero está al lado [fin de solapamiento de turnos], me han dicho.
+H1: ...y de Navalcarnero eh... coges eh... dirección Madrid, la carretera de Extremadura, y en el "Hipercor" de... San José de Valderas,
+H2: Sí.
+H1: ...que es también autopista, coges ese desvío y te va a dejar justo en la Universidad Carlos tercero.
+H2: No, yo es que no...
+H3: Oye, empieza ahora mismo.
+H4: Pero... venga. [texto no transcrito]
+H1: No, no, no, no, que [solapamiento de turnos] te viene muy bien, pasas...
+H4: [ininteligible] empezar [fin de solapamiento de turnos].
+H5: Claro, es que sois la repera.
+H2: [solapamiento de turnos] Claro.
+H4: Claro [fin de solapamiento de turnos].
+H3: Paco, venga.
+H1: [solapamiento de turnos] Autopista, todo, hasta el Severo Ochoa, lo ves desde la... desde la calle. [texto no transcrito] [fin de solapamiento de turnos]
+H1: Vas a salir [silencio] por el... al puente, un poquitín a... [solapamiento de turnos] hacia las afueras [silencio].
+H2: Sí... [fin de solapamiento de turnos] sí.
+H1: [solapamiento de turnos] Y...
+H2: Ya [fin de solapamiento de turnos] sé, desde el puente sé ir, que es hacer [solapamiento de turnos] así
+H1: Pues es... [fin de solapamiento de turnos]
+H2: ...y lo ves desde ahí.
+H1: [solapamiento de turnos] No tienes ningún problema,
+H5: [texto no transcrito] [fin de solapamiento de turnos]
+H1: ...lo tienes muy fácil.
+H2: Bueno, pues ya me lo puedes... ya me lo...
+H5: Cervezas, ¿quién quiere?
+H3: [solapamiento de turnos] Yo, yo he pedido hace media hora, le he pedido a la camarera un botellín.
+H1: Dea... [sic]. de aquí, esta carretera directo a... haci[palabra cortada]... hacia Navalcarnero [fin de solapamiento de turnos].
+H2: Que es la de [solapamiento de turnos] Brunete.
+H6: ¿Quién [fin de solapamiento de turnos] quiere más cerveza?
+H1: ¿Que es la de Brunete? Todo. Pero [solapamiento de turnos] sin dejarla.
+H2: O sea yo [fin de solapamiento de turnos] sigo Villanueva de la Cañada [solapamiento de turnos] y sigo ¿no?
+H7: Sí, sí, tu sigues [fin de solapamiento de turnos]. [solapamiento de turnos] Atraviesas...
+H1: Sí.
+H7: ...atraviesas Brunete.
+H3: Y según llegas a Acuópolis...
+H7: Sigues.
+H2: ...a la derecha.
+H1: Seguís [solapamiento de turnos] Villanueva a Navalcarnero
+H7: Villanueva a Navalcarnero [fin de solapamiento de turnos]. Navalcarnero, [solapamiento de turnos] la autopista de Extremadura.
+H1: La autopista dirección... [fin de solapamiento de turnos] dire[palabra cortada]... direci[palabra cortada]... dirección Madrid.
+H7: Dirección Madrid.
+H1: Cuando llegas a Alcorcón, al Hipercor, que verás ahí: "San José de Valderas Hipercor", a la [solapamiento de turnos] derecha.
+H7: [ininteligible] al Hipercor [fin de solapamiento de turnos], [solapamiento de turnos] y al llegar al primer semáforo... al primer semáforo...
+H3: [texto no transcrito]
+H6: [texto no transcrito] [fin de solapamiento de turnos] ...coges un desvío que sale a la izquierda.
+H1: No, pero eso ya lo ve ella, [solapamiento de turnos] [ininteligible]
+H7: No, bueno, no... [fin de solapamiento de turnos] no sé si lo verá o no lo verá, pero hay un semáforo. En el semáforo justo, pasas un puente... [silencio] pasas un puente y nada más pasar el puente hay un semáforo, coges el desvío a la izquierda, y ya ves autopista, te lleva [solapamiento de turnos] al... Severo Ochoa.
+H1: Al Severo Ochoa... [fin de solapamiento de turnos] al Severo Ochoa.
+H5: Oye, tú, sal de aquí. [texto no transcrito]

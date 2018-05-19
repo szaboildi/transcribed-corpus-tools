@@ -1,0 +1,233 @@
+#archivo: ECON004D
+#fecha de grabación: 24-06-91
+#fuente: cnversación radiofónica
+#localización: grabado en Madrid
+#términos: ruta, recorrido, turista, itinerario, ciudad, villa, aventura, pueblo, puente, playa, templo, chalecito, alcalde, ayuntamiento, mata, orgasmo, clínica privada, Seguridad Social, olor, cubo, río, avenida, motocrós, espectáculo, veneno, centroamericano, agencia, viaje, voto
+#H1: varón,locutor de radio, 38 años
+#H2: varón, escritor, 65 años
+#H3: mujer, actriz, 40 años
+#H4: mujer, actriz, 45 años
+#Ha: mujer, ama de casa, 35 años
+#Hb: mujer, ama de casa, 36 años
+#Hc: mujer, ama de casa, 34 años
+#Hd: mujer, ama de casa, 38 años
+#He: mujer, ama de casa, 29 años
+#Hf: varón, 40 años
+H1: ...Es la ruta jacobea a los medios de comunicación. El primer día se compone de lo siguiente: [leído]Concentración en la Asociación de la Prensa Española a una hora indeterminada, por cuestión del secreto profesional. Conferencia a cargo del presidente de la asociación de la prensa, bajo el lema: "Qué buenos son los padres escolapios exculpando de todo pecado a la clase periodística". Misa solemne donde se comulga con... ruedas de molino y se pone el grito en el cielo, y ofrenda floral al patrón, propietario, en última instancia, de los medios de comunicación[fin de texto leído].
+H2: ¡Tiene que ser emocionante!
+H1: Después [risas] empieza el "Vía Crucis"; primer paso, visita a la cadena [siglas]COPE[fin de siglas] donde Luis del Olmo pasa el "Rosario de la Aurora", pidiendo que los oyentes se acerquen a él y los votantes del partido popular crezcan y se multipliquen sin preservativos. Eh... emotiva campaña, [solapamiento de turnos]ningún aborto sin micrófono.
+H2: ¡Hu...y, huy, huy![fin de solapamiento de turnos].
+H1: Segundo paso, visita a la cadena [siglas]SER[fin de siglas]; sor Iñaqui de Calcuta recita... el monólogo de [extranjerismo]Hamlet[fin de extranjerismo], valga la... redundancia.
+H2: "Ser o no ser".
+H1: Pues sí señor. Tercer paso, "Antena-3", Antonio Herrero clava cuchillos de palo y arregla el mundo en ochenta días. Y el cuarto paso, conocido como "el paso en falso" es "Radio Nacional", señor Casamajó, proyección de la película: "Dos tontos en apuros".
+H2: ¿Quiénes somos los tontos?
+H1: [risas] ¡Uno, dos!
+H2: ¡No digas, tres, cuatro!
+H1: Comida, si es que a alguno le entra algo, en las dependencias del juzgado de guardia para aquellos jacobeos que quieran presentar alguna denuncia...
+H2: ¡Que no faltarán!
+H1: [risas] Por la tarde, visita a los grandes de la empresa española: Miguel Durain, los obispos y... algún otro que me dejo, obsequian a los presentes con una colección completa de "La voz de su amo" y un volumen de "Aquí paz y después gloria". Por la noche, señor Casamajó, cena espectáculo en [extranjerismo]Scala[fin de extranjerismo], con los humoristas Pedro J. Ramírez, Armando de Miguel y José María Carrascal, y un importante, ¡un importante número porno! Porque un director de periódico se traga las portadas de su... rotativo...
+H2: ¡No me digas! ¿Garganta profunda?
+H1: Pues [risas] sí señor, garganta profunda.
+H2: ¡Tremendo, tremendo! [música].
+H1: Y a las... diez y veintiocho minutos, la primera llamada telefónica, ¡Manuela, muy buenos deis!
+Ha: Buenos deis, señor Sardá.
+H1: ¡Muchas gracias por estar con nosotros!
+Ha: ¡Gracias por su programa!
+H1: ¡Es usted muy amable! Bueno, sabe usted que tiene el ¡honor! de inaugurar lo que será nuestro recorrido turístico por una cierta... España; ¿qué es lo que nos cuenta, Manuela?
+Ha: Pues mire usted, com[palabra cortada]... [vacilación] lo... que voy a contar es muy poco agrad[palabra cortada]... a... porque eh... eh... es de lo de los urinarios que la gente joven nos pone las calles de la parte vieja.
+H1: [afirmativo].
+Ha: Teniendo una ciudad tan ¡preciosa y tan bonita!, con unos parques fabulosos que tenemos, con un alcalde que trabaja muchísimo por ella, y luego nuestros chicos con muchas gracias nos ponen en todas las iglesias, en todos los cantones, en todos los rincones, nos traen unos urinarios ¡que vamos!, que con este tiempo nos dan unos perfumes... que tenemos que cerrar en estas calles estrechas las ventanas, de puros olores que tenemos.
+H1: [afirmativo] [solapamiento de turnos]Es decir, tenemos...
+Ha: Y... no es..., y ya le digo [fin de solapamiento de turnos], que yo estoy muy contenta con el alcalde porque trabaja mucho por la ciudad, y tenemos una ciudad preciosa, pero... esto de los urinarios yo no sé como se puede ata[palabra cortada]... atacar esto para que estos chicos se compre[palabra cortada]... se den cuenta... de que (eres) mejor conservar nuestra ciudad ¡tan bonita como la tenemos!
+H1: Pues tenemos el ¡primer paraje! que visitar en nuestro recorrido turístico, de todas formas, Manuela, a lo mejor es peor eh... la... [risas] la enfermedad que el remedio, quiero decir, a lo mejor, esos urinarios huelen, pero peor es que la gente en un momento determinado, ¡ya sabe usted!, utilice la calle para hacer eh... determinadas necesidades, ¡no precisamente poéticas! ¿no?
+Ha: ¡No! Pues en la calle es donde le digo yo que nos lo ponen.
+H1: Ya [solapamiento de turnos]¡ah! u[palabra cortada]... u... usted ...
+Ha: Porque... es que... eh...[fin de solapamiento de turnos].
+H1: ...¿Usted lo que quiere es que los pongan en la calle?
+Ha: ¡No, no! Que le..., yo le digo urinarios, por no decirle... otra cosa que hacen [risas] los chicos, que lo mismo le da que sean las cinco de la tarde que sean las... tres de la mañana. Que es igual, que los encontramos, en cualquier momento sales a la calle y te encuentras a los chicos orinando en las esquinas de nuestros portales. [interrupción de la grabación]
+H1: ¡Ahora entendemos a la perfección! Es decir, determinado paseo turístico, señor Casamajó, por eh... algunas calles de Vitoria donde la gente confunde...
+Hb: [ininteligible] ...Entonces aquello está hecho una pena, pero bueno, luego entras dentro y ya... ¡pues fíjate! Están, las matas que hay, cubren las tumbas; y yo creo que este Ayuntamiento de Cerdedilla, pues tiene... bastante... presupuesto como para... gastarse unos jornales en, en arreglar aquello, porque la verdad, es...tá un poco deprimente.
+H1: Pues tenemos, señor Casamajó, [extranjerismo]Trekking[fin de extranjerismo], aventura, al cementerio de Cercedilla; ¡también es una página impresionante! de nuestro recorrido turístico.
+H2: (¡Olé!) la cuestión.
+H1: Doña Julia, muchas gracias.
+Hb: ¡Oye!
+H1: Dígame.
+Hb: ¿Me puedes escuchar? Mira, hay unos jardines preciosos que hicieron hace unos años, pero resulta que como no los cuidan, pues están ¡hasta arriba de hierbas! Y entras en Cercedilla y ves uno a la derecha, otro a la izquierda, que se han gastado un dinero que luego no se ha visto el resultado, porque lo han abandonado, ni plantas, ni matas, ni nada. A sí que..., ¡con el pueblo tan bonito que tenemos!...
+H1: [afirmativo].
+Hb: ...Porque es de lo más bonito de la sierra, pues es una lástima que... que la gente que venga aquí dice: "¡Huy, pero qué feo, qué sucio!" Y entonces yo creo que es una llamadita... a la corporación... ¡que va a entrar nueva! [risas] para que den un toque a... este pueblo.
+H1: Pues ya sabe usted que va a ¡figurar! en nuestro... ¡recorrido turístico! de esta mañana. En los últimos minutos de "La Bisagra" vamos a ¡reconstruir! todo este... itinerario.
+H2: No,no, si será estupendo, "¡puñetlas!"
+H1: Pues nos vamos, hemos estado en Vitoria, en Madrid y ahora nos vamos a Asturias. Belén, ¡muy buenos deis!
+Hc: ¡Hola, buenos deis, Javier!
+H2: ¡Hola, Belencita! ¿Cómo estás?
+Hc: [risas] Señor Casamajó, buenos deis.
+H2: ¡Ola, nena! ¿Cómo... qué me cuentas?
+Hc: [risas] Bueno, pues yo... les aconsejo a.. todos, a vosotros y a todos los oyentes, que... os acerquéis por Asturias, por mi pueblo, que es Salinas, ¿sabes?
+H1: [afirmativo].
+Hc: Y [duda] bueno, pues... podréis encontrar, podréis pasear por nuestro paseo maravillos[palabra cortada]... maravilloso; estoy un poco nerviosa, pero [onomatopeya]¡má![fin de onomatopeya]; es maravilloso, pero ¿sabes qué pasa? que el año pasado un temporal lo rompió...
+H1: [afirmativo].
+Hc: Y... [duda], y así está, roto. Y..., bueno, como el paseo... tenemos la "Peñona" con un puente colgante, que... hace muchísimos años también se... lo cerraron, y está roto, o sea..., y luego todo el pueblo, pues..., podéis pasear por las aceras simplemente y...hay aceras...
+H2: Pero...,pero..., Belén, ¿qué es lo que está roto?
+Hc: Eh... el puente colgante...
+H1: [afirmativo].
+Hc: ...El paseo marítimo.. y bueno, todo, todo, o sea, todo está roto en mi pueblo, ¡pero hay una playa preciosa!, ¿eh?, os lo aconsejo que vengáis, ¿eh? Y..., bueno, l[palabra cortada]... la playa por ejemplo, no tiene duchas, o sea...,simplemente.
+H1: [afirmativo].
+Hc: También tenemos un... puesto de socorrismo, pero que..., al parecer no tiene... no tiene lanchas, las tiene estropeadas, o sea que... os podéis imaginar...
+H2: Y el pueblo, ¿cómo se llama?
+Hc: Salinas, Salinas.
+H1: Salinas [solapamiento de turnos]se llama.
+Hc: Es de[fin de solapamiento de turnos] Castellón, del municipio de Castellón.
+H1: Pues ya tenemos otro... fragmento, señor Casamajó, de nuestro... recorrido. ¡Muchísimas gracias a María Luisa! y hasta otra ocasión. Las diez y treinta y tres minutos, señor Casamajó, y vamos a continuar conversando con nuestras invitadas y ¡ofreciendo alternativas de... viajes turísticos a nuestros oyentes! [música]. Y vamos a conocer en detalle, señor Casamajó, lo que integra el [extranjerismo]Trekking[fin de extranjerismo] denominado: "España mágica", una excursión a lo enigmático.
+H2: ¡Ah! Esto me interesa.
+H1: [risas] Pues mire usted, se inicia del siguiente modo, el primer día consta de una visita a [ininteligible], en Valencia, donde [ininteligible] hará una demostración del aparato de su invención, capaz, según él dice, de curar el [siglas]S.I.D.A.[fin de siglas] calentando la sangre de los pacientes. El ciudadano... croata firmará autógrafos después de cada... sesión.
+H2: ¿Ah! Ésto es tremendo, ya lo he oído ésto.
+H1: Después hay un... traslado a Alicante, donde... visitaremos el chalé construido en Denia por Antonia Alvarez con el dinero que ha recaudado para construir un templo dedicado al "Cristo de Limpias", que, según ella, lloraba lágrimas de sangre.
+H2: ¿Y se ha construido un chalet?
+H1: [risas] Pues sí señor, y la gente está un poco... ¡desesperada!
+H2: ¡Hombre! Si tenía que hacer un templo, y ha construido un chalecito...
+H1: Pues... así son las cosas; luego hay un baño en la piscina, y para los estafados, pues hay unas lágrimas de cocodrilo que se venden... a buen precio.
+H2: ¡Pobre gente! "Puñetlas".
+H1: Por la noche, en el hotel, sesión de desprogramación de (adictos) a varias sectas y... sesión de exorcismo en las habitaciones. Por cierto, que hay un... precio de oferta para endemoniados en grupo.
+H2: [ininteligible].
+H1: Pues sí señor, hacen un precio que está muy bien. [duda] El segundo día consta de un traslado a Alicante, donde Salvador Compte eh...explica cómo la combinación de los venenos de la cobra de los anteojos y de la serpiente de cascabel cura el cáncer.
+H2: ¿Eso dice?
+H1: Pues, eh... eso es lo que está diciendo... y está vendiendo veneno ¡por un tubo! degustación con ratas de laboratorio y ¡paella para todo el grupo!
+H2: ¡Hombre, eso es estupendo!
+H1: Posteriormente traslado a Marbella. Por la tarde, sesión de investidura en la secta "Ceis" y monólogos en el hotel a cargo de Jesús Gil.
+H2: ¡Hombre, esto yo no me lo perdería! [música]. Y las "Veneno", ¿cómo las tenemos?
+H1: Pues... [duda] las tenemos ¡tremendas! Las diez y treinta y seis minutos, tenemos algunas preguntas filosóficas, porque... nos gusta mucho tratar los temas intranscendentes, [vacilación] bueno... [duda] mirando y remirando en el encalado sociológico que se deriva de ellos. Por ejemplo, Montse, hay una pregunta muy difícil de... contestar. Tú sabes, tú sabes que hay un problema... diplomático entre España y Suecia por esas suecas que nos visitaron en los años sesenta; algunas de ellas quedaron... embarazadas y [duda]... años después están pidiendo [risas] indemnizaciones al gobierno español...
+H3: Sí, sí...
+H1: Yo no sé si un sueco te dejase embarazada, Montse, eh..., si tú consideras que esto desgravaría en tu declaración a hacienda...
+H3: Pues mira, oye, a mí la verdad que me daría igual que fuera un sueco [risas] o que fuera... [duda] un... un calorro [risas], porque yo lo que estoy es muy necesitada... y tengo una retención de orgasmos, de orgasmos que ya no puedo más [risas], entonces a mí me da igual, oye [risas].
+H2: Pero, Montse, pero Montse, hija mía, (contente esto).
+H3: Perdón.
+H2: Pero ésto tienes que ir a un médico del seguro.
+H3: Ya, pero... [duda] qué voy a... a un... ¿a un psicólogo... o a un ginecólogo... o a un... podólogo? [risas] ¿O... a un tocólogo? [risas].
+H2: Montse, a ver si te..., a ver si es que veo que la Montse no se entera, porque... Gracia, cuéntale que hay un departamento de... [duda] orgasmos [risas] [ininteligible] ¡puñetlas!
+H3: ¿[ininteligible] se puede comprar?
+H1: Pero... ¿cómo que hay un departamento de... de orgasmos?
+H4: Sí, pero son todos de eyaculación precoz, a sí que... He ido yo y... nada, ¡fatal! Al final tuve que volverme otra vez y nada.
+H3: Se gastó los dineros para nada.
+H4: Como es de la Seguridad Social, encima no vas a querer... quedar muy contenta, oyes.
+H2: Es lo que iba a ex[palabra cortada]... iba a decir... [ininteligible], ir a una clínica privada, ¡puñetlas! [risas] Para[palabra cortada]... (Paratuchí)
+H3: Señor Casamajó, se tendría que cuidar un poquito la voz, ¿eh?
+H1: Pero... ¿qué hay mucha diferencia entre... [risas] una clínica privada y la Seguridad Social en el tema éste de la vida sexual y festiva que... usted dice? [risas].
+H2: Sí... la Pepa te lo contará eso...
+H1: Pero... ¿qué sabe la Pepa de esto?
+H4: Eso es verdad, ¡a mí ya se me ha pasado el caldo! como al... señor [risas].
+H2: No, no, yo ya no; yo ya soy...
+H4: Pues yo me pasa como a usted, oiga.
+H2: Estoy..., soy [solapamiento de turnos]viejo...
+H4: ¡Sopitas [fin de solapamiento de turnos], buen vino...! Televisión... [duda] y... [duda] y la radio también, y nada más.
+H2: ¡Calla, hombre, si estás estupenda, puñetlas! [risas].
+H1: Yo me pregunto Pepa, ¿por qué sois así? Es decir, por qué, por ejemplo, en lugar... de llamaros, ¡pues yo qué sé: "Elixir del [extranjerismo]Amore[fin de extranjerismo]"! [risas], os llamáis "Veneno". ¿Por qué esa vocación de... de ¡bueno!...
+H4: [onomatopeya]¡Buah![fin de onomatopeya], por fastidiar...
+H1: (Vericuetos) más delicados... [risas].
+H4: Hombre, pues porque "veneno" siempre ha sido la pócima que ha utilizado la mujer para... [risas] para... quitarse al personal [risas] de en medio [risas]. Y nosotras, pues mira, "pos"... somos [vacilación] fieles a las tradiciones [vacilación] y... [risas] por eso nos hemos puesto "veneno".
+H2: [vacilación] Veneno, ¡son tremendas! Y en la obra ésta, ¿sal[palabra cortada]... sale mucho veneno?
+H4: ¡Todo! [solapamiento de turnos]todo...
+H1: ¿Todo es veneno? [fin de solapamiento de turnos].
+H4: ¡Salís todos envenenados!
+H1: Todos... todo el mundo sale envenenado...
+H4: ¡Claro!
+H1: ¡Son tremendas! Cuand[palabra cortada]... cuando usted lo dice [vacilación], señor Casamajó, [risas] da de lleno... en la diana; las "Veneno" son tremendas.
+H2: No, no, no... me extrañaría nada, ¡puñetlas!
+H1: Bueno, Gracia, vamos a ver..., tenemos otra pregunta filosófica, también a ti te ha tocado la china, ¿no? porque dice eh...: "Imagínate que [vacilación] a partir de mañana, a España sólo vienen turistas, de una determinada nacionalidad [leído]"; ¿eh?, todos, imagínatelos todos con bermudas igual,con las gafas de sol...[duda], to[palabra cortada]... todo exactamente igual...
+H4: ¡Como los japoneses, vamos!
+H1: ¡Exacto! Pero sólo de una nacionalidad, Gracia...
+H3: Sí...
+H1: Venga, tú puedes elegir...
+H3: ¡Ah! ¿De la nacionalidad?
+H1: Exacto, exacto...
+H3: ¡Ay! Yo... centroamericanos...
+H2: ¡Centroamericanos...!
+H3: Sí, son muy cálidos...
+H2: ¡Centroamericanos...!
+H4: Y además no hay problemas del lenguaje ni de idioma..., enseguida... te entiendes: "Mira, papito, tú me entiendes... toma, mira, ven, vamos a bailar... una aquí... un merenguito.... ¡Papito! ¡Mira! [onomatopeya]¡trun![fin de onomatopeya] cómeme la papaya..., papito..." [risas].
+H3: ...[ininteligible] Enseguida te piden la papaya... y te piden...
+H4: "¡Bueno! Pues si quiere papaya, pues papaya, porque hay que... ser hospitalario con una gente que... viene a tu país".
+H3: ¡Claro!
+H1: Claro. Hay que tratarlo bien.
+H4: "Y yo soy muy hospitalaria...".
+H1: Pero me temo... que no tienen "mucho posible".
+H4: "¿Por qué, mi amor?"
+H1: "No tienen dinero...".
+H4: [onomatopeya]¡Bueh![fin de onomatopeya] [onomatopeya]¡Ah![fin de onomatopeya] Bueno, yo me refier[palabra cortada]... [ininteligible]
+Todos:, "pero posible si que tienen, mi amor" [risas]. "Pero mucho posible..." [risas].
+H2: Pero... ¿qué... qué tendrá un centroamericano que no tengamos nosotros, ángel de mi alma?
+H1: Usted no entre... [solapamiento de turnos]en..., no entre en...
+H4: ¡El trópico, señor Casamajó![fin de solapamiento de turnos].
+H1: No se deje..., no se deje picar por... por las "Veneno" porque lo hacen para provocar..., pero[solapamiento de turnos][onomatopeya]...
+H4: ¿Quién yo...? [fin de solapamiento de turnos].
+H1: Donde esté un... meridional..., señor Casamajó...
+H4: Di que no, que nosotras consumimos productos nacionales, lo que pasa es que... [duda] somos unas chicas muy internacionales y... [duda] bueno, pues al... que llega, pues [vacilación]...
+H3: Hay que darle calor.
+H4: Hay que darle de calor, claro... [risas].
+H1: Las diez cuarenta minutos, vamos a recibir más llamadas telefónicas y vamos a continuar confeccionando un... itinerario turístico realmente... especial [música]. Hay que decir que nuestra agencia de viajes les... ofrece una ruta... denominada España Consistorial; es un didáctico y democrático recorrido por aquellos pueblos y ciudades de nuestra geografía..., donde los pactos post-electorales han dado muestra una vez más de que un voto... vale más que mil palabras.
+H2: [vacilación] Éstas sí... que me interesan, son el mejor (espectáculo) del mundo.
+H1: Pues sí señor, el mejor espectáculo del mundo. Salida desde la Casa... Consistorial de Sevilla, donde...el Grupo Popular ofrecerá una copa de vino español y nuestros viajeros recibirán una copia de la Ley de (Jon), gentileza del Partido Andalucista.
+H2: ¡Hombre, eso es tremendo!
+H1: Y... seguidamente, el grupo folklórico de concejales de Izquierda Unida nos ofrecerá una demostración de baile de votos.
+H2: Ésto me interesa, yo quiero ir (de) esta excursión.
+H1: Pero es un poco cara, ¿eh?, no se crea... Traslado en autobús... municipal a las sedes de las Juntas Electorales de Madrid y Salamanca; exposición de votos nulos: dibujos, blasfemias, insultos y pedorretas en papeletas de voto.
+H2: [vacilación] ¿Ves? Ésto son exposiciones... culturales.
+H1: Seguidamente se hará un recorrido por las dependencias de la Junta Electoral y posteriormente un grupo de... ex- funcionarios de correos hará(n) una demostración de manipulación de voto.
+H2: [ininteligible].
+H1: A mediodía está previsto un acto entrañable, se celebrará una comida con antiguos alcaldes franquistas; el ágape incluye café, copa y puro, y una vez terminada la comida, los ex-alcaldes harán unas... [duda] designaciones tradicionales... a dedo.
+H2: ¡Hombre! ¿A dedo?
+H1: Pues sí señor.
+H2: ¡Hombre! ¿Quién te ha dicho todo esto?
+H1: El viaje continuará hasta la localidad de Huséjares Jambre, en... la provincia de León, donde seremos recibidos por don Juan Carlos Piñán, alcalde electo gracias al lanzamiento al aire... de una moneda.
+H2: ¡Hombre! Además es alcalde por la cara.
+H1: Pues sí señor, porque salió cara.
+H2: ¡Hombre! Ya lo creo, ya. ¡Esto es tre[palabra cortada]...! ¡Oh! ¡La España consistorial...! [música].
+H1: E...n La Bisagra, las diez y cuarenta y tres minutos,tenemos con nosotros a María Luisa que nos llama desde Fuenlabrada, María Luisa, buenos deis...
+Hd: Buenos deis..., buenos deis.
+H2: ¡Hola María Luisa!
+Hd: ¡Hola, buenos deis! ¿Qué tal están?
+H1: Que nos cuenta... María Luisa...
+Hd: Mira, ¿qué os voy a contar? Estoy muy apenada. ¡Me avergüenzo de Fuenlabrada... por sus vertederos... urbanos...
+H1: [afirmativo].
+Hd: Hasta el punto de que es que están por todas partes, ¡pero 12 contenedores juntos y sin tapaderas! Los empleados, que los vacían, no se molestan en taparlos para que la gente aprenda... que las tapaderas son para cerrarlos, y no salga el olor. Naturalmente... es una población de más de 160.000 habitantes... El Ayuntamiento, no cabe duda, está haciendo ¡mucho! por in[palabra cortada]..., por incluso..., porque incluso... los domingos...., recogen la basura dos veces [vacilación] u[palabra cortada]... en un... [duda], a mediodía y la noche; es decir, que está haciendo... un esfuerzo grande...
+H1: Ya.
+Hd: Pero... los [duda], los señores que vacían esos cubos debían... ¡de taparlos! Por lo menos el Ayuntamiento debía (decidirles) que los taparan, y... exigir a la población que los tapara; pero los comercios... ¡tiran también las cajas vacías enteras!, por lo que luego los [vacilación], las basuras, es decir, las, las... bolsas llenas de basuras, [vacilación] de desperdicios... están por encima de esas cajas y se ven por todas partes, ¿no? Y hasta incluso se vacían... y se tiran en el suelo... porque, ¡claro, ya no caben en esos contenedores, que está lleno de cajas de cartón... enteras que echan los comercios...!
+H1: Pues... vamos a agradecer ¡muy sinceramente! también a María Luisa de Fuenlabrada esa llamada telefónica, me estoy imaginando, señor Casamajó, ¡un autocar repleto de japoneses bajando, con sus cámaras fotográficas...! y retratando..., haciéndose fotografías al lado de esos ¡contenedores...!,de Fuenlabrada, que ¡también engrosan! nuestra... [duda] lista, nuestro itinerario turístico de hoy. Nos vamos a... ¡Valladolid! ¡María! Buenos deis...
+He: ¡Hola, buenos deis!
+H2: Hola, María, un beso...
+He: ¡Señor Casamajó... [solapamiento de turnos]tremebundo...
+H2: ¿Qué me cuentas [fin de solapamiento de turnos]? ¿Qué me cuentas, María...? [ininteligible]
+He: [ininteligible] ¡Qué estás como un (patato) [ininteligible]! [risas]. Si no existierais, habría que inventaros [risas]. Escuchadme...[vacilación], lo mío es muy triste..., pero [duda], vamos a hablar; el... [duda] Pisuerga pasa por Valladolid, ya lo sabéis...
+H1: [afirmativo].
+He: Entonces, de vez en cuando... hay gente que es ¡tremendo! que esté tan sola... que se quiera tirar al río, y a mi es que ¡me da muchísima pena! esa circunstancia, pero es que... ¡se mueren ahogados de mierda! Porque no os podéis imaginar las cloacas... que ¡vierten directamente al río!
+H1: [afirmativo].
+He: O sea, es... que lo que sale de allí, hay un señor, ¡muy mayor!, que se pone con una cañita a pescar a la altura del Puente del Cubo, que no os dice nada, pero todo el mundo sabe lo que es...; y bueno, yo digo: "Ése señor, si come ese pez, ¡se muere..!"
+H2: ¿Y con[palabra cortada]... y continúan pescando?
+He: [ininteligible] ¡Perdonarme la expresión!
+H2: Sí.
+He: Pero es así de claro... Entonces, dijeron hace unos años que tenían no se cuántos miles de millones aprobados para lavar el río..., arreglar las orillas... Sa[palabra cortada]... sale una cosa de... [duda] las elecciones, la eh...: "La vamos a arreglar las orillas". ¡Ahí están!... Es que, ¡de verdad! Si un día venís a Valladolid, ¡no vengáis por aquí!... Hay muchos museos y hay un campo grande y hay (monedas)..., pero por ¡el río no vengáis!
+H1: No vamos a venir por el río [risas] por lo que nos ... [duda] está contando María de Valladolid, ¡también! vamos a incluirlo, y yo imagino que esto sería [duda]... eh... ¡bueno! lo más turístico posible, si lo convirtiésemos eh... un itinerario [vacilación] ¡como los del Sena! ¡Con [extranjerismo]majorettes[fin de extranjerismo]! señor Casamajó, ¡esas barcazas! donde van todos los turistas. ¡Imagínese usted los alemanes... merodeando por esas aguas del Pisuerga!
+H2: ¡No,no,! Todos allí, ¡pobres!... con una... [duda], con una... pinza de tender la ropa... (María, adiós...).
+H1: Pues ¡sí señor! María, de Valladolid, ¡muchísimas, muchísimas gracias por... contribuir a nuestra oferta turística! Nos vamos a... [duda], a Rosas, Gerona, [extranjerismo]Giussepe[fin de extranjerismo], ¡muy buenos días!
+Hf: ¡Hola, buenos días...!
+H1: ¡Muy buenos días, muchas gracias...!
+Hf: [ininteligible] Felicidades, señor Casamajó.
+H1: Muchas gracias.
+H2: ¡Hola, [extranjerismo]Giussepe[fin de extranjerismo], buenos días!
+Hf: [risas] ¡Qué ganas tenía de hablar con usted, hombre! ¡Le... [vacilación] le he oído de eh... [duda] por todas partes de España, se puede decir, eh!
+H2: ¿Pero qué hace un catalán en tal día como hoy que es fiesta, despierto a esta hora, puñetero?
+Hf: ¡Ah! [risas] Bueno, es que aquí estamos muy bien, ¿eh? Aquí se está... [duda] aquí pasamos prácticamente las 24 horas del día despiertos [ininteligible], porque ya sabe que es una villa muy... [duda] muy festiva, ¿no?
+H1: [afirmación].
+Hf: ¡Esto es muy bonito! Esto de que viva... Eh... [duda] yo decía...[palabra cortada]...[vacilación], claro, he... [duda] he... [duda] he sentido esta señora de Barce[palabra cortada]... de... [duda] de... [duda] de Vitoria, de los urinarios, esto me ha llamado me ha llamado la atención. Aquí tenemos algo mejor: ¡Los alcaldes, que tenemos muchos aquí en (Rosas), tenemos tres alcaldes... que se lo pasan de [ininteligible], se lo pasan muy bien! ¿No? ¿La alcaldía? Pero aquí han organizado... "Ríase usted del Jarama".
+H2: ¿Qué me dices?
+Hf: [risas].
+H2: ¡Cuéntame, cuéntame, cuéntame!
+Hf: (En Rosas)... que es la Avenida Jaime primero...
+H2: Sí.
+H2: ...una [duda] una calle muy ancha, muy maja... y ¡bueno, hay unas competiciones aquí de [vacilación] motocrós..., de noche y de día..., que aquí no hay quien duerma! O sea que casi, casi se puede recomendar... [duda] la Costa Brava, especialmente aquí en Rosas... para ver competiciones de... [duda] de motocrós. ¡Claro, tenemos... [duda] un... [duda] [vacilación] ¡Se puede correr a... [duda] a...[duda] a... gusto de uno, eh! ¡Nadie le dice nada...!
+H1: [afirmación].
+Hf: Y con escape... libre, a todo... [duda] [risas] a todo meter...
+H1: Pero esto es muy bonito; yo creo que esto... [duda] acrecienta nuestra oferta turística, porque siempre hay un momento en el que... [duda] los turistas necesitan una atracción específica. Cuando han visto dos corridas de toros, pues ya... [vacilación] andan un poco cansados, por tanto yo creo que... [duda] la oferta de Rosas, en este caso concreto, señor Casamajó, está muy bien; ese [extranjerismo]Trekking[fin de extranjerismo] de... [duda] de las motos [risas] a todo meter.
+H2: ¡No, no, esto es tremendo! [ininteligible] ¡Es el que te digo yo! Don Javier, lo que se necesita... hechas un poco de espatacum, luego [ininteligible] la puerta...
+H1: Pues... el espectáculo lo tenemos asegurado gracias a... [duda] a [extranjerismo]Giussep[fin de extranjerismo], que nos ha llamado desde Rosas. ¡Ponemos también en nuestro itinerario esas motos tremendas!
+H2: ¡No, no, tremendas y diabólicas!
+H1: [extranjerismo]Giussep[fin de extranjerismo] ¡muchísimas gracias por esa llamada telefónica! [música].

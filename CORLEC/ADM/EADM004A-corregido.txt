@@ -1,0 +1,175 @@
+#archivo: EADM004A
+#fecha de grabación: 27-05-91
+#fuente: en una tesorería de la seguridad social
+#localización: grabado en Madrid
+#términos: la baja, el alta, gestoría, patronal, incidencia, inicial, el parte de alta, resguardo, fotocopia, original, administración, oficina, tesorería, número de empresa, número de patronal
+#H1: hombre, funcionario, 40 años
+#H2: mujer, profesora, 25 años
+#H3: hombre, funcionario, 39 años
+#H4: mujer, funcionaria, 35 años
+#Ha: hombre, funcionario, 46 años
+H1: Estás de baja.
+H2: ¿Cómo? [ininteligible]
+H1: Estás de baja.
+H2: ¿Desde cuándo?[ruido] ¿De baja? (Si estoy trabajando). [ruido] [ininteligible] ¿Le doy el [siglas]D.N.I.[siglas]? ¿O no hace falta...?
+H1: [ruido] Déjamelo a ver. [ruido]. No, lo he cogido todo. Eso se lo he pasado a ... Esto es reciente, ¿no? este número.
+H2: Sí... eh... en abril fue.
+H1: ¿Y fue cuando empezaste a trabajar?
+H2: Exacto.
+H1: ¿Anteriormente no habías trabajado?
+H2: No. Lo que pasa es que... al intentar comprobarlo desde ese día y al no salir... ya me empecé a...mosquear.
+H1: ¿No tienes el original de esto?
+H2: Sí.
+H1: Esto está haciendo cosas muy raras.
+H3: Ya.
+H1: ¿Rafa? ¿Con las iniciales lleváis mucho retraso de mecanizar?
+H3: Mira, ésas que hay ahí son, [ininteligible] pues eso, que es encargado de...
+H1: ¿Éste es el encargado de las iniciales?
+H3: Sí.
+H1: Es que esto es de abril.
+H3: Hombre, porque a lo mejor ésa está suelta, pero mira... [duda] mírala en el montón. A lo mejor ésa [ininteligible] es del dos de abril. [ininteligible] Pero ¿qué... qué es, una baja que no está el alta o... [duda] qué?
+H1: No, un... número que... que está sin mecanizar.
+H3: ¿Aquí presente estaba?
+H1: Sí.
+H3: Eso... [duda] mira...ésta...Elvira...(me acaba de) dar noticia.
+H1: ¿Quién es Elvira?
+H3: Elvira...
+H1: ¿...una de... cuatro de abril que esté sin mecanizar?
+H4: ¿Del cuatro de abril?
+H1: [afirmativo]. Una inicial. [ruidos]. Eso es que no está mecanizado todavía.
+H4: Ya, pero [ininteligible] para... que salga... bien [ininteligible] tarda un poco la máquina esa en... sacarlos ¿sabes? Espérate un poquito, si no te importa.
+H2: ¿Qué había pasado? Un... [duda]...
+H1: No, que está sin...sin mecanizar todavía.
+H2: Sin meterlo... [duda] ahí.
+H1: Como es... vamos, es de hace un mes prácticamente.
+H2: Pero ¿es perfectamente legal o... [duda]? O si no está ahí es que... pasa algo ¿no?
+H1: No.
+H2: ¿No?
+H1: Vamos, no lo sé, a lo mejor hay algún problema, y por eso está sin... [duda]. ¿De qué empresa era esto?
+H2: Es un... de una... [duda] de un colegio [extranjerismo]Lord College[fin de extranjerismo], que está en... es que está en Cuatro Caminos, yo vivo también ahí, lo que me extraña es que haya venido tan lejos para hacerlo aquí.
+H1: ¿El colegio vino aquí a hacerlo?
+H2: Claro, es que él lo tiene por Cuatro Caminos, eh... bueno en Tetuán, eh... bueno es una... un colegio bilingüe.
+H1: ¿No sabes el número patronal del colegio? [borrado involuntario].
+H2: Claro, lo lógico es que lo haya hecho por alguna que esté cerca, pero lo hizo allí, entonces yo digo, pues voy a ir... [risas] por si acaso, a ver qué ocurre.
+H1: ¿Tienes el resguardo del alta?
+H2:... [duda] no, lo único que tengo es esto.
+H1: Y esto... ¿lo has recogido aquí o te lo mandan por correo?
+H2: Me lo ha dado él.
+H1: [solapamiento de turnos]¿El colegio?
+H2: Personalmente[fin de solapamiento de turnos] sí. El resguardo del alta ¿qué es? [solapamiento de turnos]¿lo debería tener yo?
+H1: Un papelito[fin de solapamiento de turnos]. No.
+H2: ¡Ah!
+H1: Lo tiene que tener la empresa.
+H2: ¡Ah! por eso.
+H1: ¿Lo puedes...?
+H2: Eso sí que lo vi porque lo firmé.
+H1: ¿Esto? O sea, éste es el alta, éste es el parte de alta, entonces a la empresa se le entrega... la parte de arriba, y... si... [duda] lo que te... puedes pedirle es una fotocopia del resguardo del alta, a la empresa.
+H2: Pues... si no aparece, teóricamente ¿tengo que pedírselo? Si aparece, no. [afirmativo] o ¿cómo?
+H1: Es que esto es muy raro.
+H2: Sí.
+H1: Porque cuando te han dado esto es que ya... tenía que estar.
+H2: Claro. [ruidos].
+H1: ¿Es que hay algún problema con la empresa o algo?
+H2: No lo sé.
+H1: Espérate un poco que han ido a buscar a ver si localizan algo.
+H2: Vale, perfecto.
+H1: Es la primera vez que has trabajado, ¿no?
+H2: Sí, sí.
+H1: ¿Esas las presentaron aquí?
+H2: ¿Cómo?
+H1: O sea... la documentación de la empresa... ¿Dices que está domiciliada en Cuatro Caminos?
+H2: En Tetuán. [solapamiento de turnos]Es ahí...
+H1: [afirmativo][fin de solapamiento de turnos].
+H2: Donde está. Por eso me extraña que... hayan venido aquí para hacer esto, tan lejos. O un abogado que vive por aquí y lo hace aquí, es que no lo sé.
+H1: Sí, o... [duda] alguna gestoría o...
+H2: Si, claro...
+H1: Eso depende.
+H2: Pero también lo que me extraña es que él no aparezca en cualquier otra tesorería, pero si es que... en cualquiera debería salir, ¿verdad?
+H1: ¿Dónde guardáis los [siglas]A.2.2.[fin de siglas][ininteligible]?.
+Ha: ¿No tenéis el [siglas]A.2.2.[fin de siglas]?
+H2: ¿El...?
+Ha: El [siglas]A.2.2.[fin de siglas].
+H1: [solapamiento de turnos]No...
+H2: No[fin de solapamiento de turnos].
+H1: Eso lo tiene la empresa.
+H2: ¿Lo azul es el [siglas]A.2.2.[fin de siglas]?
+Ha: ¿Qué es lo que querías?
+H2: Comprobar si... estoy o no dada de alta.
+Ha: Estás dada de alta porque te han dado de alta.
+H2: Pero ¿y por qué no sale?
+Ha: Pues porque... a lo mejor... [duda] ha sido un fallo nuestro y no lo hemos metido.
+H2: Pero a lo mejor es que me han dado de baja antes de tiempo.
+Ha: No.
+H2: ¿No?
+Ha: No, cuando no está metido quiere decir que... [duda] que no lo hemos metido nosotros.
+H2: [afirmativo] Entonces... ¿dónde está?
+Ha: ¿Qué?
+H2: Lo deberíais encontrar, ¿no?
+Ha: Lo que pasa es que encontrarlo... [onomatopeya]¡Puf![fin de onomatopeya]. Esto ¿no te puedes poner en contacto con la empresa y pedirle una fotocopia del parte de alta?
+H2: Hombre, puedo hacerlo. Pero... [solapamiento de turnos]lo creía era que...
+Ha: Es que no hay otra manera[fin de solapamiento de turnos].
+H2: ... que habí[palabra cortada]... que... que hay un poquito de irregularidad en más cosas [ininteligible].
+Ha: ¿Perdón, perdón, perdón?
+H2: Que me imagino que hay algo de irregularidad,(o sea) me gustaría tener alguna prueba [risas] para poder [solapamiento de turnos][ininteligible].
+Ha: No, no[fin de solapamiento de turnos] no, mire, o sea la única irregularidad que parece que existe a primera vista, aunque no te o puedo confirmar, es que nosotros... [duda] eh no lo hemos metido en el ordenador. La razón no la sé. Pero a la vista de esto, quiere decir que la alta se ha presentado ...; la empresa no era una empresa nueva, ¿no?
+H2: No.
+Ha: El alta se ha presentado, se... está bien, vamos, pero.. y que no no la hemos metido.
+H1: ¿Algún problema con el patronal o... [duda] con la empresa...?
+Ha: No, no lo sé, no lo sé porque yo no no creo que tenga como incidencias y es que... y éste... [duda] pues es que hay que ir a meterlo a las iniciales pero...
+H1: Claro, y las incidencias ¿dónde las...? Claro, si fueran incidencias no se hubiera pasado.
+Ha: No, las incidencias las tengo yo todas. No...
+H1: Si estuviera en incidencias no se hubiera mandado el (abono), cuando... cobran el procesal es cuando s[palabra cortada]... se manda.
+Ha: No, no se puede el procesal, van... [duda] por un lado las cartillas y... y por otro lado al ciudadano [ininteligible]. ¿No tienes ahí una nómina o algo para [ininteligible]. [ruidos]
+Ha: Vamos a intentar encontrarlo, pero vamos a tardar un montón de tiempo porque sabemos dónde está metido esto y... [duda] porque nos tenemos que mirar todos los días del de abril hasta... hasta hasta la fecha...
+H2: El problema es que yo vivo en... el barrio del Pilar, he tenido que... hacer una excepción de una hora...
+Ha: Pues no te podemos ar la solución, lo más rápido sería, de todas las maneras, a ti esto no te afecta, eh... [duda] tú tienes tu cartilla y se supone que te han dado de alta.
+H2: Hombre, sí me afecta, porque en caso de que haya irregularidad, voy al médico y ... si no [solapamiento de turnos]estoy... pues...
+Ha: Claro[fin de solapamiento de turnos]: lo más, lo más normal es que tú estás, ¿sigues trabajando en la empresa?
+H2: Sí.
+Ha: Pues que te de una fotocopia del parte de alta, ellos tienen el resguar[palabra cortada]... el resguardo (público) es un papel morado [ininteligible].
+H2: Esto ¿no?
+Ha: Y... que te lo dé y que te dé una fotocopia y con eso... vale.
+H1: Te den una fotocopia...
+Ha: Y... que te den la fotocopia y lo traes por aquí y lo procesamos (en la máquina).
+H1: Y lo... miramos...
+H2: O sea, sin esa fotocopia no hay manera.
+H1: Del parte de alta.
+Ha: Podría haber manera pero es que... [solapamiento de turnos]eh...
+H2: A mí[fin de solapamiento de turnos] no me importa esperar un poco... [duda], porque es que...
+Ha: No, no, un poco no, o sea... [duda] varios días. O sea porque es que... hay que buscar... localizar a los demás, que ahora mismo no está ninguno y que se pongan a buscarlo y eso y... buscar todo el mogollón ese, es algo así (como los paquetes) que se han empleado dos meses, es tela, o sea, en una mañana no lo haces.
+H2: Pero si yo tengo eso, ¿tengo que volver a traerlo?
+Ha: Sí.
+H2: ¿O por teléfono lo puedo arreglar?
+Ha: No, no, no, me tienes que traer el parte.
+H2: Sí es eso...
+Ha: Me tienes que traer el parte.
+H1: ¿Y una nómina no...?
+Ha: [ininteligible] una fotocopia, no, no la nómina no sirve,no sirve [borrado involuntario]. Lo más seguro, lo más seguro, es que lo más fácil es eso,que te ,que te den, pero no hace falta que vengas por aquí, te vas al... [duda] a la administración que te pille más cercana.
+H1: En cualquier administración lo puedes...
+H2: ¡Ah! ¡En cualquiera!
+H1: En cualquiera lo puedes arreglar, ¿eh?
+H2: Vale. Pido la fotocopia de esto... y ya está.
+H1: Tú les cuentas un poco el problema, ¿eh?... de que... parece ser que el problema está en que no se ha metido en el ordenador, que no se ha mecanizado el alta.
+H4: Sí.
+H1: Y con el resguardo del alta...
+H2: Sí.
+H1: ¿Eh? Te lo... ya te lo meten en el ordenador en cualquier administración.
+H2: Vale, perfecto.
+H1: Ahora... [duda], a lo mejor es que hay algún problema con la empresa, porque es muy raro. [solapamiento de turnos]Si...
+H2: Eso es[fin de solapamiento de turnos] lo que quería solucionar.
+H1: Alguno se puede pasar porque... entre todo el montón que entra, pues a lo mejor se pasa alguno, que no sé... realmente, pero es... muy raro. Y... [duda] a lo mejor hay... algún problema con la empresa y así ya pues... [duda] investigamos con el... es que en el resguardo éste de alta viene el número de empresa, ¿eh?
+H2: Éste le tengo que enseñar, ¿no?
+H1: Sí, eh... [duda].
+H2: El resguardo de alta.
+H1: El resguardo del alta o... o... si la empresa no te lo quiere dar, una fotocopia, que te lo de...
+H2: Que me lo de, ¿quién?
+H1: Porque ahí ya vienen los datos de la empresa .
+H2: Sí.
+H1: Y viene el número patronal y ya... podemos investigar a la empresa a ver si es que tiene algún problema, que a lo mejor no se ha metido porque hay algún problema con la empresa.
+H2: Perfecto.
+H1: Que puede suceder.
+H2: Pues... ¿me da las otras fotocopias? [ininteligible] La otra parte [risas].
+H1: ¡Ah!
+H2: Ya, o sea en cualquier tesorería lo puedo hacer sin necesidad [solapamiento de turnos]de venir...
+H1: En cualquier[fin de solapamiento de turnos] oficina, sí.
+H2: Vale, gracias. hasta luego.

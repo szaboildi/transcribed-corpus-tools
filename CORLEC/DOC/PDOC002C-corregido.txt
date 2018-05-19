@@ -1,0 +1,95 @@
+#archivo: PDOC002C
+#fecha de grabación: 08-10-91
+#fuente: radio
+#localización: redacción de un periódico, Madrid
+#términos: diario, redacción, periódico, libertad de expresión, prensa, semanario, Independiente
+#H1: mujer, edad desconocida, periodista
+#H2: varón, edad desconocida, periodista
+#H3: varón, edad desconocida, periodista
+#H4: varón, edad desconocida, Javier Vallejo, periodista
+#H5: varón, edad desconocida, José Luis, periodista
+#H6: mujer, edad desconocida, Vampirela, dibujante
+[música]
+H1: [ininteligible] nos enterábamos de esa noticia, de que... el "Independiente" cierra. Definitivamente, mañana, el último número [solapamiento de turnos] saldrá a la
+H2: Vamos a ser... [fin de solapamiento de turnos]
+H1: ...calle.
+H2: ...un poco concretos. No es que cierre... deja de ser [solapamiento de turnos] diario
+H1: Exacto [fin de solapamiento de turnos].
+H2: ...para convertirse en otra cosa que está por definir.
+H1: [afirmación] Bueno, pues Javier Rodríguez, una vez conocida la noticia, se ha trasladado rápidamente hasta la redacción del "Independiente", en la calle Marqués de Riscal. Javier, buenas tardes.
+H3: Hola, buenas tardes Teresa.
+H1: A ver [vacilación] estás ahí en la redacción del [solapamiento de turnos] "Independiente", ¿no?
+H3: Sí, bueno [fin de solapamiento de turnos] eh... esto no se parece realmente a la redacción de [extranjerismo]Lou Grant[fin de extranjerismo], como puedes com[palabra cortada]... pensar, porque... las caras están un poco... largas y los ánimos un poco... entristecidos, eh... entre todos los miembros de la redacción... estamos en la redacción de... de Madrid, con algunos... de sus componentes, y por ejemplo podemos hablar con... Javier Vallejo, hola buenas tardes, ¿cómo estás?
+H4: Bueno, pues bien, dentro de lo que cabe, y no sé qué queréis que os diga [silencio] o que os comunique. Aquí estamos ahora mismo... a... pues a punto de cierre y... viviendo los últimos momentos del... del periódico... con cierta intensidad. Eh... no sé si estoy hablando con alguien. [solapamiento de turnos] Si...
+H1: Sí. [fin de solapamiento de turnos]
+H4: ...tengo que hacer algunas declaraciones, me ha dejado aquí el compañero [ininteligible] Rodríguez.
+H1: Javier, [solapamiento de turnos] Javier Vallejo, buenas tardes.
+H4: [ininteligible] [fin de solapamiento de turnos] Hola buenas tardes.
+H1: Oye Javier, esta tarde Manuel Soriano por lo visto comunicaba la noticia a los jefes de sección. ¿Habéis tenido ya... una asamblea de trabajadores, o... o el comité de empresa... ?
+H4: Tenemos una asamblea a la ocho y media donde esto se comunicará oficialmente a todos los trabajadores y ahora mismo están reunidos el comité de empresa con el presidente de la empresa y creo que los... nuevos consejeros eh... entrantes ¿no? del... del amigo [ininteligible].
+H1: Sabéis [solapamiento de turnos] [ininteligible]
+H4: Están [fin de solapamiento de turnos] ultimando eh... todos los flecos del... del cierre.
+H1: Ya. Me imagino que es un poco prematuro [silencio] preguntar esto, pero sabéis en qué situación podéis quedar los trescientos trabajadores del "Independiente".
+H4: Pues... por aquí dice una compañera que en la calle. No sé, eh... parece que... todavía está... o que [ininteligible] confirmen las perspectivas de que... esto se convierte en... en semanario. Y evidentemente pues un semanario no absorbe una plantilla muy grande. También se puede hacer con... con... como bien sabes con poca gente ¿no?
+H1: [afirmación] ¿Cómo han sido estos dos años en el "Independiente"? Javier.
+H4: Bueno yo no he... no... no he vivido los dos años de trabajo, no soy el más indicado para... para contarte toda esta historia.
+H1: Pero tu experiencia al menos personal y profesional.
+H4: Bueno pues ha sido muy... muy intensada. [sic] Lo que es trabajar en un diario que se está... se está haciendo. Que tenía unas perspectivas... eh... pues de futuro más o menos... que estaban ahí, no sé, que contaba con el apoyo de todos los trabajadores, que contaba con un público bastante incondicional, aunque eso sí, no muy amplio. Y... creo que ha sido una... una experiencia... pues... apasionante, por qué no decirlo.
+H1: [afirmación] Javier, bueno, nos imaginamos cómo es vuestro... sensación en estos momentos ¿no? de malestar, suponemos claro. Pero... [duda] vamos a ver no... ha[palabra cortada]... hay alternativas eh... [duda] no sé, no se os plantean soluciones. Porque nos dices lo de la calle y claro, pues es un mazazo tremendo, imaginamos.
+H3: Sí, bueno, aquí lo que se comenta es... lo que ya hemos citado, que se convertirá en semanario y... bueno también habíamos leído, un comunicado que se había [silencio] introducido entre el comité de empresa y miembros del... del periódico, de otro periódico, en que las ventas habían aumentado los últimos meses. Eh... y bueno pues que... ahora parece ser [sic] en un proceso de renovación y cambio y... se cierra el... el periódico, se convierte en semanario. José Luis, luego, otro miembro de la redacción, ¿qué nos puede comentar al respecto?
+H5: Hola, buenas tardes.
+H1: Hola, José Luis.
+H5: Sí, mira yo soy redactor de la sección de nacional y... hablo... me imagino que en nombre de muchos compañeros, pero en fin esta es una sensación bastante... no sé, bastante triste y desagradable ¿no? Yo personalmente es la primera vez que vivo el cierre de un... de un periódico. Yo personalmente no me creo lo de la conversión en un semanario. Creo que esto es una operación orquestada desde muy arriba para suprimir un medio de comunicación honesto, progresista y molesto para el poder. Y creo que al señor eh... Durán le han utilizado y a su vez él nos ha utilizado a nosotros. [vacilación] los que pagamos el pato siempre somos los... los de abajo, los trabajadores.
+H1: [afirmación]
+H5: Pero insisto en que esta es una situación muy... muy... muy desagradable vivir esto en una... en una redacción. Te lo puedes imaginar.
+H1: Sí, nos llamaba antes un oyente, Andrés, porque... bueno pues un poco lo hemos comentado con los oyentes la situación, lo que ocurría. Y en seguida pues... eh... ha habido esta reacción, de decir, bueno, pues que[palabra cortada]... quejándose... ¿no? por el cierre del "Independiente" diciendo pues, bueno, que qué pasaba con... pues con los medios de comunicación de este país, con la libertad de expresión. ¿Qué está pasando?
+H5: Pues quizá sea un poco lo que... lo que te comentaba... lo que te comentaba antes que... eh...
+H1: ¿Habéis molestado a alguien?
+H5: Perdón. ¿Me oyes?
+H1: Sí, sí, te escucho.
+H5: Sí, un poco al hilo de lo... de lo que te comentaba antes, que este era un periódico... [vacilación] [duda] digamos incómodo [solapamiento de turnos] para...
+H1: Sí [fin de solapamiento de turnos].
+H5: ...para el poder, para... para los de arriba, y bueno, se lo han... se lo han cargado, así de claro, de la forma más... más burda posible. Insisto en que creo que han utilizado al señor eh Miguel Durán que está hoy para algunas cosas aquí, se la han... se la han... incado doblada a este señor, y lo malo es que a su vez él nos ha... nos ha utilizado a nosotros, claro, vamos,
+H1: [afirmación]
+H5: ...así. Entonces [ininteligible]la libertad de expresión no sale... no sale muy bien parada en... en todo esto. Eh... sabemos también que nuestros, eh... nuestros compañeros de "El Sol" también están un poco... temerosos por la nueva situación que se ha creado ahora en el periódico.
+H1: Los rumores ¿no?
+H5: Efectivamente. Parece que de momento sólo son rumores pero... pero bastante... bastante fundados ¿no? Pues... me temo que el panorama de la... de la prensa escrita de aquí a muy corto plazo es realmente desalentador ¿no?
+H1: [afirmación]
+H5: Sobre todo para nosotros, para los profesionales de los medios escritos que nos vamos a convertir en... en carne... en mano de obra muy... muy... muy barata para los señores editores ¿no? Nos van a poder comprar en... una docena de la especie ¿no?
+H1: Sí mira, eh... nos pagan [sic] en estos momentos un teletipo, José Luis,
+H5: [afirmación]
+H1: ...que dice que: [texto leído] "Germán Sánchez Ruipérez, dueño del grupo Anaya, editor del diario "El Sol", ha destituido ya al vicepresidente y editor del diario, Pedro de Vega, al director, Ignacio Alonso y a los adjuntos a la dirección, César Alonso de los Ríos y Pedro Altares. Sánchez Ruipérez ha nombrado director en funciones a Manuel Coromina, director adjunto del periódico desde el pasado mes de setiembre. Una nota de la Sociedad Editora de El Sol, Compañía Europea de Comunicación e Información, Sociedad Anónima, [siglas]CECISA[fin de siglas], asegura que el periódico no está en venta, aunque busca nuevos socios que refuercen la viabilidad de la empresa" [fin de texto leído]. Cuando las barbas de tu vecino veas pelar... [silencio] ¿eh...?
+H5: Efectivamente. [afirmación] Sí, esa... esa noticia que... que acabas de comentar la... la conocíamos algunos compañeros aquí. Desde hace unos... unos minutos, escasamente conocíamos esta... esta información. Me imagino que los compañeros de "El Sol" tampoco estarán muy... muy... en fin, muy tranquilos con todas estas noticias que se están produciendo.
+H1: Imagino [solapamiento de turnos] que no.
+H5: En general [fin de solapamiento de turnos] todos los compañeros de... de los medios de comunicación...
+H1: Temblamos, eso es, José Luis. Estamos temblando.
+H5: Bueno, yo, si te parece, voy a pasar la... el... el teléfono a algún [solapamiento de turnos] otro compañero y le...
+H1: Muy bien, muy bien [fin de solapamiento de turnos].
+H5: ...cedo la palabra. Un abrazo.
+H1: Un abrazo.
+H3: Bueno, Teresa pues si... crees conversar con algún miembro más de esta redacción. En este momento estamos en la... en la sección de Madrid y tenemos a... viene la otra miembra conocida de la redacción, miembro...
+H6: Yo tengo miembro, eh...
+H3: Ella tiene miembro y es... trabaja preferentemente de noche y es la que ilustra las páginas de... eh... "La capital de la gloria", exactamente es el título. Bueno, qué nos vas a contar, qué se puede decir de esta "Capital de la gloria" sin un periódico.
+H1: Vampirela, un... [solapamiento de turnos] un comentario viperino.
+H3: [ininteligible] [fin de solapamiento de turnos]
+H6: Que seguirá, porque Vampirela va a seguir.
+H1: Claro. [risas]
+H3: Bueno seguirás pululando, pero...
+H6: [solapamiento de turnos] Seguirá incordiando...
+H3: ...semanalmente [fin de solapamiento de turnos], diariamente...
+H6: Seguiré incordiando, que me [solapamiento de turnos] busquen,
+H3: ...aparecerás [fin de solapamiento de turnos]
+H6: ...porque voy a estar.
+H3: Aparecerás como duende, en las páginas...
+H6: No, apareceré como Vampirela.
+H3: [afirmación]
+H6: Como lo peor.
+H3: Y nunca revelarás tu verdadera identi[palabra cortada]... identidad.
+H6: Sí, la revelo mañana. Que lean el "Independiente".
+H1: [solapamiento de turnos] Mañana, último ejemplar.
+H3: [ininteligible] [fin de solapamiento de turnos]
+H6: Has visto mi... bueno, sale mi foto por fin, mi verdadera foto. Mañana, que lo vean mis [extranjerismo]fans[fin de extranjerismo].
+H3: Bueno, pues ya estáis todos avisados.
+H1: Muy bien, Javier, pues nada. Queremos una vez más, desde aquí... pues un... mandar un abrazo muy fuerte [silencio] a... a la redacción del "Independiente", a todos los compañeros y sobre todo, pues, bueno, solidarizarnos con ellos y como lo que decía Manolo Calderón antes: "no podemos dar trabajo, pero sí todo nuestro apoyo y nuestro cariño en estos momentos". Un saludo, Javier.
+H3: Hasta luego, Teresa.
+H1: Hasta luego.

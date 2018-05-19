@@ -1,0 +1,48 @@
+#archivo: EADM005G
+#fecha de grabación: 20-06-91
+#fuente: conversaciones telefónicas en empresa
+#localización: Madrid
+#términos: aviso, recogida, dirección, teléfono
+#H1: mujer, telefonista
+#H2: mujer, telefonista, 25 años
+#H3: mujer, telefonista, 24 años
+#H4: varón, mensajero, 28 años
+#H5: varón, telefonista, 29 años
+H1: ¿Sí? ¿Dígame?
+H2: Llamo de "Cilag", de [extranjerismo]Johnson and Johnson[fin de extranjerismo], en la Torre Picasso.
+H1: ¿Para un recogida?
+H2: Sí. Una recogida para... [duda] Pamplona, tiene que ser esta tarde.
+H1: ¿Qué número de dirección tiene... [vacilación] digo de... [ininteligible]?
+H2: [vacilación] ...un momentito. Hola, ¿con quién hablo?
+H3: Con Ana.
+H2: Pero, ¿es de... [duda] de [extranjerismo]Tour[fin de extranjerismo]? Eh... de [siglas]R.V.[fin de siglas]?
+H3: No, esto es [ininteligible].
+H2: ¿Ah! ¡Perdón...! [risas] [ruido] [teléfono].
+H4: [ininteligible].
+H2: Hola, buenas tardes.
+H4: Hola, buenas tardes.
+H2: ¿Podría hablar con Miguel, por favor?
+H4: Miguel no está aquí.
+H2: [vacilación]... Bueno..., no importa. Llamo de "Cilag", de... [vacilación] Torre Picasso...
+H4: Pero... ¿quién... [vacilación] quién llama, por favor?
+H2: [canta].
+H5: Buenas tardes.
+H2: Hola, buenas tardes. ¿Hablo con Miguel?
+H5: Sí.
+H2: Hola, soy Elena de "Cilag"... [interrupción de la grabación]
+H2: ...un puente para Pamplona...
+H5: ¿Sí?...
+H2: ...que... [duda] tien[palabra cortada]... tienen que venir a recogerlo esta tarde...
+H5: Sí.
+H2: ...y luego dos... [duda]
+H5: ¿Oye?
+H2: ¿Sí?
+H5: ¿Te importaría coger el teléfono?
+H2: ¿Por?
+H5: Porque es que... [duda] me... [duda] me sienta muy mal.
+H2: ¿El qué?
+H5: Que habléis así.
+H2: ¡Vale!
+H5: Ya lo sé... es que soy muy raro... pero es que no me gusta que me hablen por el... [ininteligible].
+H2: ¡Lo hago, lo hago! [teléfono].
+H5: [risas].
