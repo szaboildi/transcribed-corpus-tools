@@ -32,9 +32,5 @@ def main():
     folder = os.getcwd()
     spanish_folder = os.path.join(folder, "CORLEC\\")
     spanish_words = extract_from_folders(spanish_folder)
-    print(spanish_words[:50])
-    print(len(spanish_words))
-
-
 
 main()
