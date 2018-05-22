@@ -5,11 +5,12 @@ import string
 ############################
 # Reading in Spanish files #
 ############################
+# Reading in the Spanish dictionary from subfolders
 def extract_from_folders(folder):
     """
-    Extracts lists of words from
+    Extracts lists of words from subfolders
     :param folder: folder in which documents are nested in subdirectories
-    :return: a set of Spanish words
+    :return: a set of Spanish words (no frequency)
     """
     spanish_wordlist = []
     for dir in glob.glob(os.path.join(folder, '*/')):
@@ -28,9 +29,30 @@ def extract_from_folders(folder):
     return spanish_wordlist
 
 
+# Reading in the CMU file
+def cmu_reader(filename):
+    """
+    Reads in the CMU file into a dictionary of spelling-to-pronunciation
+    :param filename: name & path of the CMU file
+    :return: a list of English words (no frequency)
+    """
+    cmu = []
+    with open(filename, 'r') as cmu_f:
+        for line in cmu_f:
+            line = line.strip()
+            bits = line.split(',')
+            spelling = bits[0].strip('"')
+            if spelling not in cmu:
+                cmu.append(spelling)
+
+    return cmu
+
+
 def main():
     folder = os.getcwd()
     spanish_folder = os.path.join(folder, "CORLEC\\")
     spanish_words = extract_from_folders(spanish_folder)
+    cmu_path = 'cmu_dictionary.txt'
+    cmu = cmu_reader(cmu_path)
 
 main()
