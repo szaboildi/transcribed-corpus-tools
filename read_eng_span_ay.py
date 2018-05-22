@@ -47,7 +47,7 @@ def cmu_reader(filename):
 
     return cmu
 
-
+# Reading in Aymara word list
 def aymara_reader(filename):
     """
     Reads in an Aymara word list and returns a list with the words
@@ -55,11 +55,11 @@ def aymara_reader(filename):
     :return: a list of Aymara words (no frequency)
     """
     aym = []
-    with open(filename, 'r') as aym_f:
+    with open(filename, 'r', encoding='utf-8') as aym_f:
         for line in aym_f:
             line = line.strip()
-            bits = line.split(',')
-            word = bits[1].strip('"')
+            bits = line.split(' ')
+            word = bits[1]
             to_remove = string.punctuation
             table = {ord(char): None for char in to_remove}
             word = word.translate(table)
@@ -78,6 +78,6 @@ def main():
 
     aym_path = 'ay-freq.txt'
     aym = aymara_reader(aym_path)
-    print(aym[:20])
+
 
 main()
