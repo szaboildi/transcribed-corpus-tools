@@ -13,25 +13,28 @@ def extract_from_folders(folder):
     """
     spanish_wordlist = []
     for dir in glob.glob(os.path.join(folder, '*/')):
-        for subdir in glob.glob(os.path.join(dir, '*/')):
-            for filename in glob.glob(os.path.join(subdir, '*.txt')):
-                with open(filename, 'r') as f:
-                    for line in f:
-                        line = line.strip()
-                        words = line.split(' ')
-                        for word in words:
-                            word = word.translate(None, string.punctuation)
-                            if word.isalpha():
-                                spanish_wordlist.append(word)
+        for filename in glob.glob(os.path.join(dir, '*.txt')):
+            with open(filename, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    words = line.split(' ')
+                    for word in words:
+                        to_remove = string.punctuation
+                        table = {ord(char): None for char in to_remove}
+                        word = word.translate(table)
+                        if word.isalpha():
+                            spanish_wordlist.append(word)
 
     return spanish_wordlist
 
 
 def main():
-    directory = os.path.dirname(os.getcwd())
-    spanish_folder = os.path.join(directory, "CORLEC\\")
-    print(spanish_folder)
+    folder = os.getcwd()
+    spanish_folder = os.path.join(folder, "CORLEC\\")
     spanish_words = extract_from_folders(spanish_folder)
-    print(spanish_words)
+    print(spanish_words[:50])
+    print(len(spanish_words))
+
+
 
 main()
