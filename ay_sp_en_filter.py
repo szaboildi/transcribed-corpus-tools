@@ -2,10 +2,10 @@ import os
 import glob
 import string
 
-############################
-# Reading in Spanish files #
-############################
-# Reading in the Spanish dictionary from subfolders
+########################
+# Reading in wordlists #
+########################
+## Reading in the Spanish dictionary from subfolders
 def extract_from_folders(folder):
     """
     Extracts lists of words from subfolders
@@ -23,13 +23,14 @@ def extract_from_folders(folder):
                         to_remove = string.punctuation
                         table = {ord(char): None for char in to_remove}
                         word = word.translate(table)
+                        word = word.lower()
                         if word.isalpha():
                             spanish_wordlist.append(word)
 
     return spanish_wordlist
 
 
-# Reading in the CMU file
+## Reading in the CMU file
 def cmu_reader(filename):
     """
     Reads in the CMU file into a dictionary of spelling-to-pronunciation
@@ -41,13 +42,15 @@ def cmu_reader(filename):
         for line in cmu_f:
             line = line.strip()
             bits = line.split(',')
-            spelling = bits[0].strip('"')
-            if spelling not in cmu:
-                cmu.append(spelling)
+            word = bits[0].strip('"')
+            word = word.lower()
+            if word not in cmu:
+                cmu.append(word)
 
     return cmu
 
-# Reading in Aymara word list
+
+## Reading in Aymara word list
 def aymara_reader(filename):
     """
     Reads in an Aymara word list and returns a list with the words
@@ -63,13 +66,17 @@ def aymara_reader(filename):
             to_remove = string.punctuation
             table = {ord(char): None for char in to_remove}
             word = word.translate(table)
+            word = word.lower()
             if word.isalpha() and word not in aym:
                 aym.append(word)
 
     return aym
 
 
-# Filtering lists with lists
+#########################
+# Filtering and writing #
+#########################
+## Filtering lists with lists
 def filter_lst(filter_from, stoplist):
     """
     Filters out words appearing in the stoplist from another list
@@ -83,15 +90,15 @@ def filter_lst(filter_from, stoplist):
     discard_list = []
 
     for item in filter_from:
-        if item in stoplist:
-            discard_list.append(item.lower())
-        else:
-            pass_list.append(item.lower())
+        if item in stoplist and item not in discard_list:
+            discard_list.append(item)
+        elif item not in pass_list:
+            pass_list.append(item)
 
     return pass_list, discard_list
 
 
-# Writing output lists to files
+## Writing output lists to files
 def write_list(lst, path):
     """
     Writes list of words to file.
@@ -99,7 +106,7 @@ def write_list(lst, path):
     :param path: path of new file
     :return: None
     """
-    with open(path, 'w') as output_w:
+    with open(path, 'w', encoding='utf-8') as output_w:
         for item in lst:
             output_w.write(item + '\n')
 
