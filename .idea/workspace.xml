@@ -2,8 +2,509 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="180dc8bd-9f7c-4b1c-a0b5-e4ff055e00b9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/CADM035A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/CADM038A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM004A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM005A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM005B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM005C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM005D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM005F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM005G-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM005J-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ADM/EADM005K-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CIE/ACIE016A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CIE/ACIE032A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CIE/ACIE034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CIE/CCIE017A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CIE/ECIE011D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CIE/PCIE015D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON006A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON006B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON006C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON006D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON007B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON011A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON011B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON012A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON012B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON012C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON014A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON017A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON017B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON019A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON019B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON021A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON022A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON022B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON022C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON023A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON024A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON024B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON026A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON026B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON030A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON033A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ACON034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON004A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON007B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON014A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON014B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON014D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON015A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON015B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON015C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON015D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON015E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON022A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON022B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON032A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON043A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON043B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON048A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON048B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/BCON048C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON004A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON004B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON004C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON004D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON005A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON005B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON005C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON006A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON006B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON007B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON007C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON007D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON009B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON010A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON010B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON011A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON012A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON012B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON013A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON013B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON013C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON013D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON013E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON013F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON013G-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON016A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON016B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON016C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON018A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON018B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON018C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON018D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON019A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON021A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON021B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON022A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON022B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON022C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON022D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON022E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON028A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON029A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON029B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON029C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON029D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON029E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON029F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON031A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON031B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON032A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON034B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON035A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON035B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON037A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/CCON037B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ECON001B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ECON004B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ECON004D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ECON006A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ECON006B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ECON021A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/ECON023A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/PCON001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/PCON002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/PCON002E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/PCON003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/PCON003B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/PCON006A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/PCON007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/CONV/PCON007B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB002B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB002C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB022A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB023B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/ADEB033A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/BDEB034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/BDEB039A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB001B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB003B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB008A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB008B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB010A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB011A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB014A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB014B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB028A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/CDEB033A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/EDEB008A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/EDEB010A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEB/EDEB012B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/ADEP007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/ADEP008A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/ADEP009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/ADEP017A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/ADEP017B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/ADEP017C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/ADEP021A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/ADEP024A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/CDEP001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/CDEP005A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/CDEP009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/CDEP013A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/EDEP007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/EDEP007C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/EDEP007D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/EDEP024B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/EDEP024C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/PDEP013A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/PDEP013B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DEP/PDEP013H-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/ADOC001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/ADOC009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/ADOC012A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/ADOC034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/ADOC034B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/BDOC009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/BDOC019A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/BDOC024A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/BDOC041A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/CDOC008A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/CDOC008B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/CDOC012A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/CDOC012B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/CDOC038A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/EDOC011B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/EDOC011C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/PDOC002C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/PDOC005A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/DOC/PDOC013E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/AEDU016A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/BEDU036A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/BEDU036B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/BEDU037B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/CEDU020A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/CEDU020B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/CEDU020C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/CEDU020D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/CEDU020E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/CEDU022A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/CEDU029A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/CEDU030A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/EEDU007E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/EEDU018A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/PEDU010A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/PEDU010B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/PEDU011A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/PEDU011B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/PEDU011C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/PEDU012A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/PEDU012B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/EDU/PEDU012C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT001B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT001C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT001D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT001E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT001F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT002B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT002C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT006A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT006B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT006C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT009B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT010A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT020A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT020B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT024A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT027A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT033A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/AENT034B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT007B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT015A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT015B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT015C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT023A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT023B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT023E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT026F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT027A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT027B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT027C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT027D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT027E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT027F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT027G-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT028A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT028H-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT029A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT029C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/BENT031A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT001B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT002B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT002C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT002D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT005A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT005B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT005C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT009B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT009C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT009D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT011A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT011B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT011C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT012A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT012B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT012C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT013A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT013B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT014A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/CENT035A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/EENT005H-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/EENT005I-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/EENT005L-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/PENT001C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/PENT001D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/PENT001E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/PENT007D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/ENT/PENT013D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/AHUM001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/AHUM019A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/AHUM027A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/AHUM031A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/AHUM033A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/AHUM033B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/BHUM029A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/CHUM015A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/CHUM015B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/CHUM015C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/CHUM015D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/CHUM023A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/CHUM023B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/CHUM026A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/CHUM027A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/HUM/EHUM005E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/INS/AINS026A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/INS/BINS008A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/INS/PINS002D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/INS/PINS004A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/INS/PINS008C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/INS/PINS008E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/INS/PINS015B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/INS/PINS015C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/AJUR004A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/AJUR016A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/AJUR017A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/AJUR017B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/BJUR015A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/EJUR007B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/EJUR011A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR005C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR005D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR005E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR005F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR005G-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR005H-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR009C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR014A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR014B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR014C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR014D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/JUR/PJUR015A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD005A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD005B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD020A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD020B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD020C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD020D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD023A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ALUD030A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/BLUD014A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/BLUD015A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/BLUD032A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD009B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD009C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD011A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD011B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD013A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD024A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD025A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD025B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD025C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/CLUD035A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/ELUD003C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/PLUD005B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/PLUD008B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/LUD/PLUD013G-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT002B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT003B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT004A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT004B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT024A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ANOT024B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT004A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT007B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT009B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT010A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT015A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT015B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT015C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT017A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT017B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/BNOT038B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/CNOT001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/CNOT003A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/CNOT003B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/CNOT008A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/CNOT013A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/CNOT016A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/CNOT034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/CNOT035A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ENOT003B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ENOT003D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ENOT003E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ENOT003F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/ENOT003G-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/PNOT001B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/NOT/PNOT002B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/APOL009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/APOL016A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/APOL021A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/APOL023A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/APOL023B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/APOL023C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/APOL035A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/APOL035B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/BPOL047A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/CPOL000A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/CPOL000B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/PPOL007C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/PPOL008A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/PPOL008F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/POL/PPOL009B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB004A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB004B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB004C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB006A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB006B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB007B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB017A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB017B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB017C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB034B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB035A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB035B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/APUB035C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB015A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB019A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB019B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB019C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB022A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB022B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB022C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB034A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB041B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB041C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB041D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/BPUB043A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/CPUB001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/CPUB001B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/CPUB002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/CPUB009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/CPUB009B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/CPUB011A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/CPUB038A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/EPUB016B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/PPUB013C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/PUB/PPUB013F-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/AREL007A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/BREL020A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/BREL020B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/BREL020C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/CREL021A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/CREL021B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/CREL021C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/CREL021D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/EREL004C-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/PREL008D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/REL/PREL009A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/CTEC006A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/CTEC006B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/CTEC033A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/CTEC036A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/CTEC036B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/CTEC038A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/CTEC038B-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/ETEC001A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/ETEC001D-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/ETEC001E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/ETEC002A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/ETEC004E-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORLEC/TEC/ETEC020A-corregido.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ay-freq.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmu_dictionary.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/transcription.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/process_spanish_english.py" afterPath="$PROJECT_DIR$/process_spanish_english.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ay_sp_en_filter.py" afterPath="$PROJECT_DIR$/ay_sp_en_filter.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +515,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="process_spanish_english.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/process_spanish_english.py">
+      <file leaf-file-name="f0_target_finder_cmu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/f0_target_finder_cmu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="57" column="56" lean-forward="true" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+            <state relative-caret-position="175">
+              <caret line="303" column="13" lean-forward="false" selection-start-line="303" selection-start-column="8" selection-end-line="303" selection-end-column="13" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -26,11 +527,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="f0_target_finder_cmu.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/f0_target_finder_cmu.py">
+      <file leaf-file-name="ay_sp_en_filter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="283" column="18" lean-forward="true" selection-start-line="283" selection-start-column="18" selection-end-line="283" selection-end-column="18" />
+            <state relative-caret-position="50">
+              <caret line="107" column="22" lean-forward="false" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -40,10 +541,20 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>utts</find>
       <find>cmu</find>
+      <find>with</find>
+      <find>'w'</find>
+      <find>write</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -53,6 +564,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/process_spanish_english.py" />
+        <option value="$PROJECT_DIR$/transcription.py" />
+        <option value="$PROJECT_DIR$/ay_sp_en_filter.py" />
       </list>
     </option>
   </component>
@@ -77,6 +590,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,7 +602,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -107,7 +620,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.process_spanish_english">
+  <component name="RunManager" selected="Python.ay_sp_en_filter">
+    <configuration name="ay_sp_en_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Aymara-word-corpus" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ay_sp_en_filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="process_spanish_english" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,9 +655,14 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.process_spanish_english" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ay_sp_en_filter" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.process_spanish_english" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.ay_sp_en_filter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.process_spanish_english" />
       </list>
     </recent_temporary>
   </component>
@@ -146,13 +681,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25405404" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2583784" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -179,31 +715,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/speech_rate_extractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9600">
-          <caret line="384" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/speech_rate_extractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/f0_target_finder_cmu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
+        <state relative-caret-position="7025">
           <caret line="283" column="18" lean-forward="true" selection-start-line="283" selection-start-column="18" selection-end-line="283" selection-end-column="18" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -213,8 +731,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/process_spanish_english.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="57" column="56" lean-forward="true" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/speech_rate_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9600">
+          <caret line="384" column="0" lean-forward="true" selection-start-line="384" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/speech_rate_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_spanish_english.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="57" column="56" lean-forward="false" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_eng_span_ay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transcription.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/f0_target_finder_cmu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="303" column="13" lean-forward="false" selection-start-line="303" selection-start-column="8" selection-end-line="303" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="107" column="22" lean-forward="false" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>

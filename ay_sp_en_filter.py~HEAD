@@ -68,8 +68,6 @@ def aymara_reader(filename):
 
     return aym
 
-
-# Filtering lists with lists
 def filter_lst(filter_from, stoplist):
     """
     Filters out words appearing in the stoplist from another list
@@ -91,7 +89,6 @@ def filter_lst(filter_from, stoplist):
     return pass_list, discard_list
 
 
-# Writing output lists to files
 def write_list(lst, path):
     """
     Writes list of words to file.
@@ -105,18 +102,19 @@ def write_list(lst, path):
 
 
 def main():
-    # Reading in files
     folder = os.getcwd()
     spanish_folder = os.path.join(folder, "Inputs\\CORLEC\\")
     sp = extract_from_folders(spanish_folder)
+
     cmu_path = "Inputs\\cmu_dictionary.txt"
     en = cmu_reader(cmu_path)
+
     aym_path = "Inputs\\ay-freq.txt"
     aym = aymara_reader(aym_path)
 
-    # Filtering
     no_sp, sp_stop = filter_lst(aym, sp)
     write_list(sp_stop, "Outputs\\Spanish_loans.txt")
+
     no_sp_en, en_stop = filter_lst(no_sp, en)
     write_list(en_stop, "Outputs\\English_loans.txt")
     write_list(no_sp_en, "Outputs\\Aymara_words_no_sp_en.txt")
