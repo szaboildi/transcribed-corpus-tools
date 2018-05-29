@@ -9,7 +9,6 @@ pata
 ali
 ay
 ni
-tanta
 mama
 s
 ch
@@ -73,8 +72,7 @@ lata
 kan
 chani
 ama
-tantas
-tal
+tanta
 sumar
 sana
 pum
@@ -99,7 +97,6 @@ piña
 pisa
 pis
 pili
-pita
 masa
 maquina
 mami
@@ -121,11 +118,9 @@ it
 chuta
 ai
 yaya
-yantar
 ulla
 ti
 tapar
-tiri
 sutil
 sini
 sin
@@ -137,12 +132,12 @@ rara
 punk
 prima
 placa
+pita
 pila
 pi
 pasta
 pachi
 paca
-papi
 nana
 municipal
 man
@@ -154,7 +149,6 @@ in
 h
 cultura
 cuarta
-chilla
 casilla
 campañas
 asi
@@ -183,6 +177,7 @@ kant
 irma
 imprimir
 ix
+chilla
 cataluña
 canal
 caca

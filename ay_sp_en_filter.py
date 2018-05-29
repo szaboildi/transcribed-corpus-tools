@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os
 import glob
 import string
@@ -8,11 +9,14 @@ import string
 ## Reading in the Spanish dictionary from subfolders
 def extract_from_folders(folder):
     """
-    Extracts lists of words from subfolders
+    Extracts lists of words from subfolders, removes punctuation
     :param folder: folder in which documents are nested in subdirectories
     :return: a set of Spanish words (no frequency)
     """
     spanish_wordlist = []
+    to_remove = string.punctuation
+    table = {ord(char): None for char in to_remove}
+
     for dir in glob.glob(os.path.join(folder, '*/')):
         for filename in glob.glob(os.path.join(dir, '*.txt')):
             with open(filename, 'r', encoding='utf-8') as f:
@@ -20,8 +24,6 @@ def extract_from_folders(folder):
                     line = line.strip()
                     words = line.split(' ')
                     for word in words:
-                        to_remove = string.punctuation
-                        table = {ord(char): None for char in to_remove}
                         word = word.translate(table)
                         word = word.lower()
                         if word.isalpha():
@@ -53,18 +55,19 @@ def cmu_reader(filename):
 ## Reading in Aymara word list
 def aymara_reader(filename):
     """
-    Reads in an Aymara word list and returns a list with the words
+    Reads in an Aymara word list and returns a list with the words,
+    removes punctuation, except for "'"
     :param filename: name & path of the Aymara word list
     :return: a list of Aymara words (no frequency)
     """
     aym = []
+    to_remove = string.punctuation.replace("'", "")
+    table = {ord(char): None for char in to_remove}
     with open(filename, 'r', encoding='utf-8') as aym_f:
         for line in aym_f:
             line = line.strip()
             bits = line.split(' ')
             word = bits[1]
-            to_remove = string.punctuation
-            table = {ord(char): None for char in to_remove}
             word = word.translate(table)
             word = word.lower()
             if word.isalpha() and word not in aym:
