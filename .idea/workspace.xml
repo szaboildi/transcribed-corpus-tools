@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="180dc8bd-9f7c-4b1c-a0b5-e4ff055e00b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ay_transcriber.py" afterPath="$PROJECT_DIR$/ay_transcriber.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,7 +40,7 @@
       <file leaf-file-name="ay_transcriber.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
+            <state relative-caret-position="800">
               <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
               <folding />
             </state>
@@ -348,7 +347,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="800">
           <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding />
         </state>
