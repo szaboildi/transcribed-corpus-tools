@@ -4,8 +4,9 @@
     <list default="true" id="180dc8bd-9f7c-4b1c-a0b5-e4ff055e00b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Aymara_words_no_sp_en.txt" afterPath="$PROJECT_DIR$/Outputs/Aymara_words_no_sp_en.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/English_loans.txt" afterPath="$PROJECT_DIR$/Outputs/English_loans.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Spanish_loans.txt" afterPath="$PROJECT_DIR$/Outputs/Spanish_loans.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ay_sp_en_filter.py" afterPath="$PROJECT_DIR$/ay_sp_en_filter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ay_transcriber.py" afterPath="$PROJECT_DIR$/ay_transcriber.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +32,8 @@
       <file leaf-file-name="ay_sp_en_filter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="66" column="6" lean-forward="false" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+            <state relative-caret-position="275">
+              <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding>
                 <element signature="e#18#27#0" expanded="true" />
               </folding>
@@ -43,8 +44,8 @@
       <file leaf-file-name="ay_transcriber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="160" column="31" lean-forward="false" selection-start-line="160" selection-start-column="31" selection-end-line="160" selection-end-column="31" />
+            <state relative-caret-position="220">
+              <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
               <folding>
                 <element signature="e#18#34#0" expanded="true" />
               </folding>
@@ -95,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-77" />
     <option name="y" value="-22" />
     <option name="width" value="1440" />
@@ -225,19 +226,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27297297" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.5043243" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.49567568" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952436" sideWeight="0.49783784" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -252,7 +253,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -383,14 +386,6 @@
     <entry file="file://$PROJECT_DIR$/process_spanish_english.py" />
     <entry file="file://$PROJECT_DIR$/read_eng_span_ay.py" />
     <entry file="file://$PROJECT_DIR$/transcription.py" />
-    <entry file="file://$PROJECT_DIR$/../../Tiers/Transcriber_hun/transcriber_hun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="211" column="33" lean-forward="false" selection-start-line="211" selection-start-column="32" selection-end-line="211" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/f0_target_finder_cmu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -401,10 +396,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../Tiers/Transcriber_hun/transcriber_hun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="211" column="12" lean-forward="true" selection-start-line="211" selection-start-column="12" selection-end-line="211" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="160" column="31" lean-forward="false" selection-start-line="160" selection-start-column="31" selection-end-line="160" selection-end-column="31" />
+        <state relative-caret-position="220">
+          <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
           <folding>
             <element signature="e#18#34#0" expanded="true" />
           </folding>
@@ -413,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="66" column="6" lean-forward="false" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        <state relative-caret-position="275">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding>
             <element signature="e#18#27#0" expanded="true" />
           </folding>

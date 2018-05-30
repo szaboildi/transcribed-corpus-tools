@@ -9,11 +9,11 @@ import string
 ## Reading in the Spanish dictionary from subfolders
 def extract_from_folders(folder):
     """
-    Extracts lists of words from subfolders, removes punctuation
+    Extracts a set of words from files in subfolders, removes punctuation
     :param folder: folder in which documents are nested in subdirectories
     :return: a set of Spanish words (no frequency)
     """
-    spanish_wordlist = []
+    spanish_wordlist = set()
     to_remove = string.punctuation
     table = {ord(char): None for char in to_remove}
 
@@ -27,7 +27,7 @@ def extract_from_folders(folder):
                         word = word.translate(table)
                         word = word.lower()
                         if word.isalpha():
-                            spanish_wordlist.append(word)
+                            spanish_wordlist.add(word)
 
     return spanish_wordlist
 
@@ -35,19 +35,12 @@ def extract_from_folders(folder):
 ## Reading in the CMU file
 def cmu_reader(filename):
     """
-    Reads in the CMU file into a dictionary of spelling-to-pronunciation
+    Reads in the CMU file into a set of English words
     :param filename: name & path of the CMU file
-    :return: a list of English words (no frequency)
+    :return: a set of English words (no frequency)
     """
-    cmu = []
     with open(filename, 'r') as cmu_f:
-        for line in cmu_f:
-            line = line.strip()
-            bits = line.split(',')
-            word = bits[0].strip('"')
-            word = word.lower()
-            if word not in cmu:
-                cmu.append(word)
+        cmu = {line.strip().split(',')[0].strip('"').lower() for line in cmu_f}
 
     return cmu
 
@@ -60,20 +53,15 @@ def aymara_reader(filename):
     :param filename: name & path of the Aymara word list
     :return: a list of Aymara words (no frequency)
     """
-    aym = []
     to_remove = '"():;.,?!^'
     table = {char: "" for char in to_remove}
     table["’"] = "'"
     # print(table)
     with open(filename, 'r', encoding='utf-8') as aym_f:
-        for line in aym_f:
-            line = line.strip()
-            word = line.split(' ')[1]
-            word = word.translate(table)
-            word = word.lower()
-            if not any(char.isdigit() for char in word) and \
-                            word not in aym:
-                aym.append(word)
+        interim_aym = {line.split(' ')[1].strip().lower().translate(table) for line in aym_f}
+        aym = {word for word in interim_aym if
+               not any(char.isdigit() for char in word) and \
+               '@' not in word}
 
     return aym
 
@@ -81,27 +69,22 @@ def aymara_reader(filename):
 #########################
 # Filtering and writing #
 #########################
+"""
 ## Filtering lists with lists
 def filter_lst(filter_from, stoplist):
-    """
+
     Filters out words appearing in the stoplist from another list
     :param filter_from: the list that should be filtered
     :param stoplist: the list of words that should be filtered
                      from the other list
     :return: two lists: the list of words that were filtered out
              and the list of words that were not
-    """
-    pass_list = []
-    discard_list = []
 
-    for item in filter_from:
-        if item in stoplist and item not in discard_list:
-            discard_list.append(item)
-        elif item not in pass_list:
-            pass_list.append(item)
+    pass_list = [item for item in filter_from if item in stoplist]
+    discard_list = [item for item in filter_from if item in stoplist]
 
     return pass_list, discard_list
-
+"""
 
 ## Writing output lists to files
 def write_list(lst, path):
@@ -127,10 +110,11 @@ def main():
     aym = aymara_reader(aym_path)
 
     # Filtering
-    no_sp, sp_stop = filter_lst(aym, sp)
-    write_list(sp_stop, "Outputs\\Spanish_loans.txt")
-    no_sp_en, en_stop = filter_lst(no_sp, en)
-    write_list(en_stop, "Outputs\\English_loans.txt")
+    sp_disc = aym - (aym - sp)
+    write_list(sp_disc, "Outputs\\Spanish_loans.txt")
+    en_disc = aym - (aym - en)
+    write_list(en_disc, "Outputs\\English_loans.txt")
+    no_sp_en = aym - sp - en
     write_list(no_sp_en, "Outputs\\Aymara_words_no_sp_en.txt")
 
 if __name__ == "__main__":
