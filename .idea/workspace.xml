@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="180dc8bd-9f7c-4b1c-a0b5-e4ff055e00b9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Inputs/ay-freq.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Aymara_words_no_sp_en.txt" afterPath="$PROJECT_DIR$/Outputs/Aymara_words_no_sp_en.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/English_loans.txt" afterPath="$PROJECT_DIR$/Outputs/English_loans.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Spanish_loans.txt" afterPath="$PROJECT_DIR$/Outputs/Spanish_loans.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ay_sp_en_filter.py" afterPath="$PROJECT_DIR$/ay_sp_en_filter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ay_transcriber.py" afterPath="$PROJECT_DIR$/ay_transcriber.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ay_sp_en_filter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ay_sp_en_filter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="96" column="27" lean-forward="false" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+            <state relative-caret-position="2100">
+              <caret line="96" column="11" lean-forward="true" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
               <folding>
                 <element signature="e#18#27#0" expanded="true" />
               </folding>
@@ -37,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ay_transcriber.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ay_transcriber.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
               <folding>
                 <element signature="e#18#34#0" expanded="true" />
               </folding>
@@ -77,6 +83,11 @@
       <find>pr</find>
       <find>print</find>
       <find>’</find>
+      <find>word not</find>
+      <find>table</find>
+      <find>fre</find>
+      <find>write_l</find>
+      <find>length</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,8 +98,8 @@
       <list>
         <option value="$PROJECT_DIR$/process_spanish_english.py" />
         <option value="$PROJECT_DIR$/transcription.py" />
-        <option value="$PROJECT_DIR$/ay_transcriber.py" />
         <option value="$PROJECT_DIR$/ay_sp_en_filter.py" />
+        <option value="$PROJECT_DIR$/ay_transcriber.py" />
       </list>
     </option>
   </component>
@@ -143,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ay_sp_en_filter">
+  <component name="RunManager" selected="Python.ay_transcriber">
     <configuration name="ay_sp_en_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,8 +213,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.ay_sp_en_filter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ay_transcriber" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ay_transcriber" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ay_sp_en_filter" />
         <item index="2" class="java.lang.String" itemvalue="Python.process_spanish_english" />
       </list>
     </recent_temporary>
@@ -227,10 +238,10 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27297297" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.5043243" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.5064865" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.49567568" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.49351352" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -408,22 +419,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
+    <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+        <state relative-caret-position="2100">
+          <caret line="96" column="11" lean-forward="true" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
           <folding>
-            <element signature="e#18#34#0" expanded="true" />
+            <element signature="e#18#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
+    <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="96" column="27" lean-forward="false" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding>
-            <element signature="e#18#27#0" expanded="true" />
+            <element signature="e#18#34#0" expanded="true" />
           </folding>
         </state>
       </provider>

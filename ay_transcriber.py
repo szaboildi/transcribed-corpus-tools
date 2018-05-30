@@ -6,19 +6,14 @@ import ay_sp_en_filter as ay
 ############################
 # Reading in the word list #
 ############################
-def list_reader(path):
+def set_reader(path):
     """
-    Reads in file into list.
+    Reads in file into a set.
     :param path: location of text file with one word/line
-    :return: a list of words
+    :return: a set of words
     """
-    lst = []
     with open(path, 'r', encoding='utf-8') as f:
-        for line in f:
-            word = line.strip()
-            word = word.lower()
-            if word not in lst:
-                lst.append(word)
+        lst = {line.strip().lower() for line in f}
 
     return lst
 
@@ -26,17 +21,15 @@ def list_reader(path):
 ##############################################
 # Implementing pronunciation rules in Aymara #
 ##############################################
-def transcribe(lst):
+def transcribe(st):
     """
-    Transcribes a list of words into a pre-processed list
+    Transcribes a set of words into a pre-processed list
     that reflects pronunciation in a pseudo-transcription.
-    :param lst: input list
-    :return: output list
+    :param st: input set
+    :return: output set
     """
-    out_lst = []
 
     # Orthography:
-
     trans1 = {
         ## ch -> c
         u"ch": u"c",
@@ -70,7 +63,6 @@ def transcribe(lst):
         u"q'": u"G"
     }
 
-
     rules = {
         # Rule 1 (Frication): ch -> s/S before /t/
         # if it happens before th and t' as well,
@@ -99,35 +91,22 @@ def transcribe(lst):
         bg_str = "".join(bg)
         lowering[bg_str] = bg_str.translate(v_pairs)
 
+    out_set = {wrd.translate(trans1).translate(trans2).translate(rules).translate(lowering) for wrd in st}
 
-    for wrd in lst:
-        # Orthography
-        wrd = wrd.translate(trans1)
-        wrd = wrd.translate(trans2)
-
-        # Rule 1 (Frication) & Rule 2 (Sibilant place)
-        wrd = wrd.translate(rules)
-        # Rule 3 (Vowel height)
-        wrd = wrd.translate(lowering)
-
-        # Appends word to the final list
-        if wrd not in out_lst:
-            out_lst.append(wrd)
-
-    return out_lst
+    return out_set
 
 
 
 ############################################
 # Transcribing preprocessed words into IPA #
 ############################################
-def ipa_trans(lst):
+def ipa_trans(st):
     """
-    Transcribes a list of words into IPA
-    :param lst: input list of preprocessed words
-    :return: ipa_lst, a list of words in IPA
+    Transcribes a set of words into IPA
+    :param st: input list of preprocessed words
+    :return: ipa_set, a list of words in IPA
     """
-    ipa_lst = []
+    #ipa_lst = []
 
     # write rules that actually make IPA changes:
     ## c -> tS
@@ -155,44 +134,46 @@ def ipa_trans(lst):
                  u"g": u"k'",
                  u"G": u"q'"}
 
-    for wrd in lst:
-        wrd = wrd.translate(ipa_pairs)
-        if wrd not in ipa_lst:
-            ipa_lst.append(wrd)
+    ipa_set = {wrd.translate(ipa_pairs) for wrd in st}
 
-    return ipa_lst
+    return ipa_set
 
 
 
 ###############################################
 # Transcribing preprocessed words for UCLA PL #
 ###############################################
-def pl_trans(lst):
+def pl_trans(st):
     """
-    Transcribes a list of words in the style of the UCLA Phonotactic Learner
-    :param lst: input list of preprocessed words
-    :return: pl_lst a list of UCLA PL-compatible words
+    Transcribes a set of words in the style of the UCLA Phonotactic Learner
+    :param st: input set of preprocessed words
+    :return: pl_set a set of UCLA PL-compatible words
     """
-    pl_lst = []
+    #pl_lst = []
+    """
     for wrd in lst:
         # wrd = wrd.replace(word, str(word))
         chars = list(wrd)
         pl_wrd = " ".join(chars)
         if pl_wrd not in pl_lst:
             pl_lst.append(pl_wrd)
+    """
 
-    return pl_lst
+    pl_set = {" ".join(list(wrd)) for wrd in st}
+
+    return pl_set
 
 
 def main():
-    ay_orth = list_reader("Outputs\\Aymara_words_no_sp_en.txt")
+    ay_orth = set_reader("Outputs\\Aymara_words_no_sp_en.txt")
     ay_trans = transcribe(ay_orth)
+    ay.write_iter(ay_trans, "Outputs\\aymara_preprocessed.txt")
 
     ay_ipa = ipa_trans(ay_trans)
-    ay.write_list(ay_ipa, "Outputs\\aymara_ipa.txt")
+    ay.write_iter(ay_ipa, "Outputs\\aymara_ipa.txt")
 
     ay_pl = pl_trans(ay_trans)
-    ay.write_list(ay_pl, "Outputs\\aymara_pl.txt")
+    ay.write_iter(ay_pl, "Outputs\\aymara_pl.txt")
 
 
 if __name__ == "__main__":

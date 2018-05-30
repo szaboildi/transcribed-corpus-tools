@@ -55,8 +55,6 @@ def aymara_reader(filename):
     """
     to_remove = '"():;.,?!^'
     table = {char: "" for char in to_remove}
-    table["’"] = "'"
-    # print(table)
     with open(filename, 'r', encoding='utf-8') as aym_f:
         interim_aym = {line.split(' ')[1].strip().lower().translate(table) for line in aym_f}
         aym = {word for word in interim_aym if
@@ -71,7 +69,7 @@ def aymara_reader(filename):
 # Writing into a file #
 #######################
 ## Writing an iterable into a file
-def write_list(lst, path):
+def write_iter(lst, path):
     """
     Writes list of words to file.
     :param lst: list to be written to file
@@ -91,16 +89,16 @@ def main():
     sp = extract_from_folders(spanish_folder)
     cmu_path = "Inputs\\cmu_dictionary.txt"
     en = cmu_reader(cmu_path)
-    aym_path = "Inputs\\ay-freq.txt"
+    aym_path = "Inputs\\ay_freq.txt"
     aym = aymara_reader(aym_path)
 
     # Filtering and writing
     sp_disc = aym - (aym - sp)
-    write_list(sp_disc, "Outputs\\Spanish_loans.txt")
+    write_iter(sp_disc, "Outputs\\Spanish_loans.txt")
     en_disc = aym - (aym - en)
-    write_list(en_disc, "Outputs\\English_loans.txt")
+    write_iter(en_disc, "Outputs\\English_loans.txt")
     no_sp_en = aym - sp - en
-    write_list(no_sp_en, "Outputs\\Aymara_words_no_sp_en.txt")
+    write_iter(no_sp_en, "Outputs\\Aymara_words_no_sp_en.txt")
 
 if __name__ == "__main__":
     main()
