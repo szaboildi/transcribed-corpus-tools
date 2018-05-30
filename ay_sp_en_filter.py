@@ -61,16 +61,18 @@ def aymara_reader(filename):
     :return: a list of Aymara words (no frequency)
     """
     aym = []
-    to_remove = string.punctuation.replace("'", "")
-    table = {ord(char): None for char in to_remove}
+    to_remove = '"():;.,?!^'
+    table = {char: "" for char in to_remove}
+    table["’"] = "'"
+    # print(table)
     with open(filename, 'r', encoding='utf-8') as aym_f:
         for line in aym_f:
             line = line.strip()
-            bits = line.split(' ')
-            word = bits[1]
+            word = line.split(' ')[1]
             word = word.translate(table)
             word = word.lower()
-            if word.isalpha() and word not in aym:
+            if not any(char.isdigit() for char in word) and \
+                            word not in aym:
                 aym.append(word)
 
     return aym
@@ -131,5 +133,5 @@ def main():
     write_list(en_stop, "Outputs\\English_loans.txt")
     write_list(no_sp_en, "Outputs\\Aymara_words_no_sp_en.txt")
 
-
-main()
+if __name__ == "__main__":
+    main()
