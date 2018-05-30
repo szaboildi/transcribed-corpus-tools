@@ -66,27 +66,11 @@ def aymara_reader(filename):
     return aym
 
 
-#########################
-# Filtering and writing #
-#########################
-"""
-## Filtering lists with lists
-def filter_lst(filter_from, stoplist):
 
-    Filters out words appearing in the stoplist from another list
-    :param filter_from: the list that should be filtered
-    :param stoplist: the list of words that should be filtered
-                     from the other list
-    :return: two lists: the list of words that were filtered out
-             and the list of words that were not
-
-    pass_list = [item for item in filter_from if item in stoplist]
-    discard_list = [item for item in filter_from if item in stoplist]
-
-    return pass_list, discard_list
-"""
-
-## Writing output lists to files
+#######################
+# Writing into a file #
+#######################
+## Writing an iterable into a file
 def write_list(lst, path):
     """
     Writes list of words to file.
@@ -99,6 +83,7 @@ def write_list(lst, path):
             output_w.write(item + '\n')
 
 
+
 def main():
     # Reading in files
     folder = os.getcwd()
@@ -109,7 +94,7 @@ def main():
     aym_path = "Inputs\\ay-freq.txt"
     aym = aymara_reader(aym_path)
 
-    # Filtering
+    # Filtering and writing
     sp_disc = aym - (aym - sp)
     write_list(sp_disc, "Outputs\\Spanish_loans.txt")
     en_disc = aym - (aym - en)
