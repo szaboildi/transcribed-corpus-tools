@@ -31,16 +31,16 @@ def transcribe(st):
 
     # Orthography:
     trans1 = {
+        ## V length
+        u"ä": u"A",
+        u"ü": u"U",
+        u"ï": u"I",
         ## ch -> c
         u"ch": u"c",
         ## ñ -> N
         u"ñ": u"N",
         ## j -> h
         u"j": u"H",
-        ## V length
-        u"ä": u"A",
-        u"ü": u"U",
-        u"ï": u"I",
         ## ll -> alveo-palatal lateral (encoded as Y)
         u"ll": u"Y"
     }
@@ -78,10 +78,12 @@ def transcribe(st):
     # Rule 3 (V height): u, U, i, I lower around q series and x
     lowering_env = [u"q", u"Q", u"G", u"x"]
     lowering_v = [u"u", u"U", u"i", u"I"]
-    v_pairs = {u"u": u"o",
-               u"U": u"O",
-               u"i": u"e",
-               u"I": u"E"}
+    v_pairs = {
+        u"u": u"o",
+        u"U": u"O",
+        u"i": u"e",
+        u"I": u"E"
+    }
 
     lowering_bigrams = list(itertools.product(lowering_env, lowering_v))
     lowering_bigrams.extend(list(itertools.product(lowering_v, lowering_env)))
@@ -106,33 +108,34 @@ def ipa_trans(st):
     :param st: input list of preprocessed words
     :return: ipa_set, a list of words in IPA
     """
-    #ipa_lst = []
-
-    # write rules that actually make IPA changes:
-    ## c -> tS
-    ## S -> S
-    ## Y -> alveopalatal lateral
-    ## N -> ñ
-    ## V length (uppercase = long)
-    ipa_pairs = {u"c":u"ʧ",
-                 u"S":u"ʃ",
-                 u"Y":u"ʎ",
-                 u"N":u"ñ",
-                 u"A":u"aː",
-                 u"E": u"eː",
-                 u"I": u"iː",
-                 u"O": u"oː",
-                 u"U": u"uː",
-                 u"P": u"ph",
-                 u"T": u"th",
-                 u"C": u"ʧh",
-                 u"K": u"kh",
-                 u"Q": u"qh",
-                 u"b": u"p'",
-                 u"d": u"t'",
-                 u"z": u"ʧ'",
-                 u"g": u"k'",
-                 u"G": u"q'"}
+    ipa_pairs = {
+        ## c -> ʧ
+        u"c":u"ʧ",
+        ## S -> ʃ
+        u"S":u"ʃ",
+        ## Y -> alveopalatal lateral
+        u"Y":u"ʎ",
+        ## N -> ñ
+        u"N":u"ñ",
+        ## Vowel length
+        u"A":u"aː",
+        u"E": u"eː",
+        u"I": u"iː",
+        u"O": u"oː",
+        u"U": u"uː",
+        ## Aspiration
+        u"P": u"ph",
+        u"T": u"th",
+        u"C": u"ʧh",
+        u"K": u"kh",
+        u"Q": u"qh",
+        ## Ejectives
+        u"b": u"p'",
+        u"d": u"t'",
+        u"z": u"ʧ'",
+        u"g": u"k'",
+        u"G": u"q'"
+    }
 
     ipa_set = {wrd.translate(ipa_pairs) for wrd in st}
 
@@ -148,15 +151,6 @@ def pl_trans(st):
     Transcribes a set of words in the style of the UCLA Phonotactic Learner
     :param st: input set of preprocessed words
     :return: pl_set a set of UCLA PL-compatible words
-    """
-    #pl_lst = []
-    """
-    for wrd in lst:
-        # wrd = wrd.replace(word, str(word))
-        chars = list(wrd)
-        pl_wrd = " ".join(chars)
-        if pl_wrd not in pl_lst:
-            pl_lst.append(pl_wrd)
     """
 
     pl_set = {" ".join(list(wrd)) for wrd in st}
