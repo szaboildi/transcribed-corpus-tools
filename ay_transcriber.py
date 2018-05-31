@@ -32,27 +32,41 @@ def transcribe(st):
     # Orthography:
     trans1 = {
         ## V length
-        u"ä": u"A",
-        u"ü": u"U",
-        u"ï": u"I",
-        ## ch -> c
-        u"ch": u"c",
+        ord(u"ä"): u"A",
+        ord(u"ü"): u"U",
+        ord(u"ï"): u"I",
         ## ñ -> N
-        u"ñ": u"N",
+        ord(u"ñ"): u"N",
         ## j -> h
-        u"j": u"H",
-        ## ll -> alveo-palatal lateral (encoded as Y)
-        u"ll": u"Y"
+        ord(u"j"): u"h",
+        ## y -> j
+        ord(u"y"): u"j"
     }
 
-    trans2 = {
-        ## y -> j
-        u"y": u"j",
-        u"h": u"H",
+
+    out_set = {lower_vow(bigram_repl(wrd.translate(trans1))) for wrd in st}
+
+    return out_set
+
+
+#######################
+# Bigram replacements #
+#######################
+def bigram_repl(word):
+    """
+    Makes the relevant bigram replacements in Aymara
+    :param word: input word
+    :return: word after the replacements
+    """
+    repl = {
+        ## ch -> c
+        u"ch": u"c",
+        ## ll -> alveo-palatal lateral (encoded as Y)
+        u"ll": u"Y",
         ## aspiration
         u"ph": u"P",
         u"th": u"T",
-        u"ch": u"C",
+        u"chh": u"C",
         u"kh": u"K",
         u"qh": u"Q",
         ## ejectives
@@ -60,10 +74,7 @@ def transcribe(st):
         u"t'": u"d",
         u"c'": u"z",
         u"k'": u"g",
-        u"q'": u"G"
-    }
-
-    rules = {
+        u"q'": u"G",
         # Rule 1 (Frication): ch -> s/S before /t/
         # if it happens before th and t' as well,
         # this needs to be moved into trans1
@@ -75,14 +86,28 @@ def transcribe(st):
         u"Ns": u"NS"
     }
 
-    # Rule 3 (V height): u, U, i, I lower around q series and x
+    for bigram in repl:
+        word = word.replace(bigram, repl[bigram])
+    return word
+
+
+#############################################################
+# Rule 3 (V height): u, U, i, I lower around q series and x #
+#############################################################
+def lower_vow(word):
+    """
+
+    Lowers any u and i in a word into o and e if it's in a lowering environment
+    :param word: a word
+    :return: the word after lowering applied
+    """
     lowering_env = [u"q", u"Q", u"G", u"x"]
     lowering_v = [u"u", u"U", u"i", u"I"]
     v_pairs = {
-        u"u": u"o",
-        u"U": u"O",
-        u"i": u"e",
-        u"I": u"E"
+        ord(u"u"): u"o",
+        ord(u"U"): u"O",
+        ord(u"i"): u"e",
+        ord(u"I"): u"E"
     }
 
     lowering_bigrams = list(itertools.product(lowering_env, lowering_v))
@@ -93,9 +118,10 @@ def transcribe(st):
         bg_str = "".join(bg)
         lowering[bg_str] = bg_str.translate(v_pairs)
 
-    out_set = {wrd.translate(trans1).translate(trans2).translate(rules).translate(lowering) for wrd in st}
+    for vow_env in lowering:
+        word = word.replace(vow_env, lowering[vow_env])
+    return word
 
-    return out_set
 
 
 
@@ -110,31 +136,31 @@ def ipa_trans(st):
     """
     ipa_pairs = {
         ## c -> ʧ
-        u"c":u"ʧ",
+        ord(u"c"):u"ʧ",
         ## S -> ʃ
-        u"S":u"ʃ",
+        ord(u"S"):u"ʃ",
         ## Y -> alveopalatal lateral
-        u"Y":u"ʎ",
+        ord(u"Y"):u"ʎ",
         ## N -> ñ
-        u"N":u"ñ",
+        ord(u"N"):u"ñ",
         ## Vowel length
-        u"A":u"aː",
-        u"E": u"eː",
-        u"I": u"iː",
-        u"O": u"oː",
-        u"U": u"uː",
+        ord(u"A"):u"aː",
+        ord(u"E"): u"eː",
+        ord(u"I"): u"iː",
+        ord(u"O"): u"oː",
+        ord(u"U"): u"uː",
         ## Aspiration
-        u"P": u"ph",
-        u"T": u"th",
-        u"C": u"ʧh",
-        u"K": u"kh",
-        u"Q": u"qh",
+        ord(u"P"): u"ph",
+        ord(u"T"): u"th",
+        ord(u"C"): u"ʧh",
+        ord(u"K"): u"kh",
+        ord(u"Q"): u"qh",
         ## Ejectives
-        u"b": u"p'",
-        u"d": u"t'",
-        u"z": u"ʧ'",
-        u"g": u"k'",
-        u"G": u"q'"
+        ord(u"b"): u"p'",
+        ord(u"d"): u"t'",
+        ord(u"z"): u"ʧ'",
+        ord(u"g"): u"k'",
+        ord(u"G"): u"q'"
     }
 
     ipa_set = {wrd.translate(ipa_pairs) for wrd in st}
@@ -161,13 +187,13 @@ def pl_trans(st):
 def main():
     ay_orth = set_reader("Outputs\\Aymara_words_no_sp_en.txt")
     ay_trans = transcribe(ay_orth)
-    ay.write_iter(ay_trans, "Outputs\\aymara_preprocessed.txt")
+    ay.write_iter(ay_trans, "Outputs\\Transcription\\aymara_preprocessed.txt")
 
     ay_ipa = ipa_trans(ay_trans)
-    ay.write_iter(ay_ipa, "Outputs\\aymara_ipa.txt")
+    ay.write_iter(ay_ipa, "Outputs\\Transcription\\aymara_ipa.txt")
 
     ay_pl = pl_trans(ay_trans)
-    ay.write_iter(ay_pl, "Outputs\\aymara_pl.txt")
+    ay.write_iter(ay_pl, "Outputs\\Transcription\\aymara_pl.txt")
 
 
 if __name__ == "__main__":

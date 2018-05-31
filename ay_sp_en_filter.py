@@ -53,8 +53,8 @@ def aymara_reader(filename):
     :param filename: name & path of the Aymara word list
     :return: a list of Aymara words (no frequency)
     """
-    to_remove = '"():;.,?!^'
-    table = {char: "" for char in to_remove}
+    to_remove = '"():;.,?!^' #hyphen?
+    table = {ord(char): "" for char in to_remove}
     with open(filename, 'r', encoding='utf-8') as aym_f:
         interim_aym = {line.split(' ')[1].strip().lower().translate(table) for line in aym_f}
         aym = {word for word in interim_aym if
