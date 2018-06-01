@@ -59,7 +59,7 @@ def aymara_reader(filename):
         interim_aym = {line.split(' ')[1].strip().lower().translate(table) for line in aym_f}
         aym = {word for word in interim_aym if
                not any(char.isdigit() for char in word) and \
-               '@' not in word}
+               '@' not in word and '-' not in word}
 
     return aym
 

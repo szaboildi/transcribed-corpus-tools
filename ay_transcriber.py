@@ -21,37 +21,7 @@ def set_reader(path):
 ##############################################
 # Implementing pronunciation rules in Aymara #
 ##############################################
-def transcribe(st):
-    """
-    Transcribes a set of words into a pre-processed list
-    that reflects pronunciation in a pseudo-transcription.
-    :param st: input set
-    :return: output set
-    """
-
-    # Orthography:
-    trans1 = {
-        ## V length
-        ord(u"ä"): u"A",
-        ord(u"ü"): u"U",
-        ord(u"ï"): u"I",
-        ## ñ -> N
-        ord(u"ñ"): u"N",
-        ## j -> h
-        ord(u"j"): u"h",
-        ## y -> j
-        ord(u"y"): u"j"
-    }
-
-
-    out_set = {lower_vow(bigram_repl(wrd.translate(trans1))) for wrd in st}
-
-    return out_set
-
-
-#######################
-# Bigram replacements #
-#######################
+## Bigram replacements
 def bigram_repl(word):
     """
     Makes the relevant bigram replacements in Aymara
@@ -91,9 +61,7 @@ def bigram_repl(word):
     return word
 
 
-#############################################################
-# Rule 3 (V height): u, U, i, I lower around q series and x #
-#############################################################
+## Rule 3 (V height): u, U, i, I lower around q series and x
 def lower_vow(word):
     """
 
@@ -122,6 +90,35 @@ def lower_vow(word):
         word = word.replace(vow_env, lowering[vow_env])
     return word
 
+
+## Final transcription
+def transcribe(st):
+    """
+    Transcribes a set of words into a pre-processed list
+    that reflects pronunciation in a pseudo-transcription.
+    :param st: input set
+    :return: output set
+    """
+
+    # Orthography:
+    trans1 = {
+        ## V length
+        ord(u"ä"): u"A",
+        ord(u"ü"): u"U",
+        ord(u"ï"): u"I",
+        ## ñ -> N
+        ord(u"ñ"): u"N",
+        ## j -> h
+        ord(u"j"): u"h",
+        ## y -> j
+        ord(u"y"): u"j"
+    }
+
+
+    out_set = {lower_vow(bigram_repl(wrd.translate(trans1))) for wrd in st}
+    out_set = {wrd for wrd in out_set if "'" not in wrd}
+
+    return out_set
 
 
 
