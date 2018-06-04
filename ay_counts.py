@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import ay_transcriber as ay_trans
 import re
-
+import os
 
 
 #######################
@@ -88,7 +88,9 @@ def write_dict(dict, path):
 
 
 def main():
-    ay_words = ay_trans.set_reader("Outputs\\Transcription\\aymara_preprocessed.txt")
+    ay_words = ay_trans.set_reader(os.path.join(*["Outputs",
+                                                  "Transcription",
+                                                  "aymara_preprocessed.txt"]))
 
     # Aymara sounds
     ## Unigrams
@@ -117,7 +119,9 @@ def main():
     stop_counts["aspirates"] = sum(stop_counts[key] for key in aspirates)
     stop_counts["ejectives"] = sum(stop_counts[key] for key in ejectives)
 
-    write_dict(stop_counts, "Outputs\\Counts\\aymara_counts_stops.txt")
+    write_dict(stop_counts, os.path.join(*["Outputs",
+                                           "Counts",
+                                           "aymara_counts_stops.txt"]))
 
 
     ## Preceding environments for stops
@@ -129,7 +133,9 @@ def main():
         "total stops": sum(precon_stop_counts.values()) + sum(prevoc_stop_counts.values())
     }
 
-    write_dict(prec_env_stop_counts, "Outputs\\Counts\\aymara_counts_stop_env.txt")
+    write_dict(prec_env_stop_counts, os.path.join(*["Outputs",
+                                                    "Counts",
+                                                    "aymara_counts_stop_env.txt"]))
 
 
     # Prevocalic stops initially or not
@@ -140,7 +146,10 @@ def main():
         "total": sum(prevoc_stop_counts.values())
     }
 
-    write_dict(prevoc_counts_wordpos, "Outputs\\Counts\\aymara_counts_prevoc_stop_wordpos.txt")
+    write_dict(prevoc_counts_wordpos, os.path.join(*["Outputs",
+                                                     "Counts",
+                                                     "aymara_counts_prevoc_stop_wordpos.txt"]))
+
 
     # S ... S and SVS (S = stop, V = vowel)
     svs_counts = count_many_substr(stop_v_stop, ay_words)
@@ -151,7 +160,10 @@ def main():
         "stop anything stop": stop_x_stop
     }
 
-    write_dict(stop_x_stop, "Outputs\\Counts\\aymara_counts_stop_x_stop.txt")
+    write_dict(stop_x_stop, os.path.join(*["Outputs",
+                                           "Counts",
+                                           "aymara_counts_stop_x_stop.txt"]))
+
 
 
 if __name__ == "__main__":

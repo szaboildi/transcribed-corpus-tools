@@ -85,20 +85,21 @@ def write_iter(lst, path):
 def main():
     # Reading in files
     folder = os.getcwd()
-    spanish_folder = os.path.join(folder, "Inputs\\CORLEC\\")
+    spanish_folder = os.path.join(*[folder, "Inputs", "CORLEC"])
     sp = extract_from_folders(spanish_folder)
-    cmu_path = "Inputs\\cmu_dictionary.txt"
+    cmu_path = os.path.join("Inputs", "cmu_dictionary.txt")
     en = cmu_reader(cmu_path)
-    aym_path = "Inputs\\ay_freq.txt"
+    aym_path = os.path.join("Inputs", "ay_freq.txt")
     aym = aymara_reader(aym_path)
 
     # Filtering and writing
     sp_disc = aym - (aym - sp)
-    write_iter(sp_disc, "Outputs\\Spanish_loans.txt")
+    write_iter(sp_disc, os.path.join("Outputs", "Spanish_loans.txt"))
     en_disc = aym - (aym - en)
-    write_iter(en_disc, "Outputs\\English_loans.txt")
+    write_iter(en_disc, os.path.join("Outputs", "English_loans.txt"))
     no_sp_en = aym - sp - en
-    write_iter(no_sp_en, "Outputs\\Aymara_words_no_sp_en.txt")
+    write_iter(no_sp_en, os.path.join("Outputs", "Aymara_words_no_sp_en.txt"))
+
 
 if __name__ == "__main__":
     main()

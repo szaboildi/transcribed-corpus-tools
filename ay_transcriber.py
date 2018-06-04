@@ -1,6 +1,8 @@
 #!/usr/bin/python
 import itertools
+import os
 import ay_sp_en_filter as ay
+
 
 
 ############################
@@ -182,15 +184,22 @@ def pl_trans(st):
 
 
 def main():
-    ay_orth = set_reader("Outputs\\Aymara_words_no_sp_en.txt")
+    ay_orth = set_reader(os.path.join("Outputs",
+                                      "Aymara_words_no_sp_en.txt"))
     ay_trans = transcribe(ay_orth)
-    ay.write_iter(ay_trans, "Outputs\\Transcription\\aymara_preprocessed.txt")
+    ay.write_iter(ay_trans, os.path.join(*["Outputs",
+                                           "Transcription",
+                                           "aymara_preprocessed.txt"]))
 
     ay_ipa = ipa_trans(ay_trans)
-    ay.write_iter(ay_ipa, "Outputs\\Transcription\\aymara_ipa.txt")
+    ay.write_iter(ay_ipa, os.path.join(*["Outputs",
+                                         "Transcription",
+                                         "aymara_ipa.txt"]))
 
     ay_pl = pl_trans(ay_trans)
-    ay.write_iter(ay_pl, "Outputs\\Transcription\\aymara_pl.txt")
+    ay.write_iter(ay_pl, os.path.join(*["Outputs",
+                                        "Transcription",
+                                        "aymara_pl.txt"]))
 
 
 if __name__ == "__main__":
