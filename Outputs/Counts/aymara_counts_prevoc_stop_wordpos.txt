@@ -1,0 +1,3 @@
+initial	25295
+medial	132647
+total	157942

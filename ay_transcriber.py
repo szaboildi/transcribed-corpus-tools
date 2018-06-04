@@ -13,7 +13,7 @@ def set_reader(path):
     :return: a set of words
     """
     with open(path, 'r', encoding='utf-8') as f:
-        lst = {line.strip().lower() for line in f}
+        lst = {line.strip() for line in f}
 
     return lst
 

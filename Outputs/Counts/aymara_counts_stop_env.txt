@@ -1,0 +1,3 @@
+preconsonantal stops	30236
+prevocalic stops	157942
+total stops	188178

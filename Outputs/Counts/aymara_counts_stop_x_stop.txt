@@ -1,0 +1,2 @@
+stop vowel stop	5429
+stop anything stop	23230
