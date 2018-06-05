@@ -113,13 +113,16 @@ def main():
 
     # Counting
     ## Stops
-    stop_counts = count_many_substr(stops, ay_words)
-    stop_counts["stops"] = sum(stop_counts.values())
-    stop_counts["plain_stops"] = sum(stop_counts[key] for key in plain_stops)
-    stop_counts["aspirates"] = sum(stop_counts[key] for key in aspirates)
-    stop_counts["ejectives"] = sum(stop_counts[key] for key in ejectives)
+    unigram_counts = count_many_substr(sounds, ay_words)
+    unigram_counts["stops"] = sum(unigram_counts[key] for key in stops)
+    unigram_counts["plain_stops"] = sum(unigram_counts[key] for key in plain_stops)
+    unigram_counts["aspirates"] = sum(unigram_counts[key] for key in aspirates)
+    unigram_counts["ejectives"] = sum(unigram_counts[key] for key in ejectives)
+    unigram_counts["consonants"] = sum(unigram_counts[key] for key in consonants)
+    unigram_counts["vowels"] = sum(unigram_counts[key] for key in vowels)
+    unigram_counts["total"] = sum(unigram_counts.values())
 
-    write_dict(stop_counts, os.path.join(*["Outputs",
+    write_dict(unigram_counts, os.path.join(*["Outputs",
                                            "Counts",
                                            "aymara_counts_stops.txt"]))
 

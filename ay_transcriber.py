@@ -30,75 +30,74 @@ def bigram_repl(word):
     :param word: input word
     :return: word after the replacements
     """
-    repl = {
-        ## ch -> c
-        u"ch": u"c",
-        ## ll -> alveo-palatal lateral (encoded as Y)
-        u"ll": u"Y",
-        ## aspiration
+    bi_repl1 = {}
+
+    ## ch -> c
+    bi_repl1.update({u"ch": u"c"})
+
+    ## ll -> alveo-palatal lateral (encoded as Y)
+    bi_repl1.update({u"ll": u"Y"})
+
+    ## aspiration
+    bi_repl1.update({
         u"ph": u"P",
         u"th": u"T",
         u"chh": u"C",
         u"kh": u"K",
-        u"qh": u"Q",
-        ## ejectives
+        u"qh": u"Q"
+    })
+
+    ## ejectives
+    bi_repl1.update({
         u"p'": u"b",
         u"t'": u"d",
         u"c'": u"z",
         u"k'": u"g",
-        u"q'": u"G",
-        # Rule 1 (Frication): ch -> s/S before /t/
-        # if it happens before th and t' as well,
-        # this needs to be moved into trans1
-        u"ct": u"st",
-        # Rule 2 (Sibilant place): S after ch-series, y and N
-        # cannot be in or before trans1
-        u"cs": u"cS",
-        u"ys": u"yS",
-        u"Ns": u"NS"
-    }
+        u"q'": u"G"
+    })
 
-    for bigram in repl:
-        word = word.replace(bigram, repl[bigram])
+    # Rule 2 (Sibilant place): S after ch-series, y and N
+    # cannot be in or before trans1
+    bi_repl2 = {}
+    bi_repl2.update({
+        u"cs": u"cS",
+        u"Cs": u"CS",
+        u"zs": u"zS",
+        u"js": u"yS",
+        u"Ns": u"NS"
+    })
+
+    for bigram in bi_repl1:
+        word = word.replace(bigram, bi_repl1[bigram])
+
+    for bigram in bi_repl2:
+        word = word.replace(bigram, bi_repl2[bigram])
+
     return word
 
 
 ## Rule 3 (V height): u, U, i, I lower around q series and x
-def lower_vow(word):
+def lower_vow(word, lowering):
     """
 
     Lowers any u and i in a word into o and e if it's in a lowering environment
     :param word: a word
+    :param lowering: lowering replacements
     :return: the word after lowering applied
     """
-    lowering_env = [u"q", u"Q", u"G", u"x"]
-    lowering_v = [u"u", u"U", u"i", u"I"]
-    v_pairs = {
-        ord(u"u"): u"o",
-        ord(u"U"): u"O",
-        ord(u"i"): u"e",
-        ord(u"I"): u"E"
-    }
-
-    lowering_bigrams = list(itertools.product(lowering_env, lowering_v))
-    lowering_bigrams.extend(list(itertools.product(lowering_v, lowering_env)))
-
-    lowering = {}
-    for bg in lowering_bigrams:
-        bg_str = "".join(bg)
-        lowering[bg_str] = bg_str.translate(v_pairs)
-
     for vow_env in lowering:
         word = word.replace(vow_env, lowering[vow_env])
+
     return word
 
 
 ## Final transcription
-def transcribe(st):
+def transcribe(st, lowering):
     """
     Transcribes a set of words into a pre-processed list
     that reflects pronunciation in a pseudo-transcription.
     :param st: input set
+    :param lowering: set of lowering replacements
     :return: output set
     """
 
@@ -113,11 +112,12 @@ def transcribe(st):
         ## j -> h
         ord(u"j"): u"h",
         ## y -> j
-        ord(u"y"): u"j"
+        ord(u"y"): u"j",
+        # Rule 1 (Frication): ch -> s/S before /t t' th/
+        u"ct": u"st"
     }
 
-
-    out_set = {lower_vow(bigram_repl(wrd.translate(trans1))) for wrd in st}
+    out_set = {lower_vow(bigram_repl(wrd.translate(trans1)), lowering=lowering) for wrd in st}
     out_set = {wrd for wrd in out_set if "'" not in wrd}
 
     return out_set
@@ -133,34 +133,41 @@ def ipa_trans(st):
     :param st: input list of preprocessed words
     :return: ipa_set, a list of words in IPA
     """
-    ipa_pairs = {
-        ## c -> ʧ
-        ord(u"c"):u"ʧ",
-        ## S -> ʃ
-        ord(u"S"):u"ʃ",
-        ## Y -> alveopalatal lateral
+    ipa_pairs = {}
+
+    ipa_pairs.update({
+        ord(u"c"): u"ʧ",
+        ord(u"S"): u"ʃ",
         ord(u"Y"):u"ʎ",
-        ## N -> ñ
-        ord(u"N"):u"ñ",
-        ## Vowel length
+        ord(u"N"):u"ñ"
+    })
+
+    ## Vowel length
+    ipa_pairs.update({
         ord(u"A"):u"aː",
         ord(u"E"): u"eː",
         ord(u"I"): u"iː",
         ord(u"O"): u"oː",
-        ord(u"U"): u"uː",
-        ## Aspiration
+        ord(u"U"): u"uː"
+    })
+
+    ## Aspiration
+    ipa_pairs.update({
         ord(u"P"): u"ph",
         ord(u"T"): u"th",
         ord(u"C"): u"ʧh",
         ord(u"K"): u"kh",
-        ord(u"Q"): u"qh",
-        ## Ejectives
+        ord(u"Q"): u"qh"
+    })
+
+    ## Ejectives
+    ipa_pairs.update({
         ord(u"b"): u"p'",
         ord(u"d"): u"t'",
         ord(u"z"): u"ʧ'",
         ord(u"g"): u"k'",
         ord(u"G"): u"q'"
-    }
+    })
 
     ipa_set = {wrd.translate(ipa_pairs) for wrd in st}
 
@@ -184,9 +191,32 @@ def pl_trans(st):
 
 
 def main():
+    lowering_env = u"qQGx"
+    consonants = u"ptckqPTCKQbdzgGsShxmnNrlYjw"
+    lowering_v = u"uUiI"
+    v_pairs = {
+        ord(u"u"): u"o",
+        ord(u"U"): u"O",
+        ord(u"i"): u"e",
+        ord(u"I"): u"E"
+    }
+
+    lowering_strings = set(itertools.product(lowering_env, lowering_v))
+    lowering_strings = lowering_strings.union(
+        set(itertools.product(lowering_v, lowering_env)))
+    lowering_strings = lowering_strings.union(
+        set(itertools.product(lowering_env, consonants, lowering_v)))
+    lowering_strings = lowering_strings.union(
+        set(itertools.product(lowering_v, consonants, lowering_env)))
+
+    lowering = {}
+    for string in lowering_strings:
+        gram_str = "".join(string)
+        lowering[gram_str] = gram_str.translate(v_pairs)
+
     ay_orth = set_reader(os.path.join("Outputs",
                                       "Aymara_words_no_sp_en.txt"))
-    ay_trans = transcribe(ay_orth)
+    ay_trans = transcribe(ay_orth, lowering=lowering)
     ay.write_iter(ay_trans, os.path.join(*["Outputs",
                                            "Transcription",
                                            "aymara_preprocessed.txt"]))
