@@ -1,3 +1,12 @@
-initial	25295
-medial	132650
-total	157945
+initial prevocalic stops	25295
+medial prevocalic stops	132650
+total prevocalic stops	157945
+initial prevocalic aspirates	4954
+medial prevocialic aspirates	7534
+total prevocalic aspirates	12488
+initial prevocalic ejectives	4570
+medial prevocalic ejectives	9867
+total prevocalic ejectives	14437
+initial prevocalic plain stops	15771
+medial prevocalic plain stops	115249
+total prevocalic plain stops	131020

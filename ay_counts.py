@@ -106,9 +106,25 @@ def main():
     non_stops = "".join([sound for sound in sounds if sound not in stops])
 
     ## Multigrams
-    precon_stops = {stop + consonant for stop in stops for consonant in consonants}
-    prevoc_stops = {stop + vowel for stop in stops for vowel in vowels}
+    precon_asp = {aspirate + consonant for aspirate in aspirates for consonant in consonants}
+    precon_ej = {ejective + consonant for ejective in ejectives for consonant in consonants}
+    precon_plain = {plain + consonant for plain in plain_stops for consonant in consonants}
+    precon_stops = precon_asp.union(precon_ej, precon_plain)
+    prevoc_asp = {aspirate + vowel for aspirate in aspirates for vowel in vowels}
+    prevoc_ej = {ejective + vowel for ejective in ejectives for vowel in vowels}
+    prevoc_plain = {plain + vowel for plain in plain_stops for vowel in vowels}
+    prevoc_stops = prevoc_asp.union(prevoc_ej, prevoc_plain)
+
     stop_v_stop = {stop + vowel + stop for stop in stops for vowel in vowels}
+    asp_v_asp = {a + v + a for a in aspirates for v in vowels}
+    asp_v_ej = {a + v + e for a in aspirates for v in vowels for e in ejectives}
+    asp_v_plain = {a + v + p for a in aspirates for v in vowels for p in plain_stops}
+    ej_v_asp = {e + v + a for e in ejectives for v in vowels for a in aspirates}
+    ej_v_ej = {e + v + e for e in ejectives for v in vowels}
+    ej_v_plain = {e + v + p for e in ejectives for v in vowels for p in plain_stops}
+    plain_v_asp = {p + v + a for p in plain_stops for v in vowels for a in aspirates}
+    plain_v_ej = {p + v + e for p in plain_stops for v in vowels for e in ejectives}
+    plain_v_plain = {p + v + p for p in plain_stops for v in vowels}
 
 
     # Counting
@@ -124,29 +140,55 @@ def main():
 
     write_dict(unigram_counts, os.path.join(*["Outputs",
                                            "Counts",
-                                           "aymara_counts_stops.txt"]))
+                                           "aymara_counts_unigrams.txt"]))
 
 
     ## Preceding environments for stops
     precon_stop_counts = count_many_substr(precon_stops, ay_words)
     prevoc_stop_counts = count_many_substr(prevoc_stops, ay_words)
-    prec_env_stop_counts = {
+    stop_bigrams = {
         "preconsonantal stops": sum(precon_stop_counts.values()),
         "prevocalic stops": sum(prevoc_stop_counts.values()),
-        "total stops": sum(precon_stop_counts.values()) + sum(prevoc_stop_counts.values())
+        "total non-final stops": sum(precon_stop_counts.values()) + sum(prevoc_stop_counts.values())
     }
 
-    write_dict(prec_env_stop_counts, os.path.join(*["Outputs",
-                                                    "Counts",
-                                                    "aymara_counts_stop_env.txt"]))
+    stop_bigrams["preconsonantal aspirates"] \
+        = sum(precon_stop_counts[key] for key in precon_asp)
+    stop_bigrams["preconsonantal ejectives"] \
+        = sum(precon_stop_counts[key] for key in precon_ej)
+    stop_bigrams["preconsonantal plain stops"] \
+        = sum(precon_stop_counts[key] for key in precon_plain)
+    stop_bigrams["prevocalic aspirates"] \
+        = sum(prevoc_stop_counts[key] for key in prevoc_asp)
+    stop_bigrams["prevocalic ejectives"] \
+        = sum(prevoc_stop_counts[key] for key in prevoc_ej)
+    stop_bigrams["prevocalic plain stops"] \
+        = sum(prevoc_stop_counts[key] for key in prevoc_plain)
+
+    write_dict(stop_bigrams, os.path.join(*["Outputs",
+                                            "Counts",
+                                            "aymara_counts_stop_env.txt"]))
 
 
     # Prevocalic stops initially or not
     prevoc_stop_initial_counts = count_many_substr(prevoc_stops, ay_words, initial=True)
     prevoc_counts_wordpos = {
-        "initial": sum(prevoc_stop_initial_counts.values()),
-        "medial": sum(prevoc_stop_counts.values()) - sum(prevoc_stop_initial_counts.values()),
-        "total": sum(prevoc_stop_counts.values())
+        "initial prevocalic stops": sum(prevoc_stop_initial_counts.values()),
+        "medial prevocalic stops": sum(prevoc_stop_counts.values()) -
+                                   sum(prevoc_stop_initial_counts.values()),
+        "total prevocalic stops": sum(prevoc_stop_counts.values()),
+        "initial prevocalic aspirates": sum(prevoc_stop_initial_counts[key] for key in prevoc_asp),
+        "medial prevocialic aspirates": sum(prevoc_stop_counts[key] for key in prevoc_asp) -
+                            sum(prevoc_stop_initial_counts[key] for key in prevoc_asp),
+        "total prevocalic aspirates": sum(prevoc_stop_counts[key] for key in prevoc_asp),
+        "initial prevocalic ejectives": sum(prevoc_stop_initial_counts[key] for key in prevoc_ej),
+        "medial prevocalic ejectives": sum(prevoc_stop_counts[key] for key in prevoc_ej) -
+                            sum(prevoc_stop_initial_counts[key] for key in prevoc_ej),
+        "total prevocalic ejectives": sum(prevoc_stop_counts[key] for key in prevoc_ej),
+        "initial prevocalic plain stops": sum(prevoc_stop_initial_counts[key] for key in prevoc_plain),
+        "medial prevocalic plain stops": sum(prevoc_stop_counts[key] for key in prevoc_plain) -
+                            sum(prevoc_stop_initial_counts[key] for key in prevoc_plain),
+        "total prevocalic plain stops": sum(prevoc_stop_counts[key] for key in prevoc_plain)
     }
 
     write_dict(prevoc_counts_wordpos, os.path.join(*["Outputs",
@@ -156,11 +198,56 @@ def main():
 
     # S ... S and SVS (S = stop, V = vowel)
     svs_counts = count_many_substr(stop_v_stop, ay_words)
-    stop_x_stop = count_regexp(r"[{0}][{1}]*[{0}]".format(stops,non_stops), ay_words)
+    stop_x_stop = count_regexp(r"[{0}][{1}]*[{0}]".format(stops, non_stops), ay_words)
+    asp_x_asp = \
+        count_regexp(r"[{0}][{1}]*[{0}]".format(aspirates, non_stops), ay_words)
+    asp_x_ej = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(aspirates, non_stops, ejectives), ay_words)
+    asp_x_plain = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(aspirates, non_stops, plain_stops), ay_words)
+    ej_x_asp = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(ejectives, non_stops, aspirates), ay_words)
+    ej_x_ej = \
+        count_regexp(r"[{0}][{1}]*[{0}]".format(ejectives, non_stops), ay_words)
+    ej_x_plain = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(ejectives, non_stops, plain_stops), ay_words)
+    plain_x_asp = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(plain_stops, non_stops, aspirates), ay_words)
+    plain_x_ej = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(plain_stops, non_stops, ejectives), ay_words)
+    plain_x_plain = \
+        count_regexp(r"[{0}][{1}]*[{0}]".format(plain_stops, non_stops), ay_words)
 
     stop_x_stop = {
         "stop vowel stop": sum(svs_counts.values()),
-        "stop anything stop": stop_x_stop
+        "aspirate vowel aspirate": sum(svs_counts[key] for key in svs_counts
+                                       if key in asp_v_asp),
+        "aspirate vowel ejective": sum(svs_counts[key] for key in svs_counts
+                                       if key in asp_v_ej),
+        "aspirate vowel plain stop": sum(svs_counts[key] for key in svs_counts
+                                         if key in asp_v_plain),
+        "ejective vowel aspirate": sum(svs_counts[key] for key in svs_counts
+                                       if key in ej_v_asp),
+        "ejective vowel ejective": sum(svs_counts[key] for key in svs_counts
+                                       if key in ej_v_ej),
+        "ejective vowel plain stop": sum(svs_counts[key] for key in svs_counts
+                                         if key in ej_v_plain),
+        "plain stop vowel aspirate": sum(svs_counts[key] for key in svs_counts
+                                         if key in plain_v_asp),
+        "plain stop vowel ejective": sum(svs_counts[key] for key in svs_counts
+                                         if key in plain_v_ej),
+        "plain stop vowel plain stop": sum(svs_counts[key] for key in svs_counts
+                                           if key in plain_v_plain),
+        "stop anything stop": stop_x_stop,
+        "aspirate anything aspirate": asp_x_asp,
+        "aspirate anything ejective": asp_x_ej,
+        "aspirate anything plain stop": asp_x_plain,
+        "ejective anything aspirate": ej_x_asp,
+        "ejective anything ejective": ej_x_ej,
+        "ejective anything plain stop": ej_x_plain,
+        "plain stop anything aspirate": plain_x_asp,
+        "plain stop anything ejective": plain_x_ej,
+        "plain stop anything plain stop": plain_x_plain
     }
 
     write_dict(stop_x_stop, os.path.join(*["Outputs",

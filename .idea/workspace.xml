@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="180dc8bd-9f7c-4b1c-a0b5-e4ff055e00b9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_stops.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_prevoc_stop_wordpos.txt" afterPath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_prevoc_stop_wordpos.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_stop_env.txt" afterPath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_stop_env.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_stop_x_stop.txt" afterPath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_stop_x_stop.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_stops.txt" afterPath="$PROJECT_DIR$/Outputs/Counts/aymara_counts_stops.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Transcription/aymara_ipa.txt" afterPath="$PROJECT_DIR$/Outputs/Transcription/aymara_ipa.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Transcription/aymara_pl.txt" afterPath="$PROJECT_DIR$/Outputs/Transcription/aymara_pl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Outputs/Transcription/aymara_preprocessed.txt" afterPath="$PROJECT_DIR$/Outputs/Transcription/aymara_preprocessed.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ay_counts.py" afterPath="$PROJECT_DIR$/ay_counts.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ay_transcriber.py" afterPath="$PROJECT_DIR$/ay_transcriber.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +45,8 @@
       <file leaf-file-name="ay_transcriber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="210" column="0" lean-forward="true" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="203" column="35" lean-forward="false" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="35" />
               <folding>
                 <element signature="e#18#34#0" expanded="true" />
               </folding>
@@ -61,8 +57,8 @@
       <file leaf-file-name="ay_counts.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ay_counts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="99" column="36" lean-forward="false" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+            <state relative-caret-position="120">
+              <caret line="177" column="35" lean-forward="false" selection-start-line="177" selection-start-column="35" selection-end-line="177" selection-end-column="35" />
               <folding>
                 <element signature="e#18#51#0" expanded="true" />
               </folding>
@@ -81,11 +77,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>write</find>
-      <find>voic</find>
-      <find>tabl</find>
-      <find>ipa</find>
-      <find>word =</find>
       <find>replace</find>
       <find>spaci</find>
       <find>v_pa</find>
@@ -105,12 +96,17 @@
       <find>set_</find>
       <find>iter</find>
       <find>initial</find>
-      <find>itertool</find>
       <find>os.</find>
       <find>\\</find>
       <find>trans1</find>
       <find>consonant</find>
       <find>consonants</find>
+      <find>svs</find>
+      <find>stop_v</find>
+      <find>itertool</find>
+      <find>asp_v_ej</find>
+      <find>total stop</find>
+      <find>&quot;iti</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,12 +118,12 @@
         <option value="$PROJECT_DIR$/process_spanish_english.py" />
         <option value="$PROJECT_DIR$/transcription.py" />
         <option value="$PROJECT_DIR$/ay_sp_en_filter.py" />
-        <option value="$PROJECT_DIR$/ay_counts.py" />
         <option value="$PROJECT_DIR$/ay_transcriber.py" />
+        <option value="$PROJECT_DIR$/ay_counts.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-77" />
     <option name="y" value="-22" />
     <option name="width" value="1440" />
@@ -148,8 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,6 +155,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,13 +272,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29837838" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3091892" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.53243244" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.46756756" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.5345946" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.4654054" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.48486486" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -309,6 +304,76 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/f0_target_finder_cmu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7225">
+          <caret line="291" column="16" lean-forward="false" selection-start-line="291" selection-start-column="16" selection-end-line="291" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="87" column="36" lean-forward="false" selection-start-line="87" selection-start-column="36" selection-end-line="87" selection-end-column="36" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5200">
+          <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ay_counts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding>
+            <element signature="e#18#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/f0_target_finder_cmu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7275">
+          <caret line="291" column="16" lean-forward="false" selection-start-line="291" selection-start-column="16" selection-end-line="291" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ay_sp_en_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="87" column="36" lean-forward="false" selection-start-line="87" selection-start-column="36" selection-end-line="87" selection-end-column="36" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5200">
+          <caret line="210" column="0" lean-forward="true" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../QP2/Data/Python/f0_target_finder_cmu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7225">
@@ -661,8 +726,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ay_transcriber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="210" column="0" lean-forward="true" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="203" column="35" lean-forward="false" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="35" />
           <folding>
             <element signature="e#18#34#0" expanded="true" />
           </folding>
@@ -671,8 +736,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ay_counts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="99" column="36" lean-forward="false" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+        <state relative-caret-position="120">
+          <caret line="177" column="35" lean-forward="false" selection-start-line="177" selection-start-column="35" selection-end-line="177" selection-end-column="35" />
           <folding>
             <element signature="e#18#51#0" expanded="true" />
           </folding>
