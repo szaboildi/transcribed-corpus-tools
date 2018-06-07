@@ -1,6 +1,6 @@
 $ cat .gitignore
-# Byte-compiled
-__pychache__/
+# Byte-compiled (incl. __pychache__/)
+__*
 
 # Pycharm and other hidden things
 .*
