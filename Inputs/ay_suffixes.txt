@@ -1,0 +1,10 @@
+allomorphs	meaning	rule	preceding_alternation	final_v
+X, .A., .E., .I., .O., .U.	identity	lengthens the vowel	long_V_stem
+.n.k., .n.ka.	in/of location	a combination of in/of .n. and ._{C}ka.	any
+.n., .na.	in/of		any
+.Na.	obligatory nominalizer	any
+.iri.	agentive nominalizer	final vowel is deleted	no_V_stem
+.ta.	resultant nominalizer		any	
+.wi.	place/ceremony nominalizer		any
+.ya., .y.	verbalizer		any
+.y.iri.	verbalizer + agentive nominalizer
