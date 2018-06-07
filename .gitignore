@@ -2,5 +2,5 @@ $ cat .gitignore
 # Byte-compiled
 __pychache__/
 
-# Pycharm
-.idea/
+# Pycharm and other hidden things
+.*
