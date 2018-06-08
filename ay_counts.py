@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import ay_transcriber as ay_trans
+import ay_sp_en_filter as ay_filter
 import re
 import os
 
@@ -8,19 +9,26 @@ import os
 # Counting substrings #
 #######################
 ## Counting one substring
-def count_substr(substr, words):
+def count_substr(substr, words, return_set = False):
     """
     Count the number of occurences of a substring in a set of words
     :param substr: substr to count
     :param words: set of words to count substr in
+    :param return_set: whether it should return the set of hits
+                       default: False
     :return: the number of occurrences of substr in st
+             optionally the set of hits as well
     """
     subset = {item for item in words if substr in item}
     counter = 0
+    hit_set = set()
 
     for item in subset:
         counter += item.count(substr)
+        hit_set.add(item)
 
+    if return_set:
+        return hit_set, counter
     return counter
 
 
@@ -60,14 +68,19 @@ def count_many_substr(substrings, words, initial=False):
     return counts
 
 ## Regular expressions:
-def count_regexp(regexp, words):
+def count_regexp(regexp, words, return_set=False):
     """
     Count words matching a regular expression pattern in a set of words
     :param regexp: Regular expression to be matched
     :param words: Set of words to search in
-    :return: Number of matching words
+    :param return_set: If it should return the set of matches as well
+                       default: False
+    :return: Number of matching words, optionally the words themselves too
     """
     subset = set(filter(lambda s: re.match(regexp, s), words))
+
+    if return_set:
+        return subset, len(subset)
     return len(subset)
 
 
@@ -199,24 +212,33 @@ def main():
     # S ... S and SVS (S = stop, V = vowel)
     svs_counts = count_many_substr(stop_v_stop, ay_words)
     stop_x_stop = count_regexp(r"[{0}][{1}]*[{0}]".format(stops, non_stops), ay_words)
-    asp_x_asp = \
-        count_regexp(r"[{0}][{1}]*[{0}]".format(aspirates, non_stops), ay_words)
-    asp_x_ej = \
-        count_regexp(r"[{0}][{1}]*[{2}]".format(aspirates, non_stops, ejectives), ay_words)
-    asp_x_plain = \
-        count_regexp(r"[{0}][{1}]*[{2}]".format(aspirates, non_stops, plain_stops), ay_words)
-    ej_x_asp = \
-        count_regexp(r"[{0}][{1}]*[{2}]".format(ejectives, non_stops, aspirates), ay_words)
-    ej_x_ej = \
-        count_regexp(r"[{0}][{1}]*[{0}]".format(ejectives, non_stops), ay_words)
-    ej_x_plain = \
-        count_regexp(r"[{0}][{1}]*[{2}]".format(ejectives, non_stops, plain_stops), ay_words)
-    plain_x_asp = \
-        count_regexp(r"[{0}][{1}]*[{2}]".format(plain_stops, non_stops, aspirates), ay_words)
-    plain_x_ej = \
-        count_regexp(r"[{0}][{1}]*[{2}]".format(plain_stops, non_stops, ejectives), ay_words)
-    plain_x_plain = \
-        count_regexp(r"[{0}][{1}]*[{0}]".format(plain_stops, non_stops), ay_words)
+    asp_x_asp_set, asp_x_asp = \
+        count_regexp(r"[{0}][{1}]*[{0}]".format(aspirates, non_stops),
+                     ay_words, return_set=True)
+    asp_x_ej_set, asp_x_ej = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(aspirates, non_stops, ejectives),
+                     ay_words, return_set=True)
+    asp_x_plain_set, asp_x_plain = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(aspirates, non_stops, plain_stops),
+                     ay_words, return_set=True)
+    ej_x_asp_set, ej_x_asp = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(ejectives, non_stops, aspirates),
+                     ay_words, return_set=True)
+    ej_x_ej_set, ej_x_ej = \
+        count_regexp(r"[{0}][{1}]*[{0}]".format(ejectives, non_stops),
+                     ay_words, return_set=True)
+    ej_x_plain_set, ej_x_plain = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(ejectives, non_stops, plain_stops),
+                     ay_words, return_set=True)
+    plain_x_asp_set, plain_x_asp = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(plain_stops, non_stops, aspirates),
+                     ay_words, return_set=True)
+    plain_x_ej_set, plain_x_ej = \
+        count_regexp(r"[{0}][{1}]*[{2}]".format(plain_stops, non_stops, ejectives),
+                     ay_words, return_set=True)
+    plain_x_plain_set, plain_x_plain = \
+        count_regexp(r"[{0}][{1}]*[{0}]".format(plain_stops, non_stops),
+                     ay_words, return_set=True)
 
     stop_x_stop = {
         "stop vowel stop": sum(svs_counts.values()),
@@ -254,7 +276,18 @@ def main():
                                            "Counts",
                                            "aymara_counts_stop_x_stop.txt"]))
 
+    # Writing out some of the sets of matches
+    ay_filter.write_iter(ej_x_ej_set, os.path.join(*["Outputs",
+                                           "Counts",
+                                           "aymara_list_ej_x_ej.txt"]))
 
+    ay_filter.write_iter(plain_x_ej_set, os.path.join(*["Outputs",
+                                                     "Counts",
+                                                     "aymara_list_plain_x_ej.txt"]))
+
+    ay_filter.write_iter(plain_x_asp_set, os.path.join(*["Outputs",
+                                                     "Counts",
+                                                     "aymara_list_plain_x_asp.txt"]))
 
 if __name__ == "__main__":
     main()

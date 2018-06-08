@@ -1,19 +1,25 @@
 ﻿allomorphs,meaning,preceding_alternation,final_v,stem_POC,resulting_POC,can_be_final
-.A,identity,no_V_stem_a,a,noun,verb,yes
-.E,identity,no_V_stem_e,e,noun,verb,yes
-.I,identity,no_V_stem_i,i,noun,verb,yes
-.O,identity,no_V_stem_o,o,noun,verb,yes
-.U,identity,no_V_stem_u,u,noun,verb,yes
+.A,identity,no_V_a,a_long,noun,verb,yes
+.E,identity,no_V_e,e_long,noun,verb,yes
+.I,identity,no_V_i,i_long,noun,verb,yes
+.O,identity,no_V_o,o_long,noun,verb,yes
+.U,identity,no_V_u,u_long,noun,verb,yes
 .na,in/of,any,a,noun,noun,yes
-.n,in/of,any,None,noun,noun,no
+.n,in/of,any,no_V,noun,noun,no
 .Na,obligatory nominalizer,any,a,verb,noun,yes
-.iri,agentive nominalizer,no_V_stem,i,verb,noun,yes
+.iri,agentive nominalizer,no_V,i,verb,noun,yes
 .ta,resultant nominalizer,any,a,verb,noun,yes
 .wi,place/ceremony nominalizer,any,i,verb,noun,yes
 .ya,verbalizer,any,a,noun,verb,yes
-.y,verbalizer,any,None,noun,verb,no
+.y,verbalizer,any,no_V,noun,verb,no
 .taki,purposive embedder (in order to),any,i,verb,noun,yes
-.iri,goal embedder (for),no_V_stem,i,verb,indep_only,yes
+.iri,goal embedder (for),no_V,i,verb,indep_only,yes
 .sa,subordinate embedding,any,a,verb,indep_only,yes
 .sina,subordinate embedding,any,a,verb,indep_only,yes
-.ipan,subordinate embedding,any,None,verb,indep_only,yes
+.ipan,subordinate embedding,no_V,no_V,verb,indep_only,yes
+.pta,verbalizer,?,a,noun,verb,yes
+.ka,verbalizer,no_V,a,noun,verb,yes
+.ch,causative verbalizer,any,no_V,noun,verb,?
+.raki,ind nominalizer,any,i,verb,noun,yes
+.rak,ind nominalizer,any,no_V,verb,noun,no
+.cha,ind verbalizer,any,a,noun,verb,yes
