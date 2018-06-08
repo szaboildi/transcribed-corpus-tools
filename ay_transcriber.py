@@ -77,6 +77,37 @@ def bigram_repl(word):
 
 
 ## Rule 3 (V height): u, U, i, I lower around q series and x
+def make_lowering_table():
+    """
+    Makes a table of lowering, conditioned in certain environments 
+    :return: None
+    """
+    lowering_env = u"qQGx"
+    consonants = u"ptckqPTCKQbdzgGsShxmnNrlYjw"
+    lowering_v = u"uUiI"
+    v_pairs = {
+        ord(u"u"): u"o",
+        ord(u"U"): u"O",
+        ord(u"i"): u"e",
+        ord(u"I"): u"E"
+    }
+
+    lowering_strings = set(itertools.product(lowering_env, lowering_v))
+    lowering_strings = lowering_strings.union(
+        set(itertools.product(lowering_v, lowering_env)))
+    lowering_strings = lowering_strings.union(
+        set(itertools.product(lowering_env, consonants, lowering_v)))
+    lowering_strings = lowering_strings.union(
+        set(itertools.product(lowering_v, consonants, lowering_env)))
+
+    lowering = {}
+    for string in lowering_strings:
+        gram_str = "".join(string)
+        lowering[gram_str] = gram_str.translate(v_pairs)
+    
+    return lowering
+    
+    
 def lower_vow(word, lowering):
     """
 
@@ -191,32 +222,11 @@ def pl_trans(st):
 
 
 def main():
-    lowering_env = u"qQGx"
-    consonants = u"ptckqPTCKQbdzgGsShxmnNrlYjw"
-    lowering_v = u"uUiI"
-    v_pairs = {
-        ord(u"u"): u"o",
-        ord(u"U"): u"O",
-        ord(u"i"): u"e",
-        ord(u"I"): u"E"
-    }
-
-    lowering_strings = set(itertools.product(lowering_env, lowering_v))
-    lowering_strings = lowering_strings.union(
-        set(itertools.product(lowering_v, lowering_env)))
-    lowering_strings = lowering_strings.union(
-        set(itertools.product(lowering_env, consonants, lowering_v)))
-    lowering_strings = lowering_strings.union(
-        set(itertools.product(lowering_v, consonants, lowering_env)))
-
-    lowering = {}
-    for string in lowering_strings:
-        gram_str = "".join(string)
-        lowering[gram_str] = gram_str.translate(v_pairs)
-
     ay_orth = set_reader(os.path.join("Outputs",
                                       "Aymara_words_no_sp_en.txt"))
-    ay_trans = transcribe(ay_orth, lowering=lowering)
+    
+    lowering_table = make_lowering_table()
+    ay_trans = transcribe(ay_orth, lowering=lowering_table)
     ay.write_iter(ay_trans, os.path.join(*["Outputs",
                                            "Transcription",
                                            "aymara_preprocessed.txt"]))
