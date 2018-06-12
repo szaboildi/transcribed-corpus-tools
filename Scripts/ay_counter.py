@@ -101,7 +101,8 @@ def write_dict(dict, path):
 
 
 def main():
-    ay_words = ay_trans.set_reader(os.path.join(*["Outputs",
+    ay_words = ay_trans.set_reader(os.path.join(*["..",
+                                                  "Outputs",
                                                   "Transcription",
                                                   "aymara_preprocessed.txt"]))
 
@@ -151,9 +152,10 @@ def main():
     unigram_counts["vowels"] = sum(unigram_counts[key] for key in vowels)
     unigram_counts["total"] = sum(unigram_counts.values())
 
-    write_dict(unigram_counts, os.path.join(*["Outputs",
-                                           "Counts",
-                                           "aymara_counts_unigrams.txt"]))
+    write_dict(unigram_counts, os.path.join(*["..",
+                                              "Outputs",
+                                              "Counts",
+                                              "aymara_counts_unigrams.txt"]))
 
 
     ## Preceding environments for stops
@@ -178,7 +180,8 @@ def main():
     stop_bigrams["prevocalic plain stops"] \
         = sum(prevoc_stop_counts[key] for key in prevoc_plain)
 
-    write_dict(stop_bigrams, os.path.join(*["Outputs",
+    write_dict(stop_bigrams, os.path.join(*["..",
+                                            "Outputs",
                                             "Counts",
                                             "aymara_counts_stop_env.txt"]))
 
@@ -204,7 +207,8 @@ def main():
         "total prevocalic plain stops": sum(prevoc_stop_counts[key] for key in prevoc_plain)
     }
 
-    write_dict(prevoc_counts_wordpos, os.path.join(*["Outputs",
+    write_dict(prevoc_counts_wordpos, os.path.join(*["..",
+                                                     "Outputs",
                                                      "Counts",
                                                      "aymara_counts_prevoc_stop_wordpos.txt"]))
 
@@ -272,22 +276,26 @@ def main():
         "plain stop anything plain stop": plain_x_plain
     }
 
-    write_dict(stop_x_stop, os.path.join(*["Outputs",
+    write_dict(stop_x_stop, os.path.join(*["..",
+                                           "Outputs",
                                            "Counts",
                                            "aymara_counts_stop_x_stop.txt"]))
 
     # Writing out some of the sets of matches
-    ay_filter.write_iter(ej_x_ej_set, os.path.join(*["Outputs",
-                                           "Counts",
-                                           "aymara_list_ej_x_ej.txt"]))
-
-    ay_filter.write_iter(plain_x_ej_set, os.path.join(*["Outputs",
+    ay_filter.write_iter(ej_x_ej_set, os.path.join(*["..",
+                                                     "Outputs",
                                                      "Counts",
-                                                     "aymara_list_plain_x_ej.txt"]))
+                                                     "aymara_list_ej_x_ej.txt"]))
 
-    ay_filter.write_iter(plain_x_asp_set, os.path.join(*["Outputs",
-                                                     "Counts",
-                                                     "aymara_list_plain_x_asp.txt"]))
+    ay_filter.write_iter(plain_x_ej_set, os.path.join(*["..",
+                                                        "Outputs",
+                                                        "Counts",
+                                                        "aymara_list_plain_x_ej.txt"]))
+
+    ay_filter.write_iter(plain_x_asp_set, os.path.join(*["..",
+                                                         "Outputs",
+                                                         "Counts",
+                                                         "aymara_list_plain_x_asp.txt"]))
 
 if __name__ == "__main__":
     main()

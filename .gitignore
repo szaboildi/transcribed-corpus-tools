@@ -4,3 +4,6 @@ __*
 
 # Pycharm and other hidden things
 .*
+
+# Anything to do with the delucca corpus
+*delucca*
