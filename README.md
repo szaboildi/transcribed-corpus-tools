@@ -1,7 +1,7 @@
 # Aymara-word-corpus
 A word corpus of Aymara
 
-The ```Inputs``` folder contains the input files, the ```Outputs``` folder contains the output files of the scripts. Within the ```Outputs``` folder, the ```Transcription``` folder contains the transcription outputs - so far only of full words.
+Scripts are in the ```Scripts``` folder, the ```Inputs``` folder contains the input files, and the ```Outputs``` folder contains the output files of the scripts. Within the ```Outputs``` folder, the ```Transcription``` folder contains the transcription outputs - so far only of full words.
 
 The ```ay_sp_en_filter.py``` file reads in three types of information: a set of Spanish words from text files in subfolders ([CORLEC Corpus](http://www.lllf.uam.es/ESP/Corlec.html): Marín, 1992), and a set of English ([CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict): Weide, 2005) and Aymara words ([An Crúbadán](http://crubadan.org/languages/ay): Scannell, 2007) from a file each. When read in, words are cleaned from numbers and non-alphanumeric characters, from the Aymara corpus 255 words were discarded because they contained a hyphen ("-"). The source file for Aymara (from Marín, 1992) was manually searched for apostrophe-related typos, 2 of them were corrected (_muru'q_ to _muruq'_ and _la'qa_ to _laq'a_).
 
