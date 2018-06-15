@@ -1,20 +1,20 @@
-stop vowel stop	5429
-aspirate vowel aspirate	78
-aspirate vowel ejective	0
-aspirate vowel plain stop	0
-ejective vowel aspirate	0
-ejective vowel ejective	20
-ejective vowel plain stop	0
-plain stop vowel aspirate	0
-plain stop vowel ejective	0
-plain stop vowel plain stop	5331
-stop anything stop	23219
-aspirate anything aspirate	1488
-aspirate anything ejective	241
-aspirate anything plain stop	2735
-ejective anything aspirate	690
-ejective anything ejective	187
-ejective anything plain stop	3081
-plain stop anything aspirate	812
-plain stop anything ejective	427
-plain stop anything plain stop	13558
+stop vowel stop	46270
+aspirate vowel aspirate	1876
+aspirate vowel ejective	60
+aspirate vowel plain stop	3442
+ejective vowel aspirate	636
+ejective vowel ejective	30
+ejective vowel plain stop	3864
+plain stop vowel aspirate	667
+plain stop vowel ejective	32
+plain stop vowel plain stop	35663
+stop anything stop	115466
+aspirate anything aspirate	2213
+aspirate anything ejective	436
+aspirate anything plain stop	8899
+ejective anything aspirate	947
+ejective anything ejective	239
+ejective anything plain stop	10710
+plain stop anything aspirate	2562
+plain stop anything ejective	3433
+plain stop anything plain stop	86027

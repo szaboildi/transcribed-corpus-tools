@@ -5,8 +5,8 @@ __*
 # Pycharm and other hidden things
 .*
 
-# Anything to do with the delucca corpus
-*delucca*
+## Anything to do with the delucca corpus
+#*delucca*
 
 # The corpus
 *freq*

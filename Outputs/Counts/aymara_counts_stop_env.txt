@@ -1,9 +1,9 @@
-preconsonantal stops	30321
-prevocalic stops	157945
-total non-final stops	188266
-preconsonantal aspirates	1464
+preconsonantal stops	28934
+prevocalic stops	159328
+total non-final stops	188262
+preconsonantal aspirates	1542
 preconsonantal ejectives	822
-preconsonantal plain stops	28035
-prevocalic aspirates	12488
+preconsonantal plain stops	26570
+prevocalic aspirates	13871
 prevocalic ejectives	14437
 prevocalic plain stops	131020

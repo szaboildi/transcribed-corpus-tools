@@ -38,17 +38,18 @@ def bigram_repl(word):
     ## ll -> alveo-palatal lateral (encoded as Y)
     bi_repl1.update({u"ll": u"Y"})
 
+    bi_repl2 = {}
     ## aspiration
-    bi_repl1.update({
+    bi_repl2.update({
         u"ph": u"P",
         u"th": u"T",
-        u"chh": u"C",
+        u"ch": u"C",
         u"kh": u"K",
         u"qh": u"Q"
     })
 
     ## ejectives
-    bi_repl1.update({
+    bi_repl2.update({
         u"p'": u"b",
         u"t'": u"d",
         u"c'": u"z",
@@ -58,8 +59,8 @@ def bigram_repl(word):
 
     # Rule 2 (Sibilant place): S after ch-series, y and N
     # cannot be in or before trans1
-    bi_repl2 = {}
-    bi_repl2.update({
+    bi_repl3 = {}
+    bi_repl3.update({
         u"cs": u"cS",
         u"Cs": u"CS",
         u"zs": u"zS",
@@ -72,6 +73,9 @@ def bigram_repl(word):
 
     for bigram in bi_repl2:
         word = word.replace(bigram, bi_repl2[bigram])
+
+    for bigram in bi_repl3:
+        word = word.replace(bigram, bi_repl3[bigram])
 
     return word
 
@@ -222,22 +226,26 @@ def pl_trans(st):
 
 
 def main():
-    ay_orth = set_reader(os.path.join("Outputs",
-                                      "Aymara_words_no_sp_en.txt"))
+    ay_orth = set_reader(os.path.join(*[os.pardir,
+                                        "Outputs",
+                                        "Aymara_words_no_sp_en.txt"]))
     
     lowering_table = make_lowering_table()
     ay_trans = transcribe(ay_orth, lowering=lowering_table)
-    ay.write_iter(ay_trans, os.path.join(*["Outputs",
+    ay.write_iter(ay_trans, os.path.join(*[os.pardir,
+                                           "Outputs",
                                            "Transcription",
                                            "aymara_preprocessed.txt"]))
 
     ay_ipa = ipa_trans(ay_trans)
-    ay.write_iter(ay_ipa, os.path.join(*["Outputs",
+    ay.write_iter(ay_ipa, os.path.join(*[os.pardir,
+                                         "Outputs",
                                          "Transcription",
                                          "aymara_ipa.txt"]))
 
     ay_pl = pl_trans(ay_trans)
-    ay.write_iter(ay_pl, os.path.join(*["Outputs",
+    ay.write_iter(ay_pl, os.path.join(*[os.pardir,
+                                        "Outputs",
                                         "Transcription",
                                         "aymara_pl.txt"]))
 
