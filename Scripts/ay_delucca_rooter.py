@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import ay_sp_en_filter as ay_filter
 import ay_transcriber as ay_trans
 from languages import aymara

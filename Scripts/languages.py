@@ -1,3 +1,10 @@
+#!/usr/bin/python
+
+###################################
+# Defining the class of languages #
+## Allows for easier reference to #
+## natural classes                #
+###################################
 class Language:
     def __init__(self, plain_stops, asp, ej,
                  fric, affr, nasals, liquids, glides,
