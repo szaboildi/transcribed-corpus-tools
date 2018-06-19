@@ -1,7 +1,24 @@
 #!/usr/bin/python
+"""
+Copyright (C) 2018 Ildiko Emese Szabo
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>
+"""
+
 import ay_sp_en_filter as ay_filter
 import ay_transcriber as ay_trans
-from languages import aymara
+from languages import aymara as ay
 import os
 
 
@@ -82,7 +99,7 @@ def stemmer(words, suffixes, lang):
     :param lang: Language that words are in
     :return: The set of roots
     """
-    wordset={first_n_syllables(word, 3, aymara) for word in words}
+    wordset={first_n_syllables(word, 3, ay) for word in words}
 
     for suffix in suffixes:
         potential_roots= {word for word in wordset if not word.endswith(suffix)}
@@ -115,7 +132,7 @@ def main():
                                                   'Transcription',
                                                   'aymara_preprocessed.txt']))
     subcorpus = rid_of_starters(ay_words, roots_trans)
-    roots = stemmer(subcorpus, suffixes_trans, aymara)
+    roots = stemmer(subcorpus, suffixes_trans, ay)
 
     ay_filter.write_iter(roots, os.path.join(*[
         os.pardir, 'Outputs', 'Transcription', 'aymara_roots_trans.txt']))
