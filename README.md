@@ -1,7 +1,7 @@
 # Aymara-word-corpus
 A word corpus of Aymara
 
-Scripts are in the ```Scripts``` folder, the ```Inputs``` folder contains the input files, and the ```Outputs``` folder contains the output files of the scripts. Within the ```Outputs``` folder, the ```Transcription``` folder contains the transcription outputs - so far only of full words.
+Scripts are in the ```Scripts``` folder, the ```Inputs``` folder contains the input files, and the ```Outputs``` folder contains the output files of the scripts. Within the ```Outputs``` folder, the ```Transcription``` folder contains the transcription outputs - so far only complete for full words.
 
 The ```ay_sp_en_filter.py``` file reads in three types of information: a set of Spanish words from text files in subfolders ([CORLEC Corpus](http://www.lllf.uam.es/ESP/Corlec.html): Marín, 1992), and a set of English ([CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict): Weide, 2005) and Aymara words ([An Crúbadán](http://crubadan.org/languages/ay): Scannell, 2007) from a file each. When read in, words are cleaned from numbers and non-alphanumeric characters, from the Aymara corpus 255 words were discarded because they contained a hyphen ("-"). The source file for Aymara (from Marín, 1992) was manually searched for apostrophe-related typos, 2 of them were corrected (_muru'q_ to _muruq'_ and _la'qa_ to _laq'a_).
 
@@ -9,7 +9,7 @@ The set of Aymara words are then cross-checked with both the Spanish and English
 
 ```ay_transcriber.py``` transcribes the ```Outputs/Aymara_words_no_sp_en.txt``` word list into IPA (International Phonetic Alphabet; ```Outputs/aymara_ipa.txt```) and a transcription compatible with the UCLA Phonotactic Learner (Hayes and Wilson, 2008; ```Outputs/aymara_pl.txt```), to which the definition of segments is in ```Features.txt```. In addition, ```ay_transcriber.py``` also generates a "pre-processed" file (```aymara_preprocessed.txt```), in which the representation of words is the same as their UCLA PL representation without spaces (i.e. sounds and representing unigrams are in one-to-one correspondence). A total of 11 words were discarded at this stage because of misplaced "'" characters - indicating ejectives. 1 because of missing vowel (_j'cha_), 3 because of ejectival closure between vowels (_cha'amañchistañapatakiwa_, _chu'uqi_, _chi'är_), 3 word forms had stops with both aspiration and ejectival closure (_kh'antatina_, _ph'ich'i_, _wichh'inqhapa_), and 4 word forms had ejectival closure marked in places where the only only adjacent consonant was not a stop (_huka'mp_, _arts'i_, _his'a_, _inamayayt'a'yi_). The resulting set of words was 81,266 mono- and polymorphemic Aymara word forms.
 
-```ay_counts.py``` will contain functions for counting relevant bigrams or instances of regular expressions in the ```aymara_preprocessed.txt``` file. For now, it only contains basic functions and some variables.
+```ay_counts.py``` contains various functions for counting relevant ngrams in the ```aymara_preprocessed.txt``` file. It can count instances of one ngram, multiple ones, with the options of only looking for word-initial matches as well as for .
 
 # References
 Hayes, Bruce and Wilson, Colin. 2008. A maximum entropy model of phonotactics and phonotactic learning. _Linguistic inquiry_, 39(3), pp.379-440.
