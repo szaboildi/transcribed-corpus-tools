@@ -80,16 +80,49 @@ def first_n_syllables(word, n, lang):
         if ch in lang.vowels:
             counter += 1
         try:
-            if counter == 3 and (word[i+1] in lang.vowels or
-                (word[i+1] in lang.stops and word[i+2] in lang.vowels)):
+            if counter == 3:
+                if syllables[-1] in lang.long_v:
+                    syllables = syllables[:-1] + syllables[-1].lower()
                 return syllables
         except IndexError:
             return word
     return word
 
 
+def wd_stemmer(word, words, suffixes, lang):
+    """
+    Returns the likely root of the word
+    :param word: Word
+    :param words: Bigger corpus to cross-check with
+    :param suffixes: Set of suffixes
+    :param lang: Language of the words
+    :return: Likely root of the word
+    """
+    to_stem = True
+    while to_stem:
+        to_stem = False
+        for suffix in suffixes:
+            # Transforming ill-shaped forms
+            ## Confonant-final forms
+            if word[-1] in lang.consonants:
+                similar_words = [wordform[:len(word)+1] for wordform in words if wordform.startswith(word)
+                                 and len(wordform) > len(word) and wordform[len(word)] in
+                                 lang.vowels]
+                if similar_words != []:
+                    similar_words_dict = dict((form, similar_words.count(form)) for form in set(similar_words))
+                    word = max(similar_words_dict, key=similar_words_dict.get)
+            # Long-vowel-final forms
+            if word[-1] in lang.long_v:
+                word = word[:-1] + word[-1].lower()
 
-def stemmer(words, suffixes, lang):
+            # Chopping off a suffix
+            if word.endswith(suffix):
+                word = word[:-len(suffix)]
+                to_stem = True
+
+    return word
+
+def set_stemmer(words, suffixes, lang):
     """
     Returns a set of likely stems for a set of words.
     returns the first 3 syllables, if yes, then it returns the part without
@@ -99,16 +132,18 @@ def stemmer(words, suffixes, lang):
     :param lang: Language that words are in
     :return: The set of roots
     """
-    wordset={first_n_syllables(word, 3, ay) for word in words}
-
+    wordset = {first_n_syllables(word, 3, ay) for word in words}
+    rootset = {wd_stemmer(word, wordset, suffixes, ay) for word in wordset}
+    """
     for suffix in suffixes:
         potential_roots= {word for word in wordset if not word.endswith(suffix)}
         was_suffixed = {word[:-len(suffix)] for word in wordset if word.endswith(suffix)}
 
         wordset = potential_roots.union(was_suffixed)
         print(len(wordset))
+    """
 
-    return wordset
+    return rootset
 
 
 def main():
@@ -131,8 +166,11 @@ def main():
                                                   'Outputs',
                                                   'Transcription',
                                                   'aymara_preprocessed.txt']))
+    print(len(ay_words))
     subcorpus = rid_of_starters(ay_words, roots_trans)
-    roots = stemmer(subcorpus, suffixes_trans, ay)
+    print(len(subcorpus))
+    roots = set_stemmer(subcorpus, suffixes_trans, ay)
+    print(len(roots))
 
     ay_filter.write_iter(roots, os.path.join(*[
         os.pardir, 'Outputs', 'Transcription', 'aymara_roots_trans.txt']))
