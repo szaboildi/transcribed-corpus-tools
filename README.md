@@ -15,7 +15,7 @@ The set of Aymara words are then cross-checked with both the Spanish and English
 
 ```Scripts/ay_obs_over_exp.py``` counts observed-over-expected values on the outputs of ```ay_counter.py``` in ```Counts/Raw/``` with the use of the Ngram class and some functions defined in the file. (This file might be separated into a language-specific file - with a ```main()``` function only - and a general file that can be used in other corpora.)
 
-```Scripts/ay_delucca_rooter.py``` reads in a set of previously segmented word forms from the de Lucca dictionary (1987) and splits them into roots and suffixes. It then uses this list of suffixes and stems to eliminate non-root forms from the wordlist in the ```Outputs/Transcription/aymara_preprocessed.txt``` file. Words are eliminated if they start with a root and 
+```Scripts/ay_delucca_rooter.py``` reads in a set of previously segmented word forms from the de Lucca dictionary (1987) and splits them into roots and suffixes. It then uses this list of suffixes and stems to eliminate non-root forms from the wordlist in the ```Outputs/Transcription/aymara_preprocessed.txt``` file. Words are eliminated if they start with a root from the de Lucca dictionary. Moreover, since roots in Aymara are typically 1-3 syllables long and there are no prefixes in the languages, words are reduced to their first 3 syllables. These 3-syllable substrings are then checked for word-final suffixes.
 
 
 # References
