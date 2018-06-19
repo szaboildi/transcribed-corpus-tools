@@ -7,24 +7,20 @@ from languages import aymara
 # Counts observed over expected values
 ## Defining the Ngram class
 class Ngram():
-    def __init__(self, name, first, second, frequency):
+    def __init__(self, name, first, second, last, frequency):
         self.name = name
         self.first = first
         self.second = second
+        self.last = last
         self.frequency = frequency
-
-    def O_over_E(self, as_first, as_second, general_gram):
-        pass
 
 
 # Read in the Ngrams
-def read_ngrams(path, middle='', capitalize=False):
+def read_ngrams(path, middle=''):
     """
     Reads in a file as a set of ngrams
     :param path: Where the file is
     :param middle: What character is in the middle
-    :param capitalize: If initial of the class should be capitalized
-                       default: False
     :return: Set of ngrams
     """
     set_of_ngrams = set()
@@ -32,18 +28,11 @@ def read_ngrams(path, middle='', capitalize=False):
         for line in in_f:
             if middle in line.lower() and not line.startswith('stop'):
                 bits = line.strip().replace('plain stop', 'plain').split('\t')
-                characters = bits[0].split(' ')
-                characters = bits[0].split(' ')
-                name = ''
-                for ch in characters:
-                    if ch.lower() == middle:
-                        name += 'X'
-                    elif capitalize:
-                        name += ch[0].upper()
-                    else:
-                        name += ch[0]
-                name = Ngram(name=name, first=name[0], second=name[-1],
-                              frequency=int(bits[1]))
+                name = bits[0].split(' ')
+                name[name.index(middle)] =  'X'
+
+                name = Ngram(name=name, first=name[0], second=name[1],
+                             last=name[-1], frequency=int(bits[1]))
                 set_of_ngrams.add(name)
 
     return set_of_ngrams
@@ -60,13 +49,13 @@ def o_over_e(ngram_set, first, second):
     total_count = sum({ngram.frequency for ngram in ngram_set})
 
     target_set = {ngram for ngram in ngram_set
-                  if ngram.first == first and ngram.second == second}
+                  if ngram.first == first and ngram.last == second}
     observed = sum({ngram.frequency for ngram in target_set})
 
     first_set = {ngram for ngram in ngram_set
                  if ngram.first == first}
     second_set = {ngram for ngram in ngram_set
-                  if ngram.second == second}
+                  if ngram.last == second}
     first_prob = sum({ngram.frequency for ngram in first_set}) / total_count
     second_prob = sum({ngram.frequency for ngram in second_set}) / total_count
 
