@@ -14,7 +14,7 @@ def set_reader(path):
     :param path: location of text file with one word/line
     :return: a set of words
     """
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, "r", encoding="utf-8") as f:
         lst = {line.strip() for line in f}
 
     return lst

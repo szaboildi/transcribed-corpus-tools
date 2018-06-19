@@ -2,7 +2,7 @@
 import os
 import itertools
 import pandas as pd
-from languages import aymara
+from languages import aymara as ay
 
 # Counts observed over expected values
 ## Defining the Ngram class
@@ -98,49 +98,55 @@ def o_over_e_many_df(counts, segments):
 def main():
     # Reading in the files
     sxs_counts = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'aymara_counts_class_stop_x_stop.txt']),
-                              middle='anything', capitalize=True)
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_stop_x_stop.txt']),
+                              middle='anything')
     svs_counts = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'aymara_counts_class_stop_x_stop.txt']),
-                             middle='vowel', capitalize=True)
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_stop_x_stop.txt']),
+                             middle='vowel')
     sxs_counts_seg = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'aymara_counts_seg_stop_x_stop.txt']),
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_stop_x_stop.txt']),
                               middle='anything')
     svs_counts_seg = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'aymara_counts_seg_stop_v_stop.txt']),
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_stop_v_stop.txt']),
                                  middle='vowel')
 
 
     # Counting O/E
     ## Class-level
-    oe_sxs_class_df = o_over_e_many_df(sxs_counts, 'AEP')
+    oe_sxs_class_df = o_over_e_many_df(sxs_counts,
+                                       ['aspirate', 'ejective', 'plain'])
     oe_sxs_class_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
+        'OE',
         'aymara_oe_sxs_class.csv'
     ]))
-    oe_svs_class_df = o_over_e_many_df(svs_counts, 'AEP')
+    oe_svs_class_df = o_over_e_many_df(svs_counts,
+                                       ['aspirate', 'ejective', 'plain'])
     oe_svs_class_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
+        'OE',
         'aymara_oe_svs_class.csv'
     ]))
 
     ## Segment-level
-    oe_sxs_seg_df = o_over_e_many_df(sxs_counts_seg, aymara.stops)
+    oe_sxs_seg_df = o_over_e_many_df(sxs_counts_seg, ay.stops)
     oe_sxs_seg_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
+        'OE',
         'aymara_oe_sxs_seg.csv'
     ]))
-    oe_svs_seg_df= o_over_e_many_df(svs_counts_seg, aymara.stops)
+    oe_svs_seg_df= o_over_e_many_df(svs_counts_seg, ay.stops)
     oe_svs_seg_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
+        'OE',
         'aymara_oe_svs_seg.csv'
     ]))
 

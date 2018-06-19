@@ -43,4 +43,4 @@ class Language:
 
 aymara = Language('ptkcq', 'PTKCQ', 'bdgzG', 'sSxh',
                   '', 'mnN', 'rlY', 'jw',
-                  'uiUI', 'oeOE', 'aA')
+                  'ui', 'UI', 'oe', 'OE', 'a', 'A')

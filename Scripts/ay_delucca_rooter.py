@@ -118,7 +118,7 @@ def main():
     roots = stemmer(subcorpus, suffixes_trans, aymara)
 
     ay_filter.write_iter(roots, os.path.join(*[
-        os.pardir, 'Outputs', 'aymara_roots_trans.txt']))
+        os.pardir, 'Outputs', 'Transcription', 'aymara_roots_trans.txt']))
 
 if __name__ == '__main__':
     main()
