@@ -4,6 +4,9 @@ import ay_sp_en_filter as ay_filter
 from languages import aymara as ay
 import os
 
+# This file might be later separated into a language-specific file
+# (with a ```main()``` function only)
+# and a general file that can be used in other corpora.
 
 #######################
 # Counting substrings #
@@ -97,7 +100,7 @@ def count_many_substr(substrings, words, tier='', initial=False,
     :param return_set: whether it should return the set of hits
                        default: False
     :return: dictionary of counts, where keys are the counted substrings,
-    and values are their respective counts.
+    and values are their respective counts. Optionally also returns a return set.
     """
     hits = {}
     counts = {}
@@ -192,22 +195,8 @@ def main():
                                                   'Transcription',
                                                   'aymara_preprocessed.txt']))
 
-    # Aymara sounds
-    ## Unigrams
-    """
-    plain_stops = "ptckq"
-    aspirates = "PTCKQ"
-    ejectives = "bdzgG"
-    stops = plain_stops + aspirates + ejectives
-    fricatives = "sShx"
-    sonorants = "mnNrlYjw"
-    consonants = stops + fricatives + sonorants
-    vowels = "aAeEiIoOuU"
-    sounds = vowels + consonants
-    non_stops = "".join([sound for sound in sounds if sound not in stops])
-    """
 
-    ## Multigrams
+    # Aymara sounds: Defining certain ngrams
     precon_asp = {aspirate + consonant for aspirate in ay.aspirates for consonant in ay.consonants}
     precon_ej = {ejective + consonant for ejective in ay.ejectives for consonant in ay.consonants}
     precon_plain = {plain + consonant for plain in ay.plain_stops for consonant in ay.consonants}
@@ -306,49 +295,7 @@ def main():
 
 
     ## S ... S and SVS (S = stop, V = vowel)
-    svs_counts = count_many_substr(stop_v_stop, ay_words)
-    svs_general = {s1 + ' vowel ' + s2 for s1 in ay.stops for s2 in ay.stops}
-    svs_seg_counts = dict()
-    for trigram in svs_general:
-        svs_seg_counts[trigram] = sum(svs_counts[key] for key in svs_counts if
-                                      trigram[0] == key[0] and trigram[-1] == key[-1])
-    sxs_counts = {
-        'stop vowel stop': sum(svs_counts.values()),
-        'aspirate vowel aspirate': sum(svs_counts[key] for key in svs_counts
-                                       if key in asp_v_asp),
-        'aspirate vowel ejective': sum(svs_counts[key] for key in svs_counts
-                                       if key in asp_v_ej),
-        'aspirate vowel plain stop': sum(svs_counts[key] for key in svs_counts
-                                         if key in asp_v_plain),
-        'ejective vowel aspirate': sum(svs_counts[key] for key in svs_counts
-                                       if key in ej_v_asp),
-        'ejective vowel ejective': sum(svs_counts[key] for key in svs_counts
-                                       if key in ej_v_ej),
-        'ejective vowel plain stop': sum(svs_counts[key] for key in svs_counts
-                                         if key in ej_v_plain),
-        'plain stop vowel aspirate': sum(svs_counts[key] for key in svs_counts
-                                         if key in plain_v_asp),
-        'plain stop vowel ejective': sum(svs_counts[key] for key in svs_counts
-                                         if key in plain_v_ej),
-        'plain stop vowel plain stop': sum(svs_counts[key] for key in svs_counts
-                                           if key in plain_v_plain)
-    }
-
-    sxs_seg_hitlist, sxs_seg_counts = count_many_substr(
-        {stop1 + stop2 for stop1 in ay.stops for stop2 in ay.stops},
-        ay_words, tier=ay.stops, return_set=True)
-    sxs_seg_counts_formatted = {key[0] + ' anything ' + key[1]: sxs_seg_counts[key]
-                                for key in sxs_seg_counts.keys()}
-    sxs = Hits_for_substring(
-        substrings={s1 + s2 for s1 in ay.stops for s2 in ay.stops},
-        key_name='stop anything stop',
-        hitlist=sxs_seg_hitlist,
-        counts=sxs_seg_counts_formatted
-    )
-
-    sxs.sum_add_to_countdict(sxs_counts)
-    # sxs_hitlist = {sxs_seg_hitlist[key] for key in sxs_seg_hitlist.keys()}
-
+    ### Variables
     variable_names = ['axa', 'axe', 'axp', 'exa', 'exe',
                       'exp', 'pxa', 'pxe', 'pxp']
     key_names = [
@@ -364,45 +311,94 @@ def main():
         (ay.plain_stops, ay.aspirates), (ay.plain_stops, ay.ejectives), (ay.plain_stops, ay.plain_stops)
     ]
 
-    for i, name in enumerate(variable_names):
-        matched_substrings = {x + y
-                              for x in sets_of_substrings[i][0]
-                              for y in sets_of_substrings[i][1]}
-        name = \
-            Hits_for_substring(substrings=matched_substrings,
-                               key_name=key_names[i],
-                               hitlist={key: sxs_seg_hitlist[key]
-                                        for key in sxs.hitlist.keys()
-                                        if key in matched_substrings},
-                               counts={key: sxs_seg_counts[key]
-                                      for key in sxs_seg_counts.keys()
-                                      if key in matched_substrings})
+    # Counting
+    for type in ['all', 'initial']:
+        svs_counts = count_many_substr(stop_v_stop, ay_words, initial=(type=='initial'))
+        svs_general = {s1 + ' vowel ' + s2 for s1 in ay.stops for s2 in ay.stops}
+        svs_seg_counts = dict()
+        for trigram in svs_general:
+            svs_seg_counts[trigram] = sum(svs_counts[key] for key in svs_counts if
+                                          trigram[0] == key[0] and trigram[-1] == key[-1])
+        sxs_counts = {
+            'stop vowel stop': sum(svs_counts.values()),
+            'aspirate vowel aspirate': sum(svs_counts[key] for key in svs_counts
+                                           if key in asp_v_asp),
+            'aspirate vowel ejective': sum(svs_counts[key] for key in svs_counts
+                                           if key in asp_v_ej),
+            'aspirate vowel plain stop': sum(svs_counts[key] for key in svs_counts
+                                             if key in asp_v_plain),
+            'ejective vowel aspirate': sum(svs_counts[key] for key in svs_counts
+                                           if key in ej_v_asp),
+            'ejective vowel ejective': sum(svs_counts[key] for key in svs_counts
+                                           if key in ej_v_ej),
+            'ejective vowel plain stop': sum(svs_counts[key] for key in svs_counts
+                                             if key in ej_v_plain),
+            'plain stop vowel aspirate': sum(svs_counts[key] for key in svs_counts
+                                             if key in plain_v_asp),
+            'plain stop vowel ejective': sum(svs_counts[key] for key in svs_counts
+                                             if key in plain_v_ej),
+            'plain stop vowel plain stop': sum(svs_counts[key] for key in svs_counts
+                                               if key in plain_v_plain)
+        }
 
-        name.sum_add_to_countdict(sxs_counts)
-        name.write_hitlist(os.path.join(*[os.pardir,
-                                          'Outputs',
-                                          'Counts',
-                                          'Lists',
-                                          'aymara_list_{}.txt'
-                                        .format(variable_names[i])]))
+        sxs_seg_hitlist, sxs_seg_counts = count_many_substr(
+            {stop1 + stop2 for stop1 in ay.stops for stop2 in ay.stops},
+            ay_words, tier=ay.stops, return_set=True, initial=(type=="initial"))
+        sxs_seg_counts_formatted = {key[0] + ' anything ' + key[1]: sxs_seg_counts[key]
+                                    for key in sxs_seg_counts.keys()}
+        sxs = Hits_for_substring(
+            substrings={s1 + s2 for s1 in ay.stops for s2 in ay.stops},
+            key_name='stop anything stop',
+            hitlist=sxs_seg_hitlist,
+            counts=sxs_seg_counts_formatted
+        )
 
-    write_dict(sxs_counts, os.path.join(*[os.pardir,
-                                          'Outputs',
-                                          'Counts',
-                                          'Raw',
-                                          'aymara_counts_class_stop_x_stop.txt']))
+        sxs.sum_add_to_countdict(sxs_counts)
+        # sxs_hitlist = {sxs_seg_hitlist[key] for key in sxs_seg_hitlist.keys()}
 
-    write_dict(sxs_seg_counts_formatted, os.path.join(*[os.pardir,
-                                                        'Outputs',
-                                                        'Counts',
-                                                        'Raw',
-                                                        'aymara_counts_seg_stop_x_stop.txt']))
 
-    write_dict(svs_seg_counts, os.path.join(*[os.pardir,
+        for i, name in enumerate(variable_names):
+            matched_substrings = {x + y
+                                  for x in sets_of_substrings[i][0]
+                                  for y in sets_of_substrings[i][1]}
+            name = \
+                Hits_for_substring(substrings=matched_substrings,
+                                   key_name=key_names[i],
+                                   hitlist={key: sxs_seg_hitlist[key]
+                                            for key in sxs.hitlist.keys()
+                                            if key in matched_substrings},
+                                   counts={key: sxs_seg_counts[key]
+                                          for key in sxs_seg_counts.keys()
+                                          if key in matched_substrings})
+
+            name.sum_add_to_countdict(sxs_counts)
+            name.write_hitlist(os.path.join(*[os.pardir,
+                                              'Outputs',
+                                              'Counts',
+                                              'Lists',
+                                              'aymara_list_{}_{}.txt'
+                                            .format(type, variable_names[i])]))
+
+        write_dict(sxs_counts, os.path.join(*[os.pardir,
                                               'Outputs',
                                               'Counts',
                                               'Raw',
-                                              'aymara_counts_seg_stop_v_stop.txt']))
+                                              'aymara_counts_class_{}_sxs_svs.txt'
+                                            .format(type)]))
+
+        write_dict(sxs_seg_counts_formatted, os.path.join(*[os.pardir,
+                                                            'Outputs',
+                                                            'Counts',
+                                                            'Raw',
+                                                            'aymara_counts_seg_{}_sxs.txt'
+                                                          .format(type)]))
+
+        write_dict(svs_seg_counts, os.path.join(*[os.pardir,
+                                                  'Outputs',
+                                                  'Counts',
+                                                  'Raw',
+                                                  'aymara_counts_seg_{}_svs.txt'
+                                                .format(type)]))
 
 
 if __name__ == '__main__':

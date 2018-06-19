@@ -4,8 +4,15 @@ import itertools
 import pandas as pd
 from languages import aymara as ay
 
-# Counts observed over expected values
-## Defining the Ngram class
+# This file might be later separated into a language-specific file
+# (with a ```main()``` function only)
+# and a general file that can be used in other corpora.
+
+
+##################################################################
+# Counts observed over expected values of (non-adjacent) bigrams #
+##################################################################
+# The Ngram class
 class Ngram():
     def __init__(self, name, first, second, last, frequency):
         self.name = name
@@ -15,7 +22,7 @@ class Ngram():
         self.frequency = frequency
 
 
-# Read in the Ngrams
+# Function for reading in the Ngrams
 def read_ngrams(path, middle=''):
     """
     Reads in a file as a set of ngrams
@@ -38,6 +45,7 @@ def read_ngrams(path, middle=''):
     return set_of_ngrams
 
 
+# Function for counting O/E
 def o_over_e(ngram_set, first, second):
     """
     Counts an observed-over-expected (O/E) ratio.
@@ -74,6 +82,7 @@ def o_over_e(ngram_set, first, second):
     return observed, expected, o_e
 
 
+# Function that returns a DataFrame of O/E values for a set of Ngrams
 def o_over_e_many_df(counts, segments):
     """
     Transforms raw counts into a pandas data frame containing observed,
@@ -95,24 +104,40 @@ def o_over_e_many_df(counts, segments):
     return oe_df
 
 
+
 def main():
     # Reading in the files
+    ## Any match
     sxs_counts = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_stop_x_stop.txt']),
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs.txt']),
                               middle='anything')
     svs_counts = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_stop_x_stop.txt']),
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs.txt']),
                              middle='vowel')
     sxs_counts_seg = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_stop_x_stop.txt']),
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_all_sxs.txt']),
                               middle='anything')
     svs_counts_seg = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_stop_v_stop.txt']),
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_all_svs.txt']),
                                  middle='vowel')
 
+    ## Word-initial matches
+    sxs_counts_init = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs.txt']),
+                             middle='anything')
+    svs_counts_init = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs.txt']),
+                             middle='vowel')
+    sxs_counts_seg_init = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_initial_sxs.txt']),
+                                 middle='anything')
+    svs_counts_seg_init = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_initial_svs.txt']),
+                                 middle='vowel')
 
     # Counting O/E
     ## Class-level
+    ### All matches
     oe_sxs_class_df = o_over_e_many_df(sxs_counts,
                                        ['aspirate', 'ejective', 'plain'])
     oe_sxs_class_df.to_csv(os.path.join(*[
@@ -120,7 +145,7 @@ def main():
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_sxs_class.csv'
+        'aymara_oe_sxs_class_all.csv'
     ]))
     oe_svs_class_df = o_over_e_many_df(svs_counts,
                                        ['aspirate', 'ejective', 'plain'])
@@ -129,17 +154,38 @@ def main():
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_svs_class.csv'
+        'aymara_oe_svs_class_all.csv'
+    ]))
+
+    ### Word-initial matches
+    oe_sxs_class_init_df = o_over_e_many_df(sxs_counts_init,
+                                       ['aspirate', 'ejective', 'plain'])
+    oe_sxs_class_init_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_sxs_class_init.csv'
+    ]))
+    oe_svs_class_init_df = o_over_e_many_df(svs_counts_init,
+                                       ['aspirate', 'ejective', 'plain'])
+    oe_svs_class_init_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_svs_class_init.csv'
     ]))
 
     ## Segment-level
+    ### All matches
     oe_sxs_seg_df = o_over_e_many_df(sxs_counts_seg, ay.stops)
     oe_sxs_seg_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_sxs_seg.csv'
+        'aymara_oe_sxs_seg_all.csv'
     ]))
     oe_svs_seg_df= o_over_e_many_df(svs_counts_seg, ay.stops)
     oe_svs_seg_df.to_csv(os.path.join(*[
@@ -147,7 +193,25 @@ def main():
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_svs_seg.csv'
+        'aymara_oe_svs_seg_all.csv'
+    ]))
+
+    ### Word-initial matches
+    oe_sxs_seg_init_df = o_over_e_many_df(sxs_counts_seg_init, ay.stops)
+    oe_sxs_seg_init_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_sxs_seg_initial.csv'
+    ]))
+    oe_svs_seg_init_df = o_over_e_many_df(svs_counts_seg_init, ay.stops)
+    oe_svs_seg_init_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_svs_seg_initial.csv'
     ]))
 
 
