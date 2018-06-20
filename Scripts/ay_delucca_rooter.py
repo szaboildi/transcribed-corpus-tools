@@ -104,19 +104,22 @@ def wd_stemmer(word, words, suffixes, lang):
         for suffix in suffixes:
             # Transforming ill-shaped forms
             ## Confonant-final forms
-            if word[-1] in lang.consonants:
-                similar_words = [wordform[:len(word)+1] for wordform in words if wordform.startswith(word)
-                                 and len(wordform) > len(word) and wordform[len(word)] in
-                                 lang.vowels]
-                if similar_words != []:
-                    similar_words_dict = dict((form, similar_words.count(form)) for form in set(similar_words))
-                    word = max(similar_words_dict, key=similar_words_dict.get)
+            try:
+                if word[-1] in lang.consonants:
+                    similar_words = [wordform[:len(word)+1] for wordform in words if wordform.startswith(word)
+                                     and len(wordform) > len(word) and wordform[len(word)] in
+                                     lang.vowels]
+                    if similar_words != []:
+                        similar_words_dict = dict((form, similar_words.count(form)) for form in set(similar_words))
+                        word = max(similar_words_dict, key=similar_words_dict.get)
+            except IndexError:
+                print("IndexError, word ({}) too short:".format(word))
             # Long-vowel-final forms
             if word[-1] in lang.long_v:
                 word = word[:-1] + word[-1].lower()
 
             # Chopping off a suffix
-            if word.endswith(suffix):
+            if word.endswith(suffix) and word != suffix:
                 word = word[:-len(suffix)]
                 to_stem = True
 
@@ -133,7 +136,9 @@ def set_stemmer(words, suffixes, lang):
     :return: The set of roots
     """
     wordset = {first_n_syllables(word, 3, ay) for word in words}
-    rootset = {wd_stemmer(word, wordset, suffixes, ay) for word in wordset}
+    rootset = {wd_stemmer(word, wordset, suffixes, ay) for word in wordset
+               if word != ''}
+
     """
     for suffix in suffixes:
         potential_roots= {word for word in wordset if not word.endswith(suffix)}
