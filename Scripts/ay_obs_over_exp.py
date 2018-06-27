@@ -40,20 +40,26 @@ class Ngram():
 
 
 # Function for reading in the Ngrams
-def read_ngrams(path, middle=''):
+def read_ngrams(path, middle='', subcase='', length=3):
     """
     Reads in a file as a set of ngrams
     :param path: Where the file is
     :param middle: What character is in the middle
-    :return: Set of ngrams
+    :param subcase: If there are multiple options in the source document,
+                    which subcase it should regard
+    :param length: Length of the Ngram
+    :return: Set of ngram:
     """
     set_of_ngrams = set()
     with open(path, 'r', encoding='utf-8') as in_f:
         for line in in_f:
             if middle in line.lower() and not line.startswith('stop'):
-                bits = line.strip().replace('plain stop', 'plain').split('\t')
+                bits = line.strip().replace('plain stop', 'plain').\
+                    replace(subcase, '_'+subcase.strip()).split('\t')
                 name = bits[0].split(' ')
-                name[name.index(middle)] =  'X'
+                if subcase == '' and len(name) > length:
+                    continue
+                name[name.index(middle)] = 'X'
 
                 name = Ngram(name=name, first=name[0], second=name[1],
                              last=name[-1], frequency=int(bits[1]))

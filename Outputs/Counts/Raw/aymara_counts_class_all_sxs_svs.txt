@@ -4,6 +4,7 @@ aspirate vowel ejective	60
 aspirate vowel plain stop	3442
 ejective vowel aspirate	636
 ejective vowel ejective	30
+ejective vowel ejective (heterorganic)	10
 ejective vowel plain stop	3864
 plain stop vowel aspirate	667
 plain stop vowel ejective	32

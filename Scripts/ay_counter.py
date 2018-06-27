@@ -230,6 +230,8 @@ def main():
     asp_v_plain = {a + v + p for a in ay.aspirates for v in ay.vowels for p in ay.plain_stops}
     ej_v_asp = {e + v + a for e in ay.ejectives for v in ay.vowels for a in ay.aspirates}
     ej_v_ej = {e1 + v + e2 for e1 in ay.ejectives for v in ay.vowels for e2 in ay.ejectives}
+    ej_v_ej_het = {e1 + v + e2 for e1 in ay.ejectives for v in ay.vowels for e2 in ay.ejectives
+                   if e1 != e2}
     ej_v_plain = {e + v + p for e in ay.ejectives for v in ay.vowels for p in ay.plain_stops}
     plain_v_asp = {p + v + a for p in ay.plain_stops for v in ay.vowels for a in ay.aspirates}
     plain_v_ej = {p + v + e for p in ay.plain_stops for v in ay.vowels for e in ay.ejectives}
@@ -348,6 +350,8 @@ def main():
                                            if key in ej_v_asp),
             'ejective vowel ejective': sum(svs_counts[key] for key in svs_counts
                                            if key in ej_v_ej),
+            'ejective vowel ejective (heterorganic)': sum(svs_counts[key] for key in svs_counts
+                                           if key in ej_v_ej_het),
             'ejective vowel plain stop': sum(svs_counts[key] for key in svs_counts
                                              if key in ej_v_plain),
             'plain stop vowel aspirate': sum(svs_counts[key] for key in svs_counts
@@ -395,6 +399,22 @@ def main():
                                               'Lists',
                                               'aymara_list_{}_{}.txt'
                                             .format(type, variable_names[i])]))
+
+        exe_het = Hits_for_substring(substrings={e1 + e2 for e1 in ay.ejectives
+                                                 for e2 in ay.ejectives if e1 != e2},
+                                   key_name="ejective anything ejective (heterorg)",
+                                   hitlist={key: sxs_seg_hitlist[key]
+                                            for key in sxs.hitlist.keys()
+                                            if key in matched_substrings},
+                                   counts={key: sxs_seg_counts[key]
+                                          for key in sxs_seg_counts.keys()
+                                          if key in matched_substrings})
+        exe_het.write_hitlist(os.path.join(*[os.pardir,
+                                          'Outputs',
+                                          'Counts',
+                                          'Lists',
+                                          'aymara_list_{}_{}.txt'
+                                        .format(type, 'exe_het')]))
 
         write_dict(sxs_counts, os.path.join(*[os.pardir,
                                               'Outputs',
