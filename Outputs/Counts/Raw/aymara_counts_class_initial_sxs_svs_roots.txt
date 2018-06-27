@@ -1,0 +1,21 @@
+stop vowel stop	267
+aspirate vowel aspirate	24
+aspirate vowel ejective	12
+aspirate vowel plain stop	44
+ejective vowel aspirate	20
+ejective vowel ejective	7
+ejective vowel ejective (heterorganic)	0
+ejective vowel plain stop	64
+plain stop vowel aspirate	1
+plain stop vowel ejective	1
+plain stop vowel plain stop	94
+stop anything stop	508
+aspirate anything aspirate	44
+aspirate anything ejective	15
+aspirate anything plain stop	71
+ejective anything aspirate	35
+ejective anything ejective	27
+ejective anything plain stop	113
+plain stop anything aspirate	2
+plain stop anything ejective	2
+plain stop anything plain stop	199

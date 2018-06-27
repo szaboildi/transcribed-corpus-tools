@@ -47,17 +47,21 @@ def read_ngrams(path, middle='', subcase='', length=3):
     :param middle: What character is in the middle
     :param subcase: If there are multiple options in the source document,
                     which subcase it should regard
+                    default: empty string
     :param length: Length of the Ngram
+                   default: 3
     :return: Set of ngram:
     """
     set_of_ngrams = set()
+    subcase_suffix = '_' + subcase.strip()
     with open(path, 'r', encoding='utf-8') as in_f:
         for line in in_f:
             if middle in line.lower() and not line.startswith('stop'):
-                bits = line.strip().replace('plain stop', 'plain').\
-                    replace(subcase, '_'+subcase.strip()).split('\t')
+                bits = line.strip().replace('plain stop', 'plain').split('\t')
+                if subcase != '':
+                    bits[0] = bits[0].replace(subcase, subcase_suffix)
                 name = bits[0].split(' ')
-                if subcase == '' and len(name) > length:
+                if len(name) > length:
                     continue
                 name[name.index(middle)] = 'X'
 
@@ -130,112 +134,243 @@ def o_over_e_many_df(counts, segments):
 
 def main():
     # Reading in the files
-    ## Any match
-    sxs_counts = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs.txt']),
+    ## Words
+    ### All matches
+    sxs_counts_w = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs_words.txt']),
                               middle='anything')
-    svs_counts = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs.txt']),
+    svs_counts_w = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs_words.txt']),
                              middle='vowel')
-    sxs_counts_seg = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_all_sxs.txt']),
+    sxs_counts_w_het = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs_words.txt']),
+                             middle='anything', subcase=' (heterorganic)')
+    svs_counts_w_het = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs_words.txt']),
+                             middle='vowel', subcase=' (heterorganic)')
+    sxs_counts_seg_w = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_all_sxs_words.txt']),
                               middle='anything')
-    svs_counts_seg = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_all_svs.txt']),
+    svs_counts_seg_w = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_all_svs_words.txt']),
                                  middle='vowel')
 
-    ## Word-initial matches
-    sxs_counts_init = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs.txt']),
+    ### Word-initial matches
+    sxs_counts_init_w = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs_words.txt']),
                              middle='anything')
-    svs_counts_init = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs.txt']),
+    svs_counts_init_w = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs_words.txt']),
                              middle='vowel')
-    sxs_counts_seg_init = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_initial_sxs.txt']),
+    sxs_counts_init_w_het = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs_words.txt']),
+                                    middle='anything', subcase=' (heterorganic)')
+    svs_counts_init_w_het = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs_words.txt']),
+                                    middle='vowel', subcase=' (heterorganic)')
+    sxs_counts_seg_init_w = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_initial_sxs_words.txt']),
                                  middle='anything')
-    svs_counts_seg_init = read_ngrams(os.path.join(*[
-        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_initial_svs.txt']),
+    svs_counts_seg_init_w = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_initial_svs_words.txt']),
                                  middle='vowel')
+
+
+    ## Roots
+    ### All matches
+    sxs_counts_r = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs_roots.txt']),
+                               middle='anything')
+    svs_counts_r = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs_roots.txt']),
+                               middle='vowel')
+    sxs_counts_r_het = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs_roots.txt']),
+                                   middle='anything', subcase=' (heterorganic)')
+    svs_counts_r_het = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_all_sxs_svs_roots.txt']),
+                                   middle='vowel', subcase=' (heterorganic)')
+    sxs_counts_seg_r = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_all_sxs_roots.txt']),
+                                   middle='anything')
+    svs_counts_seg_r = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_all_svs_roots.txt']),
+                                   middle='vowel')
+
+    ### Word-initial matches
+    sxs_counts_init_r = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs_roots.txt']),
+                                    middle='anything')
+    svs_counts_init_r = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs_roots.txt']),
+                                    middle='vowel')
+    sxs_counts_init_r_het = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs_roots.txt']),
+                                        middle='anything', subcase=' (heterorganic)')
+    svs_counts_init_r_het = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_class_initial_sxs_svs_roots.txt']),
+                                        middle='vowel', subcase=' (heterorganic)')
+    sxs_counts_seg_init_r = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_initial_sxs_roots.txt']),
+                                        middle='anything')
+    svs_counts_seg_init_r = read_ngrams(os.path.join(*[
+        os.pardir, 'Outputs', 'Counts', 'Raw', 'aymara_counts_seg_initial_svs_roots.txt']),
+                                        middle='vowel')
+
 
     # Counting O/E
-    ## Class-level
+    ## Words
     ### All matches
-    oe_sxs_class_df = o_over_e_many_df(sxs_counts,
+    oe_sxs_class_w_df = o_over_e_many_df(sxs_counts_w,
                                        ['aspirate', 'ejective', 'plain'])
-    oe_sxs_class_df.to_csv(os.path.join(*[
+    oe_sxs_class_w_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_sxs_class_all.csv'
+        'aymara_oe_sxs_class_all_words.csv'
     ]))
-    oe_svs_class_df = o_over_e_many_df(svs_counts,
+    oe_svs_class_w_df = o_over_e_many_df(svs_counts_w,
                                        ['aspirate', 'ejective', 'plain'])
-    oe_svs_class_df.to_csv(os.path.join(*[
+    oe_svs_class_w_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_svs_class_all.csv'
+        'aymara_oe_svs_class_all_words.csv'
+    ]))
+
+    oe_sxs_seg_w_df = o_over_e_many_df(sxs_counts_seg_w, ay.stops)
+    oe_sxs_seg_w_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_sxs_seg_all_words.csv'
+    ]))
+    oe_svs_seg_w_df = o_over_e_many_df(svs_counts_seg_w, ay.stops)
+    oe_svs_seg_w_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_svs_seg_all_words.csv'
+    ]))
+
+
+    ### Word-initial matches
+    oe_sxs_class_init_w_df = o_over_e_many_df(sxs_counts_init_w,
+                                       ['aspirate', 'ejective', 'plain'])
+    oe_sxs_class_init_w_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_sxs_class_init_words.csv'
+    ]))
+    oe_svs_class_init_w_df = o_over_e_many_df(svs_counts_init_w,
+                                       ['aspirate', 'ejective', 'plain'])
+    oe_svs_class_init_w_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_svs_class_init_words.csv'
+    ]))
+
+    oe_sxs_seg_init_w_df = o_over_e_many_df(sxs_counts_seg_init_w, ay.stops)
+    oe_sxs_seg_init_w_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_sxs_seg_initial_words.csv'
+    ]))
+    oe_svs_seg_init_w_df = o_over_e_many_df(svs_counts_seg_init_w, ay.stops)
+    oe_svs_seg_init_w_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_svs_seg_initial_words.csv'
+    ]))
+
+
+    ## Roots
+    ### All matches
+    oe_sxs_class_r_df = o_over_e_many_df(sxs_counts_r,
+                                         ['aspirate', 'ejective', 'plain'])
+    oe_sxs_class_r_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_sxs_class_all_roots.csv'
+    ]))
+    oe_svs_class_r_df = o_over_e_many_df(svs_counts_r,
+                                         ['aspirate', 'ejective', 'plain'])
+    oe_svs_class_r_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_svs_class_all_roots.csv'
+    ]))
+
+    oe_sxs_seg_r_df = o_over_e_many_df(sxs_counts_seg_r, ay.stops)
+    oe_sxs_seg_r_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_sxs_seg_all_roots.csv'
+    ]))
+    oe_svs_seg_r_df = o_over_e_many_df(svs_counts_seg_r, ay.stops)
+    oe_svs_seg_r_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_svs_seg_all_roots.csv'
     ]))
 
     ### Word-initial matches
-    oe_sxs_class_init_df = o_over_e_many_df(sxs_counts_init,
-                                       ['aspirate', 'ejective', 'plain'])
-    oe_sxs_class_init_df.to_csv(os.path.join(*[
+    oe_sxs_class_init_r_df = o_over_e_many_df(sxs_counts_init_r,
+                                              ['aspirate', 'ejective', 'plain'])
+    oe_sxs_class_init_r_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_sxs_class_init.csv'
+        'aymara_oe_sxs_class_init_roots.csv'
     ]))
-    oe_svs_class_init_df = o_over_e_many_df(svs_counts_init,
-                                       ['aspirate', 'ejective', 'plain'])
-    oe_svs_class_init_df.to_csv(os.path.join(*[
+    oe_svs_class_init_r_df = o_over_e_many_df(svs_counts_init_r,
+                                              ['aspirate', 'ejective', 'plain'])
+    oe_svs_class_init_r_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_svs_class_init.csv'
-    ]))
-
-    ## Segment-level
-    ### All matches
-    oe_sxs_seg_df = o_over_e_many_df(sxs_counts_seg, ay.stops)
-    oe_sxs_seg_df.to_csv(os.path.join(*[
-        os.pardir,
-        'Outputs',
-        'Counts',
-        'OE',
-        'aymara_oe_sxs_seg_all.csv'
-    ]))
-    oe_svs_seg_df= o_over_e_many_df(svs_counts_seg, ay.stops)
-    oe_svs_seg_df.to_csv(os.path.join(*[
-        os.pardir,
-        'Outputs',
-        'Counts',
-        'OE',
-        'aymara_oe_svs_seg_all.csv'
+        'aymara_oe_svs_class_init_roots.csv'
     ]))
 
-    ### Word-initial matches
-    oe_sxs_seg_init_df = o_over_e_many_df(sxs_counts_seg_init, ay.stops)
-    oe_sxs_seg_init_df.to_csv(os.path.join(*[
+    oe_sxs_seg_init_r_df = o_over_e_many_df(sxs_counts_seg_init_r, ay.stops)
+    oe_sxs_seg_init_r_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_sxs_seg_initial.csv'
+        'aymara_oe_sxs_seg_initial_roots.csv'
     ]))
-    oe_svs_seg_init_df = o_over_e_many_df(svs_counts_seg_init, ay.stops)
-    oe_svs_seg_init_df.to_csv(os.path.join(*[
+    oe_svs_seg_init_r_df = o_over_e_many_df(svs_counts_seg_init_r, ay.stops)
+    oe_svs_seg_init_r_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
         'Counts',
         'OE',
-        'aymara_oe_svs_seg_initial.csv'
+        'aymara_oe_svs_seg_initial_roots.csv'
     ]))
+
 
 
 if __name__ == '__main__':
