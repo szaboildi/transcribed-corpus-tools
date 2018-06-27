@@ -19,3 +19,4 @@ ejective anything plain stop	121
 plain stop anything aspirate	4
 plain stop anything ejective	6
 plain stop anything plain stop	241
+ejective anything ejective (heterorganic)	1

@@ -242,10 +242,12 @@ def main():
     plain_v_ej = {p + v + e for p in ay.plain_stops for v in ay.vowels for e in ay.ejectives}
     plain_v_plain = {p1 + v + p2 for p1 in ay.plain_stops for v in ay.vowels for p2 in ay.plain_stops}
 
+    ee_het = {e1 + e2 for e1 in ay.ejectives for e2 in ay.ejectives if e1 != e2}
 
     # Counting
     for i, corpus in enumerate(ay_corpora):
         corpus_name = ay_corpus_names[i]
+
         ## Stops
         unigram_counts = count_many_substr(ay.sounds, corpus)
         unigram_counts['stops'] = sum(unigram_counts[key] for key in ay.stops)
@@ -410,15 +412,15 @@ def main():
                                                   'aymara_list_{}_{}_{}.txt'
                                                 .format(type, variable_names[i], corpus_name)]))
 
-            exe_het = Hits_for_substring(substrings={e1 + e2 for e1 in ay.ejectives
-                                                     for e2 in ay.ejectives if e1 != e2},
-                                       key_name="ejective anything ejective (heterorg)",
+            exe_het = Hits_for_substring(substrings=ee_het,
+                                       key_name="ejective anything ejective (heterorganic)",
                                        hitlist={key: sxs_seg_hitlist[key]
                                                 for key in sxs.hitlist.keys()
-                                                if key in matched_substrings},
+                                                if key in ee_het},
                                        counts={key: sxs_seg_counts[key]
                                               for key in sxs_seg_counts.keys()
-                                              if key in matched_substrings})
+                                              if key in ee_het})
+            exe_het.sum_add_to_countdict(sxs_counts)
             exe_het.write_hitlist(os.path.join(*[os.pardir,
                                               'Outputs',
                                               'Counts',
