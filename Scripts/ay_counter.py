@@ -44,32 +44,67 @@ def map_tier(tier, word):
     return trans_word
 
 
+def map_onset(word, lang, vowels=False):
+    """
+    Maps a word to the consonants in it that precede a vowel
+    (and optionally the vowels too)
+    :param word: Word to be mapped
+    :param lang: Language (to get vowels and consonants from)
+    :param vowels: If the vowels should be included in the mapped word
+                   default: False
+    :return: Mapped word
+    """
+    mapped_word = ''
+    for i, ch in enumerate(word):
+        if ch != word[-1] and ch in lang.consonants and word[i+1] in lang.vowels:
+            if vowels:
+                mapped_word += ch + word[i+1]
+            else:
+                mapped_word += ch
+
+    return mapped_word
+
+
 ## Counting the occurences of a substring in a set of words (corpus)
-def count_substr(substr, words, tier='', return_set=False):
+def count_substr(substr, words, lang, tier='',
+                 onset=False, ons_vowel=False, return_set=False):
     """
     Count the number of occurences of a substring in a set of words
     :param substr: substr to count
     :param words: set of words to count substr in
+    :param lang: language (to get consonants and vowels from)
     :param tier: characters to map string to (ones that can remain) concatenated
                  allows for non-adjacent matches (intervening segments)
                  default: empty string
+    :param onset: if the pattern should only hold over onsets
+                  default: False
+    :param ons_vowel: (if onset is True) whether vowels should be
+                      included in the mapping
+                      default: False
     :param return_set: whether it should return the set of hits
                        default: False
     :return: the number of occurrences of substr in st
              optionally the set of hits as well
     """
-    if tier != '':
+    if tier != '' and onset:
+        subset = {item for item in words if substr in
+                  map_tier(tier, map_onset(item, lang, vowels=ons_vowel))}
+    elif tier != '':
         subset = {item for item in words if substr in map_tier(tier, item)}
+    elif onset:
+        subset = {item for item in words if substr in
+                  map_onset(item, lang, vowels=ons_vowel)}
     else:
         subset = {item for item in words if substr in item}
     counter = 0
 
     for item in subset:
+        if onset:
+            item = map_onset(item, lang)
         if tier != '':
-            trans_item = map_tier(tier, item)
-            counter += trans_item.count(substr)
-        else:
-            counter += item.count(substr)
+            item = map_tier(tier, item)
+
+        counter += item.count(substr)
 
     if return_set:
         return subset, counter
@@ -77,23 +112,38 @@ def count_substr(substr, words, tier='', return_set=False):
 
 
 ## Counting one substring word-initially
-def count_initial_substr(substr, words, tier='', return_set=False):
+def count_initial_substr(substr, words, lang, tier='',
+                         onset=False, ons_vowel=False, return_set=False):
     """
     Count the number of occurences of a substring in a set of words,
     where the substring is word-initial
     :param substr: substr to count
     :param words: set of words to count substr in
+    :param lang: language (to get consonants and vowels from)
     :param tier: characters to map string to (ones that can remain) concatenated
                  allows for non-adjacent matches (intervening segments)
                  default: empty string
+    :param onset: if the pattern should only hold over onsets
+                  default: False
+    :param ons_vowel: (if onset is True) whether vowels should be
+                      included in the mapping
+                      default: False
     :param return_set: whether it should return the set of hits
                        default: False
     :return: the number of occurrences of substr in st
     """
-    if tier != '':
+    if tier != '' and onset:
         subset = {item for item in words if
-                  map_tier(tier, item).startswith(substr) and
-                  substr[0] == item[0]}
+                  map_tier(tier,  map_onset(item, lang, vowels=ons_vowel))
+                      .startswith(substr) and substr[0] == item[0]}
+    elif tier != '':
+        subset = {item for item in words if
+                  map_tier(tier, item)
+                      .startswith(substr) and substr[0] == item[0]}
+    elif onset:
+        subset = {item for item in words if
+                  map_onset(item, lang, vowels=ons_vowel)
+                      .startswith(substr) and substr[0] == item[0]}
     else:
         subset = {item for item in words if item.startswith(substr)}
 
@@ -103,16 +153,22 @@ def count_initial_substr(substr, words, tier='', return_set=False):
 
 
 ## Counting many substrings (initial or any)
-def count_many_substr(substrings, words, tier='', initial=False,
-                      return_set=False):
+def count_many_substr(substrings, words, lang, tier='', onset=False,
+                      ons_vowel=False, initial=False, return_set=False):
     """
     Count the number of occurences of multiple substrings in a set of words
     Can count only initial occurences or not
     :param substrings: set of substrings to count
     :param words: set of words to count them in
+    :param lang: language (to get consonants and vowels from)
     :param tier: characters to map string to (ones that can remain) concatenated
                  allows for non-adjacent matches (intervening segments)
-                 default: empty string
+                 default: empty string ('')
+    :param onset: if the pattern should only hold over onsets
+                  default: False
+    :param ons_vowel: (if onset is True) whether vowels should be
+                      included in the mapping
+                      default: False
     :param initial: if the substring has to be initial, default False
     :param return_set: whether it should return the set of hits
                        default: False
@@ -123,11 +179,12 @@ def count_many_substr(substrings, words, tier='', initial=False,
     counts = {}
     for substr in substrings:
         if initial:
-            result = count_initial_substr(substr, words, tier=tier,
-                                         return_set=return_set)
+            result = count_initial_substr(substr, words, lang, tier=tier,
+                                          onset=onset, ons_vowel=ons_vowel,
+                                          return_set=return_set)
         else:
-            result = count_substr(substr, words, tier=tier,
-                                 return_set=return_set)
+            result = count_substr(substr, words, lang, tier=tier, onset=onset,
+                                  ons_vowel=ons_vowel, return_set=return_set)
 
         if return_set:
             hits[substr] = result[0]
@@ -171,6 +228,22 @@ class Hits_for_substring:
         count_dict[self.key_name] = sum(self.counts.values())
 
 
+def trigram_counter(corpus):
+    """
+    Reads in corpus and countrs all trigrams in it,
+    returns the resulting counts in a dictionary
+    :param corpus: set of words to count trigrams in
+    :return: dictionary of counts for each trigram
+    """
+    counts = dict()
+    for word in corpus:
+        for i in range(len(word) - 2):
+            trigram = word[i:i+3]
+            counts[trigram] = counts.get(trigram, 0) + 1
+
+    return counts
+
+
 """
 ## Regular expressions:
 def count_regexp(regexp, words, return_set=False):
@@ -201,7 +274,7 @@ def write_dict(dict, path):
     :return: None
     """
     with open(path, 'w', encoding='utf-8') as output_w:
-        for key in dict.keys():
+        for key in sorted(dict):
             output_w.write('{}\t{}\n'.format(key, int(dict[key])))
 
 
@@ -218,6 +291,7 @@ def main():
     ay_corpora = [words, roots]
     ay_corpus_names = ['words', 'roots']
 
+
     # Aymara sounds: Defining certain ngrams
     precon_asp = {aspirate + consonant for aspirate in ay.aspirates for consonant in ay.consonants}
     precon_ej = {ejective + consonant for ejective in ay.ejectives for consonant in ay.consonants}
@@ -227,6 +301,12 @@ def main():
     prevoc_ej = {ejective + vowel for ejective in ay.ejectives for vowel in ay.vowels}
     prevoc_plain = {plain + vowel for plain in ay.plain_stops for vowel in ay.vowels}
     prevoc_stops = prevoc_asp.union(prevoc_ej, prevoc_plain)
+
+    cc = {c1 + c2 for c1 in ay.consonants for c2 in ay.consonants}
+    cvc = {c1 + v + c2 for c1 in ay.consonants for v in ay.vowels
+           for c2 in ay.consonants}
+    cvcv = {c1 + v + c2 + v2 for c1 in ay.consonants for v in ay.vowels
+           for c2 in ay.consonants for v2 in ay.vowels}
 
     stop_v_stop = {stop1 + vowel + stop2
                    for stop1 in ay.stops for vowel in ay.vowels for stop2 in ay.stops}
@@ -242,14 +322,16 @@ def main():
     plain_v_ej = {p + v + e for p in ay.plain_stops for v in ay.vowels for e in ay.ejectives}
     plain_v_plain = {p1 + v + p2 for p1 in ay.plain_stops for v in ay.vowels for p2 in ay.plain_stops}
 
+
     ee_het = {e1 + e2 for e1 in ay.ejectives for e2 in ay.ejectives if e1 != e2}
+
 
     # Counting
     for i, corpus in enumerate(ay_corpora):
         corpus_name = ay_corpus_names[i]
-
+        """
         ## Stops
-        unigram_counts = count_many_substr(ay.sounds, corpus)
+        unigram_counts = count_many_substr(ay.sounds, corpus, ay)
         unigram_counts['stops'] = sum(unigram_counts[key] for key in ay.stops)
         unigram_counts['plain_stops'] = sum(unigram_counts[key] for key in ay.plain_stops)
         unigram_counts['aspirates'] = sum(unigram_counts[key] for key in ay.aspirates)
@@ -264,11 +346,12 @@ def main():
                                                   'Raw',
                                                   'aymara_counts_seg_all_unigram_{}.txt'
                                                 .format(corpus_name)]))
+        """
 
-
+        """
         ## Preceding environments for stops
-        precon_stop_counts = count_many_substr(precon_stops, corpus)
-        prevoc_stop_counts = count_many_substr(prevoc_stops, corpus)
+        precon_stop_counts = count_many_substr(precon_stops, corpus, ay)
+        prevoc_stop_counts = count_many_substr(prevoc_stops, corpus, ay)
         stop_bigrams = {
             'preconsonantal stops': sum(precon_stop_counts.values()),
             'prevocalic stops': sum(prevoc_stop_counts.values()),
@@ -294,10 +377,11 @@ def main():
                                                 'Raw',
                                                 'aymara_counts_seg_all_env_{}.txt'
                                               .format(corpus_name)]))
+        """
 
-
+        """
         ## Prevocalic stops initially or not
-        prevoc_stop_initial_counts = count_many_substr(prevoc_stops, corpus, initial=True)
+        prevoc_stop_initial_counts = count_many_substr(prevoc_stops, corpus, ay, initial=True)
         prevoc_counts_wordpos = {
             'initial prevocalic stops': sum(prevoc_stop_initial_counts.values()),
             'medial prevocalic stops': sum(prevoc_stop_counts.values()) -
@@ -323,8 +407,9 @@ def main():
                                                          'Raw',
                                                          'aymara_counts_seg_prevoc_wordpos_{}.txt'
                                                        .format(corpus_name)]))
+        """
 
-
+        """
         ## S ... S and SVS (S = stop, V = vowel)
         ### Variables
         variable_names = ['axa', 'axe', 'axp', 'exa', 'exe',
@@ -341,10 +426,59 @@ def main():
             (ay.ejectives, ay.aspirates), (ay.ejectives, ay.ejectives), (ay.ejectives, ay.plain_stops),
             (ay.plain_stops, ay.aspirates), (ay.plain_stops, ay.ejectives), (ay.plain_stops, ay.plain_stops)
         ]
+        
 
-        # Counting
+
+        ### Counting
         for type in ['all', 'initial']:
-            svs_counts = count_many_substr(stop_v_stop, corpus, initial=(type=='initial'))
+            if type == 'all':
+                ovxo_seg_counts = dict()
+                for word in corpus:
+                    word = map_onset(word, ay)
+                    for i in range(len(word) - 1):
+                        bigram = word[i:i+2]
+                        ovxo_seg_counts[bigram] = ovxo_seg_counts.get(bigram, 0) + 1
+
+            
+            ovxo_seg.write_hitlist(os.path.join(*[os.pardir,
+                                              'Outputs',
+                                              'Counts',
+                                              'Lists',
+                                              'aymara_list_{}_OVXO_{}.txt'
+                                            .format(type, corpus_name)]))
+            
+            write_dict(ovxo_seg_counts, os.path.join(*[os.pardir,
+                                                                'Outputs',
+                                                                'Counts',
+                                                                'Raw',
+                                                                'aymara_counts_seg_{}_OVXO_{}.txt'
+                                                              .format(type, corpus_name)]))
+
+            ovo_seg_hitlist, ovo_seg_counts = count_many_substr(
+                cvcv, corpus, ay, return_set=True, initial=(type == "initial"))
+            ovo_seg = Hits_for_substring(
+                substrings= cvcv,
+                key_name='Onset-V-Onset-V',
+                hitlist=ovo_seg_hitlist,
+                counts=ovo_seg_counts
+            )
+
+            ovo_seg.write_hitlist(os.path.join(*[os.pardir,
+                                              'Outputs',
+                                              'Counts',
+                                              'Lists',
+                                              'aymara_list_{}_OVO_{}.txt'
+                                            .format(type, corpus_name)]))
+
+            write_dict(ovo_seg_counts, os.path.join(*[os.pardir,
+                                                                'Outputs',
+                                                                'Counts',
+                                                                'Raw',
+                                                                'aymara_counts_seg_{}_OVO_{}.txt'
+                                                              .format(type, corpus_name)]))
+
+
+            svs_counts = count_many_substr(stop_v_stop, corpus, ay, initial=(type=='initial'))
             svs_general = {s1 + ' vowel ' + s2 for s1 in ay.stops for s2 in ay.stops}
             svs_seg_counts = dict()
             for trigram in svs_general:
@@ -376,7 +510,7 @@ def main():
 
             sxs_seg_hitlist, sxs_seg_counts = count_many_substr(
                 {stop1 + stop2 for stop1 in ay.stops for stop2 in ay.stops},
-                corpus, tier=ay.stops, return_set=True, initial=(type=="initial"))
+                corpus, ay, tier=ay.stops, return_set=True, initial=(type=="initial"))
             sxs_seg_counts_formatted = {key[0] + ' anything ' + key[1]: sxs_seg_counts[key]
                                         for key in sxs_seg_counts.keys()}
             sxs = Hits_for_substring(
@@ -448,6 +582,16 @@ def main():
                                                       'Raw',
                                                       'aymara_counts_seg_{}_svs_{}.txt'
                                                     .format(type, corpus_name)]))
+        """
+
+        ## All trigrams
+        trigrams = trigram_counter(corpus)
+        write_dict(trigrams, os.path.join(*[os.pardir,
+                                            'Outputs',
+                                            'Counts',
+                                            'Raw',
+                                            'aymara_counts_seg_all_trigrams_{}.txt'.
+                                          format(corpus_name)]))
 
 
 if __name__ == '__main__':
