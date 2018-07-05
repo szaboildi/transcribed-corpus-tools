@@ -129,13 +129,18 @@ def o_over_e_many_df(counts, segments):
     combinations = itertools.product(segments, segments)
     oe_dict = {}
     for (first, second) in combinations:
+
         o, e, oe = o_over_e(counts, first, second)
         if first not in oe_dict:
             oe_dict[first] = {}
         oe_dict[first][second] = \
             "{:.1f}/{:.2f} = {:.4f}".format(o, e, oe)
 
-    oe_df = pd.DataFrame.from_dict(oe_dict, orient='index')
+    oe_df = pd.DataFrame.from_dict(oe_dict)
+    oe_df = oe_df.reindex(list(segments))
+    if isinstance(segments[0], tuple):
+        oe_df.index = oe_df.index.get_level_values(0)
+
     return oe_df
 
 
@@ -263,7 +268,19 @@ def main():
         'Outputs',
         'Counts',
         'OE',
+        'Old',
         'aymara_oe_svs_class_all_words.csv'
+    ]))
+    oe_trigram_class_w_df = \
+        o_over_e_many_df(trigram_counts_seg_w,
+                         [str(ay.plain_stops), str(ay.aspirates),
+                          str(ay.ejectives)])
+    oe_trigram_class_w_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_trigram_class_all_words.csv'
     ]))
 
     oe_sxs_seg_w_df = o_over_e_many_df(sxs_counts_seg_w, ay.stops)
@@ -280,9 +297,9 @@ def main():
         'Outputs',
         'Counts',
         'OE',
+        'Old',
         'aymara_oe_svs_seg_all_words.csv'
     ]))
-
     oe_trigram_seg_w_df = o_over_e_many_df(trigram_counts_seg_w, ay.stops)
     oe_trigram_seg_w_df.to_csv(os.path.join(*[
         os.pardir,
@@ -312,6 +329,7 @@ def main():
         'Outputs',
         'Counts',
         'OE',
+        'Old',
         'aymara_oe_svs_class_init_words.csv'
     ]))
 
@@ -329,6 +347,7 @@ def main():
         'Outputs',
         'Counts',
         'OE',
+        'Old',
         'aymara_oe_svs_seg_initial_words.csv'
     ]))
 
@@ -353,7 +372,19 @@ def main():
         'Outputs',
         'Counts',
         'OE',
+        'Old',
         'aymara_oe_svs_class_all_roots.csv'
+    ]))
+    oe_trigram_class_r_df = \
+        o_over_e_many_df(trigram_counts_seg_r,
+                         [str(ay.plain_stops), str(ay.aspirates),
+                          str(ay.ejectives)])
+    oe_trigram_class_r_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_trigram_class_all_roots.csv'
     ]))
 
     oe_sxs_seg_r_df = o_over_e_many_df(sxs_counts_seg_r, ay.stops)
@@ -370,8 +401,18 @@ def main():
         'Outputs',
         'Counts',
         'OE',
+        'Old',
         'aymara_oe_svs_seg_all_roots.csv'
     ]))
+    oe_trigram_seg_r_df = o_over_e_many_df(trigram_counts_seg_r, ay.stops)
+    oe_trigram_seg_r_df.to_csv(os.path.join(*[
+        os.pardir,
+        'Outputs',
+        'Counts',
+        'OE',
+        'aymara_oe_trigram_seg_all_roots.csv'
+    ]))
+
 
     ### Word-initial matches
     oe_sxs_class_init_r_df = \
@@ -392,6 +433,7 @@ def main():
         'Outputs',
         'Counts',
         'OE',
+        'Old',
         'aymara_oe_svs_class_init_roots.csv'
     ]))
 
@@ -409,6 +451,7 @@ def main():
         'Outputs',
         'Counts',
         'OE',
+        'Old',
         'aymara_oe_svs_seg_initial_roots.csv'
     ]))
 
