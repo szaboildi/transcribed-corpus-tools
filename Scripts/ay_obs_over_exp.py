@@ -57,7 +57,7 @@ def read_ngrams(path, middle='', subcase='', length=3):
     subcase_suffix = '_' + subcase.strip()
     with open(path, 'r', encoding='utf-8') as in_f:
         for i, line in enumerate(in_f):
-            if middle in line.lower() and not line.startswith('stop'):
+            if middle in line and not line.startswith('stop'):
                 bits = line.strip().replace('plain stop', 'plain').split('\t')
                 if subcase != '':
                     bits[0] = bits[0].replace(subcase, subcase_suffix)
@@ -70,7 +70,7 @@ def read_ngrams(path, middle='', subcase='', length=3):
                 if middle != '':
                     name[name.index(middle)] = 'X'
 
-                name = Ngram(name=name, first=name[0], second=name[1],
+                name = Ngram(name=''.join(name), first=name[0], second=name[1],
                              last=name[-1], frequency=int(bits[1]))
 
                 set_of_ngrams.add(name)
@@ -87,25 +87,23 @@ def o_over_e(ngram_set, first, second):
     :param second: Second segment of the ngram as a list
     :return: The O/E ratio
     """
-    total_count = sum({ngram.frequency for ngram in ngram_set})
+    total_count = sum([ngram.frequency for ngram in ngram_set])
 
-    target_set = {ngram for ngram in ngram_set
-                  if ngram.first in first and ngram.last in second}
-    observed = sum({ngram.frequency for ngram in target_set})
-
-    first_set = {ngram for ngram in ngram_set
-                 if ngram.first in first}
-    second_set = {ngram for ngram in ngram_set
-                  if ngram.last in second}
+    observed = sum([ngram.frequency for ngram in ngram_set
+                  if ngram.first in first and ngram.last in second])
 
     try:
-        first_prob = sum({ngram.frequency for ngram in first_set}) / total_count
-        second_prob = sum({ngram.frequency for ngram in second_set}) / total_count
+        first_prob = sum([ngram.frequency for ngram in ngram_set
+                     if ngram.first in first]) / total_count
+        second_prob = sum([ngram.frequency for ngram in ngram_set
+                      if ngram.last in second]) / total_count
     except ZeroDivisionError:
         return 'Total count is 0.'
 
     expected = first_prob * second_prob * total_count
+
     try:
+        o_e = observed / expected
         o_e = observed / expected
     except ZeroDivisionError:
         print('Expected is 0.')
@@ -129,7 +127,6 @@ def o_over_e_many_df(counts, segments):
     combinations = itertools.product(segments, segments)
     oe_dict = {}
     for (first, second) in combinations:
-
         o, e, oe = o_over_e(counts, first, second)
         if first not in oe_dict:
             oe_dict[first] = {}
@@ -273,8 +270,8 @@ def main():
     ]))
     oe_trigram_class_w_df = \
         o_over_e_many_df(trigram_counts_seg_w,
-                         [str(ay.plain_stops), str(ay.aspirates),
-                          str(ay.ejectives)])
+                         [str(ay.aspirates), str(ay.ejectives),
+                          str(ay.plain_stops)])
     oe_trigram_class_w_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
@@ -377,8 +374,8 @@ def main():
     ]))
     oe_trigram_class_r_df = \
         o_over_e_many_df(trigram_counts_seg_r,
-                         [str(ay.plain_stops), str(ay.aspirates),
-                          str(ay.ejectives)])
+                         [str(ay.aspirates), str(ay.ejectives),
+                          str(ay.plain_stops)])
     oe_trigram_class_r_df.to_csv(os.path.join(*[
         os.pardir,
         'Outputs',
@@ -454,8 +451,6 @@ def main():
         'Old',
         'aymara_oe_svs_seg_initial_roots.csv'
     ]))
-
-
 
 
 if __name__ == '__main__':
