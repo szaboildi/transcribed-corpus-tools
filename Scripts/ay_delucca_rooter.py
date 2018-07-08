@@ -173,17 +173,18 @@ def main():
     ay_filter.write_iter(suffixes_trans, os.path.join(*[
         os.pardir, 'Inputs', 'delucca', 'ay_suffixes_delucca_preprocessed.txt']))
 
+    """
     ay_words = ay_trans.set_reader(os.path.join(*[os.pardir,
                                                   'Outputs',
                                                   'Transcription',
                                                   'aymara_preprocessed.txt']))
-
+    
     subcorpus = rid_of_starters(ay_words, roots_trans)
     roots = set_stemmer(subcorpus, suffixes_trans, ay)
 
     ay_filter.write_iter(roots, os.path.join(*[
         os.pardir, 'Outputs', 'Transcription', 'aymara_roots_from_wordforms_preprocessed.txt']))
-
+    """
 if __name__ == '__main__':
     main()
 

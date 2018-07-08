@@ -189,7 +189,7 @@ def ipa_trans(st):
         ord(u"c"): u"ʧ",
         ord(u"S"): u"ʃ",
         ord(u"Y"):u"ʎ",
-        ord(u"N"):u"ñ"
+        ord(u"N"):u"ɲ"
     })
 
     ## Vowel length
