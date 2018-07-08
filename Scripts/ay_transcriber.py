@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 import itertools
 import os
-import ay_sp_en_filter as ay
+import ay_sp_en_filter as ay_filter
 
 ############################
 # Reading in the word list #
@@ -72,15 +72,23 @@ def bigram_repl(word):
         u"q'": u"G"
     })
 
-    # Rule 2 (Sibilant place): S after ch-series, y and N
-    # cannot be in or before trans1
+    ## Rule 1 (Frication): ch -> s/S before /t t' th/
     bi_repl3 = {}
     bi_repl3.update({
+        u"ct": u"st",
+        u"cT": u"sT",
+        u"cd": u"sd"
+    })
+
+    # Rule 2 (Sibilant place): S after ch-series, j and N
+    # cannot be in or before trans1
+    bi_repl4 = {}
+    bi_repl4.update({
         u"cs": u"cS",
         u"Cs": u"CS",
         u"zs": u"zS",
-        u"js": u"yS",
-        u"Ns": u"NS"
+        u"js": u"jS",
+        u"Ns": u"NS",
     })
 
     for bigram in bi_repl1:
@@ -91,6 +99,9 @@ def bigram_repl(word):
 
     for bigram in bi_repl3:
         word = word.replace(bigram, bi_repl3[bigram])
+
+    for bigram in bi_repl4:
+        word = word.replace(bigram, bi_repl4[bigram])
 
     return word
 
@@ -162,9 +173,7 @@ def transcribe(st, lowering):
         ## j -> h
         ord(u"j"): u"h",
         ## y -> j
-        ord(u"y"): u"j",
-        # Rule 1 (Frication): ch -> s/S before /t t' th/
-        u"ct": u"st"
+        ord(u"y"): u"j"
     }
 
     out_set = {lower_vow(bigram_repl(wrd.translate(trans1)), lowering=lowering) for wrd in st}
@@ -247,19 +256,19 @@ def main():
     
     lowering_table = make_lowering_table()
     ay_trans = transcribe(ay_orth, lowering=lowering_table)
-    ay.write_iter(ay_trans, os.path.join(*[os.pardir,
+    ay_filter.write_iter(ay_trans, os.path.join(*[os.pardir,
                                            "Outputs",
                                            "Transcription",
                                            "aymara_preprocessed.txt"]))
 
     ay_ipa = ipa_trans(ay_trans)
-    ay.write_iter(ay_ipa, os.path.join(*[os.pardir,
+    ay_filter.write_iter(ay_ipa, os.path.join(*[os.pardir,
                                          "Outputs",
                                          "Transcription",
                                          "aymara_ipa.txt"]))
 
     ay_pl = pl_trans(ay_trans)
-    ay.write_iter(ay_pl, os.path.join(*[os.pardir,
+    ay_filter.write_iter(ay_pl, os.path.join(*[os.pardir,
                                         "Outputs",
                                         "Transcription",
                                         "aymara_pl.txt"]))

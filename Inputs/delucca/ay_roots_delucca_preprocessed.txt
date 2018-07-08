@@ -400,13 +400,13 @@ acala
 acika
 aciwa
 acoqaYa
-acta
 acu
 ahYi
 aha
 ahaju
 ahanu
 ahu
+ajSa
 ajYu
 aja
 ajca
@@ -501,7 +501,6 @@ awti
 axa
 axro
 axsara
-aySa
 baYqa
 babi
 baki
@@ -781,6 +780,7 @@ haga
 hagu
 hahaju
 hajPu
+hajSa
 haja
 hajbu
 hajca
@@ -834,7 +834,6 @@ hawri
 hawsa
 hawsu
 hawza
-haySa
 haza
 hazi
 hazu
@@ -1608,6 +1607,7 @@ uNima
 uYuku
 uca
 uhu
+ujSu
 ujnaqa
 ujwa
 ujwai
@@ -1634,7 +1634,6 @@ us
 uskuNa
 usu
 uta
-uySu
 waCa
 waCi
 waGa
@@ -1651,6 +1650,7 @@ waha
 wahca
 wahiri
 wajNu
+wajSa
 wajYa
 wajYu
 wajaqa
@@ -1697,7 +1697,6 @@ wawa
 wawsa
 waxda
 waxra
-waySa
 wazi
 weGa
 weGo

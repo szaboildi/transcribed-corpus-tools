@@ -12,6 +12,7 @@ def main():
     words_from_roots = {(word[:len(root)] + '+' + word[len(root):]).rstrip('+')
                         for word in words for root in roots
                         if word.startswith(root)}
+
     ay_filter.write_iter(words_from_roots, os.path.join(*[
         os.pardir, 'Outputs', 'Transcription',
         'aymara_dl_parsed_preprocessed.txt'
