@@ -91,7 +91,7 @@ Cici
 CihCa
 CihCe
 CihChama
-CihTa
+CihTap
 CihTapti
 CihYdapt
 CihYdase
@@ -99,12 +99,13 @@ Cihci
 Cihi
 Cihnu
 Cihopxe
+Cihtap
 Cihti
 CiihCi
 Cij
 Cikane
 Cikaw
-CipTa
+CipTap
 Cipci
 Cist
 Citsut
@@ -194,7 +195,7 @@ Garin
 GasAs
 GasGa
 Gaspaha
-GasqTa
+GasqTap
 Gawha
 Gaxcdask
 Gaxcdawa
@@ -484,7 +485,7 @@ PoQrant
 PoQxapxe
 PoT
 Poh
-PoqTa
+PoqTap
 PoqdAma
 Poqdap
 Poqdapxe
@@ -522,7 +523,6 @@ PuCama
 PuCampi
 PuCaru
 PuCasti
-PuKa
 PuKama
 PuKox
 PuKu
@@ -760,6 +760,7 @@ QhoQo
 Qo
 QoCSopxe
 QoCo
+QoCu
 QoCute
 QoNaa
 QoPi
@@ -991,7 +992,6 @@ Tuson
 UNishi
 Uro
 YAtun
-Ya
 YexTa
 YexTama
 Yexo
@@ -1083,7 +1083,6 @@ aQa
 aQe
 aQeY
 aTama
-aYTa
 aYTapti
 aYci
 aYha
@@ -1150,7 +1149,6 @@ ahkam
 ahrar
 ajNac
 ajPun
-ajTa
 ajTape
 ajYau
 ajYo
@@ -1234,6 +1232,7 @@ akzaru
 akzi
 alPa
 alPi
+alPu
 alPurha
 alTap
 alTapks
@@ -1292,7 +1291,6 @@ alxan
 alxap
 alxapxe
 alxe
-amTa
 amTaps
 amTasTa
 amUs
@@ -1662,7 +1660,6 @@ arxaySma
 arxenti
 arxewa
 arxte
-arzu
 asKama
 asc
 aser
@@ -1836,8 +1833,8 @@ bet
 bi
 biTTa
 biawa
+bijha
 bijhasma
-bijhi
 bijhirha
 bijpun
 biltiwa
@@ -1989,7 +1986,6 @@ cimpopxe
 cimpoq
 cimpt
 cimpu
-cinTa
 cinTape
 cinan
 cincajpu
@@ -2187,7 +2183,7 @@ dink
 dipu
 dipuse
 dir
-dirTa
+dirTap
 dirkati
 disha
 disko
@@ -2349,12 +2345,12 @@ guNS
 guNdas
 guci
 gucnama
+guco
 gucon
 gugiYu
 gujtu
 guju
 gulu
-gumTa
 gumTape
 guma
 gume
@@ -2581,6 +2577,7 @@ halhtxap
 halkAmi
 halkami
 halkati
+halkip
 halkti
 halmampi
 halman
@@ -2895,7 +2892,7 @@ hiTeqxma
 hiYima
 hiawa
 hicCotx
-hicTa
+hicTap
 hicUru
 hicUsT
 hiccak
@@ -2917,7 +2914,7 @@ hijdxapxe
 hiji
 hijkAmi
 hijtitu
-hikTa
+hikTap
 hikTapti
 hikdap
 hikdase
@@ -2951,6 +2948,7 @@ hilkiti
 hilo
 hilpacx
 hilsop
+hilsup
 hilsuwa
 hilsuySma
 hilsxAnwa
@@ -2974,6 +2972,7 @@ hinas
 hinco
 hinis
 hinti
+hipe
 hipepxe
 hiram
 hirga
@@ -3248,6 +3247,7 @@ iKa
 iKawa
 iNir
 iNu
+iNup
 iNuwa
 iYex
 iYima
@@ -3333,7 +3333,6 @@ insin
 inte
 intenxe
 inti
-inu
 ipu
 ipulo
 ipulu
@@ -3393,7 +3392,6 @@ irsti
 irsuskce
 irti
 irtxase
-isTa
 isTaP
 isTape
 isaNu
@@ -3562,6 +3560,7 @@ jamPi
 jama
 jamas
 jampo
+janAp
 janKa
 janTax
 jandi
@@ -4036,7 +4035,6 @@ kulihju
 kulikti
 kulir
 kulu
-kulun
 kuluw
 kumPiti
 kuma
@@ -4199,7 +4197,6 @@ lajqxaN
 laju
 lajupi
 lakKas
-lake
 lakep
 lamPa
 lamba
@@ -4238,7 +4235,6 @@ lataha
 latanu
 lau
 lawAp
-lawa
 lawhama
 lawrar
 lawrawa
@@ -4299,6 +4295,7 @@ limha
 limhaske
 limi
 limire
+limpu
 limpuw
 limu
 linis
@@ -5083,7 +5080,7 @@ muti
 mutop
 mutu
 muwa
-muwha
+muwhap
 muySu
 nAj
 nAnaKa
@@ -5296,6 +5293,7 @@ oxtewa
 pArino
 pArinu
 pAto
+pAtun
 pUpu
 pa
 paCa
@@ -5348,6 +5346,7 @@ pajUru
 pajampi
 pajamu
 pajane
+pajap
 pajarha
 pajaru
 pajasti
@@ -5777,6 +5776,7 @@ qanYiru
 qantu
 qaoQa
 qapi
+qapo
 qapox
 qapt
 qaq
@@ -5997,7 +5997,7 @@ qospan
 qosqo
 qosqompi
 qotAxe
-qotTa
+qotTap
 qoto
 qoton
 qotqo
@@ -6046,6 +6046,7 @@ riKure
 riPurma
 ridi
 ridin
+riha
 rihalu
 rihu
 rijAT
@@ -6176,7 +6177,6 @@ sajdxerha
 sajha
 saji
 sajkati
-sajtu
 sajtuwa
 sajxe
 sajxes
@@ -6313,6 +6313,7 @@ sarkxamti
 sarkxce
 sarma
 sarmar
+sarnap
 sarnaqce
 sarnaqde
 sarnaqke
@@ -6782,10 +6783,9 @@ tamhama
 tampiYu
 tamtsiN
 tamu
-tanTa
+tanTap
 tanilu
 tankas
-tantTa
 tanti
 tantiju
 tantuju
@@ -7017,7 +7017,7 @@ tunop
 tuntampi
 tuntax
 tuntx
-tupTa
+tupTap
 tupdasTa
 tupdase
 tupdaske
@@ -7025,7 +7025,6 @@ tupde
 tupi
 tupiYu
 tupnama
-tupo
 tupoN
 tupopxe
 tupoxo
@@ -7141,7 +7140,6 @@ uNdxsT
 uNdxst
 uNdxtanti
 uNdxtanwa
-uNe
 uNes
 uNhAwe
 uNhTa
@@ -7278,6 +7276,7 @@ uNts
 uNttasti
 uNtxapxe
 uNtxe
+uNu
 uNun
 uNzok
 uNzokxe
@@ -7452,7 +7451,6 @@ ukrakwa
 uksnama
 uksti
 uktasti
-ukte
 uktex
 ukti
 ukuro
@@ -7972,6 +7970,7 @@ zamu
 zanKa
 zanKaci
 zanKampi
+zanKap
 zanKaru
 zanKas
 zanKaw
@@ -7997,7 +7996,7 @@ zaxco
 zaxma
 zaxme
 zaxmxAnti
-zaxwTa
+zaxwTap
 zaxwa
 zaxwe
 zaxwkAnti
@@ -8096,7 +8095,6 @@ zuYh
 zuYo
 zuYu
 zuh
-zukTa
 zuko
 zukox
 zuktwa

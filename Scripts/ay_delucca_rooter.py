@@ -161,24 +161,28 @@ def main():
 
     lowering_table = ay_trans.make_lowering_table()
     roots_trans = ay_trans.transcribe(roots, lowering=lowering_table)
+    roots_pl = ay_trans.pl_trans(roots_trans)
+    roots_ipa = ay_trans.ipa_trans(roots_trans)
     suffixes_trans = ay_trans.transcribe(suffixes, lowering=lowering_table)
     ay_filter.write_iter(roots_trans, os.path.join(*[
-        os.pardir, 'Inputs', 'delucca', 'ay_trans_roots_delucca.txt']))
+        os.pardir, 'Inputs', 'delucca', 'ay_roots_delucca_preprocessed.txt']))
+    ay_filter.write_iter(roots_pl, os.path.join(*[
+        os.pardir, 'Inputs', 'delucca', 'ay_roots_delucca_pl.txt']))
+    ay_filter.write_iter(roots_ipa, os.path.join(*[
+        os.pardir, 'Inputs', 'delucca', 'ay_roots_delucca_ipa.txt']))
     ay_filter.write_iter(suffixes_trans, os.path.join(*[
-        os.pardir, 'Inputs', 'delucca', 'ay_trans_suffixes_delucca.txt']))
+        os.pardir, 'Inputs', 'delucca', 'ay_suffixes_delucca_preprocessed.txt']))
 
     ay_words = ay_trans.set_reader(os.path.join(*[os.pardir,
                                                   'Outputs',
                                                   'Transcription',
                                                   'aymara_preprocessed.txt']))
-    print(len(ay_words))
+
     subcorpus = rid_of_starters(ay_words, roots_trans)
-    print(len(subcorpus))
     roots = set_stemmer(subcorpus, suffixes_trans, ay)
-    print(len(roots))
 
     ay_filter.write_iter(roots, os.path.join(*[
-        os.pardir, 'Outputs', 'Transcription', 'aymara_roots_trans.txt']))
+        os.pardir, 'Outputs', 'Transcription', 'aymara_roots_from_wordforms_preprocessed.txt']))
 
 if __name__ == '__main__':
     main()

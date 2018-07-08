@@ -287,7 +287,7 @@ def main():
     roots = ay_trans.set_reader(os.path.join(*[os.pardir,
                                                   'Inputs',
                                                   'delucca',
-                                                  'ay_trans_roots_delucca.txt']))
+                                                  'ay_roots_delucca_preprocessed.txt']))
     ay_corpora = [words, roots]
     ay_corpus_names = ['words', 'roots']
 

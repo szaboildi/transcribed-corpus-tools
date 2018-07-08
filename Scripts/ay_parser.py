@@ -7,7 +7,7 @@ def main():
         os.pardir, 'Outputs', 'Transcription',
         'aymara_preprocessed.txt']))
     roots = ay_trans.set_reader(os.path.join(*[
-        os.pardir, 'Inputs', 'delucca', 'ay_trans_roots_delucca.txt']))
+        os.pardir, 'Inputs', 'delucca', 'ay_roots_delucca_preprocessed.txt']))
 
     words_from_roots = {(word[:len(root)] + '+' + word[len(root):]).rstrip('+')
                         for word in words for root in roots
