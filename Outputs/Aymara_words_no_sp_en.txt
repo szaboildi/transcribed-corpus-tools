@@ -1,4 +1,3 @@
-ac
 acha
 achacachi
 achachi
@@ -692,7 +691,6 @@ ajusa
 ajusana
 ajxatata
 ajyuw
-ak
 aka
 akaja
 akakamakiw
@@ -4688,7 +4686,6 @@ anxaruwayarakikitaynawa
 anxaruwayatayna
 anxaräwayxatayna
 anxatapxäna
-ap
 apa
 apachita
 apachitana
@@ -10522,7 +10519,6 @@ ayyyy
 ayyyyy
 ayñach
 ayñacht'apkti
-aä
 aña
 añakinatakixa
 añakitu
@@ -14966,8 +14962,6 @@ cinturat
 cipca
 cipriana
 ciwatanaja
-cm
-cp
 cristalat
 cuchillumpi
 cumi
@@ -15017,7 +15011,6 @@ hurañas
 husiy
 hutajata
 huwan
-ic
 icharati
 ichhupampa
 ichkatatax
@@ -16068,7 +16061,6 @@ inäskasaxa
 inäski
 inürunakan
 inüruxa
-ip
 ipa
 ipi
 ipikinunakaxa
@@ -23177,7 +23169,6 @@ jañchijampi
 jañchip
 jañchipchik
 jañiyap
-jc
 jhimmy
 jiawatanakax
 jicchak
@@ -28188,7 +28179,6 @@ juñisitapuniwa
 juñitw
 juñiw
 juñix
-jä
 jäll
 jälla
 jän
@@ -32130,12 +32120,10 @@ kkunatsa
 klasisismu
 klasisismupachat
 klullu
-km
 kristianuxa
 kristun
 kristuwal
 krus
-ku
 kuasa
 kuayman
 kucha
@@ -35847,7 +35835,6 @@ llätunkanixa
 llätunkxankiri
 llätunkäxi
 llätunkïr
-ls
 lucasakiw
 luch'itanak
 luchu
@@ -43584,7 +43571,6 @@ muyxattaraki
 muña
 muñani
 muñäkiti
-mä
 mächaqakiwa
 mächaqanxa
 mächaqaraki
@@ -44481,10 +44467,7 @@ niyawa
 niyaxay
 niyäxatap
 niñurusti
-np
 npuriwi
-nr
-ns
 nukhtanipxitu
 nukhtapxtha
 nukhtasiskapxäna
@@ -44800,7 +44783,6 @@ nuwäta
 nuñuwa
 nwa
 nxa
-nä
 näna
 nänak
 nänaka
@@ -44838,7 +44820,6 @@ nät
 nätakixa
 näxa
 näyra
-nï
 p'akintani
 p'akintapxarakiwa
 p'akintapxatamata
@@ -47281,7 +47262,6 @@ pañuni
 pañuru
 pañuta
 pañuylun
-pc
 ph'ich'i
 phachjaña
 phaja
@@ -49164,7 +49144,6 @@ platt
 platu
 platunak
 platuru
-pn
 pparlasitiwa
 ppm
 priscilampi
@@ -49173,7 +49152,6 @@ prisyur
 pruwinsya
 pruyikt
 präctica
-pt
 pucarani
 puchtuchatätapatxa
 puchtuchañarapitakiwa
@@ -50248,7 +50226,6 @@ puyriw
 puyuta
 puñtanakax
 puñuykapusqa
-pä
 päch
 pächaqaniwa
 pächaqanxa
@@ -51032,7 +51009,6 @@ q'uyt'ata
 q'uyu
 q'uyupur
 q'äl
-qa
 qach
 qacha
 qachu
@@ -55478,8 +55454,6 @@ rixt'ata
 rixt'añataki
 riyatampi
 riyäthxa
-rt
-ru
 rumaltux
 ruman
 rumantisismu
@@ -59312,7 +59286,6 @@ sañänisti
 sañäniti
 sañänixa
 sañäniya
-sc
 shamun
 shukniki
 sich
@@ -59867,7 +59840,6 @@ siñuritaxa
 skarakiwa
 skiwa
 smuyumatakixa
-sn
 sranaqasiskaña
 srtirikipunïskaniwa
 ssallqäñaxa
@@ -60928,7 +60900,6 @@ säxamaru
 säyäta
 säyätaxa
 säyätwa
-sï
 sïqikiwa
 süxtayas
 t'aja
@@ -66255,7 +66226,6 @@ tuyüri
 tuyüritkamak
 twit
 txa
-tä
 täqi
 täta
 tätapuni
@@ -66432,7 +66402,6 @@ ujtha
 ujti
 ujtxiti
 ujurt'asitapas
-uk
 uk'amaraki
 uka
 ukacha
@@ -68319,7 +68288,6 @@ uqt'asaxa
 uquntirix
 uqupampa
 uququya
-ur
 ura
 urachaña
 urakamaw
@@ -69324,7 +69292,6 @@ usuñaxansa
 usxarakitu
 usxiri
 usxituwa
-ut
 ut'ayxaña
 ut'tayatäñapawa
 uta
@@ -71013,7 +70980,6 @@ uywäki
 uywäkiritakisti
 uywäna
 uywäpasa
-uñ
 uñachawayi
 uñachay
 uñachayani
@@ -73477,7 +73443,6 @@ uñäsiskäna
 uñäsispawa
 uñäsitayna
 uññaqani
-wa
 waaaayaay
 wac'iykipin
 wac'iykipitaq
@@ -77318,7 +77283,6 @@ wäli
 wäljarakiwa
 wälpin
 wäqa
-xa
 xamaykaxa
 xapxataynawa
 xasmaxa
@@ -77327,7 +77291,6 @@ xatha
 xaxwïna
 xaxükiti
 xaya
-xi
 xii
 xiii
 xisa
@@ -80665,7 +80628,6 @@ yuxch'atakixa
 yuxch'xa
 yuyanchanki
 yuyay
-yä
 yächakiwa
 yächañapa
 yäjaxa
@@ -80984,7 +80946,6 @@ yäsa
 yäta
 yäwa
 yäxa
-ä
 änkha
 änkhapsa
 änki
@@ -80995,13 +80956,10 @@ yäxa
 äwinaka
 äwipaxa
 äwjaki
-ää
 ääääää
 äñchhitaw
 ïwipa
 ïyawsayitu
-ñ
-ña
 ñach'antanipxäta
 ñach'antapxirismasti
 ñach'antapxätam
@@ -81361,7 +81319,6 @@ yäxa
 ñuñuyapxpachïtänsti
 ñuñuyañ
 ñuñxchiti
-ñä
 ñäni
 ñäsa
 üruxa

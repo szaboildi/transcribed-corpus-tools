@@ -163,6 +163,8 @@ def main():
     roots_trans = ay_trans.transcribe(roots, lowering=lowering_table)
     roots_pl = ay_trans.pl_trans(roots_trans)
     roots_ipa = ay_trans.ipa_trans(roots_trans)
+    roots_trans_ej = {ay_trans.nth_transcribe(word, ay.ejectives) for word in roots_trans}
+    roots_ej_pl = ay_trans.pl_trans(roots_trans_ej)
     suffixes_trans = ay_trans.transcribe(suffixes, lowering=lowering_table)
     ay_filter.write_iter(roots_trans, os.path.join(*[
         os.pardir, 'Inputs', 'delucca', 'ay_roots_delucca_preprocessed.txt']))
@@ -172,6 +174,10 @@ def main():
         os.pardir, 'Inputs', 'delucca', 'ay_roots_delucca_ipa.txt']))
     ay_filter.write_iter(suffixes_trans, os.path.join(*[
         os.pardir, 'Inputs', 'delucca', 'ay_suffixes_delucca_preprocessed.txt']))
+    ay_filter.write_iter(roots_trans_ej, os.path.join(*[
+        os.pardir, 'Inputs', 'delucca', 'ay_roots_delucca_preprocessed_ejectives.txt']))
+    ay_filter.write_iter(roots_ej_pl, os.path.join(*[
+        os.pardir, 'Inputs', 'delucca', 'ay_roots_delucca_pl_ejectives.txt']))
 
     ay_words = ay_trans.set_reader(os.path.join(*[os.pardir,
                                                   'Outputs',

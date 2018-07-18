@@ -19,6 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 import itertools
 import os
 import ay_sp_en_filter as ay_filter
+from languages import aymara as ay
 
 ############################
 # Reading in the word list #
@@ -161,6 +162,8 @@ def transcribe(st, lowering):
     :param lowering: set of lowering replacements
     :return: output set
     """
+    # Triple characters
+    triples = {ch*3 for ch in ay.sounds}
 
     # Orthography:
     trans1 = {
@@ -176,11 +179,36 @@ def transcribe(st, lowering):
         ord(u"y"): u"j"
     }
 
-    out_set = {lower_vow(bigram_repl(wrd.translate(trans1)), lowering=lowering) for wrd in st}
-    out_set = {wrd for wrd in out_set if "'" not in wrd}
+    out_set = {lower_vow(bigram_repl(wrd.translate(trans1)), lowering=lowering)
+               for wrd in st}
+    out_set = {wrd for wrd in out_set if "'" not in wrd and
+               not any(triple in wrd for triple in triples)}
 
     return out_set
 
+
+def nth_transcribe(word, segments):
+    """
+    Transcribes any nth (non-first) instance of a given character to X
+    for a set of such characters.
+    :param word: Word to be transcribed
+    :param segments: Set of segments to look for and replace
+    :return: Transcribed word
+    """
+    for seg in segments:
+        new_word = ''
+        found_one = False
+        for ch in word:
+            if ch == seg and not found_one:
+                new_word += ch
+                found_one = True
+            elif ch == seg:
+                new_word += 'X'
+            else:
+                new_word += ch
+            word = new_word
+
+    return word
 
 
 ############################################
@@ -272,6 +300,18 @@ def main():
                                         "Outputs",
                                         "Transcription",
                                         "aymara_pl.txt"]))
+
+    ay_trans_ej = {nth_transcribe(wrd, ay.ejectives) for wrd in ay_trans}
+    ay_filter.write_iter(ay_trans_ej, os.path.join(*[os.pardir,
+                                                  "Outputs",
+                                                  "Transcription",
+                                                  "aymara_preprocessed_ejectives.txt"]))
+
+    ay_pl_ej = pl_trans(ay_trans_ej)
+    ay_filter.write_iter(ay_pl_ej, os.path.join(*[os.pardir,
+                                               "Outputs",
+                                               "Transcription",
+                                               "aymara_pl_ejectives.txt"]))
 
 
 if __name__ == "__main__":
