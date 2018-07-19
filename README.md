@@ -1,3 +1,5 @@
+The documentation will soon be updated.
+
 <!-- Aymara-word-corpus
 A word corpus of Aymara
 
