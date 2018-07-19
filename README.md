@@ -1,4 +1,4 @@
-[comment:] # Aymara-word-corpus
+<!-- Aymara-word-corpus
 A word corpus of Aymara
 
 Scripts are in the ```Scripts/``` folder, the ```Inputs/``` folder contains the input files, and the ```Outputs/``` folder contains the output files of the scripts. Within the ```Outputs/``` folder, the ```Outputs/Transcription/``` folder contains the transcription outputs - so far only complete for full words and the ```Outputs/Counts/``` folder contains raw counts (```Outputs/Counts/Raw```) of certain ngrams the list of matching words (```Outputs/Counts/Lists```) as well as observed-over-expected (O/E) values counted based on the raw counts (```Outputs/Counts/OE```).
@@ -29,3 +29,4 @@ Marín, Marcos F. 1992. El Corpus Oral de Referencia de la Lengua Española cont
 Scannell, Kevin P. 2007. The Crúbadán Project: Corpus building for under-resourced languages. _Building and Exploring Web Corpora: Proceedings of the 3rd Web as Corpus Workshop_. Vol. 4: pp.5-15.
 
 Weide, Robert. _The Carnegie mellon pronouncing dictionary (cmudict. 0.6)_. Available at:  <http://www.speech.cs.cmu.edu/cgi-bin/cmudict> 2005.
+-->
