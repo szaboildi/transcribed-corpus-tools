@@ -39,20 +39,37 @@ def read_roots_forms(file, sep="\t", re_roots=True, re_forms=True, re_forms_sep=
     forms_sep = set()
     to_return = []
 
-    to_keep_ch = {"'", "*", "+"}
-    to_remove_ch = set(string.punctuation) - to_keep_ch
+
+    to_keep_ch = {"'", "+"}
+    to_remove_ch = set(string.punctuation) - to_keep_ch - {'-'}
     table_keep = {ord(char): None for char in to_keep_ch}
     table_remove = {ord(char): None for char in to_remove_ch}
+
+    to_strip_pre_ch = {'?', '*', '.'}
+    table_pre = {ord(char): None for char in to_strip_pre_ch}
 
     with open(file, encoding='utf-8') as f:
         csv_f = csv.reader(f, delimiter='\t')
         next(csv_f, None)
 
         for record in csv_f:
-            form = record[0]
-            prefix = record[1]
-            root = record[2]
-            form_sep = prefix + '+' + root
+            form = record[0].translate(table_pre)
+            prefix = record[1].translate(table_pre).replace(' ', '')
+            root = record[2].translate(table_pre)
+            if form != '' and form[-1] != 's' and form[-1] != 'n':
+                root_bound = root.rstrip('sn')
+            else:
+                root_bound = root
+
+            if (prefix + root_bound).lower() == form.lower():
+                form_sep = prefix + '+' + root_bound
+            elif form.lower().startswith((prefix + '+' + root_bound).lower()):
+                form_sep = prefix + '+' + root_bound + '+' + form.partition(prefix + root_bound)[3]
+            elif prefix == '' and root_bound == '':
+                form_sep = form
+            elif prefix == '' or root_bound == '':
+                continue
+
 
             if re_roots:
                 clean_word(root, table_remove, table_keep, roots)
@@ -60,7 +77,7 @@ def read_roots_forms(file, sep="\t", re_roots=True, re_forms=True, re_forms_sep=
                     clean_word(form, table_remove, table_keep, roots)
             if re_forms:
                 clean_word(form, table_remove, table_keep, forms)
-            if re_forms_sep:
+            if re_forms_sep and form_sep != '':
                 clean_word(form_sep, table_remove, table_keep, forms_sep)
                 if form_sep == '+' and form != '':
                     clean_word(form, table_remove, table_keep, forms_sep)
@@ -87,7 +104,7 @@ def clean_word(wrd, table_rm, table_kp, st):
     """
     wrd = wrd.translate(table_rm)
     wrd = wrd.lower()
-    if wrd.translate(table_kp).isalpha() and wrd not in st:
+    if wrd.translate(table_kp).isalpha() and wrd not in st and wrd != '':
         st.add(wrd)
 
 
@@ -100,7 +117,10 @@ def main():
     print(len(roots))
     print(len(forms))
     print(len(forms_sep))
-    print({form.replace('+', '') for form in forms_sep} - forms)
+    print({form_sep for form_sep in forms_sep if form_sep.replace('+', '') not in forms})
+    #st = {form_sep.replace('+', '') for form_sep in forms_sep}
+    #print({form for form in forms if form not in st})
+    
     # write out roots
     # write out wordforms
     # write out (prefix + root)-s
