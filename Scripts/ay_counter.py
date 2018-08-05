@@ -16,9 +16,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 """
 
-import ay_transcriber as ay_trans
-import ay_sp_en_filter as ay_filter
-from languages import aymara as ay
+import tct_utility as uti
+from tct_languages import aymara as ay
 import os
 
 # This file might be later separated into a language-specific file
@@ -216,7 +215,7 @@ class Hits_for_substring:
         hitset = [hit for hitlst in self.hitlist.values()
                   for hit in hitlst]
 
-        ay_filter.write_iter(hitset, path)
+        uti.write_iter(hitset, path)
 
 
     def sum_add_to_countdict(self, count_dict):
@@ -280,10 +279,10 @@ def write_dict(dict, path):
 
 
 def main():
-    words = ay_trans.set_reader(os.path.join(*[
+    words = uti.set_reader(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Transcription',
         'aymara_preprocessed.txt']))
-    roots = ay_trans.set_reader(os.path.join(*[
+    roots = uti.set_reader(os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_roots_delucca_preprocessed.txt']))
     ay_corpora = [words, roots]

@@ -19,6 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 import os
 import glob
 import string
+import tct_utility as uti
 
 ########################
 # Reading in wordlists #
@@ -83,25 +84,6 @@ def aymara_reader(filename):
 
 
 
-#######################
-# Writing into a file #
-#######################
-## Writing an iterable into a file
-def write_iter(iter, path):
-    """
-    Writes list of words to file.
-    :param iter: iterable to be written to file
-    :param path: path of new file
-    :return: None
-    """
-    lst = list(iter)
-    lst.sort()
-    with open(path, 'w', encoding='utf-8') as output_w:
-        for item in lst:
-            output_w.write(item + '\n')
-
-
-
 def main():
     # Reading in files
     spanish_folder = os.path.join(*[os.pardir, 'Aymara', 'Inputs', 'CORLEC'])
@@ -115,13 +97,13 @@ def main():
 
     # Filtering and writing
     sp_disc = ay - (ay - sp)
-    write_iter(sp_disc, os.path.join(*[
+    uti.write_iter(sp_disc, os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Spanish_loans.txt']))
     en_disc = ay - (ay - en)
-    write_iter(en_disc, os.path.join(*[
+    uti.write_iter(en_disc, os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'English_loans.txt']))
     no_sp_en = ay - sp - en
-    write_iter(no_sp_en, os.path.join(*[
+    uti.write_iter(no_sp_en, os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Aymara_words_no_sp_en.txt']))
 
 

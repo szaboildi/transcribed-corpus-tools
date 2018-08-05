@@ -1,0 +1,22 @@
+c	ʧ
+S	ʃ
+Y	ʎ
+N	ɲ
+
+A	aː
+E	eː
+I	iː
+O	oː
+U	uː
+
+P	pʰ
+T	tʰ
+C	ʧʰ
+K	kʰ
+Q	qʰ
+
+b	p'
+d	t'
+z	ʧ'
+g	k'
+G	q'

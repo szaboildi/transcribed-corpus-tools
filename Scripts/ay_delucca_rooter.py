@@ -16,9 +16,9 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 """
 
-import ay_sp_en_filter as ay_filter
+import tct_utility as uti
 import ay_transcriber as ay_trans
-from languages import aymara as ay
+from tct_languages import aymara as ay
 import os
 
 
@@ -155,10 +155,10 @@ def main():
     roots, suffixes = delucca_reader(
         os.path.join(*[os.pardir, 'Aymara', 'Inputs', 'delucca',
             'ay_delucca_segmented.txt']))
-    ay_filter.write_iter(roots, os.path.join(*[
+    uti.write_iter(roots, os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_roots_delucca.txt']))
-    ay_filter.write_iter(suffixes,os.path.join(*[
+    uti.write_iter(suffixes,os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_suffixes_delucca.txt']))
 
@@ -169,33 +169,33 @@ def main():
     roots_trans_ej = {ay_trans.nth_transcribe(word, ay.ejectives) for word in roots_trans}
     roots_ej_pl = ay_trans.pl_trans(roots_trans_ej)
     suffixes_trans = ay_trans.transcribe(suffixes, lowering=lowering_table)
-    ay_filter.write_iter(roots_trans, os.path.join(*[
+    uti.write_iter(roots_trans, os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_roots_delucca_preprocessed.txt']))
-    ay_filter.write_iter(roots_pl, os.path.join(*[
+    uti.write_iter(roots_pl, os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_roots_delucca_pl.txt']))
-    ay_filter.write_iter(roots_ipa, os.path.join(*[
+    uti.write_iter(roots_ipa, os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_roots_delucca_ipa.txt']))
-    ay_filter.write_iter(suffixes_trans, os.path.join(*[
+    uti.write_iter(suffixes_trans, os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_suffixes_delucca_preprocessed.txt']))
-    ay_filter.write_iter(roots_trans_ej, os.path.join(*[
+    uti.write_iter(roots_trans_ej, os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_roots_delucca_preprocessed_ejectives.txt']))
-    ay_filter.write_iter(roots_ej_pl, os.path.join(*[
+    uti.write_iter(roots_ej_pl, os.path.join(*[
         os.pardir, 'Aymara', 'Inputs', 'delucca',
         'ay_roots_delucca_pl_ejectives.txt']))
 
-    ay_words = ay_trans.set_reader(os.path.join(*[
+    ay_words = uti.set_reader(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Transcription',
         'aymara_preprocessed.txt']))
     
     subcorpus = rid_of_starters(ay_words, roots_trans)
     roots = set_stemmer(subcorpus, suffixes_trans, ay)
 
-    ay_filter.write_iter(roots, os.path.join(*[
+    uti.write_iter(roots, os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Transcription',
         'aymara_roots_from_wordforms_preprocessed.txt']))
 

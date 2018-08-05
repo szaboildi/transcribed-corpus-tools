@@ -19,7 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 import os
 import itertools
 import pandas as pd
-from languages import aymara as ay
+from tct_languages import aymara as ay
 
 # This file might be later separated into a language-specific file
 # (with a ```main()``` function only)

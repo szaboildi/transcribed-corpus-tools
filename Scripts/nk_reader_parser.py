@@ -1,4 +1,5 @@
 #!/usr/bin/python
+
 """
 Copyright (C) 2018 Ildiko Emese Szabo
 
@@ -19,8 +20,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 import os
 import csv
 import string
-from languages import nkore_kiga as nkore_kiga
-import ay_sp_en_filter as filt
+from tct_languages import nkore_kiga as nk
+import tct_utility as uti
 
 def read_roots_forms(file, lang, sep="\t", re_roots=True, re_forms=True, re_forms_sep=True):
     """
@@ -109,6 +110,7 @@ def clean_word(wrd, table_rm, table_kp, st):
     :return: None, adds to set
     """
     wrd = wrd.translate(table_rm)
+    wrd = wrd.strip('+')
     wrd = wrd.lower()
     if wrd.translate(table_kp).isalpha() and wrd not in st and wrd != '':
         st.add(wrd)
@@ -117,33 +119,31 @@ def clean_word(wrd, table_rm, table_kp, st):
 def main():
     # Read in file
     [roots, forms, forms_sep] = read_roots_forms(os.path.join(*[
-        os.pardir, 'NkoreKiga', 'KigaNkore_Taylor1959.txt']), nkore_kiga)
+        os.pardir, 'NkoreKiga', 'KigaNkore_Taylor1959.txt']), nk)
 
     """
-    # Diagnostics
-    # print(len(roots))
-    # print(len(forms))
-    # print(len(forms_sep))
-
+    Diagnostics
+    
     # print({form_sep for form_sep in forms_sep if form_sep.replace('+', '') not in forms})
     # st = {form_sep.replace('+', '') for form_sep in forms_sep}
     # print({form for form in forms if form not in st})
     """
 
     # Write out roots
-    filt.write_iter(roots, os.path.join(*[
+    uti.write_iter(roots, os.path.join(*[
         os.pardir, 'NkoreKiga', 'Outputs',
         'nk_roots_pretrans.txt']))
 
     # Write out wordforms
-    filt.write_iter(forms, os.path.join(*[
+    uti.write_iter(forms, os.path.join(*[
         os.pardir, 'NkoreKiga', 'Outputs',
         'nk_forms_pretrans.txt']))
 
     # Write out parsed wordforms
-    filt.write_iter(forms_sep, os.path.join(*[
+    uti.write_iter(forms_sep, os.path.join(*[
         os.pardir, 'NkoreKiga', 'Outputs',
         'nk_forms_sep_pretrans.txt']))
+
 
 
 if __name__ == '__main__':

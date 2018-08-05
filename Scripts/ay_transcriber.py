@@ -18,23 +18,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 import itertools
 import os
-import ay_sp_en_filter as ay_filter
-from languages import aymara as ay
-
-############################
-# Reading in the word list #
-############################
-def set_reader(path):
-    """
-    Reads in file into a set.
-    :param path: location of text file with one word/line
-    :return: a set of words
-    """
-    with open(path, "r", encoding="utf-8") as f:
-        lst = {line.strip() for line in f}
-
-    return lst
-
+import tct_utility as uti
+from tct_languages import aymara as ay
 
 ##############################################
 # Implementing pronunciation rules in Aymara #
@@ -278,32 +263,32 @@ def pl_trans(st):
 
 
 def main():
-    ay_orth = set_reader(os.path.join(*[
+    ay_orth = uti.set_reader(os.path.join(*[
         os.pardir, "Aymara", "Outputs", "Aymara_words_no_sp_en.txt"]))
     
     lowering_table = make_lowering_table()
     ay_trans = transcribe(ay_orth, lowering=lowering_table)
-    ay_filter.write_iter(ay_trans, os.path.join(*[
+    uti.write_iter(ay_trans, os.path.join(*[
         os.pardir, "Aymara", "Outputs", "Transcription",
         "aymara_preprocessed.txt"]))
 
     ay_ipa = ipa_trans(ay_trans)
-    ay_filter.write_iter(ay_ipa, os.path.join(*[
+    uti.write_iter(ay_ipa, os.path.join(*[
         os.pardir, "Aymara", "Outputs", "Transcription",
         "aymara_ipa.txt"]))
 
     ay_pl = pl_trans(ay_trans)
-    ay_filter.write_iter(ay_pl, os.path.join(*[
+    uti.write_iter(ay_pl, os.path.join(*[
         os.pardir, "Aymara", "Outputs", "Transcription",
         "aymara_pl.txt"]))
 
     ay_trans_ej = {nth_transcribe(wrd, ay.ejectives) for wrd in ay_trans}
-    ay_filter.write_iter(ay_trans_ej, os.path.join(*[
+    uti.write_iter(ay_trans_ej, os.path.join(*[
         os.pardir, "Aymara", "Outputs", "Transcription",
         "aymara_preprocessed_ejectives.txt"]))
 
     ay_pl_ej = pl_trans(ay_trans_ej)
-    ay_filter.write_iter(ay_pl_ej, os.path.join(*[
+    uti.write_iter(ay_pl_ej, os.path.join(*[
         os.pardir, "Aymara", "Outputs", "Transcription",
         "aymara_pl_ejectives.txt"]))
 
