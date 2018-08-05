@@ -104,27 +104,25 @@ def write_iter(iter, path):
 
 def main():
     # Reading in files
-    spanish_folder = os.path.join(*[os.pardir, 'Inputs', 'CORLEC'])
+    spanish_folder = os.path.join(*[os.pardir, 'Aymara', 'Inputs', 'CORLEC'])
     sp = extract_from_folders(spanish_folder)
-    cmu_path = os.path.join(*[os.pardir, 'Inputs', 'cmu_dictionary.txt'])
+    cmu_path = os.path.join(*[os.pardir, 'Aymara', 'Inputs',
+                              'cmu_dictionary.txt'])
     en = cmu_reader(cmu_path)
 
-    ay_path = os.path.join(*[os.pardir, 'Inputs', 'ay_freq.txt'])
+    ay_path = os.path.join(*[os.pardir, 'Aymara', 'Inputs', 'ay_freq.txt'])
     ay = aymara_reader(ay_path)
 
     # Filtering and writing
     sp_disc = ay - (ay - sp)
-    write_iter(sp_disc, os.path.join(*[os.pardir,
-                                       'Outputs',
-                                       'Spanish_loans.txt']))
+    write_iter(sp_disc, os.path.join(*[
+        os.pardir, 'Aymara', 'Outputs', 'Spanish_loans.txt']))
     en_disc = ay - (ay - en)
-    write_iter(en_disc, os.path.join(*[os.pardir,
-                                       'Outputs',
-                                       'English_loans.txt']))
+    write_iter(en_disc, os.path.join(*[
+        os.pardir, 'Aymara', 'Outputs', 'English_loans.txt']))
     no_sp_en = ay - sp - en
-    write_iter(no_sp_en, os.path.join(*[os.pardir,
-                                        'Outputs',
-                                        'Aymara_words_no_sp_en.txt']))
+    write_iter(no_sp_en, os.path.join(*[
+        os.pardir, 'Aymara', 'Outputs', 'Aymara_words_no_sp_en.txt']))
 
 
 if __name__ == '__main__':

@@ -19,12 +19,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 import os
 import csv
 import string
+from languages import nkore_kiga as nkore_kiga
 import ay_sp_en_filter as filt
 
-def read_roots_forms(file, sep="\t", re_roots=True, re_forms=True, re_forms_sep=True):
+def read_roots_forms(file, lang, sep="\t", re_roots=True, re_forms=True, re_forms_sep=True):
     """
     Reads in file, returns set of roots, set of word forms, or both.
     :param file: File to read in
+    :param sep: Separator (delimiter) in the file
+    :param lang: Natural language of words in the corpus
     :param re_roots: Whether it should return roots
                      default: True
     :param re_forms: Whether it should return forms
@@ -49,7 +52,7 @@ def read_roots_forms(file, sep="\t", re_roots=True, re_forms=True, re_forms_sep=
     table_pre = {ord(char): None for char in to_strip_pre_ch}
 
     with open(file, encoding='utf-8') as f:
-        csv_f = csv.reader(f, delimiter='\t')
+        csv_f = csv.reader(f, delimiter=sep)
         next(csv_f, None)
 
         for record in csv_f:
@@ -60,6 +63,9 @@ def read_roots_forms(file, sep="\t", re_roots=True, re_forms=True, re_forms_sep=
                 root_bound = root.rstrip('sn')
             else:
                 root_bound = root
+            if len(set(root.lower())) < 2 or len({sound for sound in root.lower()
+                                                   if sound in lang.vowels}) == 0:
+                continue
 
             if (prefix + root_bound).lower() == form.lower():
                 form_sep = prefix + '+' + root_bound
@@ -109,21 +115,36 @@ def clean_word(wrd, table_rm, table_kp, st):
 
 
 def main():
-    pass
-
-    # read in file
+    # Read in file
     [roots, forms, forms_sep] = read_roots_forms(os.path.join(*[
-        os.pardir, 'NkoreKiga', 'KigaNkore_Taylor1959.txt']))
-    print(len(roots))
-    print(len(forms))
-    print(len(forms_sep))
-    print({form_sep for form_sep in forms_sep if form_sep.replace('+', '') not in forms})
-    #st = {form_sep.replace('+', '') for form_sep in forms_sep}
-    #print({form for form in forms if form not in st})
-    
-    # write out roots
-    # write out wordforms
-    # write out (prefix + root)-s
+        os.pardir, 'NkoreKiga', 'KigaNkore_Taylor1959.txt']), nkore_kiga)
+
+    """
+    # Diagnostics
+    # print(len(roots))
+    # print(len(forms))
+    # print(len(forms_sep))
+
+    # print({form_sep for form_sep in forms_sep if form_sep.replace('+', '') not in forms})
+    # st = {form_sep.replace('+', '') for form_sep in forms_sep}
+    # print({form for form in forms if form not in st})
+    """
+
+    # Write out roots
+    filt.write_iter(roots, os.path.join(*[
+        os.pardir, 'NkoreKiga', 'Outputs',
+        'nk_roots_pretrans.txt']))
+
+    # Write out wordforms
+    filt.write_iter(forms, os.path.join(*[
+        os.pardir, 'NkoreKiga', 'Outputs',
+        'nk_forms_pretrans.txt']))
+
+    # Write out parsed wordforms
+    filt.write_iter(forms_sep, os.path.join(*[
+        os.pardir, 'NkoreKiga', 'Outputs',
+        'nk_forms_sep_pretrans.txt']))
+
 
 if __name__ == '__main__':
     main()

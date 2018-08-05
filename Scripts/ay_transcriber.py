@@ -278,40 +278,34 @@ def pl_trans(st):
 
 
 def main():
-    ay_orth = set_reader(os.path.join(*[os.pardir,
-                                        "Outputs",
-                                        "Aymara_words_no_sp_en.txt"]))
+    ay_orth = set_reader(os.path.join(*[
+        os.pardir, "Aymara", "Outputs", "Aymara_words_no_sp_en.txt"]))
     
     lowering_table = make_lowering_table()
     ay_trans = transcribe(ay_orth, lowering=lowering_table)
-    ay_filter.write_iter(ay_trans, os.path.join(*[os.pardir,
-                                           "Outputs",
-                                           "Transcription",
-                                           "aymara_preprocessed.txt"]))
+    ay_filter.write_iter(ay_trans, os.path.join(*[
+        os.pardir, "Aymara", "Outputs", "Transcription",
+        "aymara_preprocessed.txt"]))
 
     ay_ipa = ipa_trans(ay_trans)
-    ay_filter.write_iter(ay_ipa, os.path.join(*[os.pardir,
-                                         "Outputs",
-                                         "Transcription",
-                                         "aymara_ipa.txt"]))
+    ay_filter.write_iter(ay_ipa, os.path.join(*[
+        os.pardir, "Aymara", "Outputs", "Transcription",
+        "aymara_ipa.txt"]))
 
     ay_pl = pl_trans(ay_trans)
-    ay_filter.write_iter(ay_pl, os.path.join(*[os.pardir,
-                                        "Outputs",
-                                        "Transcription",
-                                        "aymara_pl.txt"]))
+    ay_filter.write_iter(ay_pl, os.path.join(*[
+        os.pardir, "Aymara", "Outputs", "Transcription",
+        "aymara_pl.txt"]))
 
     ay_trans_ej = {nth_transcribe(wrd, ay.ejectives) for wrd in ay_trans}
-    ay_filter.write_iter(ay_trans_ej, os.path.join(*[os.pardir,
-                                                  "Outputs",
-                                                  "Transcription",
-                                                  "aymara_preprocessed_ejectives.txt"]))
+    ay_filter.write_iter(ay_trans_ej, os.path.join(*[
+        os.pardir, "Aymara", "Outputs", "Transcription",
+        "aymara_preprocessed_ejectives.txt"]))
 
     ay_pl_ej = pl_trans(ay_trans_ej)
-    ay_filter.write_iter(ay_pl_ej, os.path.join(*[os.pardir,
-                                               "Outputs",
-                                               "Transcription",
-                                               "aymara_pl_ejectives.txt"]))
+    ay_filter.write_iter(ay_pl_ej, os.path.join(*[
+        os.pardir, "Aymara", "Outputs", "Transcription",
+        "aymara_pl_ejectives.txt"]))
 
 
 if __name__ == "__main__":
