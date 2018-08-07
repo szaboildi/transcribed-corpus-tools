@@ -144,6 +144,7 @@ def o_over_e_many_df(counts, segments):
 
 def main():
     # Reading in the files
+    """
     ## Words
     ### All matches
     sxs_counts_w = read_ngrams(os.path.join(*[
@@ -155,6 +156,7 @@ def main():
         'aymara_counts_class_all_sxs_svs_words.txt']),
                              middle='vowel')
     """
+    """
     sxs_counts_w_het = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw', 
         'aymara_counts_class_all_sxs_svs_words.txt']),
@@ -163,6 +165,7 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw', 
         'aymara_counts_class_all_sxs_svs_words.txt']),
                              middle='vowel', subcase=' (heterorganic)')
+    """
     """
     sxs_counts_seg_w = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
@@ -183,6 +186,7 @@ def main():
         'aymara_counts_class_initial_sxs_svs_words.txt']),
                              middle='vowel')
     """
+    """
     sxs_counts_init_w_het = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw', 
         'aymara_counts_class_initial_sxs_svs_words.txt']),
@@ -191,6 +195,7 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw', 
         'aymara_counts_class_initial_sxs_svs_words.txt']),
                                     middle='vowel', subcase=' (heterorganic)')
+    """
     """
     sxs_counts_seg_init_w = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
@@ -211,7 +216,8 @@ def main():
     svs_counts_r = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
         'aymara_counts_class_all_sxs_svs_roots.txt']),
-                               middle='vowel')
+                               middle='vowel')                        
+    """
     """
     sxs_counts_r_het = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw', 
@@ -221,6 +227,7 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw', 
         'aymara_counts_class_all_sxs_svs_roots.txt']),
                                    middle='vowel', subcase=' (heterorganic)')
+    """
     """
     sxs_counts_seg_r = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
@@ -241,6 +248,7 @@ def main():
         'aymara_counts_class_initial_sxs_svs_roots.txt']),
                                     middle='vowel')
     """
+    """
     sxs_counts_init_r_het = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw', 
         'aymara_counts_class_initial_sxs_svs_roots.txt']),
@@ -252,6 +260,7 @@ def main():
                                         middle='vowel',
                                         subcase=' (heterorganic)')
     """
+    """
     sxs_counts_seg_init_r = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
         'aymara_counts_seg_initial_sxs_roots.txt']),
@@ -260,6 +269,7 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
         'aymara_counts_seg_initial_svs_roots.txt']),
                                         middle='vowel')
+    """
 
     ### Trigrams
     trigram_counts_seg_w = read_ngrams(os.path.join(*[
@@ -268,11 +278,15 @@ def main():
     trigram_counts_seg_r = read_ngrams(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
         'aymara_counts_seg_all_trigrams_roots.txt']))
+    trigram_counts_seg_p = read_ngrams(os.path.join(*[
+        os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
+        'aymara_counts_seg_all_trigrams_parsed.txt']))
 
 
     # Counting O/E
     ## Words
     ### All matches
+    """
     oe_sxs_class_w_df = \
         o_over_e_many_df(sxs_counts_w,
                          [('aspirate',), ('ejective',), ('plain',)])
@@ -287,6 +301,7 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE', 'Old',
         'aymara_oe_svs_class_all_words.csv'
     ]))
+    """
     oe_trigram_class_w_df = \
         o_over_e_many_df(trigram_counts_seg_w,
                          [str(ay.aspirates), str(ay.ejectives),
@@ -296,6 +311,7 @@ def main():
         'aymara_oe_trigram_class_all_words.csv'
     ]))
 
+    """
     oe_sxs_seg_w_df = o_over_e_many_df(sxs_counts_seg_w, ay.stops)
     oe_sxs_seg_w_df.to_csv(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE',
@@ -306,6 +322,7 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE', 'Old',
         'aymara_oe_svs_seg_all_words.csv'
     ]))
+    """
     oe_trigram_seg_w_df = o_over_e_many_df(trigram_counts_seg_w, ay.stops)
     oe_trigram_seg_w_df.to_csv(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE',
@@ -314,6 +331,7 @@ def main():
 
 
     ### Word-initial matches
+    """
     oe_sxs_class_init_w_df = \
         o_over_e_many_df(sxs_counts_init_w,
                          [('aspirate',), ('ejective',), ('plain',)])
@@ -339,10 +357,11 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE', 'Old',
         'aymara_oe_svs_seg_initial_words.csv'
     ]))
-
+    """
 
     ## Roots
     ### All matches
+    """
     oe_sxs_class_r_df = \
         o_over_e_many_df(sxs_counts_r,
                          [('aspirate',), ('ejective',), ('plain',)])
@@ -357,6 +376,7 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE', 'Old',
         'aymara_oe_svs_class_all_roots.csv'
     ]))
+    """
     oe_trigram_class_r_df = \
         o_over_e_many_df(trigram_counts_seg_r,
                          [str(ay.aspirates), str(ay.ejectives),
@@ -366,6 +386,7 @@ def main():
         'aymara_oe_trigram_class_all_roots.csv'
     ]))
 
+    """
     oe_sxs_seg_r_df = o_over_e_many_df(sxs_counts_seg_r, ay.stops)
     oe_sxs_seg_r_df.to_csv(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE',
@@ -376,7 +397,9 @@ def main():
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE', 'Old',
         'aymara_oe_svs_seg_all_roots.csv'
     ]))
-    oe_trigram_seg_r_df = o_over_e_many_df(trigram_counts_seg_r, ay.stops)
+    """
+    oe_trigram_seg_r_df = \
+        o_over_e_many_df(trigram_counts_seg_r, ay.stops)
     oe_trigram_seg_r_df.to_csv(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE',
         'aymara_oe_trigram_seg_all_roots.csv'
@@ -384,6 +407,7 @@ def main():
 
 
     ### Word-initial matches
+    """
     oe_sxs_class_init_r_df = \
         o_over_e_many_df(sxs_counts_init_r,
                          [('aspirate',), ('ejective',), ('plain',)])
@@ -408,6 +432,22 @@ def main():
     oe_svs_seg_init_r_df.to_csv(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE', 'Old',
         'aymara_oe_svs_seg_initial_roots.csv'
+    ]))
+    """
+
+    ## Parsed
+    oe_trigram_class_p_df = \
+        o_over_e_many_df(trigram_counts_seg_p,
+                         [str(ay.aspirates), str(ay.ejectives),
+                          str(ay.plain_stops)])
+    oe_trigram_class_p_df.to_csv(os.path.join(*[
+        os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE',
+        'aymara_oe_trigram_class_all_parsed.csv'
+    ]))
+    oe_trigram_seg_p_df = o_over_e_many_df(trigram_counts_seg_p, ay.stops)
+    oe_trigram_seg_p_df.to_csv(os.path.join(*[
+        os.pardir, 'Aymara', 'Outputs', 'Counts', 'OE',
+        'aymara_oe_trigram_seg_all_parsed.csv'
     ]))
 
 

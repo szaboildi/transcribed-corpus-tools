@@ -47,4 +47,14 @@ def write_iter(iter, path):
         for item in lst:
             output_w.write(item + '\n')
 
-
+# Writing a dictionary into a tab-separated file
+def write_dict(dict, path):
+    """
+    Writes dictionary into text file
+    :param dict: dictionary to be written into file
+    :param path: path of file to be written to
+    :return: None
+    """
+    with open(path, 'w', encoding='utf-8') as output_w:
+        for key in sorted(dict):
+            output_w.write('{}\t{}\n'.format(key, int(dict[key])))

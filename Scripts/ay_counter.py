@@ -265,20 +265,19 @@ def count_regexp(regexp, words, return_set=False):
 ####################
 # Write dictionary #
 ####################
-def write_dict(dict, path):
-    """
-    Writes dictionary into text file
-    :param dict: dictionary to be written into file
-    :param path: path of file to be written to
-    :return: None
-    """
-    with open(path, 'w', encoding='utf-8') as output_w:
-        for key in sorted(dict):
-            output_w.write('{}\t{}\n'.format(key, int(dict[key])))
 
 
 
 def main():
+    parsed_words = {word.replace(' ', '') for word in uti.set_reader(os.path.join(*[
+        os.pardir, 'Aymara', 'Inputs', 'ay_words_parsed.txt']))}
+    trigrams_parsed = trigram_counter(parsed_words)
+    uti.write_dict(trigrams_parsed, os.path.join(*[
+        os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
+        'aymara_counts_seg_all_trigrams_parsed.txt']))
+
+
+    """
     words = uti.set_reader(os.path.join(*[
         os.pardir, 'Aymara', 'Outputs', 'Transcription',
         'aymara_preprocessed.txt']))
@@ -326,7 +325,9 @@ def main():
     # Counting
     for i, corpus in enumerate(ay_corpora):
         corpus_name = ay_corpus_names[i]
-        """
+
+    """
+    """
         ## Stops
         unigram_counts = count_many_substr(ay.sounds, corpus, ay)
         unigram_counts['stops'] = sum(unigram_counts[key] for key in ay.stops)
@@ -337,12 +338,12 @@ def main():
         unigram_counts['vowels'] = sum(unigram_counts[key] for key in ay.vowels)
         unigram_counts['total'] = sum(unigram_counts.values())
 
-        write_dict(unigram_counts, os.path.join(*[
+        uti.write_dict(unigram_counts, os.path.join(*[
             os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
             'aymara_counts_seg_all_unigram_{}.txt'.format(corpus_name)]))
-        """
+    """
 
-        """
+    """
         ## Preceding environments for stops
         precon_stop_counts = count_many_substr(precon_stops, corpus, ay)
         prevoc_stop_counts = count_many_substr(prevoc_stops, corpus, ay)
@@ -365,12 +366,12 @@ def main():
         stop_bigrams['prevocalic plain stops'] \
             = sum(prevoc_stop_counts[key] for key in prevoc_plain)
 
-        write_dict(stop_bigrams, os.path.join(*[
+        uti.write_dict(stop_bigrams, os.path.join(*[
             os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
             'aymara_counts_seg_all_env_{}.txt'.format(corpus_name)]))
-        """
+    """
 
-        """
+    """
         ## Prevocalic stops initially or not
         prevoc_stop_initial_counts = count_many_substr(prevoc_stops, corpus, ay, initial=True)
         prevoc_counts_wordpos = {
@@ -392,12 +393,12 @@ def main():
             'total prevocalic plain stops': sum(prevoc_stop_counts[key] for key in prevoc_plain)
         }
 
-        write_dict(prevoc_counts_wordpos, os.path.join(*[
+        uti.write_dict(prevoc_counts_wordpos, os.path.join(*[
             os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
             'aymara_counts_seg_prevoc_wordpos_{}.txt'.format(corpus_name)]))
-        """
+    """
 
-        """
+    """
         ## S ... S and SVS (S = stop, V = vowel)
         ### Variables
         variable_names = ['axa', 'axe', 'axp', 'exa', 'exe',
@@ -432,7 +433,7 @@ def main():
                 os.pardir, 'Aymara', 'Outputs', 'Counts', 'Lists',
                 'aymara_list_{}_OVXO_{}.txt'.format(type, corpus_name)]))
             
-            write_dict(ovxo_seg_counts, os.path.join(*[
+            uti.(ovxo_seg_counts, os.path.join(*[
                 os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
                 'aymara_counts_seg_{}_OVXO_{}.txt'.format(type, corpus_name)]))
 
@@ -449,7 +450,7 @@ def main():
                 os.pardir, 'Aymara', 'Outputs', 'Counts', 'Lists',
                 'aymara_list_{}_OVO_{}.txt'.format(type, corpus_name)]))
 
-            write_dict(ovo_seg_counts, os.path.join(*[
+            uti.write_dict(ovo_seg_counts, os.path.join(*[
                 os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
                 'aymara_counts_seg_{}_OVO_{}.txt'.format(type, corpus_name)]))
 
@@ -532,24 +533,26 @@ def main():
                 os.pardir, 'Aymara', 'Outputs', 'Counts', 'Lists',
                 'aymara_list_{}_{}_{}.txt'.format(type, 'exe_het', corpus_name)]))
 
-            write_dict(sxs_counts, os.path.join(*[
+            uti.write_dict(sxs_counts, os.path.join(*[
                 os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
                 'aymara_counts_class_{}_sxs_svs_{}.txt'.format(type, corpus_name)]))
 
-            write_dict(sxs_seg_counts_formatted, os.path.join(*[
+            uti.write_dict(sxs_seg_counts_formatted, os.path.join(*[
                 os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
                 'aymara_counts_seg_{}_sxs_{}.txt'.format(type, corpus_name)]))
 
-            write_dict(svs_seg_counts, os.path.join(*[
+            uti.write_dict(svs_seg_counts, os.path.join(*[
                 os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
                 'aymara_counts_seg_{}_svs_{}.txt'.format(type, corpus_name)]))
-        """
+        
 
         ## All trigrams
         trigrams = trigram_counter(corpus)
-        write_dict(trigrams, os.path.join(*[
+        uti.write_dict(trigrams, os.path.join(*[
             os.pardir, 'Aymara', 'Outputs', 'Counts', 'Raw',
             'aymara_counts_seg_all_trigrams_{}.txt'.format(corpus_name)]))
+
+    """
 
 
 if __name__ == '__main__':
