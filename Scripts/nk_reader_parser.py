@@ -44,7 +44,7 @@ def read_roots_forms(file, lang, sep="\t", re_roots=True, re_forms=True, re_form
     to_return = []
 
 
-    to_keep_ch = {"'", "+"}
+    to_keep_ch = {'+'}
     to_remove_ch = set(string.punctuation) - to_keep_ch - {'-'}
     table_keep = {ord(char): None for char in to_keep_ch}
     table_remove = {ord(char): None for char in to_remove_ch}
