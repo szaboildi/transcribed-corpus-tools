@@ -1,14 +1,19 @@
+D e
+N D + D o
+N D + i n e
+N D + r i j a
+N T + i n e
+N T + r i
+N T + r i j a
 N g a + g o
 N g a + i n e
 N g a + r i j a
-N g i + g j o
-N g i + i n e
-N g i + r i j a
 N g u + g w o
 N g u + r i j a
 N g w + i n e
 N k + o k u
 N k a
+N k a + T o
 N k a + a Y e
 N k a + b j o
 N k a + b o
@@ -21,7 +26,6 @@ N k a + i n e
 N k a + i t w e
 N k a + i w e
 N k a + j o
-N k a + k j o
 N k a + k o
 N k a + k w o
 N k a + m w o
@@ -31,12 +35,9 @@ N k a + t w o
 N k a + w e
 N k a + z o
 N k a n a
-N k i + i n e
-N k i + r i
-N k i + r i j a
 N k w + i n e
 S E S e m i b a z i
-S a m b a g i r a
+S a m b a D r a
 S a n Z a g a h o r e
 S a n a
 S i
@@ -52,7 +53,34 @@ S w e N k u r I m w e
 S w e N k u r u
 S w e n t o
 S w e n t o i m w e
+T
+T + Z u b w e
+T + Z u g a
+T + b O k o
+T + k o r a
+T + k w a j a
+T + m w e
+T + n u
+T + o N k a
+T + o n a
+T + r a h e
+T + r a h i
+T + r i
+T + r i j a
+T + s j o
+T + t a
+T + t a b A r i z i b w a
+T + t a b A z a
+T + t a r a
+T + t i
+T + t j o
 T U T U T u
+T a T + r o
+T a m u + S a n a
+T a n + k w i t s i
+T a n + t s j a
+T i + h a
+T i r a
 Y + i n e
 Y a
 Y a b a j a N g w e
@@ -73,14 +101,14 @@ Y a m u r u N g a
 Y a m u s i m b i
 Y a m u t e z a
 Y a m w e k u r u r a
-Y a m w i N g i
+Y a m w i N D
 Y a r w e f O r a
 Y a r w e z i r i N g a
 Y e + N k a
-Y e k i r o
+Y e T r o
 Y e n T a k a r e
 Y e n t s j a
-Y i N g i h o
+Y i N D h o
 Y i n A b e
 Y i n E k a
 Y i n a
@@ -136,49 +164,50 @@ a + t A n o
 a + t a
 a + t i
 a + t j o
+a D + i n e
 a b + A m i
 a b + A n a
-a b + E S e N g j e r e z a
+a b + E D
+a b + E D e n d e r e z a
+a b + E D e s a
+a b + E D e s i b w a
+a b + E D r a D e
+a b + E S e N D e r e z a
 a b + E S e z i
 a b + E S o N g o z i
-a b + E S u N g i
+a b + E S u N D
 a b + E T u m i
 a b + E b e m b e z i
 a b + E g a
 a b + E g a Y i
 a b + E g a n d e
-a b + E g i
-a b + E g i r a g j e
-a b + E g j e n d e r e z a
-a b + E g j e s a
-a b + E g j e s i b w a
 a b + E g u z i
-a b + E h e n e N g i
-a b + E j o r e k i
+a b + E h e n e N D
+a b + E j o r e T
 a b + E k o r e z i
 a b + E m a
 a b + E m e r e r e z i
 a b + E m e z i
-a b + E n u g i
+a b + E n u D
 a b + E p i s k O p i
 a b + E r E r e
 a b + E r e m w a
 a b + E r i n z i
 a b + E s i g w a
-a b + E t e N g i
-a b + E t e g j e r e z a
+a b + E t e D e r e z a
+a b + E t e N D
 a b + E t o m b o i t s i
-a b + E z i r i k i
+a b + E z i r i T
 a b + I n e
+a b + O T e r e z i
 a b + O Z o
 a b + O h i
-a b + O k j e r e z i
-a b + O r e k j e r e z i
+a b + O r e T e r e z i
 a b + O r o
 a b + O r o z i
 a b + O t s i
-a b + a N g i
-a b + a N g i z i
+a b + a N D
+a b + a N D z i
 a b + a N g u h i
 a b + a T u r e i r e
 a b + a T w i
@@ -186,13 +215,13 @@ a b + a Z w a i r e
 a b + a f I r e
 a b + a f u
 a b + a h i
-a b + a h i k i r I r e
-a b + a h i k i r e
+a b + a h i T r I r e
+a b + a h i T r e
 a b + a h w e r i z e
 a b + a i b i
 a b + a i r a g u Z u
 a b + a i r u
-a b + a i r u k i
+a b + a i r u T
 a b + a i t s i
 a b + a i t u
 a b + a m a S a z a
@@ -206,21 +235,31 @@ a b + a s j a
 a b + a t w a
 a b + e m i r u k a
 a b + e m i t w e
-a b + o N k j e r e z i
+a b + o N T e r e z i
 a b + o b u t O S a
-a b + o m b e k i
-a b a + N g j e
-a b a + N g j e r e z a
-a b a + S A k I z i
+a b + o m b e T
+a b a + D e N D
+a b a + D e Y i
+a b a + D e m i
+a b a + D e m u z i
+a b a + D e n d a D e n z i
+a b a + D e n z i
+a b a + D e s i
+a b a + D r i m u
+a b a + D r w a
+a b a + N D e
+a b a + N D e r e z a
+a b a + S A T i z i
 a b a + S A r i z i
+a b a + S E D
 a b a + S E Y i
-a b a + S E g i
 a b a + S E g u
 a b a + S O r o m i
 a b a + S U b u z i
-a b a + S U h U k i
+a b a + S U h U T
 a b a + S U z i
-a b a + S a b a g i r i z i
+a b a + S a T
+a b a + S a b a D r i z i
 a b a + S a b i
 a b a + S a b i r i z i
 a b a + S a g a r i z i
@@ -228,7 +267,6 @@ a b a + S a h o
 a b a + S a h u z i
 a b a + S a i Z a
 a b a + S a k A z i
-a b a + S a k i
 a b a + S a m b a n i
 a b a + S a m b i
 a b a + S a n z i r e
@@ -236,9 +274,9 @@ a b a + S a t u
 a b a + S a t u z i
 a b a + S a z a
 a b a + S a z i
-a b a + S e N g i
+a b a + S e N D
+a b a + S e T e r e z i
 a b a + S e b a S e b e
-a b a + S e k j e r e z i
 a b a + S e m a
 a b a + S e m b E z i
 a b a + S e m b i
@@ -256,7 +294,7 @@ a b a + S o r O z a
 a b a + S o r e s a
 a b a + S o z i
 a b a + S u b i r o
-a b a + S u h U k i
+a b a + S u h U T
 a b a + S u m a
 a b a + S u m b a
 a b a + S u m b a k a z i
@@ -265,24 +303,32 @@ a b a + S w a h i r i
 a b a + S w i Z u m i
 a b a + T O T O z i
 a b a + T O b O z i
+a b a + T a r a
+a b a + T e
 a b a + T e T e z i
+a b a + T e b e z i
+a b a + T g a
+a b a + T i n e
+a b a + T r i
+a b a + T r i m u
 a b a + T u N g u z i
 a b a + T u r E z i
 a b a + T w a n z j a
-a b a + T w e k j e
-a b a + T w e k j e r e z a
+a b a + T w e T e
+a b a + T w e T e r e z a
 a b a + T w e z i
 a b a + Y A Y A t s i
 a b a + Y A n A m a
 a b a + Y E t e
-a b a + Y U k i
+a b a + Y U T
+a b a + Y a D
 a b a + Y a N g o g a
 a b a + Y a N k o r e
+a b a + Y a T a r o
 a b a + Y a b u z A r e
-a b a + Y a b w e N g j e
+a b a + Y a b w e N D e
 a b a + Y a b w i r a
 a b a + Y a b w o b a
-a b a + Y a g i
 a b a + Y a g w a
 a b a + Y a i S o m e r o
 a b a + Y a i b a n Z a
@@ -290,7 +336,6 @@ a b a + Y a i g a r a
 a b a + Y a i h a N g a
 a b a + Y a i t i m a
 a b a + Y a k a n t u
-a b a + Y a k j a r o
 a b a + Y a m b a b a z i
 a b a + Y a m p a r a
 a b a + Y a m u r u r u
@@ -317,8 +362,9 @@ a b a + Z u m i
 a b a + Z u n i
 a b a + Z u n i r w e
 a b a + Z u r i z i
-a b a + Z w e k i
-a b a + Z w e k j e r w a
+a b a + Z w e T
+a b a + Z w e T e r w a
+a b a + a T o
 a b a + a Y u
 a b a + a b a n d i z e
 a b a + a b j o
@@ -331,7 +377,6 @@ a b a + a h o
 a b a + a h u r e
 a b a + a j i
 a b a + a j o
-a b a + a k j o
 a b a + a k o
 a b a + a k w o
 a b a + a m w o
@@ -340,9 +385,9 @@ a b a + a r w o
 a b a + a t w o
 a b a + a w e
 a b a + a z o
-a b a + b A g i
-a b a + b I k i
-a b a + b I k i r a
+a b a + b A D
+a b a + b I T
+a b a + b I T r a
 a b a + b a i z i
 a b a + b a m b A z i
 a b a + b a z I z i
@@ -352,19 +397,19 @@ a b a + b e i h e r e z i
 a b a + b e i h i
 a b a + b e m b e
 a b a + b i
-a b a + b i N g i
+a b a + b i N D
 a b a + b i S a
 a b a + b i b i
 a b a + b i r I s i
 a b a + b i r i
-a b a + b i r i g i
+a b a + b i r i D
 a b a + b i s i
 a b a + b j a z i
 a b a + b o h w a
 a b a + b o n e t s j a
-a b a + b u N g i
+a b a + b u N D
 a b a + b u m b i
-a b a + d A k i
+a b a + d A T
 a b a + d I k o n i
 a b a + f A k a z i
 a b a + f U h i
@@ -373,7 +418,7 @@ a b a + f a r i s A j o
 a b a + f u k A n i
 a b a + f u m u
 a b a + f u n d i
-a b a + f u r u k i
+a b a + f u r u T
 a b a + f u t a f u t a
 a b a + g A n I z i
 a b a + g O h a
@@ -382,7 +427,7 @@ a b a + g a b a g u z i
 a b a + g a b e
 a b a + g a b e k a z i
 a b a + g a b i
-a b a + g a b u k j e
+a b a + g a b u T e
 a b a + g a b u z i
 a b a + g a i d i
 a b a + g a i g a
@@ -396,15 +441,6 @@ a b a + g a n d a
 a b a + g a n i
 a b a + g a r a
 a b a + g a r a g w a
-a b a + g i r i m u
-a b a + g i r w a
-a b a + g j e N g i
-a b a + g j e Y i
-a b a + g j e m i
-a b a + g j e m u z i
-a b a + g j e n d a g j e n z i
-a b a + g j e n z i
-a b a + g j e s i
 a b a + g o b j a
 a b a + g o g o z i
 a b a + g o j i
@@ -414,22 +450,22 @@ a b a + g o r e
 a b a + g u f u
 a b a + g u m i s i r i z a
 a b a + g u m u j a
-a b a + g u r i k i
-a b a + g u r u k i
+a b a + g u r i T
+a b a + g u r u T
 a b a + g u r u s i
 a b a + g u r u z i
 a b a + g u r w a
 a b a + g u z a
 a b a + g u z i
 a b a + g u z i b w a
-a b a + g w e Z e g j e z i
+a b a + g w e Z e D e z i
 a b a + g w e z i
 a b a + h A t s i
-a b a + h E k i
+a b a + h E T
 a b a + h E r e z a
 a b a + h E s i
+a b a + h I D
 a b a + h I g a n i z i
-a b a + h I g i
 a b a + h I r w a
 a b a + h I s a
 a b a + h I s i
@@ -440,7 +476,7 @@ a b a + h U k u
 a b a + h U m u z a
 a b a + h U r u
 a b a + h U z i
-a b a + h a N g i
+a b a + h a N D
 a b a + h a N g o
 a b a + h a N g u z i
 a b a + h a N g w a
@@ -448,7 +484,7 @@ a b a + h a j a
 a b a + h a k a n i
 a b a + h a k w a
 a b a + h a m b w a
-a b a + h a n d I k i
+a b a + h a n d I T
 a b a + h a n i
 a b a + h a r a
 a b a + h a r a b u
@@ -457,38 +493,39 @@ a b a + h a r i k a n i
 a b a + h a z i
 a b a + h e b e b e z i
 a b a + h e b u r A j o
-a b a + h i N g i
-a b a + h i N g i s a
+a b a + h i N D
+a b a + h i N D s a
 a b a + h i N g u z i
+a b a + h i T r i z a
 a b a + h i Y a
-a b a + h i k i r i z a
 a b a + h i m a
 a b a + h i m b U z i
 a b a + h i n d a
 a b a + h i n d a k a z i
 a b a + h i n d i
-a b a + h i n d u k i
+a b a + h i n d u T
 a b a + h i n d u z i
 a b a + h i n z i
-a b a + h o N g i
+a b a + h o N D
 a b a + h o n d a
 a b a + h o r o r o
 a b a + h o t o z i
-a b a + h u N g i
+a b a + h u N D
 a b a + h u N g u z i
 a b a + h u r I r e
-a b a + h u r i k i z a
-a b a + h u r i k i z i
+a b a + h u r i T z a
+a b a + h u r i T z i
 a b a + h u r u z i
 a b a + h u t a
 a b a + h u t a i r e
 a b a + h u t u
 a b a + h u z i
 a b a + h w e z i
-a b a + i N g i
-a b a + i N g i Y a
+a b a + i N D
+a b a + i N D Y a
 a b a + i S e r u k a r e
-a b a + i S i k i
+a b a + i S i T
+a b a + i T r i z a
 a b a + i Z a i Z a
 a b a + i Z u k u r u
 a b a + i Z w i r e
@@ -497,19 +534,17 @@ a b a + i g a r i r e
 a b a + i g u t s i
 a b a + i h u z a
 a b a + i h w a
-a b a + i k i r i z a
 a b a + i m i
 a b a + i n a z i
 a b a + i n e
-a b a + j A g i
+a b a + j A D
 a b a + j o n A n i
 a b a + j o n Z o
 a b a + j u d A j a
 a b a + k A f I r e
 a b a + k A f I r i
 a b a + k A m w a n a
-a b a + k I n e
-a b a + k O k i
+a b a + k O T
 a b a + k O k o r o
 a b a + k U n E t s i
 a b a + k a b i r e
@@ -518,14 +553,8 @@ a b a + k a i k u r u
 a b a + k a m a
 a b a + k a m b U z i
 a b a + k a m i
-a b a + k a t o r i k i
+a b a + k a t o r i T
 a b a + k a z i
-a b a + k i g a
-a b a + k i r i
-a b a + k i r i m u
-a b a + k j a r a
-a b a + k j e
-a b a + k j e b e z i
 a b a + k o m e z i
 a b a + k o n Z o
 a b a + k o n d O z i
@@ -561,14 +590,14 @@ a b a + m b u z i
 a b a + m i s r i
 a b a + m i z i
 a b a + m j o k a
-a b a + m u N g i
-a b a + m u r i k i
+a b a + m u N D
+a b a + m u r i T
 a b a + m w e
 a b a + m w e i Z a
 a b a + m w i
 a b a + n U b i
 a b a + n Z a m i
-a b a + n Z u k i
+a b a + n Z u T
 a b a + n a k u
 a b a + n d i h o
 a b a + n i a n i a
@@ -576,27 +605,27 @@ a b a + n o f a
 a b a + n o g O z i
 a b a + n t u
 a b a + n u z a
-a b a + p a N g i s a
+a b a + p a N D s a
 a b a + p a k a s i
 a b a + p a k a z i
 a b a + p e r u s i
 a b a + p u r I s i
 a b a + r A r a
 a b a + r A z i
+a b a + r E D
 a b a + r E b e r e z i
 a b a + r E b i
-a b a + r E g i
 a b a + r E t s i
 a b a + r I r i r i z i
 a b a + r I s a
 a b a + r O m a
 a b a + r O t s i
+a b a + r a D
+a b a + r a D r i z i
+a b a + r a N D
 a b a + r a N g a
-a b a + r a N g i
 a b a + r a S a
 a b a + r a b i r i z i
-a b a + r a g i
-a b a + r a g i r i z i
 a b a + r a g u z a
 a b a + r a g u z i
 a b a + r a i N g w a
@@ -604,8 +633,8 @@ a b a + r a m b u z i
 a b a + r a m u
 a b a + r a m u z i
 a b a + r a s i
-a b a + r e N g i
-a b a + r e g i
+a b a + r e D
+a b a + r e N D
 a b a + r e m a
 a b a + r e z i
 a b a + r i
@@ -620,14 +649,14 @@ a b a + r i m i r i z i
 a b a + r i m u
 a b a + r i n z i
 a b a + r i z i
+a b a + r o D
 a b a + r o f a
-a b a + r o g i
 a b a + r o g o t s i
 a b a + r o n z i
 a b a + r o r E z i
-a b a + r u N g i
+a b a + r u N D
 a b a + r u m U z i
-a b a + r u m i k i
+a b a + r u m i T
 a b a + r u m u n a
 a b a + r u n d A n i
 a b a + r u n d i
@@ -635,20 +664,20 @@ a b a + r w a i r e
 a b a + r w a n i
 a b a + s A s i z i
 a b a + s E s i
-a b a + s I g i
+a b a + s I D
 a b a + s I m i
 a b a + s I s i
 a b a + s I t a
 a b a + s O m i
 a b a + s a s e r d O t i
 a b a + s i
+a b a + s i D
+a b a + s i D r e
+a b a + s i D s i
 a b a + s i N g o r o z i
 a b a + s i b e
 a b a + s i g a m b w a
 a b a + s i g a z i
-a b a + s i g i
-a b a + s i g i r e
-a b a + s i g i s i
 a b a + s i k a u t u
 a b a + s i n d I z i
 a b a + s i n z i
@@ -658,8 +687,8 @@ a b a + t A g u r i z i
 a b a + t A h i
 a b a + t A j A j i
 a b a + t A n o
+a b a + t E T
 a b a + t E g o
-a b a + t E k i
 a b a + t E r a n i
 a b a + t E r a n i z i
 a b a + t E z i
@@ -672,7 +701,7 @@ a b a + t O r o
 a b a + t O z i
 a b a + t U r a i n e
 a b a + t U t s i
-a b a + t a N g i z i
+a b a + t a N D z i
 a b a + t a S u m b U S w a
 a b a + t a b A z i
 a b a + t a b a n i
@@ -688,47 +717,47 @@ a b a + t a m b i
 a b a + t a m b i z i
 a b a + t a r i
 a b a + t a t s i
+a b a + t e D
+a b a + t e D e T
 a b a + t e b j a
-a b a + t e g i
-a b a + t e g j e k i
 a b a + t e m b U z i
 a b a + t e m b e j a
 a b a + t e m b i
 a b a + t e m i
-a b a + t e n d e k i
+a b a + t e n d e T
 a b a + t e n d e k w a
 a b a + t e r u z i
 a b a + t e t s i
-a b a + t i g i
+a b a + t i D
 a b a + t i m b o
 a b a + t o
+a b a + t o N D
 a b a + t o N g a n i z i
-a b a + t o N g i
 a b a + t o N g o r e
 a b a + t o n d O z i
-a b a + t o r o k i
+a b a + t o r o T
+a b a + t s i D r e
 a b a + t s i b e
 a b a + t s i g a m b w a
 a b a + t s i g a z i
-a b a + t s i g i r e
 a b a + t s i n d I z i
 a b a + t s j a r a
-a b a + t u N g i
+a b a + t u N D
 a b a + t u n z i
 a b a + t w a r e
 a b a + t w a z i
-a b a + t w e k i
-a b a + v u g i
+a b a + t w e T
+a b a + v u D
 a b a + v u n U z i
-a b a + v u r u g i
+a b a + v u r u D
 a b a + z A h i
 a b a + z A n a
 a b a + z A n i
 a b a + z A r i s a
-a b a + z I k i
+a b a + z I T
 a b a + z O z i
 a b a + z a i r e
-a b a + z e N g j e r e z i
+a b a + z e N D e r e z i
 a b a + z i g u
 a b a + z i h i
 a b a + z i m a
@@ -740,8 +769,9 @@ a b a t a r i k u + b a r w a
 a b w + i n e
 a g + E z i r e
 a g + a N g u h i
-a g a + N g j e
+a g a + N D e
 a g a + T u r e i r e
+a g a + a T o
 a g a + a Y u
 a g a + a b j o
 a g a + a b o
@@ -750,7 +780,6 @@ a g a + a g o
 a g a + a g w o
 a g a + a h o
 a g a + a j o
-a g a + a k j o
 a g a + a k o
 a g a + a k w o
 a g a + a m w o
@@ -762,7 +791,7 @@ a g a + a z o
 a g a + f I r e
 a g a + g a r a m i
 a g a + h e r e i r e
-a g a + h i k i r e
+a g a + h i T r e
 a g a + h u r I r e
 a g a + h w e i r e
 a g a + i Z w i r e
@@ -785,19 +814,18 @@ a g a + r i k w e r a
 a g a + r i k w i r a g u r a
 a g a + r i k w o t s j a
 a g a + r i m u
-a g a + t E k i r e
+a g a + t E T r e
 a g a + t a h w a h o
 a g a + t a k a r E b w a g a
 a g a + t a r i
-a g a k i + i n e
-a g a k i + r i
+a g a T + i n e
+a g a T + r i
 a g a r i k u + b i r a
 a g a t a + i n e
 a g a t a r i k u + b a r w a
 a g e + e k w a i t s e
-a g i + i n e
-a g o + o k i z e
-a h + E k I k i r e
+a g o + o T z e
+a h + E T i T r e
 a h + E r u
 a h + a S a t u
 a h + a b i r i
@@ -807,30 +835,30 @@ a h + a n a
 a h + a n s i
 a h + a t A n o
 a h + o n A h o
-a h a + N k i
+a h a + N T
+a h a + T a
+a h a + T i n e
+a h a + T r i
 a h a + Y i m a
 a h a + b i s o
 a h a + b j a
 a h a + b u s o
 a h a + b w a
-a h a + b w a N g j e
+a h a + b w a N D e
 a h a + b w a Y u
 a h a + b w a b o
 a h a + b w a i t u
 a h a + b w a w e
 a h a + b w e
-a h a + b w e N k i
-a h a + b w e k j o
+a h a + b w e N T
+a h a + b w e T o
 a h a + b w o k u b a
 a h a + g a t i
 a h a + g u f u
 a h a + i g u r u
 a h a + i h i
 a h a + i n e
-a h a + k I n e
 a h a + k a
-a h a + k i r i
-a h a + k j a
 a h a + k u b a
 a h a + k w e
 a h a + m a i S o
@@ -867,10 +895,10 @@ a k + O m a
 a k + a N g o n z i
 a k + a N g u h i
 a k + a S e m e r e i r w e
+a k + a T e
 a k + a b i
-a k + a k j e
 a k + a n d a
-a k + a t E k i r e
+a k + a t E T r e
 a k + a t i
 a k + a t o
 a k + e n Z u
@@ -878,27 +906,37 @@ a k + e n d a
 a k + i r i
 a k + o k u r E b e r a h o
 a k a
-a k a + N g j e
+a k a + D e r a
+a k a + D i k o
+a k a + D m b i
+a k a + N D e
+a k a + S E D E D e
 a k a + S E S e
 a k a + S E S e S E S e
-a k a + S E g j E g j e
 a k a + S U m o
 a k a + S a i Z a
 a k a + S a m b i
 a k a + S a n Z u
 a k a + S a n a
-a k a + S a n d U k j e
+a k a + S a n d U T e
 a k a + S a r e
-a k a + S e N g j e
+a k a + S e N D e
 a k a + S e b a S e b e
-a k a + S o k j e
+a k a + S o T e
 a k a + S o r o g o t o
 a k a + S o z i
 a k a + S u t a m i
 a k a + S u z i
 a k a + T a
+a k a + T e N T e
 a k a + T e T e k o
 a k a + T e n T e
+a k a + T i k o
+a k a + T i n e
+a k a + T i z i
+a k a + T r a
+a k a + T r i
+a k a + T r o
 a k a + T u
 a k a + T u Z u
 a k a + T u m u
@@ -912,36 +950,38 @@ a k a + Y A Y a n Z a
 a k a + Y A f u
 a k a + Y a N g a r a r a
 a k a + Y a N k o g o t e
-a k a + Y a b w e N g j e
+a k a + Y a b w e N D e
 a k a + Y a i g a n Z a
-a k a + Y a m u k i r a
+a k a + Y a m u T r a
 a k a + Y a m u n I n i
 a k a + Y a m u r e r a
 a k a + Y a m w e Y i
 a k a + Y a n T O n i
 a k a + Y a r a r a
+a k a + Y a r u T r a
 a k a + Y a r u g o n d o
-a k a + Y a r u k i r a
-a k a + Y a r u t O k j e
-a k a + Y e g j e r o
+a k a + Y a r u t O T e
+a k a + Y e D e r o
 a k a + Y i n d o
 a k a + Y i r i r i
 a k a + Y o Y i
 a k a + Y o g a
 a k a + Y o m o
+a k a + Z a D r o
 a k a + Z a N g u
 a k a + Z a g a r a r o
-a k a + Z a g i r o
 a k a + Z a m b a i Z o
-a k a + Z e N g j e i Z o
-a k a + Z e g a Z e g j e
+a k a + Z e N D e i Z o
+a k a + Z e g a Z e D e
 a k a + Z o r O t o
 a k a + Z u
 a k a + Z u m a
 a k a + Z u n Z U r e
-a k a + Z u r u g j e
+a k a + Z u r u D e
 a k a + Z w a i r e
 a k a + a S a
+a k a + a T o
+a k a + a T z i r a
 a k a + a b a n d i z e
 a k a + a b j o
 a k a + a b u N g a
@@ -950,8 +990,6 @@ a k a + a g o
 a k a + a g w o
 a k a + a h o
 a k a + a j o
-a k a + a k i z i r a
-a k a + a k j o
 a k a + a k o
 a k a + a k u
 a k a + a k w o
@@ -971,7 +1009,7 @@ a k a + b i b i r o
 a k a + b i n d i
 a k a + b i r a
 a k a + b i s i
-a k a + b o g j e
+a k a + b o D e
 a k a + b o n e r o
 a k a + b u N g o
 a k a + b w a
@@ -980,13 +1018,10 @@ a k a + d U k a
 a k a + f I r e
 a k a + f u n z i
 a k a + g A r i
-a k a + g I k o
 a k a + g a m b o
 a k a + g a n a
 a k a + g a n d a
 a k a + g a r a m i
-a k a + g i m b i
-a k a + g j e r a
 a k a + g o b a
 a k a + g o m b e
 a k a + g u f u
@@ -1004,20 +1039,20 @@ a k a + h a r a r o
 a k a + h e h E r o
 a k a + h e r a
 a k a + h e r e i r e
-a k a + h i k i r e
+a k a + h i T r e
 a k a + h o
 a k a + h o i h o
 a k a + h o r o
+a k a + h u N D r a
 a k a + h u N g a b e b e
-a k a + h u N g i r a
 a k a + h u k a
 a k a + h u m b i
 a k a + h u n d u
 a k a + h u r I r e
 a k a + h u r a
 a k a + h w e i r e
-a k a + i N g i
-a k a + i S i k i
+a k a + i N D
+a k a + i S i T
 a k a + i S o
 a k a + i T o k o m b e
 a k a + i Z w i r e
@@ -1028,15 +1063,12 @@ a k a + i n e
 a k a + i r i m a
 a k a + i r u N g u
 a k a + i t u
-a k a + j O g j e r a
+a k a + j O D e r a
 a k a + j a g A z i
 a k a + j a m b a
 a k a + j o g o j o g o
 a k a + j o n Z o
 a k a + k A g a
-a k a + k I k o
-a k a + k I n e
-a k a + k I z i
 a k a + k O k o
 a k a + k O k o r o
 a k a + k a b i r e
@@ -1044,10 +1076,6 @@ a k a + k a g a t e
 a k a + k a i k u r u
 a k a + k a m b a
 a k a + k a m b w e
-a k a + k i r a
-a k a + k i r i
-a k a + k i r o
-a k a + k j e N k j e
 a k a + k o N g o i Z o
 a k a + k o b a
 a k a + k o k o
@@ -1084,7 +1112,7 @@ a k a + n t u
 a k a + n u m i
 a k a + n w a
 a k a + p I r a
-a k a + p a k i t i
+a k a + p a T t i
 a k a + p a m p a r i
 a k a + p a p u r a
 a k a + p i m p i r i
@@ -1115,8 +1143,8 @@ a k a + r i m i
 a k a + r i m u
 a k a + r o f a
 a k a + r o n d o
+a k a + r u N D
 a k a + r u N g a
-a k a + r u N g i
 a k a + r u g u
 a k a + r u h i r e
 a k a + r u m u n a
@@ -1180,9 +1208,9 @@ a k a + t u N g u r u
 a k a + t u N g u t u N g u
 a k a + t u r u g u Y u
 a k a + t w a r o
-a k a + v u r u g j e
-a k a + z e N g j e r e r a
-a k a + z i N g i r i r o
+a k a + v u r u D e
+a k a + z e N D e r e r a
+a k a + z i N D r i r o
 a k a + z i b e
 a k a + z i m a
 a k a r i k u + b i r a
@@ -1190,16 +1218,16 @@ a k e + e k w a i t s e
 a k e + e z i r e
 a m + A n i
 a m + A r w a
-a m + E g j e r o
-a m + E g j e s e r e z o
-a m + E h a N g j e
+a m + E D e r o
+a m + E D e s e r e z o
+a m + E h a N D e
 a m + E r a
 a m + E z i
+a m + O D
+a m + O D e r o
 a m + O S e
-a m + O g i
-a m + O g j e r o
+a m + O T e z o
 a m + O j a
-a m + O k j e z o
 a m + O r w a n o
 a m + O z i
 a m + a S w a
@@ -1210,9 +1238,18 @@ a m + a r j o
 a m + a r o
 a m + a s i n i k o
 a m + a t a
-a m + e N g j e
+a m + e N D e
 a m + e r i k a
-a m a + N g i g i n a
+a m a + D N g o
+a m a + D e Y i
+a m a + D e m a
+a m a + D e m b e
+a m a + D e n d a
+a m a + D e z i
+a m a + D i f u
+a m a + D o r a
+a m a + D r a
+a m a + N D D n a
 a m a + S A r i
 a m a + S O k o r i n d o
 a m a + S U S U r i r o
@@ -1230,17 +1267,17 @@ a m a + S a m b a
 a m a + S a m b a n z i r a
 a m a + S a n S a
 a m a + S a n Z u
-a m a + S a n d U k j e
+a m a + S a n d U T e
 a m a + S a n d U k o
 a m a + S a n d a
 a m a + S a z a
 a m a + S e
-a m a + S e N g j e r o
+a m a + S e N D e r o
 a m a + S e m e r e r w a
 a m a + S e r e k a
+a m a + S o T e
 a m a + S o b e
 a m a + S o h o r e r o
-a m a + S o k j e
 a m a + S o m e r o
 a m a + S o m o
 a m a + S u m i
@@ -1248,6 +1285,7 @@ a m a + S u n S u r i r o
 a m a + S u n i k a
 a m a + S u n u n u
 a m a + T a n d a
+a m a + T e
 a m a + T u b a
 a m a + T u m b i
 a m a + T u m u
@@ -1257,7 +1295,7 @@ a m a + T w a n s i
 a m a + T w a n t e
 a m a + T w e r o
 a m a + Y A Y a
-a m a + Y U k i r o
+a m a + Y U T r o
 a m a + Z a b a r i
 a m a + Z a g a
 a m a + Z u
@@ -1267,11 +1305,11 @@ a m a + Z w a r i r o
 a m a + a h w a
 a m a + a j a
 a m a + a t o
-a m a + b A g i r o
+a m a + b A D r o
 a m a + b A r e
 a m a + b A t i
 a m a + b E r e
-a m a + b I k i r o
+a m a + b I T r o
 a m a + b a N g a
 a m a + b a N g o
 a m a + b a b i
@@ -1300,7 +1338,6 @@ a m a + f a r a N g a
 a m a + f u n d o
 a m a + f u r a
 a m a + f u r o
-a m a + g I f u
 a m a + g a N g a
 a m a + g a Y a
 a m a + g a m b i
@@ -1310,14 +1347,6 @@ a m a + g a r a
 a m a + g a r a m a
 a m a + g a r o
 a m a + g a r u k a
-a m a + g i N g o
-a m a + g i r a
-a m a + g j e Y i
-a m a + g j e m a
-a m a + g j e m b e
-a m a + g j e n d a
-a m a + g j e z i
-a m a + g j o r a
 a m a + g o b a
 a m a + g o s i
 a m a + g u f a
@@ -1330,8 +1359,8 @@ a m a + h E t e
 a m a + h I s i z o
 a m a + h O r e z o
 a m a + h U r i r o
+a m a + h a N D r o
 a m a + h a N g a
-a m a + h a N g i r o
 a m a + h a N g o
 a m a + h a S a
 a m a + h a h A r a
@@ -1346,10 +1375,10 @@ a m a + h e m a
 a m a + h e m b e
 a m a + h e n a h e n e
 a m a + h e n e h e n e
-a m a + h i g i k i z o
+a m a + h i D T z o
 a m a + h i r a
 a m a + h i r i z i
-a m a + h o N g j e r o
+a m a + h o N D e r o
 a m a + h u N g a
 a m a + h u N g u
 a m a + h u n d e
@@ -1357,13 +1386,13 @@ a m a + h u n d i r o
 a m a + h u r i
 a m a + h u r i r e
 a m a + h w a
-a m a + i N g i
+a m a + i N D
 a m a + i S o
 a m a + i n a r o
 a m a + i n o
 a m a + i r u
 a m a + i z i
-a m a + j a N g i
+a m a + j a N D
 a m a + j a n Z a
 a m a + j o n Z o
 a m a + j o n z a
@@ -1378,9 +1407,8 @@ a m a + k a n T a
 a m a + k a n d a
 a m a + k a n i s a
 a m a + k a r a
-a m a + k a r a N g i r a
+a m a + k a r a N D r a
 a m a + k a t a r a
-a m a + k j e
 a m a + k o m j o
 a m a + k o n d e r e
 a m a + k o r e r o
@@ -1421,18 +1449,18 @@ a m a + r i r a
 a m a + r o b o
 a m a + r o f a
 a m a + r o g o
-a m a + r u N g i
-a m a + r u N g i r o
+a m a + r u N D
+a m a + r u N D r o
 a m a + r u N g u
 a m a + r w a n i r o
 a m a + r w a r a
 a m a + r w a r i r o
 a m a + s A z i
-a m a + s a m b a N g i r a
+a m a + s a m b a N D r a
 a m a + s a s i
 a m a + s a z a
 a m a + s i N g a
-a m a + s i b i k i r o
+a m a + s i b i T r o
 a m a + s i k o
 a m a + s i n d e
 a m a + s j a
@@ -1440,17 +1468,17 @@ a m a + s j a z o
 a m a + s j o
 a m a + s j u k u
 a m a + s t O h a
+a m a + t A D
 a m a + t A b a
-a m a + t A g i
 a m a + t A h a
 a m a + t A r a
+a m a + t E T e r o
 a m a + t E k a
-a m a + t E k j e r o
 a m a + t E r a n i r o
 a m a + t E r e r o
 a m a + t U t i
+a m a + t a N D r i r o
 a m a + t a N g a
-a m a + t a N g i r i r o
 a m a + t a b A z a
 a m a + t a f A r i
 a m a + t a k o
@@ -1458,13 +1486,13 @@ a m a + t a m a
 a m a + t a m b i r o
 a m a + t a r w e
 a m a + t e
+a m a + t e T e r e
 a m a + t e g u r a
-a m a + t e k j e r e
 a m a + t e m b a
 a m a + t e m b e r o
 a m a + t e m b e z o
 a m a + t e m e
-a m a + t e n d e k j e r o
+a m a + t e n d e T e r o
 a m a + t i m b a
 a m a + t i n i
 a m a + t j a z o
@@ -1473,7 +1501,7 @@ a m a + t o N g o
 a m a + t o Z o
 a m a + t o n d o
 a m a + t o t o r o
-a m a + t s i b i k i r o
+a m a + t s i b i T r o
 a m a + t s i k o
 a m a + t s i n d e
 a m a + t u
@@ -1512,6 +1540,7 @@ b + o m b i
 b + o n S a t u
 b + o n a
 b + o n t A n o
+b A + D
 b A + S o
 b A + S o i m w e
 b A + S o z A r a
@@ -1522,6 +1551,13 @@ b A + S w e N k u r I m w e
 b A + S w e N k u r u
 b A + S w e n t o
 b A + S w e n t o i m w e
+b A + T S w e r a
+b A + T Z u g a
+b A + T e r u b i
+b A + T e t w a r a
+b A + T k o r a
+b A + T t a b A r i z i b w a
+b A + T t a b A z a
 b A + Y a k u f a
 b A + Y a m a g o j e
 b A + Y i n E k a
@@ -1559,7 +1595,6 @@ b A + b a r o
 b A + b a r o z a
 b A + d I s i
 b A + d e r E v a
-b A + g i
 b A + h a
 b A + h e
 b A + h i
@@ -1569,13 +1604,6 @@ b A + k a n o n i
 b A + k a r A n i
 b A + k a r E b i
 b A + k a t e t a
-b A + k i S w e r a
-b A + k i Z u g a
-b A + k i k o r a
-b A + k i t a b A r i z i b w a
-b A + k i t a b A z a
-b A + k j e r u b i
-b A + k j e t w a r a
 b A + m A r i m I t w e
 b A + m A r i m i
 b A + m A r u m e
@@ -1613,7 +1641,7 @@ b A + t a t e n t o i t w e
 b A + z i n a
 b I + h a
 b O d i
-b O d i N g i
+b O d i N D
 b U + h a
 b a
 b a + N g a h e
@@ -1628,7 +1656,7 @@ b a + Y A Y o k o
 b a + Y A Y o k o i m w e
 b a + g o r e
 b a + h a r a
-b a + i N g i h o
+b a + i N D h o
 b a + i S a b E p i s k o p i
 b a + i S a b a d I k o n i
 b a + i S a b a r E b e r e z i
@@ -1670,9 +1698,9 @@ b a + t i
 b a + t j o
 b a N k a
 b a i b u r i
+b i + N D h o
 b i + N g a h e
 b i + N g a h i
-b i + N g i h o
 b i + n u
 b i + r a h e
 b i + r a h i
@@ -1686,15 +1714,15 @@ b j + o m b i
 b j + o n S a t u
 b j + o n a
 b j + o n t A n o
+b u + D N g o
+b u + N D e r e z a
 b u + N g a h e
 b u + N g a h i
-b u + N g j e r e z a
 b u + Y o r o
-b u + b i r i g i
-b u + d A k i
+b u + b i r i D
+b u + d A T
 b u + f a r a n s a
 b u + g a n d a
-b u + g i N g o
 b u + g u r u
 b u + g u r u s i
 b u + h O r a n d a
@@ -1722,7 +1750,7 @@ b u + t s i g a z i
 b u + z i m a
 b u r A S i
 b u r A z a
-b u r a N g i t i
+b u r a N D t i
 b u r i
 b u r u r u
 b w + a i r a
@@ -1732,17 +1760,19 @@ b w + o n S a t u
 b w + o n a
 b w + o n t A n o
 b w a + S E S a
+b w a + T e i r e
 b w a + Y i m a
-b w a + k j e i r e
 b w a n a
 d O d o
 d i r I r i
 d o m i n i k a
+e + D o r a
+e + D r A s i
 e + N g a h e
 e + N g a h i
-e + S A g i
+e + S A D
+e + S A T
 e + S A h a
-e + S A k i
 e + S A m w e
 e + S A r a
 e + S E g u
@@ -1762,7 +1792,7 @@ e + S a h o
 e + S a k a m a
 e + S a m a
 e + S a m b u
-e + S a n d U k j e
+e + S a n d U T e
 e + S a n d U k o
 e + S a n d a
 e + S a n d a g o
@@ -1781,9 +1811,9 @@ e + S i S a
 e + S i Y a Y a
 e + S i Y a Y i
 e + S i h e r a
+e + S o D
 e + S o N g o
 e + S o g a
-e + S o g i
 e + S o h e r a
 e + S o k o m b w a
 e + S o k o n d w a
@@ -1807,9 +1837,9 @@ e + T u p a
 e + Y A Y a
 e + Y A Y i m a
 e + Y A j o
+e + Y a N D
+e + Y a N D e
 e + Y a N g a
-e + Y a N g i
-e + Y a N g j e
 e + Y a N g o
 e + Y a N g w e
 e + Y a N k o k O r e
@@ -1829,9 +1859,9 @@ e + Y a k a n w a
 e + Y a k a t O m a
 e + Y a m a
 e + Y a m a i S w a
-e + Y a m b u k i r o
+e + Y a m b u T r o
 e + Y a m b u r a r a
-e + Y a m u k i z a
+e + Y a m u T z a
 e + Y a m u r i m i
 e + Y a m u t s i m b i
 e + Y a m u z i g a
@@ -1844,24 +1874,24 @@ e + Y a r u Z u
 e + Y a r u b a b i
 e + Y a r u b w a
 e + Y a r w a n d a
-e + Y a r w e k I k a
+e + Y a r w e T i k a
 e + Y a t a n o
 e + Y a t i k a
 e + Y a w A w a
+e + Y e D e s a
+e + Y e D e s o
 e + Y e Z u
-e + Y e g j e s a
-e + Y e g j e s o
 e + Y e k u b o
 e + Y e m e r a
 e + Y e m i b w a
 e + Y e n Z e
 e + Y e n a
 e + Y e r e r e
+e + Y i D
+e + Y i N D
 e + Y i N g a n a
-e + Y i N g i
-e + Y i g i
+e + Y i T r i z a
 e + Y i h o
-e + Y i k i r i z a
 e + Y i k o
 e + Y i n a
 e + Y i n d o
@@ -1880,7 +1910,7 @@ e + Y o n Z o
 e + Y o n d o
 e + Y o n t o
 e + Y o n z a
-e + Y o r e k j e r e r a
+e + Y o r e T e r e r a
 e + Y o r o r a
 e + Y o r o z i
 e + Y o t s j o
@@ -1911,7 +1941,7 @@ e + b u g u m a
 e + d A z i n i
 e + d I n i
 e + d U k a
-e + d a k I k a
+e + d a T i k a
 e + d e b e
 e + d i r i s a
 e + d u b u
@@ -1942,8 +1972,6 @@ e + g O r o
 e + g O t i
 e + g a b o
 e + g a r a n i
-e + g i r A s i
-e + g j o r a
 e + g o b o r e
 e + g u n i j a
 e + g u t i j a
@@ -1956,6 +1984,7 @@ e + h e m a
 e + h o N g w a
 e + h u r u r u
 e + i Z w i r e
+e + j A T o
 e + j A Y u
 e + j A b j o
 e + j A b o
@@ -1964,7 +1993,6 @@ e + j A g o
 e + j A g w o
 e + j A h o
 e + j A j o
-e + j A k j o
 e + j A k o
 e + j A k w o
 e + j A m w o
@@ -1972,7 +2000,7 @@ e + j A r j o
 e + j A r w o
 e + j A t w o
 e + j A z o
-e + j a N g j e
+e + j a N D e
 e + j a i t u
 e + j a s w e
 e + k A Y i m a
@@ -1981,7 +2009,7 @@ e + k O n a
 e + k O t i
 e + k a
 e + k a b a d a
-e + k a b e g i
+e + k a b e D
 e + k a n i s a
 e + k a n z u
 e + k a r A j i
@@ -2014,7 +2042,7 @@ e + n a r A s i
 e + n o N k o
 e + n o g o
 e + n o n o
-e + n u N g i
+e + n u N D
 e + n u S u
 e + n u m i
 e + n u n I r a
@@ -2029,7 +2057,7 @@ e + r A t i r i
 e + r A z i
 e + r U r u
 e + r U t s i
-e + r a N g i
+e + r a N D
 e + r a h e
 e + r a h i
 e + r a n d a
@@ -2059,20 +2087,20 @@ e + s i m b i
 e + s i m b o
 e + s i m b u
 e + s i m u
-e + s i n d i k i r a
+e + s i n d i T r a
 e + s i n d o
 e + s i r a b o
-e + s i r i N g i
+e + s i r i N D
 e + s j o
 e + s o h A n i
 e + s o n z i
-e + s t O k i N g i
-e + s t O k i s i
+e + s t O T N D
+e + s t O T s i
 e + t A b e
 e + t A m u
 e + t A n o
 e + t A r a
-e + t E k i r e
+e + t E T r e
 e + t I m u
 e + t U t u
 e + t a
@@ -2089,10 +2117,11 @@ e + t a n U r u
 e + t a n d a r u h a
 e + t e r e k o
 e + t i
-e + t i k i t i
+e + t i T t i
 e + t j o
 e + t u n d u b A r e
 e + t w a i t e
+e + z A T o
 e + z A Y u
 e + z A b i b u
 e + z A b j o
@@ -2103,7 +2132,6 @@ e + z A b w o
 e + z A g o
 e + z A g w o
 e + z A j o
-e + z A k j o
 e + z A k o
 e + z A k w o
 e + z A r j o
@@ -2111,11 +2139,839 @@ e + z A r w o
 e + z A t w o
 e + z A w e
 e + z A z o
-e + z a N g j e
+e + z a N D e
 e + z a i t u
 e + z e
-e b + i N g i
+e D + i n e
+e T + D e m b e
+e T + D e n d w o m w e
+e T + D e r e
+e T + D e r o
+e T + D e z i
+e T + D e z o
+e T + D g o
+e T + D i k o
+e T + N g o n z i
+e T + S A b o
+e T + S A h a
+e T + S A j A j a
+e T + S A j i
+e T + S A k u
+e T + S A k u z o
+e T + S A t o
+e T + S E Y i
+e T + S I S a
+e T + S U r i r a
+e T + S a D k o
+e T + S a N g a
+e T + S a N k a r a
+e T + S a S a r a
+e T + S a T r o
+e T + S a h o
+e T + S a i Z a
+e T + S a k a
+e T + S a m a t o
+e T + S a m b i r o
+e T + S a n S a
+e T + S a n S a r a
+e T + S a n Z a g a h o r e
+e T + S a n Z e
+e T + S a r a g A t e
+e T + S a r a r a
+e T + S a r e
+e T + S a t e
+e T + S e D e S u
+e T + S e D e r e
+e T + S e N D e
+e T + S e T e
+e T + S e b e
+e T + S e g o
+e T + S e k a S e T e
+e T + S e k u r e
+e T + S e m b o
+e T + S e n S e r o
+e T + S e r e b a N g a Y i
+e T + S i D e S u
+e T + S i n Z o
+e T + S o S o N k o r o
+e T + S o g a S o g a
+e T + S o g o r e r a
+e T + S o h a
+e T + S o k o r o
+e T + S o r e
+e T + S o r o
+e T + S o r o S o r o
+e T + S o r o b w a
+e T + S o r o g o t o
+e T + S u
+e T + S u D
+e T + S u N g u z o
+e T + S u S A n i
+e T + S u S u
+e T + S u S u N g a
+e T + S u b a
+e T + S u g w i t u
+e T + S u g w i t w a
+e T + S u m u r u z o
+e T + S u n Z u
+e T + S u r i
+e T + S u t a m o
+e T + S w a
+e T + S w a g a
+e T + T E r e r a n w a
+e T + T N g u r i z o
+e T + T O r i
+e T + T U T u
+e T + T U k U r e
+e T + T e
+e T + T e r e
+e T + T i n e
+e T + T n d i D t i
+e T + T n d o
+e T + T o b o j o
+e T + T o n T o
+e T + T r i
+e T + T u
+e T + T u N D r o
+e T + T u N g a
+e T + T u N g u r o
+e T + T u Z u
+e T + T u b a
+e T + T u k u r a
+e T + T u m a
+e T + T u m a t e
+e T + T u m b e
+e T + T u m u T u m u
+e T + T u m u r o
+e T + T u m u r w a
+e T + T u n T u
+e T + T u r a
+e T + T u r a D e Y i
+e T + T u r e i r e
+e T + T u r i z o
+e T + T u r o
+e T + T w a m b a
+e T + T w e k a
+e T + Y A r i
+e T + Y A t s i
+e T + Y O b w a
+e T + Y U T r o
+e T + Y a
+e T + Y a N g o n d o T e r a
+e T + Y a N k w a n z i
+e T + Y a b u S a
+e T + Y a b w o j a
+e T + Y a g a S a n i
+e T + Y a m a t e
+e T + Y a m w i T r i r i z a
+e T + Y a n S u n Z u
+e T + Y a n t i n d a
+e T + Y e D e
+e T + Y e Y E z i
+e T + Y e r e r e
+e T + Y i g a
+e T + Y i m a Y i m i
+e T + Y o Y i
+e T + Y o g o t e
+e T + Y o r o
+e T + Y w e b w a
+e T + Y w i s o
+e T + Z a b u r o
+e T + Z a g a
+e T + Z a g a r a z i
+e T + Z a m b a
+e T + Z e D e
+e T + Z e N g o
+e T + Z e g a Z e D e
+e T + Z e n Z e D e r e
+e T + Z o g a
+e T + Z u
+e T + Z u N g u
+e T + Z u Z u
+e T + Z u Z u k a
+e T + Z u g o
+e T + Z u m a
+e T + Z u m o
+e T + Z u n Z U r e
+e T + Z u n Z a
+e T + Z u n Z u m a
+e T + Z u n d e
+e T + Z u r u b u r a
+e T + Z w a N D e
+e T + Z w a r o
+e T + a N D e
+e T + a N g a
+e T + a N g a N g a
+e T + a N g u
+e T + a N g u h i
+e T + a S a
+e T + a S u r i
+e T + a T o
+e T + a Y a b E n e
+e T + a Y u
+e T + a b a i r e h o
+e T + a b a n d i z e
+e T + a b i
+e T + a b j o
+e T + a b o
+e T + a b w o
+e T + a g A n a
+e T + a g o
+e T + a g w o
+e T + a h a
+e T + a h o
+e T + a i t u
+e T + a j o
+e T + a k a
+e T + a k a n a
+e T + a k o
+e T + a k w o
+e T + a m a h a n o
+e T + a m b a r a
+e T + a m b u
+e T + a m u h e r u
+e T + a m w o
+e T + a n a
+e T + a n d a
+e T + a n z i
+e T + a p a
+e T + a r a
+e T + a r a n i
+e T + a r i
+e T + a r i T r o
+e T + a r i r e
+e T + a r j o
+e T + a r o
+e T + a r u D r e m u
+e T + a r u r a
+e T + a r w o
+e T + a s e
+e T + a t a
+e T + a t o
+e T + a t s i
+e T + a t w o
+e T + a w e
+e T + a z A r u T r e m u
+e T + a z o
+e T + b A r e
+e T + b A t i
+e T + b I n a
+e T + b U z o
+e T + b a
+e T + b a N g a
+e T + b a N g o
+e T + b a b i
+e T + b a b o
+e T + b a i z i r o
+e T + b a j a
+e T + b a n Z a
+e T + b a n d a
+e T + b a n d i r a
+e T + b a n d o
+e T + b a n d u r o
+e T + b a r a h o
+e T + b a r i
+e T + b e N D e
+e T + b e g o
+e T + b e r o
+e T + b i
+e T + b i N g o
+e T + b i b i
+e T + b i b i r o
+e T + b i g a
+e T + b i m b a
+e T + b i r I t i
+e T + b i r a
+e T + b i s i
+e T + b j a
+e T + b j a m o
+e T + b j a r w a
+e T + b o D e k a
+e T + b o h o
+e T + b o m b o
+e T + b o m b w e
+e T + b o n d e
+e T + b o n w o m w e
+e T + b u N g o
+e T + b u N g u r u r w a
+e T + b u b a
+e T + b u g a
+e T + b u g u
+e T + b u m b e
+e T + b u n d a
+e T + b u n u
+e T + b u r a
+e T + b u r a b u r i N g w a
+e T + b w a
+e T + d e
+e T + e D e m e r a
+e T + e S u S u z o
+e T + e Y a n Z a
+e T + e Z e N g o
+e T + e Z w i s o
+e T + e b i s i r e
+e T + e f E r a
+e T + e f u b i k o
+e T + e g a m i r o
+e T + e h U b o
+e T + e h i m b a D r i z a
+e T + e j a
+e T + e j e m e T
+e T + e j e r e z o
+e T + e j o
+e T + e k w a i t s e
+e T + e k w a t s o
+e T + e l I m b e
+e T + e m e r e r o
+e T + e m o
+e T + e n Z u
+e T + e n d a
+e T + e r a r e z i
+e T + e s i n d i k o
+e T + e t e r e r o
+e T + e t i n d o
+e T + e t o b e
+e T + e t s i n d i k o
+e T + e t w e T e r e r o
+e T + e v u g o
+e T + e z i r e
+e T + e z i t i r a
+e T + f E f e
+e T + f E r a
+e T + f I r e
+e T + f I z i
+e T + f U h a
+e T + f u
+e T + f u N g a
+e T + f u N g u r u z o
+e T + f u Y i k a
+e T + f u b a
+e T + f u b i r o
+e T + f u k a
+e T + f u m u k a
+e T + f u m u r a n o
+e T + f u m u z o
+e T + f u n Z o
+e T + f u n d i T z o
+e T + f u r U t o
+e T + f u r o
+e T + f u r u k w a
+e T + f u z i
+e T + g A n I r o
+e T + g A n I z o
+e T + g A r a
+e T + g A r a b a
+e T + g U n a
+e T + g a N g a b u T
+e T + g a N g o
+e T + g a g a r a
+e T + g a m b o
+e T + g a n Z a
+e T + g a n d a
+e T + g a n o
+e T + g a r a g w a
+e T + g a r a m i
+e T + g o
+e T + g o Z o
+e T + g o g o
+e T + g o g o r o
+e T + g o i g o
+e T + g o j e
+e T + g o m b e
+e T + g o r o g o n Z o
+e T + g o r o g o r o
+e T + g u N D r o
+e T + g u S u k a
+e T + g u f u
+e T + g u r i
+e T + g u r u T r a
+e T + g w i r e
+e T + h A b w a j o
+e T + h A z a
+e T + h E b w a j o
+e T + h I r a
+e T + h I r i r a
+e T + h U Y i r a
+e T + h U g a
+e T + h U m u r o
+e T + h U t e
+e T + h U z o
+e T + h a D
+e T + h a N D r w e
+e T + h a N g a r e
+e T + h a N g o
+e T + h a N g u s j a
+e T + h a g a r o
+e T + h a h A r a
+e T + h a h a
+e T + h a m a
+e T + h a n d I T r w e
+e T + h a n d I T r w e h o
+e T + h a n d I k o
+e T + h a n d a g a z i
+e T + h a n d e
+e T + h a n i T s o
+e T + h a n i k a
+e T + h a r A t u r i r o
+e T + h a r a
+e T + h a r a r a
+e T + h a r u r o
+e T + h a z e
+e T + h a z o
+e T + h e N D e r e
+e T + h e m b o
+e T + h e m u
+e T + h e n e s o
+e T + h e r a
+e T + h e r e i r e
+e T + h i
+e T + h i N D r w e
+e T + h i T r e
+e T + h i h i z i
+e T + h i k a
+e T + h i m a k a z i
+e T + h i m b a
+e T + h i m b o
+e T + h i n Z u
+e T + h i n z i
+e T + h o
+e T + h o N g o r e
+e T + h o N g o r e z o
+e T + h o N g w a
+e T + h o S o
+e T + h o h o r o
+e T + h o k o
+e T + h o m e
+e T + h o n o k a
+e T + h o n z i
+e T + h o r O Y o
+e T + h u N D E t s j o
+e T + h u N D e
+e T + h u N D e r e z o
+e T + h u Y i r a n o
+e T + h u g U h u g u
+e T + h u m i
+e T + h u r I r e
+e T + h u r i T z o
+e T + h u r u g u t o
+e T + h w a h w a
+e T + h w e i r e
+e T + h w e r e T e r e z o
+e T + i S a m u t U t u
+e T + i Y i n a
+e T + i Z u t s j o
+e T + i b o
+e T + i g a
+e T + i h i r o
+e T + i h u r o
+e T + i n a
+e T + i n a m i
+e T + i n e
+e T + i r u T r o
+e T + i t o
+e T + i t u r u r w a
+e T + j O r o
+e T + j a N g w e
+e T + j e N g o
+e T + j e n Z e
+e T + j o j o
+e T + j o n Z o
+e T + k A k a
+e T + k A r i
+e T + k O h e
+e T + k O h i
+e T + k O k o
+e T + k O m i
+e T + k O n a
+e T + k O r E r e
+e T + k O t e
+e T + k U b i s o
+e T + k U b o
+e T + k U r a
+e T + k U t i r i r o
+e T + k a
+e T + k a N g a
+e T + k a b i r a
+e T + k a b i r e
+e T + k a g a t o
+e T + k a j a
+e T + k a k a
+e T + k a m U r o
+e T + k a m b a
+e T + k a n Z a
+e T + k a n d e
+e T + k a n u
+e T + k a p u
+e T + k a r a
+e T + k a r a N g o
+e T + k a r a b o
+e T + k a t s i
+e T + k a t u
+e T + k o
+e T + k o N D E z o
+e T + k o N g o
+e T + k o N g o r o
+e T + k o N k o
+e T + k o Z o
+e T + k o b a
+e T + k o i Z o
+e T + k o k o
+e T + k o k w a
+e T + k o m a Y o
+e T + k o m e r a
+e T + k o m o r o z o
+e T + k o n d O r o
+e T + k o n d a
+e T + k o n d o
+e T + k o n i
+e T + k o n o
+e T + k o p o
+e T + k o r o
+e T + k o r o g o t o
+e T + k o r o r o
+e T + k o r w a
+e T + k u
+e T + k u N g u
+e T + k u N k u r i
+e T + k u Y u k o
+e T + k u b j o
+e T + k u k u
+e T + k u m b a
+e T + k u m u
+e T + k u r u
+e T + k u r u m a
+e T + k u r u m o
+e T + k u r u m u r u r o
+e T + k u r u r o
+e T + k u z i r e
+e T + k w a t s i
+e T + k w e m b a
+e T + m A S o
+e T + m A t I z i
+e T + m I n a
+e T + m a S a
+e T + m a m a
+e T + m a m o
+e T + m a m u T
+e T + m a r a
+e T + m a r i r o
+e T + m b U r a
+e T + m b U r o
+e T + m b a r a
+e T + m b u r i m b u r i
+e T + m e
+e T + m e r a
+e T + m e r e r e z i
+e T + m i r a
+e T + m u Y u
+e T + m u g a
+e T + m u r i
+e T + m w e
+e T + m w e i Z a
+e T + n A b i r o
+e T + n A n a
+e T + n a D r o
+e T + n d i
+e T + n e
+e T + n e n a
+e T + n i N g a
+e T + n i g a
+e T + n i m b a
+e T + n o N g o r o
+e T + n o g o r o
+e T + n o m b e
+e T + n o s i
+e T + n t u
+e T + n u g w a
+e T + n w a n w a
+e T + o D
+e T + o T z e
+e T + o b a t e
+e T + o b u s A s i
+e T + o h a
+e T + o j a
+e T + o k w e S w e k a
+e T + o m a
+e T + o m b e T r w e
+e T + o m b e k o
+e T + o m b o
+e T + o m u D S a
+e T + o r w a n Z u
+e T + o s i
+e T + o s j o
+e T + o t a
+e T + o t o
+e T + o z i
+e T + p a m p a g a r i
+e T + p a n d e
+e T + p a p A r i
+e T + p a p u r a
+e T + p i m i s a
+e T + p i m i s o
+e T + p i m o
+e T + p i m p i r i
+e T + p i p a
+e T + r A r o
+e T + r A t w a
+e T + r E g o
+e T + r E r e
+e T + r E t a
+e T + r I r i r i z i
+e T + r O m a
+e T + r O r o
+e T + r O t o
+e T + r a D r o
+e T + r a N D
+e T + r a N D r i r o
+e T + r a N g o
+e T + r a S o
+e T + r a b j o
+e T + r a b u k o
+e T + r a g A n o
+e T + r a g o
+e T + r a h i r o
+e T + r a h u r i
+e T + r a i N g w a
+e T + r a m b i
+e T + r a m u
+e T + r a m u t s j o
+e T + r a n d a
+e T + r a r a
+e T + r a r e
+e T + r a r i
+e T + r e N D E s o
+e T + r e N D e
+e T + r e N D e s o
+e T + r e N g a
+e T + r e Z u
+e T + r e g o
+e T + r e m a
+e T + r e m u
+e T + r e n d a
+e T + r e r e
+e T + r e r u z o
+e T + r e z i
+e T + r i
+e T + r i D m e
+e T + r i b a t i r o
+e T + r i h o
+e T + r i j o
+e T + r i k u f u k a
+e T + r i k u m i z a
+e T + r i k u t a g a t a
+e T + r i k u t u k u r a
+e T + r i k w e r a
+e T + r i k w i r a g u r a
+e T + r i k w i r u k a
+e T + r i k w o t s j a
+e T + r i m b a
+e T + r i m b i
+e T + r i m b o
+e T + r i m i
+e T + r i m u
+e T + r i n d i
+e T + r i r i
+e T + r i z i j a
+e T + r o
+e T + r o f a
+e T + r o g o j a
+e T + r o g u j a
+e T + r o k o
+e T + r o n d a
+e T + r o n d o g o z i
+e T + r o r e r o
+e T + r u N D
+e T + r u N g a
+e T + r u T r o
+e T + r u b i
+e T + r u g u
+e T + r u m i T r o
+e T + r u m i k o
+e T + r u n d o
+e T + r w a
+e T + r w a i r e
+e T + s E n E n o
+e T + s E s e r o
+e T + s I k a
+e T + s I m U z o
+e T + s I z i
+e T + s O n i
+e T + s O r O r o
+e T + s a N g a n a n a
+e T + s a N g u z o
+e T + s a i s a
+e T + s a s i
+e T + s e D e s i
+e T + s i D e
+e T + s i N D s o
+e T + s i N g o
+e T + s i b o
+e T + s i g A Y i m a
+e T + s i k a
+e T + s i m b a
+e T + s i m e n t i
+e T + s i n d e
+e T + s i n d i k w a
+e T + s i n s I n o
+e T + s i n s i
+e T + s i r I r a
+e T + s i r o
+e T + s i s a
+e T + s i s i
+e T + s j a
+e T + s j a r a z i
+e T + s j o k o r i
+e T + s j o r i
+e T + t A g a Z u
+e T + t A g u r i r o
+e T + t A h i r o
+e T + t A k o
+e T + t A n i
+e T + t E T e r e z o
+e T + t E T r e
+e T + t E g a
+e T + t E h u r i z a
+e T + t E k a t E k o
+e T + t E k o
+e T + t E r a
+e T + t E r e r e r o
+e T + t E r o
+e T + t E t e
+e T + t E t e i
+e T + t I h o
+e T + t I n i s a
+e T + t I n w a
+e T + t O T e
+e T + t O Y e z i
+e T + t O m a
+e T + t O r o
+e T + t U m i r o
+e T + t U r I z i
+e T + t U r o
+e T + t U t i
+e T + t a
+e T + t a N g A z o
+e T + t a b a S o
+e T + t a b o
+e T + t a f A r i
+e T + t a g a t i r i z i
+e T + t a h w a h o
+e T + t a i n e
+e T + t a i t a
+e T + t a k a
+e T + t a k a r E b w a g a
+e T + t a k u r i
+e T + t a m b A r a
+e T + t a m b i r a
+e T + t a m b o
+e T + t a n d a
+e T + t a n v U r e
+e T + t a r a
+e T + t a r i
+e T + t a r i k o
+e T + t a r o
+e T + t e N g a
+e T + t e N g o
+e T + t e T e r e
+e T + t e b a
+e T + t e b e
+e T + t e b j o
+e T + t e g a
+e T + t e i S a n i
+e T + t e m b e
+e T + t e m b e z o
+e T + t e m e
+e T + t e n d E r e
+e T + t e n t e r a
+e T + t e r e
+e T + t e t a
+e T + t i
+e T + t i g u
+e T + t i m a
+e T + t i m b a
+e T + t i n d i r i r o
+e T + t j o k o r i
+e T + t o
+e T + t o D
+e T + t o N D e
+e T + t o N g o r e
+e T + t o Z o
+e T + t o b o t o b o
+e T + t o k O z i
+e T + t o n d a D r a
+e T + t o n d o r o
+e T + t o r O g o
+e T + t o r i
+e T + t s i D e
+e T + t s i b o
+e T + t s i g a Y i m a
+e T + t s i n d e
+e T + t s i n d i k w a
+e T + t s i n t s I n o
+e T + t s i n t s i
+e T + t s i r e
+e T + t s i r o
+e T + t s i t s a
+e T + t s j o r i
+e T + t u
+e T + t u N g a
+e T + t u N g w a
+e T + t u g u
+e T + t u k u r u
+e T + t u m b a
+e T + t u m b e
+e T + t u m b i k w a
+e T + t u m b i s a
+e T + t u m b w e
+e T + t u n a
+e T + t u n d a
+e T + t u r u r w a
+e T + t w a r i r e
+e T + t w a r o
+e T + u g u
+e T + v I k o
+e T + v u n e
+e T + w h o
+e T + w h o N g o r o
+e T + w h u S a
+e T + w h u S o
+e T + w h w e k o
+e T + z A D r i r o
+e T + z A n i r o
+e T + z A r w a
+e T + z E z E t o
+e T + z I T r o
+e T + z I z i
+e T + z O r a
+e T + z O r o
+e T + z a h a m b u T
+e T + z e N D e r e r a
+e T + z e N D e r e z i
+e T + z i D r a
+e T + z i N g a
+e T + z i b a
+e T + z i b a h o
+e T + z i b u
+e T + z i g u k a
+e T + z i h I z a
+e T + z i m a
+e T + z i m b a
+e T + z i n i o
+e T + z i n o
+e T + z i r i g a
+e T + z i z i
+e T i + Z w i r e
+e T o m u + z i r o
+e T r i k u + b i r a
+e b + i N D
 e b a + i n e
+e b i + D e S e r a
+e b i + D e n e
+e b i + D e r e
+e b i + D e z o
+e b i + D g o
+e b i + D i k o
+e b i + D r i m u
 e b i + N g o n z i
 e b i + S A b o
 e b i + S A h a
@@ -2128,13 +2984,13 @@ e b i + S E Y i
 e b i + S I S a
 e b i + S U S a
 e b i + S a
+e b i + S a D k o
 e b i + S a N g a
 e b i + S a N k u
-e b i + S a g i k o
+e b i + S a T r o
 e b i + S a h o
 e b i + S a i Z a
 e b i + S a k a
-e b i + S a k i r o
 e b i + S a m a t o
 e b i + S a m b i r o
 e b i + S a n S a
@@ -2145,12 +3001,12 @@ e b i + S a r a r a
 e b i + S a r e
 e b i + S a t e
 e b i + S a t u
-e b i + S e N g j e
+e b i + S e D e S u
+e b i + S e N D e
+e b i + S e T e
 e b i + S e b e
-e b i + S e g j e S u
 e b i + S e g o
-e b i + S e k a S e k j e
-e b i + S e k j e
+e b i + S e k a S e T e
 e b i + S e m b o
 e b i + S e n S e r o
 e b i + S e r e b a N g a Y i
@@ -2166,12 +3022,12 @@ e b i + S o r o S o r o
 e b i + S o r o b w a
 e b i + S o r o g o t o
 e b i + S u
+e b i + S u D
 e b i + S u N g u z o
 e b i + S u S a n i
 e b i + S u S u
 e b i + S u S u N g a
 e b i + S u b a
-e b i + S u g i
 e b i + S u g w i t u
 e b i + S u g w i t w a
 e b i + S u n Z u
@@ -2180,14 +3036,22 @@ e b i + S u r u g u t u
 e b i + S u t a m o
 e b i + S w a
 e b i + S w a g a
+e b i + T N g u r i z o
 e b i + T O r i
 e b i + T U T u
 e b i + T U k U r e
+e b i + T e
+e b i + T e r e
+e b i + T i n e
+e b i + T n d i D t i
+e b i + T n d o
 e b i + T o b o j o
 e b i + T o n T o
+e b i + T r i
+e b i + T r i m u
 e b i + T u
+e b i + T u N D r o
 e b i + T u N g a
-e b i + T u N g i r o
 e b i + T u N g u r o
 e b i + T u Z u
 e b i + T u b a
@@ -2204,21 +3068,21 @@ e b i + T w e k a
 e b i + Y A r i
 e b i + Y A t s i
 e b i + Y O b w a
-e b i + Y U k i r o
+e b i + Y U T r o
 e b i + Y a
 e b i + Y a N g a b o
-e b i + Y a N g o n d o k j e r a
+e b i + Y a N g o n d o T e r a
 e b i + Y a N k w a n z i
 e b i + Y a b o j a
 e b i + Y a b u g o j a
 e b i + Y a g a S a n i
 e b i + Y a m a t e
-e b i + Y a m w i k i r i r i z a
+e b i + Y a m w i T r i r i z a
 e b i + Y a n S u n Z u
 e b i + Y a n t i n d a
+e b i + Y e D e
 e b i + Y e Y E z i
 e b i + Y e Y e r e
-e b i + Y e g j e
 e b i + Y i g a
 e b i + Y i m a Y i m i
 e b i + Y o Y i
@@ -2230,11 +3094,11 @@ e b i + Y w i s o
 e b i + Z a g A r a z i
 e b i + Z a g a
 e b i + Z a m b a
-e b i + Z e N g j e
+e b i + Z e D e
+e b i + Z e N D e
 e b i + Z e N g o
-e b i + Z e g a Z e g j e
-e b i + Z e g j e
-e b i + Z e n Z e g j e r e
+e b i + Z e g a Z e D e
+e b i + Z e n Z e D e r e
 e b i + Z o g a
 e b i + Z u
 e b i + Z u Z u
@@ -2247,9 +3111,9 @@ e b i + Z u n Z U r e
 e b i + Z u n Z a
 e b i + Z u n Z u m a
 e b i + Z u n d e
-e b i + Z w a N g j e
+e b i + Z w a N D e
 e b i + Z w a r o
-e b i + Z w e N g j e
+e b i + Z w e N D e
 e b i + b A r e
 e b i + b A t i
 e b i + b I n a
@@ -2264,7 +3128,7 @@ e b i + b a n d i r a
 e b i + b a n d i r o
 e b i + b a r a h o
 e b i + b a r i
-e b i + b e N g j e
+e b i + b e N D e
 e b i + b e g o
 e b i + b e m b e
 e b i + b e r o
@@ -2280,7 +3144,7 @@ e b i + b i s i
 e b i + b j a
 e b i + b j a m o
 e b i + b j a r w a
-e b i + b o g j e k a
+e b i + b o D e k a
 e b i + b o h o
 e b i + b o m b o
 e b i + b o m b w e
@@ -2311,7 +3175,7 @@ e b i + f u m u k a
 e b i + f u m u r a n o
 e b i + f u m u z o
 e b i + f u n Z o
-e b i + f u n d i k i z o
+e b i + f u n d i T z o
 e b i + f u r U t o
 e b i + f u r o
 e b i + f u r u k w a
@@ -2320,9 +3184,8 @@ e b i + g A n I r o
 e b i + g A n I z o
 e b i + g A r a
 e b i + g A r a b a
-e b i + g I k o
 e b i + g U n a
-e b i + g a N g a b u k i
+e b i + g a N g a b u T
 e b i + g a N g o
 e b i + g a g a r a
 e b i + g a m b o
@@ -2330,12 +3193,6 @@ e b i + g a n Z a
 e b i + g a n o
 e b i + g a r a g w a
 e b i + g a r a m i
-e b i + g i g o
-e b i + g i r i m u
-e b i + g j e S e r a
-e b i + g j e n e
-e b i + g j e r e
-e b i + g j e z o
 e b i + g o
 e b i + g o Z o
 e b i + g o g o
@@ -2344,11 +3201,11 @@ e b i + g o j e
 e b i + g o m b e
 e b i + g o r o g o n Z o
 e b i + g o r o g o r o
-e b i + g u N g i r o
+e b i + g u N D r o
 e b i + g u S u k a
 e b i + g u f u
 e b i + g u r i
-e b i + g u r u k i r a
+e b i + g u r u T r a
 e b i + g u r u s i
 e b i + g w i r e
 e b i + h A b w a j o
@@ -2361,26 +3218,26 @@ e b i + h U g a
 e b i + h U m u r o
 e b i + h U t e
 e b i + h U z o
-e b i + h a N g i r w e
+e b i + h a D
+e b i + h a N D r w e
 e b i + h a N g o
 e b i + h a b u r o
 e b i + h a g a r o
-e b i + h a g i
 e b i + h a h A r a
 e b i + h a h a
 e b i + h a m a
-e b i + h a n d I k i r w e
-e b i + h a n d I k i r w e h o
+e b i + h a n d I T r w e
+e b i + h a n d I T r w e h o
 e b i + h a n d I k o
 e b i + h a n d a g a z i
 e b i + h a n d e
+e b i + h a n i T s o
 e b i + h a n i k a
-e b i + h a n i k i s o
 e b i + h a r A t u r i r o
 e b i + h a r a r a
 e b i + h a r u r o
 e b i + h a z o
-e b i + h e N g j e r e
+e b i + h e N D e r e
 e b i + h e h e s o
 e b i + h e m b o
 e b i + h e m u
@@ -2388,10 +3245,10 @@ e b i + h e n e s o
 e b i + h e r a
 e b i + h e r e i r e
 e b i + h i
-e b i + h i N g i r w e
+e b i + h i N D r w e
+e b i + h i T r e
 e b i + h i h i z i
 e b i + h i k a
-e b i + h i k i r e
 e b i + h i m b a
 e b i + h i m b o
 e b i + h i n d i
@@ -2407,18 +3264,18 @@ e b i + h o m e
 e b i + h o n o k a
 e b i + h o n z i
 e b i + h o r O Y o
-e b i + h u N g j E t s j o
-e b i + h u N g j e r e z o
+e b i + h u N D E t s j o
+e b i + h u N D e r e z o
 e b i + h u Y i r a n o
 e b i + h u g U h u g u
 e b i + h u m i
 e b i + h u r I r e
-e b i + h u r i k i z o
+e b i + h u r i T z o
 e b i + h u r u g u t o
 e b i + h w a h w a
 e b i + h w a z i
 e b i + h w e i r e
-e b i + h w e r e k j e r e z o
+e b i + h w e r e T e r e z o
 e b i + h w i Z o
 e b i + i S a m u t U t u
 e b i + i Y i n a
@@ -2431,8 +3288,8 @@ e b i + i n a
 e b i + i n a m i
 e b i + i n e
 e b i + i n o
+e b i + i r u T r o
 e b i + i r u k a
-e b i + i r u k i r o
 e b i + i t o
 e b i + i t u r u r w a
 e b i + j a N g w e
@@ -2444,7 +3301,6 @@ e b i + j o j o
 e b i + j o n Z o
 e b i + k A k a
 e b i + k A r i
-e b i + k I n e
 e b i + k O h e
 e b i + k O h i
 e b i + k O k o
@@ -2455,8 +3311,8 @@ e b i + k O t e
 e b i + k U b i s o
 e b i + k U b o
 e b i + k a
+e b i + k a N D s o
 e b i + k a N g a
-e b i + k a N g i s o
 e b i + k a T a
 e b i + k a b i r a
 e b i + k a b i r e
@@ -2477,15 +3333,8 @@ e b i + k a r a b o
 e b i + k a t s i
 e b i + k a t u
 e b i + k a z i
-e b i + k i N g u r i z o
-e b i + k i n d i g i t i
-e b i + k i n d o
-e b i + k i r i
-e b i + k i r i m u
-e b i + k j e
-e b i + k j e r e
 e b i + k o
-e b i + k o N g j E z o
+e b i + k o N D E z o
 e b i + k o N g o r o
 e b i + k o N k o
 e b i + k o Z o
@@ -2525,7 +3374,7 @@ e b i + k w e m b a
 e b i + m A S o
 e b i + m A t I z i
 e b i + m a S a
-e b i + m a m u k i
+e b i + m a m u T
 e b i + m a r i r o
 e b i + m b U r a
 e b i + m b U r u
@@ -2541,7 +3390,7 @@ e b i + m w e
 e b i + m w e i Z a
 e b i + n A b i r o
 e b i + n a
-e b i + n a g i r o
+e b i + n a D r o
 e b i + n d i
 e b i + n d i h o
 e b i + n e
@@ -2577,14 +3426,14 @@ e b i + r I r a
 e b i + r I r i r i z i
 e b i + r O r o
 e b i + r O t o
-e b i + r a N g i
-e b i + r a N g i r i r o
+e b i + r a D r o
+e b i + r a N D
+e b i + r a N D r i r o
 e b i + r a N g o
 e b i + r a S o
 e b i + r a b j o
 e b i + r a b u k o
 e b i + r a g A n o
-e b i + r a g i r o
 e b i + r a g o
 e b i + r a h i r o
 e b i + r a h u r i
@@ -2594,9 +3443,9 @@ e b i + r a m u t s j o
 e b i + r a n d a
 e b i + r a r e
 e b i + r a r i
+e b i + r e N D e
+e b i + r e N D e s o
 e b i + r e N g a
-e b i + r e N g j e
-e b i + r e N g j e s o
 e b i + r e Z u
 e b i + r e g o
 e b i + r e m a
@@ -2620,7 +3469,7 @@ e b i + r i k w i r a g u r a
 e b i + r i k w i r u k a
 e b i + r i k w o t s j a
 e b i + r i m b a
-e b i + r i m b a g i r i z o
+e b i + r i m b a D r i z o
 e b i + r i m b o
 e b i + r i m i
 e b i + r i m u
@@ -2632,12 +3481,12 @@ e b i + r o k o
 e b i + r o n d a
 e b i + r o n d o g o z i
 e b i + r o r e r o
+e b i + r u N D
 e b i + r u N g a
-e b i + r u N g i
+e b i + r u T r o
 e b i + r u b i
 e b i + r u g u
-e b i + r u k i r o
-e b i + r u m i k i r o
+e b i + r u m i T r o
 e b i + r u m i k o
 e b i + r w a
 e b i + s A n I k o
@@ -2646,11 +3495,11 @@ e b i + s I z i
 e b i + s O r O r o
 e b i + s a i s a
 e b i + s a s i
-e b i + s e g j e s i
-e b i + s i N g i s o
+e b i + s e D e s i
+e b i + s i D e
+e b i + s i N D s o
 e b i + s i N g o
 e b i + s i b o
-e b i + s i g j e
 e b i + s i k a
 e b i + s i m b a
 e b i + s i m e n t i
@@ -2672,10 +3521,10 @@ e b i + t A h i r o
 e b i + t A k o
 e b i + t A n i
 e b i + t A n o
+e b i + t E T e r e z o
+e b i + t E T r e
 e b i + t E g a
 e b i + t E k a t E k o
-e b i + t E k i r e
-e b i + t E k j e r e z o
 e b i + t E k o
 e b i + t E r a
 e b i + t E r e r e r o
@@ -2685,8 +3534,8 @@ e b i + t E t e i
 e b i + t I h o
 e b i + t I n i s a
 e b i + t I n w a
+e b i + t O T e
 e b i + t O Y e z i
-e b i + t O k j e
 e b i + t O m a
 e b i + t O r o
 e b i + t U m i r o
@@ -2715,11 +3564,11 @@ e b i + t a r i k u b a r w a
 e b i + t a r o
 e b i + t e N g a
 e b i + t e N g o
+e b i + t e T e r e
 e b i + t e b a
 e b i + t e b e
 e b i + t e b j o
 e b i + t e g a
-e b i + t e k j e r e
 e b i + t e m b e
 e b i + t e m b e z o
 e b i + t e m e
@@ -2734,17 +3583,17 @@ e b i + t i m b a
 e b i + t i n d i r i r o
 e b i + t j o k o r i
 e b i + t o
-e b i + t o N g j e
+e b i + t o D
+e b i + t o N D e
 e b i + t o N g o r e
 e b i + t o Z o
 e b i + t o b o t o b o
-e b i + t o g i
 e b i + t o k O z i
 e b i + t o n d o r o
 e b i + t o r O g o
 e b i + t o r i
+e b i + t s i D e
 e b i + t s i b o
-e b i + t s i g j e
 e b i + t s i n d e
 e b i + t s i n t s I n o
 e b i + t s i n t s i
@@ -2766,23 +3615,23 @@ e b i + t u m b i s a
 e b i + t u m b w e
 e b i + t u n a
 e b i + t u n d a
-e b i + t u n t u m u k i
+e b i + t u n t u m u T
 e b i + t u r u r w a
 e b i + t w a r i r e
 e b i + t w a r o
-e b i + t w e N g j e
+e b i + t w e N D e
 e b i + v I k o
 e b i + v u n e
-e b i + z A g i r i r o
+e b i + z A D r i r o
 e b i + z A n i r o
 e b i + z A r w a
-e b i + z I k i r o
-e b i + z a h a m b u k i
-e b i + z e N g j e r e z i
+e b i + z I T r o
+e b i + z a h a m b u T
+e b i + z e N D e r e z i
+e b i + z i D r a
 e b i + z i N g a
 e b i + z i b a h o
 e b i + z i b u
-e b i + z i g i r a
 e b i + z i g u k a
 e b i + z i h I z a
 e b i + z i m a
@@ -2791,12 +3640,14 @@ e b i + z i m u
 e b i + z i n o
 e b i + z i r i g a
 e b i r i k u + b i r a
+e b j + a N D e
 e b j + a N g a
 e b j + a N g a N g a
-e b j + a N g j e
 e b j + a N g u
 e b j + a N g u h i
 e b j + a S u r i
+e b j + a T E r i
+e b j + a T o
 e b j + a Y a b E n e
 e b j + a Y u
 e b j + a b a n d i z e
@@ -2812,8 +3663,6 @@ e b j + a h o
 e b j + a i t u
 e b j + a j o
 e b j + a k a n a
-e b j + a k j E r i
-e b j + a k j o
 e b j + a k o
 e b j + a k w o
 e b j + a m a g a r a
@@ -2830,7 +3679,7 @@ e b j + a p a
 e b j + a r a
 e b j + a r a n i
 e b j + a r i
-e b j + a r i k i r o
+e b j + a r i T r o
 e b j + a r j o
 e b j + a r o
 e b j + a r w o
@@ -2841,21 +3690,21 @@ e b j + a t s i
 e b j + a t w o
 e b j + a w e
 e b j + a z o
+e b j + e D e m e r a
 e b j + e S o N g o r o
 e b j + e S u S u z o
 e b j + e S w e k o
 e b j + e Y a n Z a
-e b j + e Y e g j e s a
+e b j + e Y e D e s a
 e b j + e Z e N g o
 e b j + e b i s i r e
 e b j + e b u m b e
 e b j + e f E r a
 e b j + e f u b i k o
 e b j + e g a m i r o
-e b j + e g j e m e r a
-e b j + e h i m b a g i r i z a
+e b j + e h i m b a D r i z a
 e b j + e j a
-e b j + e j e m e k i
+e b j + e j e m e T
 e b j + e j e r a
 e b j + e j e r e r o
 e b j + e j e r e z o
@@ -2867,21 +3716,21 @@ e b j + e m i k o n o
 e b j + e m o
 e b j + e n Z u
 e b j + e r e r e z i
-e b j + e s a N g i z o
+e b j + e s a N D z o
 e b j + e s i s a
 e b j + e t A g o
 e b j + e t e r e r o
 e b j + e t i n d o
-e b j + e t w e k j e r e r o
+e b j + e t w e T e r e r o
 e b j + e v u g o
 e b j + e z i r e
+e b j + o D
 e b j + o N g A Y o
+e b j + o T z e
 e b j + o b a t e
 e b j + o b u f u m u
-e b j + o b u h i N g i
-e b j + o g i
+e b j + o b u h i N D
 e b j + o j a
-e b j + o k i z e
 e b j + o k u Y w a
 e b j + o k u Z w a r a
 e b j + o k u h i n d a h i n d u k a
@@ -2895,7 +3744,7 @@ e b j + o k u t a N g A z a
 e b j + o k u z A n i s a
 e b j + o k w e S w e k a
 e b j + o m a
-e b j + o m b e k i r w e
+e b j + o m b e T r w e
 e b j + o m b e k o
 e b j + o m b o
 e b j + o m u b o n a n o
@@ -2910,8 +3759,12 @@ e b j + u g u
 e b j + u m b U r a
 e b w + i n e
 e g a + i n e
-e g i + i n e
 e g w + i n e
+e i + D e S a
+e i + D e m a
+e i + D e m b e
+e i + D e n d a
+e i + D r a
 e i + S A r i
 e i + S A z i
 e i + S U S U r i r o
@@ -2926,24 +3779,24 @@ e i + S a n S a
 e i + S a n Z u
 e i + S a t u
 e i + S a z a
-e i + S e N g j e r o
+e i + S e N D e r o
 e i + S i
+e i + S o T e
 e i + S o b e
 e i + S o h o r e r o
-e i + S o k j e
 e i + S o m e r o
 e i + S o m o
 e i + S u m a
 e i + S u m i
 e i + S u n S u r i r o
 e i + S w a
-e i + T u N g i r o
+e i + T u N D r o
 e i + T u b a
 e i + T u m b i
 e i + T u m u
 e i + T w e k a
 e i + T w e r o
-e i + Y U k i r o
+e i + Y U T r o
 e i + Z a g a
 e i + Z u
 e i + Z u g o
@@ -2951,7 +3804,7 @@ e i + Z w a r i r o
 e i + b A r e
 e i + b A t i
 e i + b E r e
-e i + b I k i r o
+e i + b I T r o
 e i + b a N g a
 e i + b a N g o
 e i + b a b i
@@ -2986,11 +3839,6 @@ e i + g a n Z a
 e i + g a n a
 e i + g a r a m a
 e i + g a r o
-e i + g i r a
-e i + g j e S a
-e i + g j e m a
-e i + g j e m b e
-e i + g j e n d a
 e i + g o b e
 e i + g u f a
 e i + g u r i r o
@@ -3001,8 +3849,8 @@ e i + h E t e
 e i + h I s i z o
 e i + h O r e z o
 e i + h U r i r o
+e i + h a N D r o
 e i + h a N g a
-e i + h a N g i r o
 e i + h a N g w e
 e i + h a h A r a
 e i + h a m b a
@@ -3015,10 +3863,10 @@ e i + h e
 e i + h e g a
 e i + h e m a
 e i + h e m b e
-e i + h i g i k i z o
+e i + h i D T z o
 e i + h i r a
 e i + h i r i z i
-e i + h o N g j e r o
+e i + h o N D e r o
 e i + h o r E r e
 e i + h u N g a
 e i + h u N g u
@@ -3069,30 +3917,30 @@ e i + r i m b o
 e i + r i n d i r o
 e i + r o b o
 e i + r o g o
-e i + r u N g i r o
+e i + r u N D r o
 e i + r u N g u
 e i + r u m b o
 e i + r w a n i r o
 e i + r w a r i r o
 e i + s a s i
 e i + s i N g a
-e i + s i b i k i r o
+e i + s i b i T r o
 e i + s i g U r i r o
 e i + s i k o
 e i + s j a N g a
 e i + s j a z o
 e i + s j u k u
+e i + t A D
 e i + t A b a
-e i + t A g i
 e i + t A h a
 e i + t A n o
+e i + t E T e r o
 e i + t E k a
-e i + t E k j e r o
 e i + t E r a n i r o
 e i + t E r e r o
 e i + t I n i
 e i + t U r o
-e i + t a N g i r i r o
+e i + t a N D r i r o
 e i + t a b A z a
 e i + t a f A r i
 e i + t a k a
@@ -3100,12 +3948,12 @@ e i + t a k o
 e i + t a m a
 e i + t a m b i r o
 e i + t a r w e
+e i + t e T e r e
 e i + t e g u r a
-e i + t e k j e r e
 e i + t e m b a
 e i + t e m b e r o
 e i + t e m e
-e i + t e n d e k j e r o
+e i + t e n d e T e r o
 e i + t e t s i
 e i + t i m a
 e i + t i m b a
@@ -3114,7 +3962,7 @@ e i + t j a z o
 e i + t o N g o
 e i + t o Z o
 e i + t o n d o
-e i + t s i b i k i r o
+e i + t s i b i T r o
 e i + t u
 e i + t u N g o
 e i + t u N g u
@@ -3126,7 +3974,7 @@ e i + t w a
 e i + t w a r e
 e i + z A n i r o
 e i + z A r i r o
-e i + z I k i r o
+e i + z I T r o
 e i + z I k o
 e i + z I n a
 e i + z O b a
@@ -3138,836 +3986,16 @@ e i + z i n i o
 e j + a N g u h i
 e j + e k w a i t s e
 e j + e z i r e
-e j + o k i z e
+e j + o T z e
 e j a + a b a n d i z e
 e j i
-e k I + Z w i r e
 e k a + i n e
-e k i + N g o n z i
-e k i + S A b o
-e k i + S A h a
-e k i + S A j A j a
-e k i + S A j i
-e k i + S A k u
-e k i + S A k u z o
-e k i + S A t o
-e k i + S E Y i
-e k i + S I S a
-e k i + S U r i r a
-e k i + S a N g a
-e k i + S a N k a r a
-e k i + S a S a r a
-e k i + S a g i k o
-e k i + S a h o
-e k i + S a i Z a
-e k i + S a k a
-e k i + S a k i r o
-e k i + S a m a t o
-e k i + S a m b i r o
-e k i + S a n S a
-e k i + S a n S a r a
-e k i + S a n Z a g a h o r e
-e k i + S a n Z e
-e k i + S a r a g A t e
-e k i + S a r a r a
-e k i + S a r e
-e k i + S a t e
-e k i + S e N g j e
-e k i + S e b e
-e k i + S e g j e S u
-e k i + S e g j e r e
-e k i + S e g o
-e k i + S e k a S e k j e
-e k i + S e k j e
-e k i + S e k u r e
-e k i + S e m b o
-e k i + S e n S e r o
-e k i + S e r e b a N g a Y i
-e k i + S i g j e S u
-e k i + S i n Z o
-e k i + S o S o N k o r o
-e k i + S o g a S o g a
-e k i + S o g o r e r a
-e k i + S o h a
-e k i + S o k o r o
-e k i + S o r e
-e k i + S o r o
-e k i + S o r o S o r o
-e k i + S o r o b w a
-e k i + S o r o g o t o
-e k i + S u
-e k i + S u N g u z o
-e k i + S u S A n i
-e k i + S u S u
-e k i + S u S u N g a
-e k i + S u b a
-e k i + S u g i
-e k i + S u g w i t u
-e k i + S u g w i t w a
-e k i + S u m u r u z o
-e k i + S u n Z u
-e k i + S u r i
-e k i + S u t a m o
-e k i + S w a
-e k i + S w a g a
-e k i + T O r i
-e k i + T U T u
-e k i + T U k U r e
-e k i + T o b o j o
-e k i + T o n T o
-e k i + T u
-e k i + T u N g a
-e k i + T u N g i r o
-e k i + T u N g u r o
-e k i + T u Z u
-e k i + T u b a
-e k i + T u k u r a
-e k i + T u m a
-e k i + T u m a t e
-e k i + T u m b e
-e k i + T u m u T u m u
-e k i + T u m u r o
-e k i + T u m u r w a
-e k i + T u n T u
-e k i + T u r a
-e k i + T u r a g j e Y i
-e k i + T u r e i r e
-e k i + T u r i z o
-e k i + T u r o
-e k i + T w a m b a
-e k i + T w e k a
-e k i + Y A r i
-e k i + Y A t s i
-e k i + Y O b w a
-e k i + Y U k i r o
-e k i + Y a
-e k i + Y a N g o n d o k j e r a
-e k i + Y a N k w a n z i
-e k i + Y a b u S a
-e k i + Y a b w o j a
-e k i + Y a g a S a n i
-e k i + Y a m a t e
-e k i + Y a m w i k i r i r i z a
-e k i + Y a n S u n Z u
-e k i + Y a n t i n d a
-e k i + Y e Y E z i
-e k i + Y e g j e
-e k i + Y e r e r e
-e k i + Y i g a
-e k i + Y i m a Y i m i
-e k i + Y o Y i
-e k i + Y o g o t e
-e k i + Y o r o
-e k i + Y w e b w a
-e k i + Y w i s o
-e k i + Z a b u r o
-e k i + Z a g a
-e k i + Z a g a r a z i
-e k i + Z a m b a
-e k i + Z e N g o
-e k i + Z e g a Z e g j e
-e k i + Z e g j e
-e k i + Z e n Z e g j e r e
-e k i + Z o g a
-e k i + Z u
-e k i + Z u N g u
-e k i + Z u Z u
-e k i + Z u Z u k a
-e k i + Z u g o
-e k i + Z u m a
-e k i + Z u m o
-e k i + Z u n Z U r e
-e k i + Z u n Z a
-e k i + Z u n Z u m a
-e k i + Z u n d e
-e k i + Z u r u b u r a
-e k i + Z w a N g j e
-e k i + Z w a r o
-e k i + b A r e
-e k i + b A t i
-e k i + b I n a
-e k i + b U z o
-e k i + b a
-e k i + b a N g a
-e k i + b a N g o
-e k i + b a b i
-e k i + b a b o
-e k i + b a i z i r o
-e k i + b a j a
-e k i + b a n Z a
-e k i + b a n d a
-e k i + b a n d i r a
-e k i + b a n d o
-e k i + b a n d u r o
-e k i + b a r a h o
-e k i + b a r i
-e k i + b e N g j e
-e k i + b e g o
-e k i + b e r o
-e k i + b i
-e k i + b i N g o
-e k i + b i b i
-e k i + b i b i r o
-e k i + b i g a
-e k i + b i m b a
-e k i + b i r I t i
-e k i + b i r a
-e k i + b i s i
-e k i + b j a
-e k i + b j a m o
-e k i + b j a r w a
-e k i + b o g j e k a
-e k i + b o h o
-e k i + b o m b o
-e k i + b o m b w e
-e k i + b o n d e
-e k i + b o n w o m w e
-e k i + b u N g o
-e k i + b u N g u r u r w a
-e k i + b u b a
-e k i + b u g a
-e k i + b u g u
-e k i + b u m b e
-e k i + b u n d a
-e k i + b u n u
-e k i + b u r a
-e k i + b u r a b u r i N g w a
-e k i + b w a
-e k i + d e
-e k i + f E f e
-e k i + f E r a
-e k i + f I r e
-e k i + f I z i
-e k i + f U h a
-e k i + f u
-e k i + f u N g a
-e k i + f u N g u r u z o
-e k i + f u Y i k a
-e k i + f u b a
-e k i + f u b i r o
-e k i + f u k a
-e k i + f u m u k a
-e k i + f u m u r a n o
-e k i + f u m u z o
-e k i + f u n Z o
-e k i + f u n d i k i z o
-e k i + f u r U t o
-e k i + f u r o
-e k i + f u r u k w a
-e k i + f u z i
-e k i + g A n I r o
-e k i + g A n I z o
-e k i + g A r a
-e k i + g A r a b a
-e k i + g I k o
-e k i + g U n a
-e k i + g a N g a b u k i
-e k i + g a N g o
-e k i + g a g a r a
-e k i + g a m b o
-e k i + g a n Z a
-e k i + g a n d a
-e k i + g a n o
-e k i + g a r a g w a
-e k i + g a r a m i
-e k i + g i g o
-e k i + g j e m b e
-e k i + g j e n d w o m w e
-e k i + g j e r e
-e k i + g j e r o
-e k i + g j e z i
-e k i + g j e z o
-e k i + g o
-e k i + g o Z o
-e k i + g o g o
-e k i + g o g o r o
-e k i + g o i g o
-e k i + g o j e
-e k i + g o m b e
-e k i + g o r o g o n Z o
-e k i + g o r o g o r o
-e k i + g u N g i r o
-e k i + g u S u k a
-e k i + g u f u
-e k i + g u r i
-e k i + g u r u k i r a
-e k i + g w i r e
-e k i + h A b w a j o
-e k i + h A z a
-e k i + h E b w a j o
-e k i + h I r a
-e k i + h I r i r a
-e k i + h U Y i r a
-e k i + h U g a
-e k i + h U m u r o
-e k i + h U t e
-e k i + h U z o
-e k i + h a N g a r e
-e k i + h a N g i r w e
-e k i + h a N g o
-e k i + h a N g u s j a
-e k i + h a g a r o
-e k i + h a g i
-e k i + h a h A r a
-e k i + h a h a
-e k i + h a m a
-e k i + h a n d I k i r w e
-e k i + h a n d I k i r w e h o
-e k i + h a n d I k o
-e k i + h a n d a g a z i
-e k i + h a n d e
-e k i + h a n i k a
-e k i + h a n i k i s o
-e k i + h a r A t u r i r o
-e k i + h a r a
-e k i + h a r a r a
-e k i + h a r u r o
-e k i + h a z e
-e k i + h a z o
-e k i + h e N g j e r e
-e k i + h e m b o
-e k i + h e m u
-e k i + h e n e s o
-e k i + h e r a
-e k i + h e r e i r e
-e k i + h i
-e k i + h i N g i r w e
-e k i + h i h i z i
-e k i + h i k a
-e k i + h i k i r e
-e k i + h i m a k a z i
-e k i + h i m b a
-e k i + h i m b o
-e k i + h i n Z u
-e k i + h i n z i
-e k i + h o
-e k i + h o N g o r e
-e k i + h o N g o r e z o
-e k i + h o N g w a
-e k i + h o S o
-e k i + h o h o r o
-e k i + h o k o
-e k i + h o m e
-e k i + h o n o k a
-e k i + h o n z i
-e k i + h o r O Y o
-e k i + h u N g j E t s j o
-e k i + h u N g j e
-e k i + h u N g j e r e z o
-e k i + h u Y i r a n o
-e k i + h u g U h u g u
-e k i + h u m i
-e k i + h u r I r e
-e k i + h u r i k i z o
-e k i + h u r u g u t o
-e k i + h w a h w a
-e k i + h w e i r e
-e k i + h w e r e k j e r e z o
-e k i + i S a m u t U t u
-e k i + i Y i n a
-e k i + i Z u t s j o
-e k i + i b o
-e k i + i g a
-e k i + i h i r o
-e k i + i h u r o
-e k i + i n a
-e k i + i n a m i
-e k i + i n e
-e k i + i r u k i r o
-e k i + i t o
-e k i + i t u r u r w a
-e k i + j O r o
-e k i + j a N g w e
-e k i + j e N g o
-e k i + j e n Z e
-e k i + j o j o
-e k i + j o n Z o
-e k i + k A k a
-e k i + k A r i
-e k i + k I n e
-e k i + k O h e
-e k i + k O h i
-e k i + k O k o
-e k i + k O m i
-e k i + k O n a
-e k i + k O r E r e
-e k i + k O t e
-e k i + k U b i s o
-e k i + k U b o
-e k i + k U r a
-e k i + k U t i r i r o
-e k i + k a
-e k i + k a N g a
-e k i + k a b i r a
-e k i + k a b i r e
-e k i + k a g a t o
-e k i + k a j a
-e k i + k a k a
-e k i + k a m U r o
-e k i + k a m b a
-e k i + k a n Z a
-e k i + k a n d e
-e k i + k a n u
-e k i + k a p u
-e k i + k a r a
-e k i + k a r a N g o
-e k i + k a r a b o
-e k i + k a t s i
-e k i + k a t u
-e k i + k i N g u r i z o
-e k i + k i n d i g i t i
-e k i + k i n d o
-e k i + k i r i
-e k i + k j E r e r a n w a
-e k i + k j e
-e k i + k j e r e
-e k i + k o
-e k i + k o N g j E z o
-e k i + k o N g o
-e k i + k o N g o r o
-e k i + k o N k o
-e k i + k o Z o
-e k i + k o b a
-e k i + k o i Z o
-e k i + k o k o
-e k i + k o k w a
-e k i + k o m a Y o
-e k i + k o m e r a
-e k i + k o m o r o z o
-e k i + k o n d O r o
-e k i + k o n d a
-e k i + k o n d o
-e k i + k o n i
-e k i + k o n o
-e k i + k o p o
-e k i + k o r o
-e k i + k o r o g o t o
-e k i + k o r o r o
-e k i + k o r w a
-e k i + k u
-e k i + k u N g u
-e k i + k u N k u r i
-e k i + k u Y u k o
-e k i + k u b j o
-e k i + k u k u
-e k i + k u m b a
-e k i + k u m u
-e k i + k u r u
-e k i + k u r u m a
-e k i + k u r u m o
-e k i + k u r u m u r u r o
-e k i + k u r u r o
-e k i + k u z i r e
-e k i + k w a t s i
-e k i + k w e m b a
-e k i + m A S o
-e k i + m A t I z i
-e k i + m I n a
-e k i + m a S a
-e k i + m a m a
-e k i + m a m o
-e k i + m a m u k i
-e k i + m a r a
-e k i + m a r i r o
-e k i + m b U r a
-e k i + m b U r o
-e k i + m b a r a
-e k i + m b u r i m b u r i
-e k i + m e
-e k i + m e r a
-e k i + m e r e r e z i
-e k i + m i r a
-e k i + m u Y u
-e k i + m u g a
-e k i + m u r i
-e k i + m w e
-e k i + m w e i Z a
-e k i + n A b i r o
-e k i + n A n a
-e k i + n a g i r o
-e k i + n d i
-e k i + n e
-e k i + n e n a
-e k i + n i N g a
-e k i + n i g a
-e k i + n i m b a
-e k i + n o N g o r o
-e k i + n o g o r o
-e k i + n o m b e
-e k i + n o s i
-e k i + n t u
-e k i + n u g w a
-e k i + n w a n w a
-e k i + p a m p a g a r i
-e k i + p a n d e
-e k i + p a p A r i
-e k i + p a p u r a
-e k i + p i m i s a
-e k i + p i m i s o
-e k i + p i m o
-e k i + p i m p i r i
-e k i + p i p a
-e k i + r A r o
-e k i + r A t w a
-e k i + r E g o
-e k i + r E r e
-e k i + r E t a
-e k i + r I r i r i z i
-e k i + r O m a
-e k i + r O r o
-e k i + r O t o
-e k i + r a N g i
-e k i + r a N g i r i r o
-e k i + r a N g o
-e k i + r a S o
-e k i + r a b j o
-e k i + r a b u k o
-e k i + r a g A n o
-e k i + r a g i r o
-e k i + r a g o
-e k i + r a h i r o
-e k i + r a h u r i
-e k i + r a i N g w a
-e k i + r a m b i
-e k i + r a m u
-e k i + r a m u t s j o
-e k i + r a n d a
-e k i + r a r a
-e k i + r a r e
-e k i + r a r i
-e k i + r e N g a
-e k i + r e N g j E s o
-e k i + r e N g j e
-e k i + r e N g j e s o
-e k i + r e Z u
-e k i + r e g o
-e k i + r e m a
-e k i + r e m u
-e k i + r e n d a
-e k i + r e r e
-e k i + r e r u z o
-e k i + r e z i
-e k i + r i
-e k i + r i b a t i r o
-e k i + r i g i m e
-e k i + r i h o
-e k i + r i j o
-e k i + r i k u f u k a
-e k i + r i k u m i z a
-e k i + r i k u t a g a t a
-e k i + r i k u t u k u r a
-e k i + r i k w e r a
-e k i + r i k w i r a g u r a
-e k i + r i k w i r u k a
-e k i + r i k w o t s j a
-e k i + r i m b a
-e k i + r i m b i
-e k i + r i m b o
-e k i + r i m i
-e k i + r i m u
-e k i + r i n d i
-e k i + r i r i
-e k i + r i z i j a
-e k i + r o
-e k i + r o f a
-e k i + r o g o j a
-e k i + r o g u j a
-e k i + r o k o
-e k i + r o n d a
-e k i + r o n d o g o z i
-e k i + r o r e r o
-e k i + r u N g a
-e k i + r u N g i
-e k i + r u b i
-e k i + r u g u
-e k i + r u k i r o
-e k i + r u m i k i r o
-e k i + r u m i k o
-e k i + r u n d o
-e k i + r w a
-e k i + r w a i r e
-e k i + s E n E n o
-e k i + s E s e r o
-e k i + s I k a
-e k i + s I m U z o
-e k i + s I z i
-e k i + s O n i
-e k i + s O r O r o
-e k i + s a N g a n a n a
-e k i + s a N g u z o
-e k i + s a i s a
-e k i + s a s i
-e k i + s e g j e s i
-e k i + s i N g i s o
-e k i + s i N g o
-e k i + s i b o
-e k i + s i g A Y i m a
-e k i + s i g j e
-e k i + s i k a
-e k i + s i m b a
-e k i + s i m e n t i
-e k i + s i n d e
-e k i + s i n d i k w a
-e k i + s i n s I n o
-e k i + s i n s i
-e k i + s i r I r a
-e k i + s i r o
-e k i + s i s a
-e k i + s i s i
-e k i + s j a
-e k i + s j a r a z i
-e k i + s j o k o r i
-e k i + s j o r i
-e k i + t A g a Z u
-e k i + t A g u r i r o
-e k i + t A h i r o
-e k i + t A k o
-e k i + t A n i
-e k i + t E g a
-e k i + t E h u r i z a
-e k i + t E k a t E k o
-e k i + t E k i r e
-e k i + t E k j e r e z o
-e k i + t E k o
-e k i + t E r a
-e k i + t E r e r e r o
-e k i + t E r o
-e k i + t E t e
-e k i + t E t e i
-e k i + t I h o
-e k i + t I n i s a
-e k i + t I n w a
-e k i + t O Y e z i
-e k i + t O k j e
-e k i + t O m a
-e k i + t O r o
-e k i + t U m i r o
-e k i + t U r I z i
-e k i + t U r o
-e k i + t U t i
-e k i + t a
-e k i + t a N g A z o
-e k i + t a b a S o
-e k i + t a b o
-e k i + t a f A r i
-e k i + t a g a t i r i z i
-e k i + t a h w a h o
-e k i + t a i n e
-e k i + t a i t a
-e k i + t a k a
-e k i + t a k a r E b w a g a
-e k i + t a k u r i
-e k i + t a m b A r a
-e k i + t a m b i r a
-e k i + t a m b o
-e k i + t a n d a
-e k i + t a n v U r e
-e k i + t a r a
-e k i + t a r i
-e k i + t a r i k o
-e k i + t a r o
-e k i + t e N g a
-e k i + t e N g o
-e k i + t e b a
-e k i + t e b e
-e k i + t e b j o
-e k i + t e g a
-e k i + t e i S a n i
-e k i + t e k j e r e
-e k i + t e m b e
-e k i + t e m b e z o
-e k i + t e m e
-e k i + t e n d E r e
-e k i + t e n t e r a
-e k i + t e r e
-e k i + t e t a
-e k i + t i
-e k i + t i g u
-e k i + t i m a
-e k i + t i m b a
-e k i + t i n d i r i r o
-e k i + t j o k o r i
-e k i + t o
-e k i + t o N g j e
-e k i + t o N g o r e
-e k i + t o Z o
-e k i + t o b o t o b o
-e k i + t o g i
-e k i + t o k O z i
-e k i + t o n d a g i r a
-e k i + t o n d o r o
-e k i + t o r O g o
-e k i + t o r i
-e k i + t s i b o
-e k i + t s i g a Y i m a
-e k i + t s i g j e
-e k i + t s i n d e
-e k i + t s i n d i k w a
-e k i + t s i n t s I n o
-e k i + t s i n t s i
-e k i + t s i r e
-e k i + t s i r o
-e k i + t s i t s a
-e k i + t s j o r i
-e k i + t u
-e k i + t u N g a
-e k i + t u N g w a
-e k i + t u g u
-e k i + t u k u r u
-e k i + t u m b a
-e k i + t u m b e
-e k i + t u m b i k w a
-e k i + t u m b i s a
-e k i + t u m b w e
-e k i + t u n a
-e k i + t u n d a
-e k i + t u r u r w a
-e k i + t w a r i r e
-e k i + t w a r o
-e k i + v I k o
-e k i + v u n e
-e k i + z A g i r i r o
-e k i + z A n i r o
-e k i + z A r w a
-e k i + z E z E t o
-e k i + z I k i r o
-e k i + z I z i
-e k i + z O r a
-e k i + z O r o
-e k i + z a h a m b u k i
-e k i + z e N g j e r e r a
-e k i + z e N g j e r e z i
-e k i + z i N g a
-e k i + z i b a
-e k i + z i b a h o
-e k i + z i b u
-e k i + z i g i r a
-e k i + z i g u k a
-e k i + z i h I z a
-e k i + z i m a
-e k i + z i m b a
-e k i + z i n i o
-e k i + z i n o
-e k i + z i r i g a
-e k i + z i z i
-e k i r i k u + b i r a
-e k j + a N g a
-e k j + a N g a N g a
-e k j + a N g j e
-e k j + a N g u
-e k j + a N g u h i
-e k j + a S a
-e k j + a S u r i
-e k j + a Y a b E n e
-e k j + a Y u
-e k j + a b a i r e h o
-e k j + a b a n d i z e
-e k j + a b i
-e k j + a b j o
-e k j + a b o
-e k j + a b w o
-e k j + a g A n a
-e k j + a g o
-e k j + a g w o
-e k j + a h a
-e k j + a h o
-e k j + a i t u
-e k j + a j o
-e k j + a k a
-e k j + a k a n a
-e k j + a k j o
-e k j + a k o
-e k j + a k w o
-e k j + a m a h a n o
-e k j + a m b a r a
-e k j + a m b u
-e k j + a m u h e r u
-e k j + a m w o
-e k j + a n a
-e k j + a n d a
-e k j + a n z i
-e k j + a p a
-e k j + a r a
-e k j + a r a n i
-e k j + a r i
-e k j + a r i k i r o
-e k j + a r i r e
-e k j + a r j o
-e k j + a r o
-e k j + a r u g i r e m u
-e k j + a r u r a
-e k j + a r w o
-e k j + a s e
-e k j + a t a
-e k j + a t o
-e k j + a t s i
-e k j + a t w o
-e k j + a w e
-e k j + a z A r u k i r e m u
-e k j + a z o
-e k j + e S u S u z o
-e k j + e Y a n Z a
-e k j + e Z e N g o
-e k j + e Z w i s o
-e k j + e b i s i r e
-e k j + e f E r a
-e k j + e f u b i k o
-e k j + e g a m i r o
-e k j + e g j e m e r a
-e k j + e h U b o
-e k j + e h i m b a g i r i z a
-e k j + e j a
-e k j + e j e m e k i
-e k j + e j e r e z o
-e k j + e j o
-e k j + e k w a i t s e
-e k j + e k w a t s o
-e k j + e l I m b e
-e k j + e m e r e r o
-e k j + e m o
-e k j + e n Z u
-e k j + e n d a
-e k j + e r a r e z i
-e k j + e s i n d i k o
-e k j + e t e r e r o
-e k j + e t i n d o
-e k j + e t o b e
-e k j + e t s i n d i k o
-e k j + e t w e k j e r e r o
-e k j + e v u g o
-e k j + e z i r e
-e k j + e z i t i r a
-e k j + o b a t e
-e k j + o b u s A s i
-e k j + o g i
-e k j + o h a
-e k j + o j a
-e k j + o k i z e
-e k j + o k w e S w e k a
-e k j + o m a
-e k j + o m b e k i r w e
-e k j + o m b e k o
-e k j + o m b o
-e k j + o m u g i S a
-e k j + o r w a n Z u
-e k j + o s i
-e k j + o s j o
-e k j + o t a
-e k j + o t o
-e k j + o z i
-e k j + u g u
-e k j + w h o
-e k j + w h o N g o r o
-e k j + w h u S a
-e k j + w h u S o
-e k j + w h w e k o
-e k j o m u + z i r o
 e k w + i n e
 e k w + i r w a
 e m + E r i
 e m + E z a
 e m + I S w a
-e m + a Y i k i r i z o
+e m + a Y i T r i z o
 e m + a Y o
 e m + a n z i
 e m + b A g w a
@@ -3975,7 +4003,7 @@ e m + b A h o
 e m + b A r e
 e m + b A t a
 e m + b E r e r a
-e m + b I k i r e
+e m + b I T r e
 e m + b I r e
 e m + b a
 e m + b a N g u r a n e
@@ -3998,7 +4026,7 @@ e m + b a t a m a
 e m + b a z I r a
 e m + b e b a
 e m + b e h o
-e m + b e r e N g j e
+e m + b e r e N D e
 e m + b e r e r a
 e m + b i
 e m + b i S o
@@ -4037,7 +4065,7 @@ e m + b u t U r o
 e m + b u z i
 e m + b w a
 e m + b w i S w a
-e m + i N g i
+e m + i N D
 e m + i s i
 e m + i t w e
 e m + o S o
@@ -4056,6 +4084,7 @@ e m + p O z a
 e m + p U g a
 e m + p U m o
 e m + p U m u r o
+e m + p a D
 e m + p a N g a
 e m + p a N g a r e
 e m + p a N g o
@@ -4064,7 +4093,6 @@ e m + p a b a b o
 e m + p a b j o
 e m + p a g a r a
 e m + p a g a t w a
-e m + p a g i
 e m + p a g o
 e m + p a j a
 e m + p a k a
@@ -4086,22 +4114,22 @@ e m + p a r e
 e m + p a r o
 e m + p a z i
 e m + p a z o
-e m + p e N g j e r e
+e m + p e N D e r e
 e m + p e m u r a n i
-e m + p e n d e k j e
+e m + p e n d e T e
 e m + p e n e
 e m + p e r E r u k a
-e m + p e r e g j e T u
+e m + p e r e D e T u
 e m + p e r e k a
 e m + p e r u
 e m + p e t a
 e m + p i
+e m + p i N D
 e m + p i N g a
-e m + p i N g i
+e m + p i T e
 e m + p i g a
 e m + p i h i
 e m + p i k a
-e m + p i k j e
 e m + p i k o
 e m + p i m a
 e m + p i m b i
@@ -4118,7 +4146,7 @@ e m + p i t i r i z o
 e m + p i t s i
 e m + p j o r a
 e m + p j o r i
-e m + p l a N g j e
+e m + p l a N D e
 e m + p o
 e m + p o N g a n o
 e m + p o T a
@@ -4137,13 +4165,27 @@ e m + p u m i
 e m + p u n a m i
 e m + p u n d u
 e m + p u n u
-e m + p u r U t u k j e
+e m + p u r U t u T e
 e m + p u r U t u r u r o
-e m + p u r i k i z o
+e m + p u r i T z o
 e m + p u t a
 e m + p w i t s i
 e m + w e i Z a
 e m + w i n e
+e m i + D
+e m i + D E D e
+e m i + D S a
+e m i + D e D e n o
+e m i + D e n d e r e
+e m i + D e n z o
+e m i + D e r a
+e m i + D e r e
+e m i + D e r e k o
+e m i + D i s i
+e m i + D m b a
+e m i + D n a
+e m i + D n d a
+e m i + D r i r e
 e m i + N g o
 e m i + S A g o
 e m i + S A j o
@@ -4163,14 +4205,14 @@ e m i + S a r a
 e m i + S a r a b a
 e m i + S a r a r a
 e m i + S a r e
+e m i + S e N D e
 e m i + S e N g a
-e m i + S e N g j e
 e m i + S e g a
 e m i + S e g o
 e m i + S e m b u r o
 e m i + S e r a S e r e
+e m i + S o N D
 e m i + S o N g a
-e m i + S o N g i
 e m i + S o g a
 e m i + S o h a
 e m i + S o i n o
@@ -4179,17 +4221,35 @@ e m i + S o m o
 e m i + S o r o
 e m i + S o r o r o N g o
 e m i + S o z i
+e m i + S u T s o
 e m i + S u b j o
 e m i + S u g u N g u r u
-e m i + S u k i s o
 e m i + S u m b a
 e m i + S u m i
 e m i + S u n d o
 e m i + S u r e
 e m i + S w a r o
 e m i + S w i Z a
+e m i + T E b o
+e m i + T E k a
+e m i + T E n o
+e m i + T E r i
+e m i + T N g o
 e m i + T U T u
-e m i + T l i N g i r o
+e m i + T e
+e m i + T e b e
+e m i + T e b e b o
+e m i + T e k a
+e m i + T e n e n e s o
+e m i + T e n o
+e m i + T e r E Y o
+e m i + T e r i
+e m i + T i k a
+e m i + T l i N D r o
+e m i + T l s a
+e m i + T m b a
+e m i + T m b o
+e m i + T r a
 e m i + T u N g w a
 e m i + T u N g w e
 e m i + T u T u m o
@@ -4217,13 +4277,13 @@ e m i + Z u g u t o
 e m i + Z u m b a
 e m i + Z w a r i r e
 e m i + Z w a r o
-e m i + Z w e N g j e
+e m i + Z w e N D e
 e m i + Z w i g a
 e m i + b A g o
 e m i + b U h e
 e m i + b U r o
+e m i + b a T r e
 e m i + b a b o
-e m i + b a k i r e
 e m i + b a n d a
 e m i + b a r a S u k o
 e m i + b a r i r e
@@ -4251,11 +4311,10 @@ e m i + f a r i s i
 e m i + f u N g u r o
 e m i + f u Y a
 e m i + f u n Z o
-e m i + f u r e g j e
+e m i + f u r e D e
 e m i + g A r a
 e m i + g A r i
 e m i + g A t i
-e m i + g I s i
 e m i + g a N g o
 e m i + g a S o
 e m i + g a Z u
@@ -4267,19 +4326,6 @@ e m i + g a m b i r e
 e m i + g a n d a
 e m i + g a n o
 e m i + g a n u r o
-e m i + g i
-e m i + g i S a
-e m i + g i m b a
-e m i + g i n a
-e m i + g i n d a
-e m i + g i r i r e
-e m i + g j E g j e
-e m i + g j e g j e n o
-e m i + g j e n d e r e
-e m i + g j e n z o
-e m i + g j e r a
-e m i + g j e r e
-e m i + g j e r e k o
 e m i + g o N g o
 e m i + g o Y a
 e m i + g o b o r a
@@ -4306,12 +4352,12 @@ e m i + h a i h a
 e m i + h a k o
 e m i + h a m a
 e m i + h a m b o
-e m i + h e N g j e r e
-e m i + h e g j e j o
+e m i + h e D e j o
+e m i + h e N D e r e
 e m i + h e m b e
 e m i + h e n a n o
 e m i + h e n d o
-e m i + h i N g i r e
+e m i + h i N D r e
 e m i + h i N g o
 e m i + h i m b a
 e m i + h i m b o
@@ -4346,7 +4392,6 @@ e m i + j o j a
 e m i + j o n Z o
 e m i + k A g a
 e m i + k A n A n a
-e m i + k I k a
 e m i + k U Y u
 e m i + k U f u
 e m i + k U j U j e
@@ -4357,25 +4402,8 @@ e m i + k a g o
 e m i + k a k o
 e m i + k a m b a
 e m i + k a n d a r a
-e m i + k a r a N g j e
+e m i + k a r a N D e
 e m i + k a r o
-e m i + k i N g o
-e m i + k i l s a
-e m i + k i m b a
-e m i + k i m b o
-e m i + k i r a
-e m i + k j E b o
-e m i + k j E k a
-e m i + k j E n o
-e m i + k j E r i
-e m i + k j e
-e m i + k j e b e
-e m i + k j e b e b o
-e m i + k j e k a
-e m i + k j e n e n e s o
-e m i + k j e n o
-e m i + k j e r E Y o
-e m i + k j e r i
 e m i + k o b a
 e m i + k o m a
 e m i + k o n e
@@ -4384,10 +4412,10 @@ e m i + k o r e r e
 e m i + k o r o
 e m i + k o r w a
 e m i + k u
+e m i + k u D r o
 e m i + k u N g u r u
 e m i + k u N k u m a
 e m i + k u Z u m b w a
-e m i + k u g i r o
 e m i + k u k u
 e m i + k u m b i
 e m i + k u n d a n o
@@ -4404,9 +4432,9 @@ e m i + m i r o
 e m i + n A n a
 e m i + n U k o
 e m i + n a
-e m i + n a g i r o
+e m i + n a D r o
 e m i + n a z i
-e m i + n e k j e
+e m i + n e T e
 e m i + n i g o
 e m i + n o f a
 e m i + n o i n o
@@ -4436,12 +4464,12 @@ e m i + r a m b w e
 e m i + r a r a
 e m i + r a r i
 e m i + r a z a
-e m i + r e N g j E r o
-e m i + r e N g j e
+e m i + r e N D E r o
+e m i + r e N D e
 e m i + r e N g o
+e m i + r e T e r e r a
 e m i + r e Z u
 e m i + r e b e
-e m i + r e k j e r e r a
 e m i + r i N g a
 e m i + r i N g o
 e m i + r i m i r o
@@ -4456,8 +4484,8 @@ e m i + r j a N g o
 e m i + r o N g O t i
 e m i + r o f a
 e m i + r o m b e
+e m i + r u N D
 e m i + r u N g a
-e m i + r u N g i
 e m i + r u b a t e
 e m i + r u b a t i r e
 e m i + r u b o
@@ -4469,8 +4497,8 @@ e m i + r u n d o
 e m i + r u r a
 e m i + r w a
 e m i + s a N g o
+e m i + s i N D e
 e m i + s i N g a
-e m i + s i N g j e
 e m i + s i b i k o
 e m i + s i b w a
 e m i + s i k a n o
@@ -4559,8 +4587,8 @@ e m i + z i m b a
 e m i + z i m u
 e m i + z i r o
 e m i + z i z i
-e m j + a N g a N g i
-e m j + a N g a N g j e
+e m j + a N g a N D
+e m j + a N g a N D e
 e m j + a Y a
 e m j + a j o
 e m j + a k a
@@ -4573,11 +4601,11 @@ e m j + a s e
 e m j + a t a
 e m j + a t a n o
 e m j + a t e
+e m j + e D E g o
+e m j + e D e m u r e
 e m j + e S o
 e m j + e Z w e r a
-e m j + e g j E g o
-e m j + e g j e m u r e
-e m j + e j a N g j e
+e m j + e j a N D e
 e m j + e j e r a
 e m j + e k o
 e m j + e m A m u r o
@@ -4599,18 +4627,37 @@ e m j + o g a
 e m j + o j o
 e m j + o j o j o
 e m j + o r e k o
+e n + D E D e
+e n + D N g a
+e n + D N g o
+e n + D S a
+e n + D e S e r a
+e n + D e S o
+e n + D e Y i
+e n + D e j a
+e n + D e j o
+e n + D e m e k o
+e n + D e n d a
+e n + D e n d o
+e n + D e n i
+e n + D e r o
+e n + D e s o
+e n + D e z i
+e n + D r i
+e n + D s i
 e n + E m a
-e n + S A g i
-e n + S A k i
+e n + S A D
+e n + S A T
 e n + S A r i z i
 e n + S E Y a
 e n + S E k a
 e n + S I S a
 e n + S U S U b a
-e n + S U h U k i
+e n + S U h U T
 e n + S U r a
 e n + S U r i z i
 e n + S a
+e n + S a T
 e n + S a b a g o
 e n + S a g a r i r a n o
 e n + S a g a r i z i
@@ -4618,7 +4665,6 @@ e n + S a g a z i
 e n + S a h o
 e n + S a i Z a
 e n + S a j a
-e n + S a k i
 e n + S a k o
 e n + S a m a
 e n + S a m b a
@@ -4632,10 +4678,10 @@ e n + S a n Z o
 e n + S a n Z u
 e n + S a n d a g o
 e n + S a z i
-e n + S e k j e
-e n + S e k j e r a
+e n + S e T e
+e n + S e T e r a
+e n + S o N D e z o
 e n + S o N g a
-e n + S o N g j e z o
 e n + S o b e
 e n + S o b e r w a
 e n + S o b i
@@ -4658,11 +4704,33 @@ e n + S u n Z u
 e n + S u r o
 e n + S w a
 e n + S w a g a r a
-e n + T U k j e
+e n + T E r a
+e n + T N D
+e n + T N D r a
+e n + T U T e
 e n + T U t s j a
 e n + T a T a
 e n + T a k A r a
+e n + T e
+e n + T e N T e
+e n + T e N g a
 e n + T e N k u
+e n + T e b e b e
+e n + T e k a
+e n + T e m b a
+e n + T e n d e
+e n + T e n z i
+e n + T e r E r e
+e n + T e r e
+e n + T i k o
+e n + T i z i
+e n + T m a
+e n + T m b a
+e n + T n d i
+e n + T n d o
+e n + T r a T r a n e
+e n + T r i
+e n + T r o
 e n + T u Z u
 e n + T u b a
 e n + T u g u r a
@@ -4675,24 +4743,25 @@ e n + T u r u k o
 e n + T w a m b a
 e n + T w a n o
 e n + T w a n z j a
-e n + T w e k j e
+e n + T w e T e
 e n + T w e n d e
 e n + T w e r a
+e n + T z i
 e n + Z A j a
 e n + Z U r o
+e n + Z a D
 e n + Z a b o
-e n + Z a g i
 e n + Z a g u
 e n + Z a r a
-e n + Z e N g j e r a
+e n + Z e D e r e
+e n + Z e N D e r a
 e n + Z e b a Z e b e
-e n + Z e g j e r e
+e n + Z o D e r a
+e n + Z o T
 e n + Z o Z o
 e n + Z o b e
 e n + Z o g a
-e n + Z o g j e r a
 e n + Z o k a
-e n + Z o k i
 e n + Z u
 e n + Z u N g u
 e n + Z u b a
@@ -4703,7 +4772,7 @@ e n + Z u r a
 e n + Z u r a Z u r a
 e n + Z u r o
 e n + Z w a n o
-e n + Z w e N g j e
+e n + Z w e N D e
 e n + a k u
 e n + a m b a
 e n + d A h o
@@ -4733,29 +4802,29 @@ e n + d a m u r a n o
 e n + d a m u t s j o
 e n + d a n d a r a
 e n + d a r e
-e n + d e N g j e r e z i
+e n + d e D e j a
+e n + d e N D e r e z i
 e n + d e N g o
 e n + d e g a r e g o
-e n + d e g j e j a
 e n + d e m b e
 e n + d e m b o
 e n + d e r a
 e n + d e r e
 e n + d e z i
 e n + d i
+e n + d i D t o
+e n + d i N D r i
 e n + d i N g a
-e n + d i N g i r i
 e n + d i b a
 e n + d i b a t a
 e n + d i b a t i r o
 e n + d i b o t a
 e n + d i g a
-e n + d i g i t o
 e n + d i h a n o
 e n + d i m A w a
 e n + d i m i
 e n + d i m u
-e n + d i n d a g i z i
+e n + d i n d a D z i
 e n + d i n d i
 e n + d i n z i
 e n + d i r i r a
@@ -4789,6 +4858,7 @@ e n + g O n a
 e n + g U g u
 e n + g U t o
 e n + g a
+e n + g a D
 e n + g a N g o
 e n + g a S a
 e n + g a b i
@@ -4797,7 +4867,6 @@ e n + g a b o
 e n + g a b u
 e n + g a b w a
 e n + g a g a
-e n + g a g i
 e n + g a h i
 e n + g a m b a
 e n + g a m b i
@@ -4812,26 +4881,8 @@ e n + g a r i
 e n + g a r o
 e n + g a s j a
 e n + g a t a
-e n + g i N g a
-e n + g i N g o
-e n + g i S a
-e n + g i r i
-e n + g i s i
-e n + g j E g j e
-e n + g j e S e r a
-e n + g j e S o
-e n + g j e Y i
-e n + g j e j a
-e n + g j e j o
-e n + g j e m e k o
-e n + g j e n d a
-e n + g j e n d o
-e n + g j e n i
-e n + g j e r o
-e n + g j e s o
-e n + g j e z i
 e n + g o
-e n + g o N g i
+e n + g o N D
 e n + g o b j a
 e n + g o g a
 e n + g o g o
@@ -4843,10 +4894,10 @@ e n + g o n d o r e
 e n + g o n e r o
 e n + g o r o
 e n + g o z i
+e n + g u D e
 e n + g u N g w a
 e n + g u S u k a
 e n + g u f u
-e n + g u g j e
 e n + g u g o
 e n + g u g w a m a
 e n + g u m a
@@ -4855,9 +4906,9 @@ e n + g u n d I z i
 e n + g u n d a
 e n + g u n d u
 e n + g u r a
+e n + g u r u T r a
+e n + g u r u T z i
 e n + g u r u k a
-e n + g u r u k i r a
-e n + g u r u k i z i
 e n + g u r u r o
 e n + g u s j o
 e n + g u z i
@@ -4870,8 +4921,6 @@ e n + j i m a
 e n + k A g a
 e n + k A j a
 e n + k A j e
-e n + k I k o
-e n + k I z i
 e n + k O b e
 e n + k O b w a
 e n + k O h e r w a
@@ -4901,35 +4950,13 @@ e n + k a n d a
 e n + k a n d e
 e n + k a n u
 e n + k a p a
-e n + k a r a N g j e
+e n + k a r a N D e
 e n + k a r a k a r e
 e n + k a r i
 e n + k a z i
-e n + k i N g i
-e n + k i N g i r a
-e n + k i m a
-e n + k i m b a
-e n + k i n d i
-e n + k i n d o
-e n + k i r a k i r a n e
-e n + k i r i
-e n + k i r o
-e n + k i z i
-e n + k j E r a
-e n + k j e
-e n + k j e N g a
-e n + k j e N k j e
-e n + k j e N k u
-e n + k j e b e b e
-e n + k j e k a
-e n + k j e m b a
-e n + k j e n d e
-e n + k j e n z i
-e n + k j e r E r e
-e n + k j e r e
+e n + k o N D
+e n + k o N D e
 e n + k o N g O r o
-e n + k o N g i
-e n + k o N g j e
 e n + k o N g o r o
 e n + k o Y a
 e n + k o Z o
@@ -4952,7 +4979,7 @@ e n + k o n d o
 e n + k o n e
 e n + k o n i
 e n + k o n o k o n o
-e n + k o r O g i
+e n + k o r O D
 e n + k o r a
 e n + k o r a N g a n a
 e n + k o r e
@@ -4983,8 +5010,8 @@ e n + k u r a Y a r u h e m b e
 e n + k u r a t a n e
 e n + k u r a t i m a
 e n + k u r i
-e n + k u r i N g i z o
-e n + k u r i k i z i
+e n + k u r i N D z o
+e n + k u r i T z i
 e n + k u r u
 e n + k u r u N g u
 e n + k u r u N g u t a n i s a
@@ -5028,21 +5055,21 @@ e n + t E r a
 e n + t E r a n i r o
 e n + t E r e r o
 e n + t I t i r i
+e n + t O T e
 e n + t O Y a N g a
 e n + t O Y e r e r a
-e n + t O k j e
 e n + t O r e
 e n + t O r i
 e n + t O r o
 e n + t U h a
-e n + t U m U k i
+e n + t U m U T
 e n + t U r a
 e n + t U r e
 e n + t U r u
+e n + t a N D r i r a s
+e n + t a N D z i
 e n + t a N g a
 e n + t a N g a n a n a
-e n + t a N g i r i r a s
-e n + t a N g i z i
 e n + t a N g o
 e n + t a N g u r a
 e n + t a T w a
@@ -5063,25 +5090,25 @@ e n + t a m b i
 e n + t a m b w e
 e n + t a n a n i
 e n + t a n d a
-e n + t a n d i k i r o
+e n + t a n d i T r o
 e n + t a n d i k w a
 e n + t a r a
 e n + t a r a b U S u
 e n + t a r a g o
 e n + t a r a t a m b i
 e n + t a r e
-e n + t a r i k j e
+e n + t a r i T e
 e n + t a r o
 e n + t a t s i
 e n + t a z i z i m a
 e n + t e
+e n + t e D e
+e n + t e N D e
 e n + t e N g a
-e n + t e N g j e
 e n + t e b E k a n i s a
 e n + t e b e
 e n + t e b u r a n o
 e n + t e g U z i
-e n + t e g j e
 e n + t e i s a
 e n + t e m e r e
 e n + t e n d E r e
@@ -5090,11 +5117,11 @@ e n + t e n d e i g w a
 e n + t e n d e k w a
 e n + t e n t e
 e n + t e r E z a
-e n + t e r e b u k i
+e n + t e r e b u T
 e n + t e t e m a
 e n + t e t e r a
 e n + t e t e r e
-e n + t i g i
+e n + t i D
 e n + t i m a t i m a
 e n + t i m b i r i
 e n + t i m b o
@@ -5103,13 +5130,13 @@ e n + t i t i
 e n + t j a b i r i
 e n + t j a z o
 e n + t o
+e n + t o D e r a
+e n + t o N D e r a
 e n + t o N g a
 e n + t o N g a n e
 e n + t o N g a n i
-e n + t o N g j e r a
 e n + t o N g o r e
 e n + t o b o
-e n + t o g j e r a
 e n + t o g o r o
 e n + t o m i
 e n + t o n d o
@@ -5139,7 +5166,7 @@ e n + t u n d u
 e n + t u n t u n u
 e n + t u r a
 e n + t u r a t u r e
-e n + t u r e g j e
+e n + t u r e D e
 e n + t u r u g u Y u
 e n + t u r u r e
 e n + t u r u t s j o
@@ -5155,10 +5182,10 @@ e n + z A r w a
 e n + z I z i
 e n + z a m b a
 e n + z a z a
+e n + z i D e
 e n + z i N g a m i
 e n + z i b U r u
 e n + z i g a
-e n + z i g j e
 e n + z i g u
 e n + z i k a
 e n + z i m u
@@ -5171,6 +5198,7 @@ e n + z i t o
 e n + z i z i
 e n + z o
 e r i + N g u r u
+e r i + T e
 e r i + T u r e i r e
 e r i + b i
 e r i + b i s i
@@ -5179,14 +5207,14 @@ e r i + g a r a m i
 e r i + g u f u
 e r i + h a N g o
 e r i + h e r e i r e
-e r i + h i k i r e
+e r i + h i T r e
 e r i + h o
 e r i + h u r I r e
 e r i + h w e i r e
+e r i + i D e n d a
 e r i + i S o
 e r i + i Z w i r e
 e r i + i b a
-e r i + i g j e n d a
 e r i + i n e
 e r i + i n o
 e r i + i z O b a
@@ -5194,7 +5222,6 @@ e r i + i z i
 e r i + j a
 e r i + j o
 e r i + j o n Z o
-e r i + k j e
 e r i + k u b i r a
 e r i + k u f u k a
 e r i + k u m i z a
@@ -5220,20 +5247,21 @@ e r i + r i k w i r a g u r a
 e r i + r i k w o t s j a
 e r i + r i m u
 e r i + r o f a
-e r i + r u N g i
+e r i + r u N D
 e r i + s j a
-e r i + t E k i r e
+e r i + t E T r e
 e r i + t a h w a h o
 e r i + t a k a r E b w a g a
 e r i + t o
 e r i + z i m a
-e r i k i + i n e
-e r i k i + r i
+e r i T + i n e
+e r i T + r i
 e r i r i k u + b i r a
 e r i t a + i n e
 e r i t a + r i
-e r j + a N g j e
+e r j + a N D e
 e r j + a N g u h i
+e r j + a T o
 e r j + a Y u
 e r j + a b a n d i z e
 e r j + a b j o
@@ -5245,7 +5273,6 @@ e r j + a h o
 e r j + a i t u
 e r j + a j a
 e r j + a j o
-e r j + a k j o
 e r j + a k o
 e r j + a k w o
 e r j + a m w o
@@ -5256,14 +5283,14 @@ e r j + a r w o
 e r j + a t w o
 e r j + a w e
 e r j + a z o
-e r j + e g j e r o
-e r j + e g j e s e r e z o
+e r j + e D e r o
+e r j + e D e s e r e z o
 e r j + e k w a i t s e
 e r j + e z i r e
-e r j + o g j e r o
+e r j + o D e r o
+e r j + o T e z o
+e r j + o T z e
 e r j + o j a
-e r j + o k i z e
-e r j + o k j e z o
 e r j + o r w a n o
 e r j + o z i
 e r u + g u r u
@@ -5281,7 +5308,7 @@ e z i + T u r e i r e
 e z i + f I r e
 e z i + g a r a m i
 e z i + h e r e i r e
-e z i + h i k i r e
+e z i + h i T r e
 e z i + h u r I r e
 e z i + h w e i r e
 e z i + i Z w i r e
@@ -5297,12 +5324,12 @@ e z i + r i h o
 e z i + r i j o
 e z i + r i m u
 e z i + r w a i r e
-e z i + t E k i r e
+e z i + t E T r e
 e z i + t a h w a h o
 e z i + t a k a r E b w a g a
 e z i + t o N g a n a
-e z i k i + i n e
-e z i k i + r i
+e z i T + i n e
+e z i T + r i
 e z i r i k u + b i r a
 e z i r i k u + f u k a
 e z i r i k u + m i z a
@@ -5314,7 +5341,7 @@ e z i r i k w + o t s j a
 e z i t a + i n e
 e z i t a + r i
 e z i t a r i k u + b a r w a
-e z o + o k i z e
+e z o + o T z e
 f I z i
 f u k u f u k u
 g + O n a
@@ -5337,10 +5364,9 @@ g a + s j o
 g a + t a
 g a + t i
 g a + t j o
-g a r a g i
+g a r a D
 g a v a n a
 g a v u m e n t i
-g j e
 g u + n u
 g u + r a h e
 g u + r a h i
@@ -5363,18 +5389,18 @@ h A + h i
 h O t E r u
 h a + N g a h a r i
 h a + N g u h i
+h a + T e
 h a + b i
 h a + g a r a m i
 h a + h a N g o
-h a + i N g i
+h a + i N D
 h a + j o n Z o
-h a + k j e
 h a + k u r u
 h a + n U j a
 h a + n u
 h a + r a i N g w a
 h a + r i j a
-h a + r u N g i
+h a + r u N D
 h a + s j a
 h a + s j o
 h a + t I j a
@@ -5384,7 +5410,7 @@ h a + t j o
 h a + z a
 h e + e k w a i t s e
 i + r O k o
-i N g i n i
+i N D n i
 i S a b E p i s k o p i
 i S a b a d I k o n i
 i S a b a r E b e r e z i
@@ -5447,20 +5473,18 @@ k A + h e r E r a
 k A + h i
 k A + r w e n d a
 k A + r w e z a
-k A + z i r u N g i
+k A + z i r u N D
+k A T
 k A h w a
 k A k a
-k A k i
 k A m u + S u N g u S u N g u
-k A m u + k j e r e N g j e
+k A m u + T e r e N D e
 k A m u + k u N g u
-k A m u + t e g j e N g j e r e
+k A m u + t e D e N D e r e
 k A m u + z i n z i
 k A t u r i
 k A w a
-k E k i
-k I + h a
-k I r a
+k E T
 k U + h a
 k a
 k a + N g a h e
@@ -5486,45 +5510,49 @@ k a r A n i
 k a r a n t I n i
 k a r a t a
 k a r o t i
-k i
-k i + Z u b w e
-k i + Z u g a
-k i + b O k o
-k i + k o r a
-k i + k w a j a
-k i + m w e
-k i + n u
-k i + r a h e
-k i + r a h i
-k i + r i
-k i + r i j a
-k i + s j o
-k i + t a
-k i + t a b A r i z i b w a
-k i + t a b A z a
-k i + t a r a
-k i + t i
-k i + t j o
-k j + o N k a
-k j + o n a
-k j a k i + r o
-k j a m u + S a n a
-k j a n + k w i t s i
-k j a n + t s j a
 k o b u + n t u
-k o n d a k i t a
+k o n d a T t a
 k o n f r o m a n s j o
-k o r e g i
+k o r e D
 k r i s t o
 k r i s t u
+k u + D e D e m a
+k u + D e D e n a
+k u + D e N g a
+k u + D e S a
+k u + D e m a
+k u + D e m e r a
+k u + D e m e s e r e z a
+k u + D e m u r a
+k u + D e m w a
+k u + D e n d a
+k u + D e n d a D e n d a
+k u + D e n d a n a
+k u + D e n d e r a
+k u + D e n d e r e r a
+k u + D e n d e r e r w a
+k u + D e n d e s a
+k u + D e n z a
+k u + D e r A D e r a n i s a
+k u + D e r a
+k u + D e r a n i s a
+k u + D e r e k a
+k u + D e r e r e r a
+k u + D e z a
+k u + D e z a h o
+k u + D i b w a m u
+k u + D m b a
+k u + D r a
+k u + D r i r a
+k u + D z a
+k u + S A D s a
+k u + S A D z a
 k u + S A S a
+k u + S A T i r a
 k u + S A g a
-k u + S A g i s a
-k u + S A g i z a
 k u + S A g u r a
 k u + S A j U r a
 k u + S A j a
-k u + S A k I r a
 k u + S A k u z a
 k u + S A r U k a
 k u + S A r U r a
@@ -5563,6 +5591,7 @@ k u + S U r U r a
 k u + S U r a
 k u + S U r i z a
 k u + S a
+k u + S a D k a
 k u + S a N g a
 k u + S a N g u r u k a
 k u + S a N g u r u z a
@@ -5575,12 +5604,11 @@ k u + S a S a g u z a
 k u + S a S u r a
 k u + S a S u z a
 k u + S a b a
-k u + S a b a g i z a
+k u + S a b a D z a
 k u + S a b i r i z a
 k u + S a g a r a
 k u + S a g a r i r a
 k u + S a g a t i r a
-k u + S a g i k a
 k u + S a h u r a
 k u + S a i Z a
 k u + S a k A r a
@@ -5616,19 +5644,19 @@ k u + S a t u k a
 k u + S a t u r a
 k u + S a z a
 k u + S a z a S a z a
+k u + S e D e Y a
+k u + S e D e r e r a
+k u + S e N D E r a
+k u + S e N D e r a
 k u + S e N g a
-k u + S e N g j E r a
-k u + S e N g j e r a
 k u + S e S e m u r a
+k u + S e T e r a
+k u + S e T e r e r a
+k u + S e T e r e z a
 k u + S e b u k a
-k u + S e g j e Y a
-k u + S e g j e r e r a
 k u + S e g u r a
 k u + S e k a
 k u + S e k a N k a
-k u + S e k j e r a
-k u + S e k j e r e r a
-k u + S e k j e r e z a
 k u + S e k u r a
 k u + S e m U k a
 k u + S e m b U k a
@@ -5650,23 +5678,23 @@ k u + S e n S e r e k a
 k u + S e n S e z a
 k u + S e n d a
 k u + S e n d a S e n d a
-k u + S e n d e k j e r e r e z a
-k u + S e n d e k j e r e z a
-k u + S e r e g j e Y a
+k u + S e n d e T e r e r e z a
+k u + S e n d e T e r e z a
+k u + S e r e D e Y a
 k u + S e r e k a
 k u + S e r u r a
 k u + S e r u z a
 k u + S e t s j a
+k u + S i D S a
 k u + S i S a
 k u + S i S w a
-k u + S i g i S a
 k u + S i n Z a
 k u + S o N g a
 k u + S o N g o k a
 k u + S o N g o r a
 k u + S o S O r a
-k u + S o b O r o k j e r a
-k u + S o b O r o k j e r w a
+k u + S o b O r o T e r a
+k u + S o b O r o T e r w a
 k u + S o b a
 k u + S o b a n i s a
 k u + S o b e k a n i s a
@@ -5691,7 +5719,7 @@ k u + S o m a h o
 k u + S o m b O k a
 k u + S o m b O r a
 k u + S o m b a
-k u + S o m b a g i r i r a
+k u + S o m b a D r i r a
 k u + S o m e r a
 k u + S o m e r e r a
 k u + S o m e s a
@@ -5710,11 +5738,12 @@ k u + S o r o n z j a
 k u + S o r o r o k a
 k u + S o t O k a
 k u + S o z a
+k u + S u D E r a
+k u + S u N D E r a
+k u + S u N D r i k a
+k u + S u N D s a
 k u + S u N g A n a
 k u + S u N g a
-k u + S u N g i r i k a
-k u + S u N g i s a
-k u + S u N g j E r a
 k u + S u N g u r a
 k u + S u S a
 k u + S u S a n a
@@ -5724,7 +5753,6 @@ k u + S u b i r a
 k u + S u b i r i z a
 k u + S u b w a
 k u + S u g A n a
-k u + S u g j E r a
 k u + S u h U k a
 k u + S u h U s j a
 k u + S u k A n u r a
@@ -5745,8 +5773,8 @@ k u + S u t u k a
 k u + S u t u r a
 k u + S w a r a
 k u + S w a z a
+k u + S w e T e r e r a
 k u + S w e k a
-k u + S w e k j e r e r a
 k u + S w e r a
 k u + S w e r a n a
 k u + S w e r e r e r a
@@ -5754,6 +5782,18 @@ k u + S w e r w a
 k u + S w i Z u m a
 k u + T A k a
 k u + T E T E b a
+k u + T E b a
+k u + T E h a
+k u + T E n a
+k u + T E r a
+k u + T E r e r e r w a
+k u + T E r e r e z a
+k u + T E s j a
+k u + T N D r a
+k u + T N g U k a
+k u + T N g U r a
+k u + T N g a
+k u + T N g a h o
 k u + T O T O r a
 k u + T O k a
 k u + T U T U k a
@@ -5764,15 +5804,46 @@ k u + T a T a
 k u + T a k u r a
 k u + T a k u z a
 k u + T a m u r a
+k u + T e N D e r a
+k u + T e N g U z a
+k u + T e N g a
 k u + T e T e k a
 k u + T e T e r a
+k u + T e Y a
 k u + T e Y a T e Y u k a
 k u + T e Y a T e Y u r a
 k u + T e Y u k a
 k u + T e b a
+k u + T e b e b a
+k u + T e b e r a
+k u + T e k a
+k u + T e m u r a
 k u + T e n T e b u k a
 k u + T e n T u r a
+k u + T e n U z a
+k u + T e n a
+k u + T e n d E r a
+k u + T e n d E z a
+k u + T e n e N k u r u z a
+k u + T e r E Y a
+k u + T e r a
+k u + T e r e r a
 k u + T i T i n a
+k u + T i T r a
+k u + T i T r i z a
+k u + T i T z a
+k u + T i k U k a
+k u + T i k U r a
+k u + T i k a
+k u + T i k a m a
+k u + T i n I k a
+k u + T i r a n a
+k u + T i s a
+k u + T n a
+k u + T n d u k a
+k u + T n d u r a
+k u + T n u k a
+k u + T n u r a
 k u + T o Y a
 k u + T o k a h o
 k u + T o k o m b a
@@ -5781,7 +5852,13 @@ k u + T o n T a
 k u + T o n T a n a
 k u + T o n T o b o z a
 k u + T o n d O z a
-k u + T u N g i r a
+k u + T r A n u r a
+k u + T r a
+k u + T r a n a
+k u + T r i D i t a
+k u + T r i r i r a
+k u + T r i z a
+k u + T u N D r a
 k u + T u N g u r a
 k u + T u T u k a
 k u + T u T u m a
@@ -5793,7 +5870,7 @@ k u + T u m a
 k u + T u m b E k a
 k u + T u m b U k a
 k u + T u m b a
-k u + T u m b a g i r a
+k u + T u m b a D r a
 k u + T u m b i k a
 k u + T u m i k a
 k u + T u m i r a
@@ -5826,18 +5903,19 @@ k u + T w a g u r a
 k u + T w a g u r i k a
 k u + T w a h o
 k u + T w a n z j a
+k u + T w e T e r e r a
+k u + T w e T e r e z a
 k u + T w e b w a
 k u + T w e k a
 k u + T w e k a h o
 k u + T w e k a m u
 k u + T w e k a n i s a
-k u + T w e k j e r e r a
-k u + T w e k j e r e z a
 k u + T w e r a
-k u + T w e r e g j e r e r a
+k u + T w e r e D e r e r a
 k u + T w e r e r a n a
 k u + T w e t s j a
 k u + T w i Z u r a
+k u + T z a
 k u + Y A Y A t a
 k u + Y A r a
 k u + Y A t a
@@ -5854,14 +5932,14 @@ k u + Y a N g a r a z a
 k u + Y a Y a g a r a
 k u + Y a b a Y a
 k u + Y a g a
+k u + Y e D e r a
 k u + Y e Y a
 k u + Y e g a
-k u + Y e g j e r a
+k u + Y i D m b a
+k u + Y i D r i z a
 k u + Y i g A Y i g a
 k u + Y i g A Y i z j a
 k u + Y i g a
-k u + Y i g i m b a
-k u + Y i g i r i z a
 k u + Y o N g o r o r w a
 k u + Y o N g o t o k a
 k u + Y o g o n t o k a
@@ -5880,14 +5958,14 @@ k u + Y u r u z a
 k u + Y w a
 k u + Y w a n a
 k u + Y w a n i s a
-k u + Y w e N g j e r e r w a
+k u + Y w e D e r a
+k u + Y w e N D e r e r w a
 k u + Y w e b w a
-k u + Y w e g j e r a
 k u + Y w i s a
 k u + Z A Z A b a
 k u + Z A k A r a
+k u + Z U T r i r a
 k u + Z U k a
-k u + Z U k i r i r a
 k u + Z U m U k a
 k u + Z U m U r a
 k u + Z U m a r a
@@ -5920,7 +5998,7 @@ k u + Z e N g a
 k u + Z e g A Z e g a
 k u + Z e n Z E k a
 k u + Z i g a i Z a
-k u + Z o n Z a g i r a
+k u + Z o n Z a D r a
 k u + Z u N g a
 k u + Z u b a
 k u + Z u b j a
@@ -5955,9 +6033,9 @@ k u + Z w a n z j a
 k u + Z w a r a
 k u + Z w a r i r a n a
 k u + Z w a z a
+k u + Z w e T e r a
+k u + Z w e T e r w a
 k u + Z w e k a
-k u + Z w e k j e r a
-k u + Z w e k j e r w a
 k u + Z w e r a
 k u + Z w e r e r a n a
 k u + Z w i g a
@@ -5981,9 +6059,9 @@ k u + b U r i r a
 k u + b U r i r i z a
 k u + b U z a
 k u + b a
+k u + b a N D r a
 k u + b a N g A n i s a
 k u + b a N g a
-k u + b a N g i r a
 k u + b a b a
 k u + b a b u k a
 k u + b a b u r a
@@ -6006,7 +6084,7 @@ k u + b a m b a
 k u + b a m b i r a
 k u + b a n Z u r a
 k u + b a n d a
-k u + b a n d a g i r a
+k u + b a n d a D r a
 k u + b a n d a m a
 k u + b a n d i z a
 k u + b a n d w a
@@ -6022,8 +6100,8 @@ k u + b a t u k a
 k u + b a z I r a
 k u + b a z a
 k u + b a z a m u
+k u + b e N D e j a
 k u + b e N g a
-k u + b e N g j e j a
 k u + b e g a
 k u + b e i h a
 k u + b e i h a b e i h a
@@ -6047,10 +6125,10 @@ k u + b j a m i s a
 k u + b j a m j a
 k u + b j a m u r a
 k u + b j a r a
+k u + b o D e k a
 k u + b o N g o r a
 k u + b o b E r a
 k u + b o b E z a
-k u + b o g j e k a
 k u + b o g o k a
 k u + b o g o r a
 k u + b o h a
@@ -6058,7 +6136,7 @@ k u + b o i Z a n a
 k u + b o i g o r a
 k u + b o m b O k a
 k u + b o m b O r a
-k u + b o m b e k j e r e z a
+k u + b o m b e T e r e z a
 k u + b o m b o r e k a n a
 k u + b o n a
 k u + b o n a b o n a
@@ -6115,10 +6193,11 @@ k u + f U z a
 k u + f a
 k u + f a h o
 k u + f a j o
+k u + f u N D r a
 k u + f u N g a
-k u + f u N g i r a
 k u + f u N g u k a
 k u + f u N g u r a
+k u + f u T r i z a
 k u + f u Y a
 k u + f u Y a f u Y a
 k u + f u b E k a
@@ -6127,7 +6206,6 @@ k u + f u b i r a
 k u + f u k A n a
 k u + f u k a
 k u + f u k a m a
-k u + f u k i r i z a
 k u + f u k u N k u k a
 k u + f u k u N k u r a
 k u + f u k u r a
@@ -6141,7 +6219,7 @@ k u + f u n d U k a
 k u + f u n d U r a
 k u + f u n d a
 k u + f u n d a m i r a
-k u + f u n d i k i r a
+k u + f u n d i T r a
 k u + f u n z a
 k u + f u r U t a
 k u + f u r U t s a
@@ -6153,13 +6231,12 @@ k u + f u z a
 k u + g A j a
 k u + g A n I r a
 k u + g A n I z a
-k u + g I b w a m u
+k u + g a N D s a
 k u + g a N g A r a
 k u + g a N g A z a
 k u + g a N g a
 k u + g a N g a b u k a
 k u + g a N g a b u r a
-k u + g a N g i s a
 k u + g a N g u r a
 k u + g a S a
 k u + g a S i r a
@@ -6196,43 +6273,15 @@ k u + g a r a m i s a
 k u + g a r a m j a
 k u + g a r a n Z u k a
 k u + g a r a n Z u r a
+k u + g a r u T r a
 k u + g a r u k a
 k u + g a r u k a m u
 k u + g a r u k a n a
-k u + g a r u k i r a
 k u + g a r u k w a m u
 k u + g a r u r a
 k u + g a r u r i r a
 k u + g a r u r i z a
-k u + g i m b a
-k u + g i r a
-k u + g i r i r a
-k u + g i z a
-k u + g j e N g a
-k u + g j e S a
-k u + g j e g j e m a
-k u + g j e g j e n a
-k u + g j e m a
-k u + g j e m e r a
-k u + g j e m e s e r e z a
-k u + g j e m u r a
-k u + g j e m w a
-k u + g j e n d a
-k u + g j e n d a g j e n d a
-k u + g j e n d a n a
-k u + g j e n d e r a
-k u + g j e n d e r e r a
-k u + g j e n d e r e r w a
-k u + g j e n d e s a
-k u + g j e n z a
-k u + g j e r A g j e r a n i s a
-k u + g j e r a
-k u + g j e r a n i s a
-k u + g j e r e k a
-k u + g j e r e r e r a
-k u + g j e z a
-k u + g j e z a h o
-k u + g o N g j E r a
+k u + g o N D E r a
 k u + g o b a m u
 k u + g o b e z a
 k u + g o g O r a
@@ -6257,7 +6306,7 @@ k u + g o r e k a
 k u + g o r o r a
 k u + g o r o r o k a
 k u + g o t a
-k u + g u N g i r a
+k u + g u N D r a
 k u + g u g u n a
 k u + g u h a
 k u + g u m a
@@ -6269,8 +6318,8 @@ k u + g u r A g u r u t s j a
 k u + g u r a
 k u + g u r i k a
 k u + g u r i z a
+k u + g u r u T r a
 k u + g u r u k a
-k u + g u r u k i r a
 k u + g u r u r a
 k u + g u r w a
 k u + g u t u r a
@@ -6280,9 +6329,9 @@ k u + g w a g w a n a
 k u + g w a h o
 k u + g w a j o
 k u + g w a n a
-k u + g w e Z a g i r a
-k u + g w e Z e g j e r a
-k u + g w e Z e g j e z a
+k u + g w e Z a D r a
+k u + g w e Z e D e r a
+k u + g w e Z e D e z a
 k u + g w e r a
 k u + g w e r e r a n a
 k u + g w e r e r e r w a
@@ -6333,6 +6382,7 @@ k u + h U r a
 k u + h U t a
 k u + h U t w a
 k u + h a
+k u + h a N D s a
 k u + h a N g A n a
 k u + h a N g A r a
 k u + h a N g A z a
@@ -6341,7 +6391,6 @@ k u + h a N g U r a
 k u + h a N g a
 k u + h a N g a N g a
 k u + h a N g a h a N g a
-k u + h a N g i s a
 k u + h a N g u h a
 k u + h a N g u k a
 k u + h a N g u r a
@@ -6375,8 +6424,8 @@ k u + h a k a
 k u + h a k a n a
 k u + h a k a n i s a
 k u + h a m a
-k u + h a m a g i r a
-k u + h a m a g i z a
+k u + h a m a D r a
+k u + h a m a D z a
 k u + h a m a t i k a
 k u + h a m b a
 k u + h a m b j a
@@ -6399,9 +6448,9 @@ k u + h a r a g a t a
 k u + h a r a m b a
 k u + h a r a r a
 k u + h a r a r u k a
+k u + h a r i T s a
 k u + h a r i k a
 k u + h a r i k a n a
-k u + h a r i k i s a
 k u + h a t I r a
 k u + h a t U r a
 k u + h a t a
@@ -6429,7 +6478,7 @@ k u + h e n d a g u r i k a
 k u + h e n d e k a
 k u + h e n d e r a
 k u + h e n d e r a m u
-k u + h e n e N g j e r a
+k u + h e n e N D e r a
 k u + h e n e N g w a
 k u + h e r E r a
 k u + h e r E r a n a
@@ -6442,35 +6491,35 @@ k u + h e r e k a
 k u + h e t a
 k u + h e z a
 k u + h e z a h o
+k u + h i D T r a
+k u + h i D k a
+k u + h i D m a
+k u + h i D z a
+k u + h i N D k a
+k u + h i N D r a
+k u + h i N D r w a
+k u + h i N D s a
+k u + h i N D s a m u
 k u + h i N g A n a
 k u + h i N g a
-k u + h i N g i k a
-k u + h i N g i r a
-k u + h i N g i r w a
-k u + h i N g i s a
-k u + h i N g i s a m u
 k u + h i N g u r a
 k u + h i N g u r a h o
 k u + h i N g u r a n a
 k u + h i N g u z a
+k u + h i T i s a
+k u + h i T r i r a
+k u + h i T r i r w a
+k u + h i T r i z a
 k u + h i Y A h i Y a
 k u + h i Y i r i r a
 k u + h i g A h i g a
 k u + h i g a
-k u + h i g i k a
-k u + h i g i k i r a
-k u + h i g i m a
-k u + h i g i z a
 k u + h i g u k a
 k u + h i g u r a
 k u + h i h i r a
 k u + h i k A n a
 k u + h i k A n i s a
-k u + h i k I s a
 k u + h i k a
-k u + h i k i r i r a
-k u + h i k i r i r w a
-k u + h i k i r i z a
 k u + h i m b U k a
 k u + h i m b U r a
 k u + h i m b a
@@ -6513,15 +6562,15 @@ k u + h o n o k a
 k u + h o n o r a
 k u + h o r O t a
 k u + h o r a
-k u + h o r o r e k j e z a
+k u + h o r o r e T e z a
 k u + h o t a
 k u + h o t a m a
 k u + h o t o k a
 k u + h o t o r a
 k u + h o t o r o r a
 k u + h o z a
+k u + h u N D r a
 k u + h u N g a
-k u + h u N g i r a
 k u + h u N g u N g w a
 k u + h u N g u k a
 k u + h u N g u r a
@@ -6541,7 +6590,7 @@ k u + h u h u r a
 k u + h u m U k a
 k u + h u m U r a
 k u + h u m a
-k u + h u m a g i z a
+k u + h u m a D z a
 k u + h u m b a
 k u + h u m b a t a
 k u + h u m b i k a
@@ -6551,7 +6600,7 @@ k u + h u m b j a
 k u + h u m i z a
 k u + h u n A h u n a
 k u + h u n a
-k u + h u n a g i z a
+k u + h u n a D z a
 k u + h u n a m a
 k u + h u n a m j a
 k u + h u n d U k a
@@ -6567,8 +6616,8 @@ k u + h u n z j a
 k u + h u r U t u k a
 k u + h u r U t u r a
 k u + h u r a
+k u + h u r i T z a
 k u + h u r i k a n a
-k u + h u r i k i z a
 k u + h u r i r a
 k u + h u r i r i z a
 k u + h u r u g u t a
@@ -6586,11 +6635,11 @@ k u + h w a j o
 k u + h w a m a
 k u + h w a m u
 k u + h w a m u r u r a
+k u + h w e T E r a
 k u + h w e h u r a
 k u + h w e i s a
-k u + h w e k j E r a
 k u + h w e r a
-k u + h w e r e k j e r e r a
+k u + h w e r e T e r e r a
 k u + h w e r e r a
 k u + h w e r e z a
 k u + h w e r w a
@@ -6613,7 +6662,7 @@ k u + j e i Z u t s j a
 k u + j e i b a
 k u + j e i h a
 k u + j e i h a h o
-k u + j e i m u k i r a
+k u + j e i m u T r a
 k u + j e i m u t s j a
 k u + j e i n i k a
 k u + j e i n u r a
@@ -6627,17 +6676,7 @@ k u + k A b U z a
 k u + k A k A r a
 k u + k A t U r a
 k u + k A t a
-k u + k I k U k a
-k u + k I k U r a
-k u + k I k a
-k u + k I k a m a
-k u + k I k i r a
-k u + k I k i r i z a
-k u + k I k i z a
-k u + k I n I k a
-k u + k I r a n a
-k u + k I s a
-k u + k O k j E r a
+k u + k O T E r a
 k u + k O t a
 k u + k O z a
 k u + k U b a
@@ -6647,17 +6686,17 @@ k u + k U k a
 k u + k U s j a
 k u + k U t a
 k u + k U t i r i r a
+k u + k a N D s a
 k u + k a N g a
 k u + k a N g a r a n a
 k u + k a N g a z a
-k u + k a N g i s a
 k u + k a N k a b u k a
 k u + k a N k a m a
 k u + k a Y a
 k u + k a Y i s a
 k u + k a b a
 k u + k a b j a
-k u + k a b u k i r a
+k u + k a b u T r a
 k u + k a g a
 k u + k a i k u r a
 k u + k a k a
@@ -6686,50 +6725,10 @@ k u + k a r a b a
 k u + k a r a g a
 k u + k a t u k a
 k u + k a t u r a
-k u + k i N g U k a
-k u + k i N g U r a
-k u + k i N g a
-k u + k i N g a h o
-k u + k i N g i r a
-k u + k i n a
-k u + k i n d u k a
-k u + k i n d u r a
-k u + k i n u k a
-k u + k i n u r a
-k u + k i r A n u r a
-k u + k i r a
-k u + k i r a n a
-k u + k i r i g I t a
-k u + k i r i r i r a
-k u + k i r i z a
-k u + k i z a
-k u + k j E b a
-k u + k j E h a
-k u + k j E n a
-k u + k j E r a
-k u + k j E r e r e r w a
-k u + k j E r e r e z a
-k u + k j E s j a
-k u + k j e N g U z a
-k u + k j e N g a
-k u + k j e N g j e r a
-k u + k j e Y a
-k u + k j e b e b a
-k u + k j e b e r a
-k u + k j e k a
-k u + k j e m u r a
-k u + k j e n U z a
-k u + k j e n a
-k u + k j e n d E r a
-k u + k j e n d E z a
-k u + k j e n e N k u r u z a
-k u + k j e r E Y a
-k u + k j e r a
-k u + k j e r e r a
+k u + k o N D E r a
+k u + k o N D E z a
 k u + k o N g O r a
 k u + k o N g O t a
-k u + k o N g j E r a
-k u + k o N g j E z a
 k u + k o N k o b o k a
 k u + k o N k o b o r a
 k u + k o g o t a
@@ -6753,7 +6752,7 @@ k u + k o m j a
 k u + k o m o r o k a
 k u + k o m o r o r a
 k u + k o n a
-k u + k o n a g i r a
+k u + k o n a D r a
 k u + k o n d O k a
 k u + k o n d O r a
 k u + k o n d a
@@ -6779,6 +6778,7 @@ k u + k o r o z a
 k u + k o z E s a
 k u + k o z a
 k u + k o z e s a
+k u + k u D r a
 k u + k u N g a
 k u + k u N g u r a
 k u + k u N k u m u k a
@@ -6796,7 +6796,6 @@ k u + k u b i r a n i s a
 k u + k u b i r i r a
 k u + k u b j a
 k u + k u b u r u r a
-k u + k u g i r a
 k u + k u k u m b a
 k u + k u m b a
 k u + k u m b a g a r a
@@ -6815,7 +6814,7 @@ k u + k u n d i r a
 k u + k u n i k a
 k u + k u n i r a
 k u + k u n i s a
-k u + k u n u N k i r i r a
+k u + k u n u N T r i r a
 k u + k u n u n t u k a
 k u + k u n z I k a
 k u + k u r a
@@ -6823,8 +6822,8 @@ k u + k u r a s a
 k u + k u r a t a
 k u + k u r a t i r a
 k u + k u r a t s a
+k u + k u r i T r i r a
 k u + k u r i k a
-k u + k u r i k i r i r a
 k u + k u r i r a
 k u + k u r i t s j a
 k u + k u r u N g u t a n a
@@ -6847,7 +6846,7 @@ k u + k w a t i s a
 k u + k w a t s a
 k u + k w a t w a
 k u + k w e g a
-k u + k w e r e k j e r e z a
+k u + k w e r e T e r e z a
 k u + m A S a
 k u + m A r a
 k u + m A t I r a
@@ -6863,7 +6862,7 @@ k u + m a Y i r i r a
 k u + m a Y i s a
 k u + m a Y w a
 k u + m a g a m a g a
-k u + m a m a g i z a
+k u + m a m a D z a
 k u + m a r I r a
 k u + m a r a
 k u + m a r i r i r a
@@ -6876,10 +6875,10 @@ k u + m e m e n w a
 k u + m e r E r a
 k u + m e r a
 k u + m e z a
+k u + m i D s i r i z a
 k u + m i Y O r a
 k u + m i g a
 k u + m i g a n i s a
-k u + m i g i s i r i z a
 k u + m i r a
 k u + m i r a m i r a
 k u + m i r i N k u z a
@@ -6890,8 +6889,8 @@ k u + m o k a
 k u + m u Y u N g u z a
 k u + m u g a
 k u + m u r i N k a n a
+k u + m u r i T r a
 k u + m u r i k a
-k u + m u r i k i r a
 k u + m u r i t s j a
 k u + m w a
 k u + m w a m w a t i k a n a
@@ -6904,22 +6903,22 @@ k u + n A b a
 k u + n A b i s a
 k u + n A h a
 k u + n A n U k a
-k u + n I k i r a
+k u + n I T r a
 k u + n U j a
 k u + n U k a
+k u + n a D r a
 k u + n a f U k a
 k u + n a g a
 k u + n a g a i Z a
 k u + n a g a i Z u z a
 k u + n a g a m u
 k u + n a g a n a g a
-k u + n a g i r a
 k u + n a n U k a
 k u + n a n U r a
 k u + n a n a
 k u + n a n a t a
+k u + n a n u T r a
 k u + n a n u k a
-k u + n a n u k i r a
 k u + n a n u r a
 k u + n e k a
 k u + n e n a
@@ -6927,7 +6926,7 @@ k u + n i N g a
 k u + n i N g u k a
 k u + n i N g u r a
 k u + n i a
-k u + n i a g I r a
+k u + n i a D i r a
 k u + n i a g a n i a g a
 k u + n i g a
 k u + n i g w a
@@ -6941,7 +6940,7 @@ k u + n o g O r a
 k u + n o g a
 k u + n o g o r a
 k u + n o m b a
-k u + n o n a g i r a
+k u + n o n a D r a
 k u + n o n z j a
 k u + n o z j a
 k u + n u
@@ -6955,10 +6954,10 @@ k u + n u z a
 k u + n w e k a n w e k a
 k u + p A t I k a
 k u + p I p a
-k u + p a N g i s a
+k u + p a N D s a
+k u + p a T r a
 k u + p a k a s a
 k u + p a k a z a
-k u + p a k i r a
 k u + p a k u k a
 k u + p a p a z a
 k u + p i k a
@@ -7007,6 +7006,9 @@ k u + r O t a
 k u + r O t o r o r a
 k u + r U m a
 k u + r U z a
+k u + r a D i r a
+k u + r a D r i r a
+k u + r a N D r i r a
 k u + r a N g A n a
 k u + r a N g A n w a
 k u + r a N g A r a
@@ -7014,7 +7016,6 @@ k u + r a N g A r i k a
 k u + r a N g U z a
 k u + r a N g a
 k u + r a N g a r a N g a
-k u + r a N g i r i r a
 k u + r a S a
 k u + r a S i r a
 k u + r a b a
@@ -7026,7 +7027,6 @@ k u + r a b j a
 k u + r a b u k a
 k u + r a g A n a
 k u + r a g A n i s a
-k u + r a g I r a
 k u + r a g a
 k u + r a g a n a
 k u + r a g a r a
@@ -7034,7 +7034,6 @@ k u + r a g a r a m u
 k u + r a g a r i k a
 k u + r a g a r i t s j a
 k u + r a g a z a
-k u + r a g i r i r a
 k u + r a g u r a
 k u + r a g u r i r a
 k u + r a g u z a
@@ -7043,8 +7042,8 @@ k u + r a h e
 k u + r a h i
 k u + r a h i r a
 k u + r a h i z a
+k u + r a h u T r i r a
 k u + r a h u k a
-k u + r a h u k i r i r a
 k u + r a h u r a
 k u + r a h u t s j a
 k u + r a i N g u h a
@@ -7058,8 +7057,8 @@ k u + r a m a r a
 k u + r a m a t i k a
 k u + r a m b U k a
 k u + r a m b U r a
+k u + r a m b i T r i z a
 k u + r a m b i k a
-k u + r a m b i k i r i z a
 k u + r a m b i r a
 k u + r a m b u r a
 k u + r a m j a
@@ -7082,25 +7081,25 @@ k u + r a r i k a
 k u + r a s i r i r a
 k u + r a z a
 k u + r a z a r a z a n a
+k u + r e D e k a
+k u + r e D e t a
+k u + r e N D E r a
+k u + r e N D E z a
+k u + r e N D e r e r a
+k u + r e N D e s e r e z a
+k u + r e N D e z a
 k u + r e N g a
 k u + r e N g a h a r a
 k u + r e N g a n a
 k u + r e N g a n i s a
 k u + r e N g a r e N g a
-k u + r e N g j E r a
-k u + r e N g j E z a
-k u + r e N g j e r e r a
-k u + r e N g j e s e r e z a
-k u + r e N g j e z a
 k u + r e N g w a
+k u + r e T e r a
 k u + r e b u k a
 k u + r e b u r a
 k u + r e g a
 k u + r e g a n a
-k u + r e g j e k a
-k u + r e g j e t a
 k u + r e k a
-k u + r e k j e r a
 k u + r e k u k a
 k u + r e k u r a
 k u + r e k u r i r a
@@ -7123,31 +7122,31 @@ k u + r e n z j a
 k u + r e r a
 k u + r e r u r a
 k u + r i
+k u + r i D r a
+k u + r i D t a
+k u + r i D t s a
+k u + r i N D r i k a
+k u + r i N D r i r a
 k u + r i N g A n a
 k u + r i N g A n i r a
 k u + r i N g A n i z a
-k u + r i N g i r i k a
-k u + r i N g i r i r a
 k u + r i N g u r i z a
 k u + r i b a
 k u + r i b a t a
 k u + r i b j a
 k u + r i g a t s a
-k u + r i g i r a
-k u + r i g i t a
-k u + r i g i t s a
 k u + r i h a
 k u + r i j a
 k u + r i m a
 k u + r i m a N g a Y a
 k u + r i m b I k a
-k u + r i m b a g i r i r w a
+k u + r i m b a D r i r w a
 k u + r i m b a t u r a
 k u + r i m b u k a
 k u + r i m b u r a
 k u + r i m i r i r a
 k u + r i n d a
-k u + r i n d a g i r a
+k u + r i n d a D r a
 k u + r i r a
 k u + r i r i r a
 k u + r i t a
@@ -7179,17 +7178,17 @@ k u + r o r o N g a
 k u + r o t a m a
 k u + r o z a
 k u + r o z a h o
+k u + r u D r i r a
+k u + r u N D
+k u + r u N D h o
 k u + r u N g a
 k u + r u N g a m a
-k u + r u N g i
-k u + r u N g i h o
 k u + r u b a
 k u + r u b j a
 k u + r u g a
 k u + r u g a h o
 k u + r u g a j o
 k u + r u g a m u
-k u + r u g i r i r a
 k u + r u g w a
 k u + r u g w a h o
 k u + r u g w a m u
@@ -7225,6 +7224,8 @@ k u + s E t a
 k u + s E t e r a
 k u + s E t u k a
 k u + s E t u r a
+k u + s I D r i z a
+k u + s I T r i z a
 k u + s I b a
 k u + s I b a h o
 k u + s I b a k w e
@@ -7232,9 +7233,7 @@ k u + s I b a k w o
 k u + s I b j a h o
 k u + s I b u r u k a
 k u + s I g a
-k u + s I g i r i z a
 k u + s I k U k a
-k u + s I k i r i z a
 k u + s I k u r a
 k u + s I m U r a
 k u + s I m a
@@ -7255,16 +7254,20 @@ k u + s O r a
 k u + s O r e r a
 k u + s U s a
 k u + s a
-k u + s a N g i r a
+k u + s a N D r a
 k u + s a N g u n u k a
 k u + s a N g u n u z a
 k u + s a m b i s i r i w a
+k u + s i D r a
+k u + s i D r i r a
+k u + s i N D E r a
+k u + s i N D s i r i z a
+k u + s i N D z a
 k u + s i N g a
-k u + s i N g i s i r i z a
-k u + s i N g i z a
-k u + s i N g j E r a
 k u + s i N g o r e r a
 k u + s i N g u r a
+k u + s i T m b a
+k u + s i T n a
 k u + s i b A s i b j a
 k u + s i b A z a
 k u + s i b a
@@ -7279,19 +7282,15 @@ k u + s i g a i g a n a
 k u + s i g a r a
 k u + s i g a r a h o
 k u + s i g a z a h o
-k u + s i g i r a
-k u + s i g i r i r a
 k u + s i k a
 k u + s i k a N k u r a
 k u + s i k a m b a
 k u + s i k a n a
 k u + s i k a n i s a
-k u + s i k i m b a
-k u + s i k i n a
 k u + s i k u k a
 k u + s i k u r a
 k u + s i m b a
-k u + s i m b i k i r i z a
+k u + s i m b i T r i z a
 k u + s i m b u k a
 k u + s i m b u r a
 k u + s i m b u z a
@@ -7303,9 +7302,9 @@ k u + s i n d U r a
 k u + s i n d a
 k u + s i n d a m a
 k u + s i n d a m j a
+k u + s i n d i T r a
+k u + s i n d i T r i r a
 k u + s i n d i k a
-k u + s i n d i k i r a
-k u + s i n d i k i r i r a
 k u + s i n d i r i r a
 k u + s i n d u k a
 k u + s i n d u r a
@@ -7321,8 +7320,8 @@ k u + s i r I t a n a
 k u + s i r I z a
 k u + s i r a
 k u + s i r a s i z a
-k u + s i r i k i r i r a
-k u + s i r i k i r i z a
+k u + s i r i T r i r a
+k u + s i r i T r i z a
 k u + s i s I m u k a
 k u + s i s I m u r a
 k u + s i s i r a
@@ -7330,10 +7329,10 @@ k u + s i t a
 k u + s i z a
 k u + s i z i k a
 k u + s j a
-k u + s j a N g i r i r a
+k u + s j a N D r i r a
 k u + s j a N k a n a
 k u + s j a h a
-k u + s j a h u k i r a
+k u + s j a h u T r a
 k u + s j a m a
 k u + s j a m u k a
 k u + s j a m u r a
@@ -7373,6 +7372,8 @@ k u + t A s j a
 k u + t A s j a m u
 k u + t A t A n a
 k u + t A t A n i s a
+k u + t E T e r a
+k u + t E T e r e z a
 k u + t E b a
 k u + t E b e r e z a
 k u + t E b w a
@@ -7381,11 +7382,9 @@ k u + t E k a
 k u + t E k a m a
 k u + t E k a m i r i z a
 k u + t E k a n i r i z a
+k u + t E k a t E T e r a
 k u + t E k a t E k a
 k u + t E k a t E k a h o
-k u + t E k a t E k j e r a
-k u + t E k j e r a
-k u + t E k j e r e z a
 k u + t E k u r u r a
 k u + t E k w a
 k u + t E r a
@@ -7437,6 +7436,9 @@ k u + t U r i r a
 k u + t U t u k a
 k u + t U z a
 k u + t a
+k u + t a N D r a
+k u + t a N D r i r a
+k u + t a N D r i z a
 k u + t a N g A r a
 k u + t a N g A t i r a
 k u + t a N g A z a
@@ -7445,9 +7447,6 @@ k u + t a N g a h o
 k u + t a N g a n a
 k u + t a N g a t a
 k u + t a N g a t a N g a n a
-k u + t a N g i r a
-k u + t a N g i r i r a
-k u + t a N g i r i z a
 k u + t a N g u k a n a
 k u + t a N g u r a n a
 k u + t a b A r a
@@ -7503,8 +7502,8 @@ k u + t a n d i k a
 k u + t a n i r i r w a
 k u + t a n t a m u k a
 k u + t a n t a m u r a
+k u + t a r A T z a
 k u + t a r A k a
-k u + t a r A k i z a
 k u + t a r a
 k u + t a r a N g a
 k u + t a r a b a n a
@@ -7514,8 +7513,8 @@ k u + t a r a n z j a
 k u + t a r a t a m b a
 k u + t a r a t a m b w a
 k u + t a r a t a r u k a
+k u + t a r i T r i z a
 k u + t a r i k a
-k u + t a r i k i r i z a
 k u + t a r i r a
 k u + t a r i r a n a
 k u + t a r u k a
@@ -7523,17 +7522,20 @@ k u + t a r u z a
 k u + t a t a
 k u + t a t a m u k a
 k u + t a t a m u z a
+k u + t e D e k a
+k u + t e D e k w a
+k u + t e D e r e z a
+k u + t e N D E t a
+k u + t e N D E t s a
+k u + t e N D e r a
+k u + t e N D e r e r a
 k u + t e N g a
 k u + t e N g a t e N g a
-k u + t e N g j E t a
-k u + t e N g j E t s a
-k u + t e N g j e r a
-k u + t e N g j e r e r a
 k u + t e N g u k a
 k u + t e N g w a
+k u + t e b E T e r a
 k u + t e b E k a n a
 k u + t e b E k a n i s a
-k u + t e b E k j e r a
 k u + t e b a
 k u + t e b e r e z a
 k u + t e b e z a
@@ -7545,9 +7547,6 @@ k u + t e g a Y a
 k u + t e g a m a
 k u + t e g a n a
 k u + t e g a n i s a
-k u + t e g j e k a
-k u + t e g j e k w a
-k u + t e g j e r e z a
 k u + t e g u r u r a
 k u + t e i S u k a
 k u + t e i s a
@@ -7567,7 +7566,7 @@ k u + t e m u r u r a
 k u + t e n d a
 k u + t e n d e k a
 k u + t e n d e r a
-k u + t e n e N k j e r e r a
+k u + t e n e N T e r e r a
 k u + t e n s a
 k u + t e n t e b e r e r a
 k u + t e n t e b u k a
@@ -7575,10 +7574,10 @@ k u + t e r E r a
 k u + t e r E z a
 k u + t e r a
 k u + t e r a m a
+k u + t e r e T e r e r a
 k u + t e r e b u k a
 k u + t e r e b u r a
 k u + t e r e k a
-k u + t e r e k j e r e r a
 k u + t e r e r a
 k u + t e r e z a
 k u + t e r u r a
@@ -7592,11 +7591,11 @@ k u + t e z a
 k u + t e z j a
 k u + t f u r u r a
 k u + t i
+k u + t i D t a
 k u + t i N g a
 k u + t i b i r a n a
 k u + t i g a
 k u + t i g a n d a
-k u + t i g i t a
 k u + t i m b a
 k u + t i m b i r a
 k u + t i m b j a m u
@@ -7614,6 +7613,7 @@ k u + t j a z a
 k u + t j o
 k u + t j o N g O z a
 k u + t j o t j o z a
+k u + t o D e r a
 k u + t o N g a n a
 k u + t o N g a n i r a
 k u + t o N g a n i s a
@@ -7624,7 +7624,6 @@ k u + t o b j a
 k u + t o b o r a
 k u + t o b o r o r a
 k u + t o g a
-k u + t o g j e r a
 k u + t o i Z a
 k u + t o j a
 k u + t o k O r a
@@ -7635,7 +7634,7 @@ k u + t o m o r a
 k u + t o n a
 k u + t o n d O r a
 k u + t o n d a
-k u + t o n d a g i r a
+k u + t o n d a D r a
 k u + t o n d o k a
 k u + t o n d o r a
 k u + t o n d o r a m u
@@ -7644,7 +7643,7 @@ k u + t o n e k a r a
 k u + t o n e r a
 k u + t o n t o m a
 k u + t o n z j a
-k u + t o r o N g j e z a
+k u + t o r o N D e z a
 k u + t o r o b o z a
 k u + t o r o k a
 k u + t o r o r a
@@ -7653,7 +7652,10 @@ k u + t o t a
 k u + t o t s a
 k u + t s I r a
 k u + t s I s a
+k u + t s i D r a
+k u + t s i D r i r a
 k u + t s i N g a
+k u + t s i T m b a
 k u + t s i b A z a
 k u + t s i b a
 k u + t s i b a m a
@@ -7667,13 +7669,10 @@ k u + t s i g a h o
 k u + t s i g a r a
 k u + t s i g a r a h o
 k u + t s i g a z a b o
-k u + t s i g i r a
-k u + t s i g i r i r a
 k u + t s i k a m b a
 k u + t s i k a m b w a
 k u + t s i k a n a
 k u + t s i k a n i s a
-k u + t s i k i m b a
 k u + t s i m b a
 k u + t s i m b i r a
 k u + t s i m b u k a
@@ -7684,9 +7683,9 @@ k u + t s i n d I r a
 k u + t s i n d a
 k u + t s i n d a m a
 k u + t s i n d a m j a
+k u + t s i n d i T r a
+k u + t s i n d i T r i r a
 k u + t s i n d i k a
-k u + t s i n d i k i r a
-k u + t s i n d i k i r i r a
 k u + t s i n d i r i r a
 k u + t s i n d u k a
 k u + t s i n t s i m u k a
@@ -7698,13 +7697,15 @@ k u + t s i r i k a
 k u + t s i z a
 k u + t s i z i k a
 k u + t s j a
-k u + t s j a g I r a
+k u + t s j a D i r a
 k u + t s j a h a
-k u + t s j a h u k i r a
+k u + t s j a h u T r a
 k u + t s j a m a
 k u + t s j a m u k a
 k u + t s j o r a
 k u + t s j o r e r a
+k u + t u N D k a
+k u + t u N D s a
 k u + t u N g U k a
 k u + t u N g U r a
 k u + t u N g U t a
@@ -7712,8 +7713,6 @@ k u + t u N g a
 k u + t u N g a m a
 k u + t u N g a m i r a
 k u + t u N g a r a r a
-k u + t u N g i k a
-k u + t u N g i s a
 k u + t u N g u r a
 k u + t u N g u r u k a
 k u + t u N g u r u r a
@@ -7740,7 +7739,7 @@ k u + t u n u k a
 k u + t u r a
 k u + t u r a n i r a
 k u + t u r a n i z a
-k u + t u r i k i r i r a
+k u + t u r i T r i r a
 k u + t u r i r a
 k u + t u r i z a
 k u + t u r u k a
@@ -7750,24 +7749,24 @@ k u + t w a
 k u + t w a r a
 k u + t w a r a h o
 k u + t w a z a
+k u + t w e T e r a
 k u + t w e b w a
 k u + t w e i s a
 k u + t w e k a
-k u + t w e k j e r a
 k u + t w e r E r a
 k u + t w e r E z a
 k u + t w e r a
 k u + t w e r e r a
-k u + v I g I r a
+k u + v I D i r a
 k u + v I k a
 k u + v u g a
 k u + v u j a N g a
 k u + v u m b a
 k u + v u n u r a
 k u + v u r u g a
+k u + z A D r a
+k u + z A D z a
 k u + z A b U k a
-k u + z A g i r a
-k u + z A g i z a
 k u + z A g u r i k a
 k u + z A g u r u r a
 k u + z A h A r a
@@ -7792,16 +7791,16 @@ k u + z a
 k u + z a h o
 k u + z a m b A r a
 k u + z a m b a i t u r a
+k u + z e N D e r e r a
 k u + z e N g a
 k u + z e N g a z e N g a
-k u + z e N g j e r e r a
 k u + z e N g u r u k a n a
+k u + z i N D r i r a
+k u + z i N D z a
 k u + z i N g a
 k u + z i N g a m a
 k u + z i N g a z i N g a
 k u + z i N g a z i N g w a
-k u + z i N g i r i r a
-k u + z i N g i z a
 k u + z i N g u r a
 k u + z i N g u r u k a
 k u + z i N g u r u r a
@@ -7829,7 +7828,7 @@ k u + z i n d u k a
 k u + z i n i t s j a
 k u + z i r I z a
 k u + z i r a
-k u + z i r i N g i t i r i r a
+k u + z i r i N D t i r i r a
 k u + z i r i N g u t a n a
 k u + z i r i k a
 k u + z i r i m u k a
@@ -7841,7 +7840,7 @@ k u + z o N g a
 k u + z o N g a z o N g a
 k u + z o N g o z a
 k u + z u N g u z a
-k w + E w i t a g i z a
+k w + E w i t a D z a
 k w + I k a
 k w + a N g a
 k w + a N g a Y a
@@ -7852,6 +7851,9 @@ k w + a N g u s j a
 k w + a S a
 k w + a S a m a
 k w + a S a m j a
+k w + a T i r a
+k w + a T r a
+k w + a T s a
 k w + a Y u
 k w + a b A b i r a
 k w + a b U k a
@@ -7860,19 +7862,16 @@ k w + a b j a
 k w + a g A g a
 k w + a g a
 k w + a g u r a
-k w + a h u k i r a
+k w + a h u T r a
 k w + a h u r a
 k w + a j a
 k w + a k A n w a
-k w + a k I r a
 k w + a k a
-k w + a k i r a
-k w + a k i s a
 k w + a k u r a
 k w + a k w a
 k w + a m U k a
+k w + a m a D r i r a
 k w + a m a g a n a
-k w + a m a g i r i r a
 k w + a m b u k a
 k w + a m b u r a
 k w + a m b u t s j a
@@ -7893,8 +7892,8 @@ k w + a n d U r a
 k w + a n d a g a r a n a
 k w + a n d a g a r i k a
 k w + a n d a m i r a
+k w + a n i T r i z a
 k w + a n i k a
-k w + a n i k i r i z a
 k w + a n i r i z a
 k w + a n i s a
 k w + a n u k a
@@ -7925,10 +7924,23 @@ k w + a t s a
 k w + a t s j a
 k w + a t u k a
 k w + a t u r a
-k w + e N g j e N g j e t a
-k w + e N g j e N g j e t s a
-k w + e N g j e r a
-k w + e N g j e r e r a
+k w + e D E g a
+k w + e D e k a
+k w + e D e k a h o
+k w + e D e n d e r a
+k w + e D e n d e r e z a
+k w + e D e n d e s e r e z a
+k w + e D e r a
+k w + e D e r a m u
+k w + e D e r e k a
+k w + e D e r e r a
+k w + e D e s a
+k w + e D r a
+k w + e D z a
+k w + e N D e N D e t a
+k w + e N D e N D e t s a
+k w + e N D e r a
+k w + e N D e r e r a
 k w + e N g u k a
 k w + e S A Y a
 k w + e S A r i N g a
@@ -7942,12 +7954,12 @@ k w + e S a m a
 k w + e S a m b a
 k w + e S a n Z a
 k w + e S a n d a
-k w + e S e N g j e Y a
-k w + e S e N g j e r e z a
+k w + e S e N D e Y a
+k w + e S e N D e r e z a
 k w + e S e m b a
 k w + e S e m e z a
 k w + e S e r a
-k w + e S e r e g j e Y a
+k w + e S e r e D e Y a
 k w + e S e r e k a
 k w + e S o N g o r a
 k w + e S o b a N g a
@@ -7966,8 +7978,14 @@ k w + e S u r u g u t u r i r a
 k w + e S u t a m i r a
 k w + e S w a r i k a
 k w + e S w e k a
+k w + e T E k a
+k w + e T N D r a
+k w + e T N g a
 k w + e T O k a
+k w + e T Y a
 k w + e T a r n u r a
+k w + e T i k U r a
+k w + e T n d i l d r a
 k w + e T u m a
 k w + e T u m i r a
 k w + e T u m i t a
@@ -7982,7 +8000,7 @@ k w + e T w a
 k w + e T w a h o
 k w + e Y A Y A t a
 k w + e Y a N g a r a z a
-k w + e Y i g i r i z a
+k w + e Y i D r i z a
 k w + e Y o g O r a
 k w + e Y w a n i s a
 k w + e Z U m U r a
@@ -8013,7 +8031,7 @@ k w + e b u z a
 k w + e b w a
 k w + e f O k O r a
 k w + e f U z a
-k w + e f u N g i z a
+k w + e f u N D z a
 k w + e f u Y a
 k w + e f u b i k a
 k w + e f u k a
@@ -8034,19 +8052,6 @@ k w + e g a r a n Z u r a
 k w + e g a r i r a h o
 k w + e g a t i k a
 k w + e g a t i r a m u
-k w + e g i r a
-k w + e g i z a
-k w + e g j E g a
-k w + e g j e k a
-k w + e g j e k a h o
-k w + e g j e n d e r a
-k w + e g j e n d e r e z a
-k w + e g j e n d e s e r e z a
-k w + e g j e r a
-k w + e g j e r a m u
-k w + e g j e r e k a
-k w + e g j e r e r a
-k w + e g j e s a
 k w + e g o n e s a
 k w + e g o n o z a
 k w + e g u k a
@@ -8063,7 +8068,7 @@ k w + e h a N g A n a
 k w + e h a N g U r a
 k w + e h a N g a
 k w + e h a N g a m u r i r a
-k w + e h a b a g i z a
+k w + e h a b a D z a
 k w + e h a g a
 k w + e h a g a Y u r a
 k w + e h a k U r a
@@ -8071,39 +8076,39 @@ k w + e h a k a n a
 k w + e h a m b i r a
 k w + e h a m i r i z a
 k w + e h a n U z a
-k w + e h a n a N g i r i z a
-k w + e h a n a N g i s i r i z a
-k w + e h a n d I k i s a
+k w + e h a n a N D r i z a
+k w + e h a n a N D s i r i z a
+k w + e h a n d I T s a
 k w + e h a r a
 k w + e h e n d a
 k w + e h e n e N g a
 k w + e h e r E r a
 k w + e h e r E r a n i z a
+k w + e h i D l T a
 k w + e h i N g U r a
 k w + e h i N g u r i t i z a
 k w + e h i N g u r i z a
+k w + e h i T r a
 k w + e h i Y a
 k w + e h i g a
-k w + e h i g i l T a
-k w + e h i k i r a
 k w + e h i m b i s a
 k w + e h i n d a g u t u r a n a
 k w + e h i n d u t a
 k w + e h i r i k a
 k w + e h i r i s j a
-k w + e h i r n b a g i r i z a
+k w + e h i r n b a D r i z a
 k w + e h i t s j a
+k w + e h o N D e r a
 k w + e h o N g a
-k w + e h o N g j e r a
 k w + e h o h O r a
 k w + e h o n d a
 k w + e h o r O t s a
 k w + e h o t o r a
 k w + e h o t o r o r a
-k w + e h u N g i r a
-k w + e h u g i k a
+k w + e h u D k a
+k w + e h u N D r a
 k w + e h u m b a r i k a
-k w + e h u r i N g i r i r a
+k w + e h u r i N D r i r a
 k w + e h u r u b a t s a
 k w + e h u r u m u r a
 k w + e h u r u z a
@@ -8112,21 +8117,21 @@ k w + e i Z u s j a
 k w + e i b a
 k w + e i h a
 k w + e i h a h o
-k w + e i m u k i r a
+k w + e i m u T r a
 k w + e i m u s j a
 k w + e i n i k a
 k w + e i n u r a
 k w + e i t a
 k w + e j a
+k w + e j a N D s a
 k w + e j a N g a
-k w + e j a N g i s a
 k w + e j a g u r a
 k w + e j a j a m u r a
 k w + e j a k a
 k w + e j a m u r a
 k w + e j a n Z a r a
 k w + e j a n d a
-k w + e j a n i k i r i z a
+k w + e j a n i T r i z a
 k w + e j a r I r a
 k w + e j e b e s a
 k w + e j e m e k a
@@ -8134,23 +8139,17 @@ k w + e j e m e r e z a
 k w + e j e r e r a
 k w + e j e t a
 k w + e j e z a
-k w + e j o N g j e r a
+k w + e j o N D e r a
 k w + e j o g o S a
 k w + e j o r e k a
 k w + e j o r o b j a
-k w + e j u g i z a
-k w + e k I k U r a
+k w + e j u D z a
 k w + e k U b a
 k w + e k U m a
 k w + e k U t s a
 k w + e k a N g a
 k w + e k a k u r a
 k w + e k a m a t a
-k w + e k i N g a
-k w + e k i N g i r a
-k w + e k i Y a
-k w + e k i n d i l d r a
-k w + e k j E k a
 k w + e k o m a
 k w + e k o m b a
 k w + e k o r e r a
@@ -8165,7 +8164,7 @@ k w + e k u b i r a n a
 k w + e k u m b i r a
 k w + e k u n d i s a
 k w + e k u r a t a n a
-k w + e k u r i N g i r i r a
+k w + e k u r i N D r i r a
 k w + e k u r u r a
 k w + e k u z a
 k w + e k w a t a
@@ -8189,7 +8188,7 @@ k w + e m e r e z a
 k w + e m e s a
 k w + e m e s e r e z a
 k w + e m e z a
-k w + e m i g i z a
+k w + e m i D z a
 k w + e m i r e
 k w + e m j a
 k w + e m o k O r a
@@ -8202,12 +8201,12 @@ k w + e n a g a
 k w + e n a n u r a
 k w + e n d a
 k w + e n d e z a
-k w + e n e g j e z a
+k w + e n e D e z a
 k w + e n i o N k o b a
 k w + e n o f O r a
 k w + e p I p i s a
+k w + e r E D e r a
 k w + e r E b e r a
-k w + e r E g j e r a
 k w + e r E r a
 k w + e r E t a
 k w + e r E t e r a
@@ -8223,12 +8222,12 @@ k w + e r a g a z a
 k w + e r a h i r a
 k w + e r a m a z a
 k w + e r a m b i k a
-k w + e r a r i k i r i r a
-k w + e r a r i k i r i z a
-k w + e r e N g j e k j e r e r a
-k w + e r e N g j e r e r a
+k w + e r a r i T r i r a
+k w + e r a r i T r i z a
+k w + e r e N D e T e r e r a
+k w + e r e N D e r e r a
 k w + e r e N g u z a
-k w + e r e k j e s a
+k w + e r e T e s a
 k w + e r e m E s a
 k w + e r e m U k w a
 k w + e r e m b a r e m b a
@@ -8237,8 +8236,8 @@ k w + e r e m w a
 k w + e r e n z j a
 k w + e r e r E r e r a
 k w + e r e r e r a
-k w + e r i N g I t a
-k w + e r i N g i r i k a
+k w + e r i N D i t a
+k w + e r i N D r i k a
 k w + e r i n d a
 k w + e r j a m b u z a
 k w + e r o h a
@@ -8258,12 +8257,12 @@ k w + e s I m a
 k w + e s I m i r a
 k w + e s I m i r a n a
 k w + e s I s i b a n i s a
-k w + e s i N g i z a
+k w + e s i N D z a
 k w + e s i b a
 k w + e s i g a
 k w + e s i k u r a
 k w + e s i m b a
-k w + e s i m b a g i r i z a
+k w + e s i m b a D r i z a
 k w + e s i m b i r a
 k w + e s i n z j a
 k w + e s i r a s i z a
@@ -8274,8 +8273,8 @@ k w + e t A Y a g u r a
 k w + e t A g a
 k w + e t A s j a
 k w + e t A t A n a
+k w + e t E T e r a
 k w + e t E k a t E k a
-k w + e t E k j e r a
 k w + e t E r a
 k w + e t E r a n a
 k w + e t E r a t E r a
@@ -8294,64 +8293,66 @@ k w + e t a m b i k a
 k w + e t a m i k a
 k w + e t a n t a r a
 k w + e t a r i k a
+k w + e t e D e k a
+k w + e t e D e r e z a
+k w + e t e D e r e z a h o
+k w + e t e D e r e z a n a
+k w + e t e N D e n e k a
+k w + e t e N D e z a
 k w + e t e N g a
-k w + e t e N g j e n e k a
-k w + e t e N g j e z a
 k w + e t e b a
 k w + e t e g U r a
 k w + e t e g a
-k w + e t e g j e k a
-k w + e t e g j e r e z a
-k w + e t e g j e r e z a h o
-k w + e t e g j e r e z a n a
 k w + e t e i s a
 k w + e t e r a
 k w + e t e r e r a
 k w + e t i n d a
-k w + e t i r i g i Y a
+k w + e t i r i D Y a
 k w + e t o N g a n i r a
 k w + e t o m b o i t a
 k w + e t o n d a
 k w + e t o r o t O z a
 k w + e t s i b a
 k w + e t s i m b a
-k w + e t s i m b a g i z a
+k w + e t s i m b a D z a
 k w + e t s i m b i r a
 k w + e t s i n z j a
 k w + e t s i r a t s i z a
 k w + e t s i z a
 k w + e t s j a m u r a
+k w + e t u N D r a
 k w + e t u N g U r a
-k w + e t u N g i r a
 k w + e t u m a
 k w + e t u m i r a h o
 k w + e t u m i s i r i z a
 k w + e t u n e N g a
 k w + e t w a
 k w + e t w a r a
-k w + e t w e k j e r e r a
+k w + e t w e T e r e r a
 k w + e v u g a
 k w + e z a
-k w + e z e N g j e r e z a
+k w + e z e N D e r e z a
+k w + e z i N D r i r a
+k w + e z i N D z a
 k w + e z i N g a
-k w + e z i N g i r i r a
-k w + e z i N g i z a
 k w + e z i N g u r u r a
 k w + e z i b i r a
 k w + e z i g O r a
 k w + e z i g u r u t s j a
 k w + e z i g u z a
 k w + e z i n I s a
+k w + e z i r i D t i r i r a
 k w + e z i r i N g a
 k w + e z i r i N g u r a
-k w + e z i r i g i t i r i r a
 k w + e z i r i k a
 k w + e z i r i k w a
 k w + f I s a
+k w + i N D h o
 k w + i N g a n a
 k w + i N g a n a i N g a n a
 k w + i N g a n i s a
-k w + i N g i h o
+k w + i T r i r i s a
+k w + i T r i z a
 k w + i Z a
 k w + i Z a h o
 k w + i Z a n a
@@ -8395,14 +8396,12 @@ k w + i k a
 k w + i k a i k a n a
 k w + i k a r a
 k w + i k a z a
-k w + i k i r i r i s a
-k w + i k i r i z a
 k w + i m U r a
 k w + i m a
 k w + i m a t a
+k w + i m u T r i r a
+k w + i m u T r i z a
 k w + i m u k a
-k w + i m u k i r i r a
-k w + i m u k i r i z a
 k w + i m u t s j a
 k w + i m w a
 k w + i n a m a
@@ -8412,7 +8411,7 @@ k w + i n a m j a
 k w + i n a m u k a
 k w + i n a m u r a
 k w + i n a r a
-k w + i n e g j e z a
+k w + i n e D e z a
 k w + i n i k a
 k w + i n u k a
 k w + i n u r a
@@ -8425,12 +8424,12 @@ k w + i r i r i m b a
 k w + i r i r i r a
 k w + i r i r i r w a
 k w + i r i z a
+k w + i r u T r a
 k w + i r u k a
 k w + i r u k a N g a
 k w + i r u k a h o
 k w + i r u k a n a
 k w + i r u k a n z j a
-k w + i r u k i r a
 k w + i r u t s j a
 k w + i s a
 k w + i s j a
@@ -8446,18 +8445,19 @@ k w + i t u r u r u k a
 k w + i t w a
 k w + i z i r a
 k w + i z i r w a
-k w + o N g j e r a
-k w + o N g j e s e r e z a
-k w + o N g j e z a
+k w + o D e r e r a
+k w + o D e z a
+k w + o N D e r a
+k w + o N D e s e r e z a
+k w + o N D e z a
 k w + o N g o n z j a
 k w + o N g o t o k a
 k w + o N k a
 k w + o S a
+k w + o T e r e r a
 k w + o g a
 k w + o g a b o
 k w + o g a m u
-k w + o g j e r e r a
-k w + o g j e z a
 k w + o g o S a
 k w + o h a
 k w + o h e r a
@@ -8465,7 +8465,6 @@ k w + o h e r e z a
 k w + o h i b w a
 k w + o h o k a
 k w + o j a
-k w + o k j e r e r a
 k w + o m O k a
 k w + o m O r a
 k w + o m a
@@ -8483,9 +8482,9 @@ k w + o n e s a
 k w + o n o k a
 k w + o n o r a
 k w + o n t s j a
+k w + o r e T e r e r a
+k w + o r e T e z a
 k w + o r e k a
-k w + o r e k j e r e r a
-k w + o r e k j e z a
 k w + o r o b a
 k w + o r o b e r a
 k w + o r o b j a
@@ -8502,7 +8501,7 @@ k w + u b a N g u r a
 k w + u r i r a
 m + b u b u
 m + b u r i j a
-m + p u N g i r a
+m + p u N D r a
 m + p u n i k a
 m A j a
 m A p u
@@ -8519,7 +8518,7 @@ m A w e n t o i t w e
 m A z A r a
 m A z A r a i t w e
 m I S a n i
-m a + i N g i h o
+m a + i N D h o
 m a Y a
 m a i n i
 m a i r o
@@ -8577,7 +8576,7 @@ m u + k A k a
 m u + k O n a
 m u + k a
 m u + k a b A w e
-m u + k a b a N g j e
+m u + k a b a N D e
 m u + k a i S e
 m u + k a i k u r u
 m u + k a m a
@@ -8597,16 +8596,16 @@ m u + t j o
 m u + t u k u
 m u + z A n a
 m u + z E
-m u + z I k i
+m u + z I T
+m u D + i n e
+m u T + i n e
+m u T + r i
 m u b i + i n e
 m u b w + i n e
 m u g a + i n e
-m u g i + i n e
 m u g w + i n e
 m u h a
 m u k a + i n e
-m u k i + i n e
-m u k i + r i
 m u k w + i n e
 m u n o m u n o
 m u r i + i n e
@@ -8621,11 +8620,15 @@ m w + e n S a t u
 m w + e n a
 m w + e n e
 m w + e n t A n o
-m w + i N g i
-m w + i N g i h o
+m w + i N D
+m w + i N D h o
 m w + i n e
 m w + i r O k o
 m w + o N k a
+n + D D
+n + T T
+n + T T o
+n + T r e z i n d i
 n + a g o
 n + a h a
 n + d i
@@ -8635,13 +8638,9 @@ n + d i n d i n d i
 n + d i r i
 n + d u r u
 n + g a g a
-n + g i g i
 n + g u g u
 n + k a k a
 n + k a r a b o
-n + k i k i
-n + k i k j o
-n + k i r e z i n d i
 n + k o r e
 n + k u N g u
 n + k u k u
@@ -8663,6 +8662,7 @@ n U n U n u
 n a
 n a + N g w a
 n a + N k a
+n a + T o
 n a + a Y e
 n a + b j o
 n a + b o
@@ -8674,7 +8674,6 @@ n a + i m w e
 n a + i t w e
 n a + i w e
 n a + j o
-n a + k j o
 n a + k o
 n a + k w o
 n a + m w o
@@ -8694,6 +8693,7 @@ n d u + r i j a
 n d u + r w o
 n d w + i n e
 n i
+n i + T o
 n i + b j o
 n i + b o
 n i + b w e
@@ -8706,7 +8706,6 @@ n i + i m w e
 n i + i t w e
 n i + i w e
 n i + j o
-n i + k j o
 n i + k o
 n i + k w e
 n i + k w o
@@ -8733,8 +8732,8 @@ o + Z w a i r e
 o + f I r e
 o + g u m e h o
 o + h e r e i r e
-o + h i k i r I r e
-o + h i k i r e
+o + h i T r I r e
+o + h i T r e
 o + h u r I r e
 o + h w e r i z e
 o + i Z w i r e
@@ -8763,24 +8762,35 @@ o + t a i r e h o
 o + t a k a r E b w a g a
 o + t i
 o + t j o
+o + w A T o
 o + w A Y u
 o + w A b o
 o + w A b w o
 o + w A h a m j a
-o + w A k j o
 o + w A k o
 o + w A m w o
 o + w A w e
 o + w a i t u
 o + w e
+o D + i n e
+o T + i n e
+o T + r i
 o b a r i r e m u
 o b i + i n e
+o b u + D N g o
+o b u + D e Y i
+o b u + D e m e
+o b u + D e n d a n d a r a
+o b u + D e n z i
+o b u + D e r a
+o b u + D i k o
+o b u + D m b i
 o b u + N g o n z i
-o b u + S A k u r u k j e
+o b u + S A k u r u T e
 o b u + S A r i z i
 o b u + S A t o
+o b u + S E D E D e
 o b u + S E S e
-o b u + S E g j E g j e
 o b u + S I S a
 o b u + S U b u z i
 o b u + S U m o
@@ -8791,7 +8801,7 @@ o b u + S a i Z a
 o b u + S a k o
 o b u + S a m b a n i
 o b u + S a m b i
-o b u + S a n d U k j e
+o b u + S a n d U T e
 o b u + S a r e
 o b u + S a t u
 o b u + S a z a
@@ -8809,7 +8819,7 @@ o b u + S o b e r w a
 o b u + S o b o r o z i
 o b u + S o m e s a
 o b u + S o r o g o t o
-o b u + S u g i
+o b u + S u D
 o b u + S u m a
 o b u + S u m b a
 o b u + S u m i
@@ -8817,13 +8827,25 @@ o b u + S u n Z u
 o b u + S u z i
 o b u + S w e r e
 o b u + S w e z i
+o b u + T N D
 o b u + T O r i
 o b u + T a
 o b u + T a T a
+o b u + T a f u
 o b u + T a n T a b a r i
+o b u + T e
+o b u + T e N T e
 o b u + T e T e k o
 o b u + T e T e z i
 o b u + T e n T e
+o b u + T e n e
+o b u + T i k a
+o b u + T i k o
+o b u + T i n e
+o b u + T i z i
+o b u + T r a
+o b u + T r i
+o b u + T r o
 o b u + T u
 o b u + T u Z u
 o b u + T u m u
@@ -8838,20 +8860,20 @@ o b u + T u r e i r e
 o b u + T u z i
 o b u + T w a g u r u k a
 o b u + T w a n z j a
+o b u + T w e T e
 o b u + T w e k a T w e k a
-o b u + T w e k j e
 o b u + Y A f u
 o b u + Y A t a
 o b u + Y A t s i
+o b u + Y a D e
 o b u + Y a N g a r a r a
 o b u + Y a N k o g o t e
-o b u + Y a b w e N g j e
-o b u + Y a g j e
+o b u + Y a b w e N D e
 o b u + Y a g w a
 o b u + Y a i g a n Z a
 o b u + Y a k a n t u
 o b u + Y a k a r e
-o b u + Y a m u k i r a
+o b u + Y a m u T r a
 o b u + Y a m u n w a
 o b u + Y a m u r e r a
 o b u + Y a m u r w a
@@ -8862,8 +8884,8 @@ o b u + Y a r a r a
 o b u + Y a r u g u r u
 o b u + Y a r u t O k e
 o b u + Y e m i b w a
-o b u + Y i g i t a
-o b u + Y i g i t i r o
+o b u + Y i D t a
+o b u + Y i D t i r o
 o b u + Y i n d o
 o b u + Y o Y i
 o b u + Y o g a
@@ -8871,11 +8893,11 @@ o b u + Y u g w i z i
 o b u + Y w a n i
 o b u + Z A Z A b i
 o b u + Z U r e
+o b u + Z a D r o
 o b u + Z a N g u
-o b u + Z a g i r o
 o b u + Z a n Z a b i
-o b u + Z e N g j e i Z o
-o b u + Z e g a Z e g j e
+o b u + Z e N D e i Z o
+o b u + Z e g a Z e D e
 o b u + Z i g a i Z o
 o b u + Z o r O t o
 o b u + Z u
@@ -8883,10 +8905,10 @@ o b u + Z u m a
 o b u + Z u n A n i
 o b u + Z u n Z a
 o b u + Z w a i r e
-o b u + b A g i
+o b u + b A D
 o b u + b A n i
 o b u + b A r e
-o b u + b I k i
+o b u + b I T
 o b u + b I k o
 o b u + b a i z i
 o b u + b a n d a m o
@@ -8901,7 +8923,7 @@ o b u + b j a
 o b u + b o h e
 o b u + b o i Z a n a
 o b u + b o n e r o
-o b u + b u N g i r o
+o b u + b u N D r o
 o b u + b u N g o
 o b u + b u r w a
 o b u + b w a
@@ -8918,7 +8940,6 @@ o b u + f u n z i
 o b u + f u r a
 o b u + g A r a
 o b u + g A r i
-o b u + g I k o
 o b u + g a N g A z i
 o b u + g a N g a
 o b u + g a b e
@@ -8931,13 +8952,6 @@ o b u + g a r a
 o b u + g a r a g w a
 o b u + g a r a g w e
 o b u + g a r a m i
-o b u + g i N g o
-o b u + g i m b i
-o b u + g j e Y i
-o b u + g j e m e
-o b u + g j e n d a n d a r a
-o b u + g j e n z i
-o b u + g j e r a
 o b u + g o b a
 o b u + g o b j a
 o b u + g o i g o
@@ -8954,8 +8968,8 @@ o b u + g u m i z o
 o b u + g u r u s i
 o b u + g u z i
 o b u + g w e
-o b u + h I g i
-o b u + h I g i r o
+o b u + h I D
+o b u + h I D r o
 o b u + h I m a
 o b u + h I r w a
 o b u + h O r o
@@ -8967,30 +8981,30 @@ o b u + h a N g a
 o b u + h a N g o
 o b u + h a N g w a
 o b u + h a m i z o
-o b u + h a n d I k i
-o b u + h a n d I k j e
+o b u + h a n d I T
+o b u + h a n d I T e
 o b u + h a n o
-o b u + h e k j e
+o b u + h e T e
 o b u + h e m u
-o b u + h e n d e k j e
+o b u + h e n d e T e
 o b u + h e r E r o
 o b u + h e r a
 o b u + h e r e
-o b u + h i N g i
+o b u + h i N D
+o b u + h i T r e
 o b u + h i g a
-o b u + h i k i r e
 o b u + h i t s j a
 o b u + h o h a
 o b u + h o i h o
 o b u + h o m e
 o b u + h o r O t e
 o b u + h o r o
+o b u + h u N D e
+o b u + h u N D r o
 o b u + h u N g a
 o b u + h u N g a b e b e
-o b u + h u N g i r o
-o b u + h u N g j e
 o b u + h u N g u z i
-o b u + h u g a N g j e
+o b u + h u g a N D e
 o b u + h u k a
 o b u + h u m b i
 o b u + h u m i
@@ -9008,10 +9022,6 @@ o b u + j a g a
 o b u + j a m b a
 o b u + j o g o j o g o
 o b u + j o n Z o
-o b u + k I k a
-o b u + k I k o
-o b u + k I n e
-o b u + k I z i
 o b u + k O k o
 o b u + k O k o r o
 o b u + k a b a
@@ -9023,14 +9033,6 @@ o b u + k a m b a
 o b u + k a m b w e
 o b u + k a t u z i
 o b u + k a z i
-o b u + k i N g i
-o b u + k i r a
-o b u + k i r i
-o b u + k i r o
-o b u + k j a f u
-o b u + k j e
-o b u + k j e N k j e
-o b u + k j e n e
 o b u + k o N g o i Z o
 o b u + k o b a
 o b u + k o k o
@@ -9068,11 +9070,11 @@ o b u + n U n u
 o b u + n a
 o b u + n a b i
 o b u + n a k u
-o b u + n a n u k j e
+o b u + n a n u T e
 o b u + n d i
 o b u + n d i h o
-o b u + n e N g j e r e
-o b u + n e k j e
+o b u + n e N D e r e
+o b u + n e T e
 o b u + n e n e r o
 o b u + n i m i
 o b u + n o b i
@@ -9097,13 +9099,13 @@ o b u + r I s a
 o b u + r I s i z o
 o b u + r O r o
 o b u + r U r u
+o b u + r a D e
 o b u + r a N g a
 o b u + r a N g u r a
 o b u + r a b i r i z i
 o b u + r a b o
 o b u + r a g a r i k a
 o b u + r a g a r i s o
-o b u + r a g j e
 o b u + r a g u z i
 o b u + r a g w a
 o b u + r a h u z i
@@ -9113,8 +9115,8 @@ o b u + r a m a t a
 o b u + r a n d i r a
 o b u + r a n d u
 o b u + r a r i
+o b u + r e N D
 o b u + r e N g a
-o b u + r e N g i
 o b u + r e Z u
 o b u + r e k a
 o b u + r e m E z i
@@ -9122,7 +9124,7 @@ o b u + r e m a
 o b u + r e r e
 o b u + r e z i
 o b u + r i
-o b u + r i N g i r i
+o b u + r i N D r i
 o b u + r i g a
 o b u + r i h o
 o b u + r i j o
@@ -9145,11 +9147,11 @@ o b u + r o f a
 o b u + r o g o
 o b u + r o n d o
 o b u + r o n d o g o z i
+o b u + r u N D
 o b u + r u N g a
-o b u + r u N g i
 o b u + r u g o
 o b u + r u g u
-o b u + r u h U k i r o
+o b u + r u h U T r o
 o b u + r u h e
 o b u + r u h i r e
 o b u + r u r u m a
@@ -9168,13 +9170,13 @@ o b u + s O s i
 o b u + s a m u Y i g a
 o b u + s a s e r d O t i
 o b u + s e n t e
-o b u + s i N g j e
+o b u + s i N D e
 o b u + s i b j o
 o b u + s i b o
 o b u + s i g a z i
 o b u + s i g w a
 o b u + s i m b a
-o b u + s i n d a g j e
+o b u + s i n d a D e
 o b u + s i n d u r a
 o b u + s i n z i
 o b u + s i r I r a
@@ -9192,9 +9194,9 @@ o b u + t A h o
 o b u + t A m a
 o b u + t A n o
 o b u + t A r a
-o b u + t E g i
+o b u + t E D
+o b u + t E T r e
 o b u + t E k a
-o b u + t E k i r e
 o b u + t E k o
 o b u + t E r a t E r e r o
 o b u + t E r e r e z o
@@ -9227,13 +9229,13 @@ o b u + t a r e
 o b u + t a r e k a
 o b u + t a r i
 o b u + t a t s i
-o b u + t e g j e k i
+o b u + t e D e T
 o b u + t e m b e r o
 o b u + t e m b o
 o b u + t e t s i
 o b u + t i
+o b u + t i D
 o b u + t i N g w a
-o b u + t i g i
 o b u + t i m b a
 o b u + t i n d e
 o b u + t i t i
@@ -9251,11 +9253,11 @@ o b u + t s i b o
 o b u + t s i g a z i
 o b u + t s i g w a
 o b u + t s i m b a
-o b u + t s i n d a g j e
+o b u + t s i n d a D e
 o b u + t s i n d u r a
 o b u + t u
+o b u + t u N D
 o b u + t u N g a m o
-o b u + t u N g i
 o b u + t u N g u r u
 o b u + t u N g u t u N g u
 o b u + t u m w a
@@ -9267,14 +9269,14 @@ o b u + t w a r e
 o b u + t w a r o
 o b u + t w e r a
 o b u + t w i r e
-o b u + v u g i
-o b u + v u r u g j e
+o b u + v u D
+o b u + v u r u D e
 o b u + z A h i
 o b u + z A n a
 o b u + z A r e
 o b u + z A r i r a n w a
 o b u + z A r w a
-o b u + z i N g i r i r o
+o b u + z i N D r i r o
 o b u + z i b e
 o b u + z i b u
 o b u + z i g u
@@ -9288,11 +9290,13 @@ o b u + z i r e
 o b u + z o
 o b u r i k u + b i r a
 o b u t a r i k u + b a r w a
+o b w + a D e
+o b w + a N D e
+o b w + a N T Y a
 o b w + a N g a
 o b w + a N g a n e
-o b w + a N g j e
 o b w + a N g u h i
-o b w + a N k i Y a
+o b w + a T o
 o b w + a Y u
 o b w + a b a n d i z e
 o b w + a b e
@@ -9300,7 +9304,6 @@ o b w + a b j o
 o b w + a b o
 o b w + a b u N g a
 o b w + a b w o
-o b w + a g j e
 o b w + a g o
 o b w + a g w o
 o b w + a h a t i
@@ -9309,7 +9312,6 @@ o b w + a i t u
 o b w + a j e
 o b w + a j o
 o b w + a k a r E b i
-o b w + a k j o
 o b w + a k o
 o b w + a k u
 o b w + a k w o
@@ -9330,20 +9332,20 @@ o b w + a t o
 o b w + a t w o
 o b w + a w e
 o b w + a z o
-o b w + e N g j e
-o b w + e S e N g j e z a
+o b w + e D e s a
+o b w + e D e s e
+o b w + e N D e
+o b w + e S e N D e z a
 o b w + e S e r e k o
 o b w + e S o N g o r o
-o b w + e T O k i
+o b w + e T O T
+o b w + e T i k o
+o b w + e T n U T
 o b w + e T u m i
-o b w + e T u r e N g i
+o b w + e T u r e N D
 o b w + e T u r i k o
 o b w + e g a m o
-o b w + e g j e s a
-o b w + e g j e s e
-o b w + e k I k o
 o b w + e k U m o
-o b w + e k i n U k i
 o b w + e k o r e r e r o
 o b w + e k o r o
 o b w + e k w a i t s e
@@ -9355,20 +9357,20 @@ o b w + e p i s k O p i
 o b w + e r E r e
 o b w + e r e m w a
 o b w + e r e r e
-o b w + e s i g j e
+o b w + e s i D e
 o b w + e s i g w a
 o b w + e z i g O r o
 o b w + e z i r e
-o b w + e z i r i k i
-o b w + i N g i
-o b w + i S i k i
+o b w + e z i r i T
+o b w + i D
+o b w + i N D
+o b w + i S i T
 o b w + i Z a g a S e
 o b w + i Z u k u r u
 o b w + i Z w i r e
 o b w + i b i
 o b w + i g U g a
 o b w + i g a m o
-o b w + i g i
 o b w + i h o
 o b w + i k o
 o b w + i m i
@@ -9380,19 +9382,19 @@ o b w + i r i r i m b a
 o b w + i r i z a
 o b w + i r u
 o b w + i r u N g u
-o b w + i r u k i r o
+o b w + i r u T r o
 o b w + i s i
 o b w + i t i z o
 o b w + i t s i
 o b w + i t u m b a
+o b w + o D
 o b w + o N k o
 o b w + o S e
+o b w + o T
+o b w + o T z e
 o b w + o Z o
 o b w + o b a
-o b w + o g i
 o b w + o j a
-o b w + o k i
-o b w + o k i z e
 o b w + o k u r E b e r a h o
 o b w + o k u t A h a
 o b w + o m a
@@ -9402,12 +9404,11 @@ o b w + o t e r e
 o f I s a
 o f I s i
 o g a + i n e
-o g i + i n e
 o g u + T u r e i r e
 o g u + f I r e
 o g u + g a r a m i
 o g u + h e r e i r e
-o g u + h i k i r e
+o g u + h i T r e
 o g u + h u r I r e
 o g u + h w e i r e
 o g u + k u z i r e
@@ -9425,15 +9426,16 @@ o g u + r i k w e r a
 o g u + r i k w i r a g u r a
 o g u + r i k w o t s j a
 o g u + r i m u
-o g u + t E k i r e
+o g u + t E T r e
 o g u + t a h w a h o
 o g u + t a i n e
 o g u + t a k a r E b w a g a
 o g u + t a r i
-o g u k i + i n e
-o g u k i + r i
+o g u T + i n e
+o g u T + r i
 o g u r i k u + b i r a
 o g w + a N g u h i
+o g w + a T o
 o g w + a Y u
 o g w + a b a n d i z e
 o g w + a b j o
@@ -9442,7 +9444,6 @@ o g w + a b w o
 o g w + a g o
 o g w + a i t u
 o g w + a j o
-o g w + a k j o
 o g w + a k o
 o g w + a k w o
 o g w + a m w o
@@ -9454,19 +9455,23 @@ o g w + a z o
 o g w + e k w a i t s e
 o g w + e z i r e
 o g w + i Z w i r e
-o g w + o k i z e
+o g w + o T z e
 o g w a + g w o
 o g w a + h o
 o i r o
 o j + a N g u h i
 o k a + i n e
-o k i + i n e
-o k i + r i
+o k u + D e n d e r e r w a
 o k u + S I S a
 o k u + S a k a
 o k u + S e m e r e r w a
 o k u + S o b e r w a
 o k u + S w e r a n a
+o k u + T E r e r e r w a
+o k u + T i n e
+o k u + T r a
+o k u + T r a h o
+o k u + T r i
 o k u + T u r E r a
 o k u + Z u
 o k u + Z u n a
@@ -9486,13 +9491,12 @@ o k u + f u n z a
 o k u + g a b a
 o k u + g a m b a
 o k u + g a r u k a m u
-o k u + g j e n d e r e r w a
 o k u + g u f u
 o k u + g u m i s i r i z a
 o k u + g u r A g u r u t s j a
 o k u + g u r u
 o k u + g w a
-o k u + g w e Z e g j e r a
+o k u + g w e Z e D e r a
 o k u + h I g a n i s i b w a
 o k u + h U m u r a
 o k u + h a N g o
@@ -9512,14 +9516,9 @@ o k u + h u r u r w a
 o k u + h w e i r e
 o k u + h w e z a
 o k u + j o n Z a
-o k u + k I n e
 o k u + k U h u r a
 o k u + k a g a
 o k u + k a r a N g a t a n a
-o k u + k i r a
-o k u + k i r a h o
-o k u + k i r i
-o k u + k j E r e r e r w a
 o k u + k o r a
 o k u + k u n d a
 o k u + k u r u
@@ -9546,7 +9545,7 @@ o k u + r i k w i r a g u r a
 o k u + r i m u
 o k u + r o f a
 o k u + r o z a
-o k u + r u N g i
+o k u + r u N D
 o k u + r u g a
 o k u + r w a n a
 o k u + s A s i r a
@@ -9554,8 +9553,8 @@ o k u + s A s i r w a
 o k u + s j a
 o k u + t E k a t E k a
 o k u + t I n a
+o k u + t a N D r i r a
 o k u + t a N g A r a
-o k u + t a N g i r i r a
 o k u + t a S e m e r e r w a
 o k u + t a i n e
 o k u + t a k a r E b w a g a
@@ -9568,7 +9567,8 @@ o k u + z O r w a
 o k u + z i m a
 o k u + z i m u
 o k u + z i r e
-o k w + a N g j e
+o k w + a N D e
+o k w + a T o
 o k w + a b a n d i z e
 o k w + a b j o
 o k w + a b o
@@ -9579,7 +9579,6 @@ o k w + a h o
 o k w + a h w a
 o k w + a i t u
 o k w + a j o
-o k w + a k j o
 o k w + a k o
 o k w + a k w o
 o k w + a m w o
@@ -9588,29 +9587,29 @@ o k w + a r w o
 o k w + a t w o
 o k w + a w e
 o k w + a z o
+o k w + e D e s a
 o k w + e S a
 o k w + e S o N g o r a
 o k w + e S u m b a
 o k w + e S u n S u n a
 o k w + e T u r e N g a
-o k w + e g j e s a
 o k w + e g u z a
-o k w + e h a n d I k i s a
+o k w + e h a n d I T s a
 o k w + e h i g a j o
 o k w + e k u n d a
 o k w + e k u n d i r a
 o k w + e r u n d A n a
 o k w + e s A s i r a
 o k w + e t E r a n a
+o k w + e t e D e k a
+o k w + e t e D e r e z a
 o k w + e t e N g a
-o k w + e t e g j e k a
-o k w + e t e g j e r e z a
 o k w + e t e i s a
 o k w + e z i
 o k w + e z i b i r a
 o k w + e z i r i k a
+o k w + i N D
 o k w + i N g a n a i N g a n a
-o k w + i N g i
 o k w + i b a
 o k w + i h a h o
 o k w + i h i r i r a
@@ -9619,26 +9618,47 @@ o k w + i r i r a
 o k w + i r u k a
 o k w + o h o
 o k w + o r e k w a
-o m u + N g j e r e z a
+o m u + D D
+o m u + D E D e
+o m u + D S a
+o m u + D e
+o m u + D e D e n o
+o m u + D e N D
+o m u + D e Y i
+o m u + D e d
+o m u + D e m i
+o m u + D e m u z i
+o m u + D e n d a D e n z i
+o m u + D e n d e
+o m u + D e n z i
+o m u + D e n z o
+o m u + D e r a
+o m u + D e r e
+o m u + D e r e k o
+o m u + D i s i
+o m u + D m b a
+o m u + D n d a
+o m u + D r w a
+o m u + N D e r e z a
+o m u + S A T i z i
 o m u + S A g o
 o m u + S A j o
-o m u + S A k I z i
 o m u + S A r a
 o m u + S A r i z i
 o m u + S A r u
+o m u + S E D
 o m u + S E Y i
-o m u + S E g i
 o m u + S E g u
 o m u + S O r o
 o m u + S O r o m i
-o m u + S U b U k i
+o m u + S U b U T
 o m u + S U b u z i
 o m u + S U z i
 o m u + S a
 o m u + S a N g o
 o m u + S a S a
+o m u + S a b a D r i z i
 o m u + S a b a S e b e
-o m u + S a b a g i r i z i
 o m u + S a b i
 o m u + S a b i r i z i
 o m u + S a g a r i z i
@@ -9664,14 +9684,14 @@ o m u + S a t i
 o m u + S a t u z i
 o m u + S a z a
 o m u + S a z i
+o m u + S e N D
+o m u + S e N D e
 o m u + S e N g a
-o m u + S e N g i
-o m u + S e N g j e
+o m u + S e T e
+o m u + S e T e r e z i
 o m u + S e b e j a
 o m u + S e g a
 o m u + S e g o
-o m u + S e k j e
-o m u + S e k j e r e z i
 o m u + S e m a
 o m u + S e m b E z i
 o m u + S e m b i
@@ -9679,9 +9699,9 @@ o m u + S e m b u r o
 o m u + S e m e z a
 o m u + S e r a S e r e
 o m u + S e r u z i
+o m u + S o N D
 o m u + S o N g a
-o m u + S o N g a S o N g i
-o m u + S o N g i
+o m u + S o N g a S o N D
 o m u + S o N g o r e
 o m u + S o Z w a
 o m u + S o b e r w a
@@ -9699,11 +9719,11 @@ o m u + S o r e s a
 o m u + S o r o
 o m u + S o r o r o N g o
 o m u + S o z i
+o m u + S u T s o
 o m u + S u b i r o
 o m u + S u b j o
 o m u + S u g u N g u r u
-o m u + S u h U k i
-o m u + S u k i s o
+o m u + S u h U T
 o m u + S u m a
 o m u + S u m b a
 o m u + S u m b a t a z i
@@ -9716,21 +9736,44 @@ o m u + S w a h i r i
 o m u + S w a r o
 o m u + S w i Z a
 o m u + S w i Z u m i
+o m u + T E b r i
+o m u + T E k a
+o m u + T E r a
+o m u + T N g a
+o m u + T N g o
 o m u + T O T O z i
 o m u + T O b O z i
 o m u + T U T u
 o m u + T U z i
+o m u + T a r a
+o m u + T e
 o m u + T e T e z i
-o m u + T u N g i r o
+o m u + T e b e
+o m u + T e b e b o
+o m u + T e b e z i
+o m u + T e k a
+o m u + T e n e
+o m u + T e n e n e s o
+o m u + T e n o
+o m u + T e r E Y o
+o m u + T e r i
+o m u + T g a
+o m u + T i k a
+o m u + T i s a
+o m u + T m b a
+o m u + T m b o
+o m u + T n d o
+o m u + T r a
+o m u + T u N D r o
 o m u + T u N g u z i
 o m u + T u N g w a
 o m u + T u N g w e
-o m u + T u T u k j e
+o m u + T u T u T e
 o m u + T u T u m o
 o m u + T u r E z i
 o m u + T w e
-o m u + T w e k j e
-o m u + T w e k j e r e z a
+o m u + T w e T e
+o m u + T w e T e r e z a
 o m u + T w e z i
 o m u + T w i
 o m u + Y A Y A t s i
@@ -9739,20 +9782,21 @@ o m u + Y A n A m a
 o m u + Y A v u
 o m u + Y E t e
 o m u + Y E t o
-o m u + Y U k i
+o m u + Y U T
 o m u + Y a
+o m u + Y a D
 o m u + Y a N g a r a r a
 o m u + Y a N g a r i r o
 o m u + Y a N g o g a
 o m u + Y a N k o r e
+o m u + Y a T a r o
 o m u + Y a b a Y o
 o m u + Y a b u z A r e
-o m u + Y a b w e N g j e
+o m u + Y a b w e N D e
 o m u + Y a b w i r a
 o m u + Y a b w o b a
-o m u + Y a g a Y e g j e
+o m u + Y a g a Y e D e
 o m u + Y a g a r a
-o m u + Y a g i
 o m u + Y a g o
 o m u + Y a g w a
 o m u + Y a i S o m e r o
@@ -9761,7 +9805,6 @@ o m u + Y a i g a r a
 o m u + Y a i h a N g a
 o m u + Y a i t i m a
 o m u + Y a k a n t u
-o m u + Y a k j a r o
 o m u + Y a m b a b a z i
 o m u + Y a m p a
 o m u + Y a m p a r a
@@ -9776,7 +9819,7 @@ o m u + Y a r w a N g o
 o m u + Y a r w a n Z u
 o m u + Y a r w a n d a
 o m u + Y a r w a r i
-o m u + Y e g j e z i
+o m u + Y e D e z i
 o m u + Y e n a
 o m u + Y i Y a
 o m u + Y i g o
@@ -9786,12 +9829,12 @@ o m u + Y o g a
 o m u + Y o m a
 o m u + Y o r o
 o m u + Y w a n i
-o m u + Y w e N g j e r e r o
+o m u + Y w e N D e r e r o
 o m u + Y w i
 o m u + Y w i s a
 o m u + Z A Z A b i
 o m u + Z a n Z a b i
-o m u + Z e N g i
+o m u + Z e N D
 o m u + Z i Y a
 o m u + Z i g a i Z o
 o m u + Z u N g u
@@ -9805,19 +9848,19 @@ o m u + Z u m i
 o m u + Z u n i
 o m u + Z u r i z i
 o m u + Z w a r o
-o m u + Z w e N g j e
-o m u + Z w e k i
-o m u + Z w e k j e r w a
+o m u + Z w e N D e
+o m u + Z w e T
+o m u + Z w e T e r w a
 o m u + Z w i g a
 o m u + b A g l
 o m u + b A g o
-o m u + b I k i
-o m u + b I k i r a
+o m u + b I T
+o m u + b I T r a
 o m u + b U r i r o
 o m u + b U r o
+o m u + b a T r e
 o m u + b a b o
 o m u + b a i z i
-o m u + b a k i r e
 o m u + b a m b A z i
 o m u + b a n d a
 o m u + b a r a S u k o
@@ -9830,10 +9873,10 @@ o m u + b e i h e r e z i
 o m u + b e i h i
 o m u + b e m b e
 o m u + b i
-o m u + b i N g i
+o m u + b i D r e
+o m u + b i N D
 o m u + b i S a
 o m u + b i b i
-o m u + b i g i r e
 o m u + b i m b a
 o m u + b i m b i r i
 o m u + b i n d i
@@ -9841,7 +9884,7 @@ o m u + b i n d o
 o m u + b i r I s i
 o m u + b i r I z i
 o m u + b i r i
-o m u + b i r i g i
+o m u + b i r i D
 o m u + b i s i
 o m u + b j a m o
 o m u + b j a r e
@@ -9850,12 +9893,12 @@ o m u + b o h w a
 o m u + b o n a n o
 o m u + b o n e t s j a
 o m u + b u
-o m u + b u N g i
+o m u + b u N D
 o m u + b u b U r u
 o m u + b u m b a
 o m u + b u m b i
 o m u + b u z a
-o m u + d A k i
+o m u + d A T
 o m u + d A r i
 o m u + d I k o n i
 o m u + d i m u
@@ -9874,14 +9917,13 @@ o m u + f u m b w a
 o m u + f u m u
 o m u + f u n Z o
 o m u + f u n d i
-o m u + f u r e g j e
-o m u + f u r u k i
+o m u + f u r e D e
+o m u + f u r u T
 o m u + f u t a f u t a
 o m u + g A n I z i
 o m u + g A r a
 o m u + g A r i
 o m u + g A t i
-o m u + g I s i
 o m u + g O h a
 o m u + g O t e
 o m u + g a N g o
@@ -9894,7 +9936,7 @@ o m u + g a b e
 o m u + g a b e k a z i
 o m u + g a b i
 o m u + g a b o
-o m u + g a b u k j e
+o m u + g a b u T e
 o m u + g a b u z i
 o m u + g a g a
 o m u + g a i d i
@@ -9912,26 +9954,6 @@ o m u + g a n o
 o m u + g a n u r o
 o m u + g a r a
 o m u + g a r a g w a
-o m u + g i S a
-o m u + g i g i
-o m u + g i m b a
-o m u + g i n d a
-o m u + g i r w a
-o m u + g j E g j e
-o m u + g j e
-o m u + g j e N g i
-o m u + g j e Y i
-o m u + g j e d
-o m u + g j e g j e n o
-o m u + g j e m i
-o m u + g j e m u z i
-o m u + g j e n d a g j e n z i
-o m u + g j e n d e
-o m u + g j e n z i
-o m u + g j e n z o
-o m u + g j e r a
-o m u + g j e r e
-o m u + g j e r e k o
 o m u + g o
 o m u + g o N g o
 o m u + g o Y a
@@ -9956,9 +9978,9 @@ o m u + g u m a
 o m u + g u m i s i r i z a
 o m u + g u m j a
 o m u + g u n u
-o m u + g u r i k i
+o m u + g u r i T
+o m u + g u r u T
 o m u + g u r u k a
-o m u + g u r u k i
 o m u + g u r u k o
 o m u + g u r u s i
 o m u + g u r u z i
@@ -9968,15 +9990,15 @@ o m u + g u z a
 o m u + g u z i
 o m u + g u z i b w a
 o m u + g w a
-o m u + g w e Z e g j e z i
+o m u + g w e Z e D e z i
 o m u + g w e z i
-o m u + h A g A g i
+o m u + h A g A D
 o m u + h A t s i
-o m u + h E k i
+o m u + h E T
 o m u + h E r e z a
 o m u + h E s i
+o m u + h I D
 o m u + h I g a n i z i
-o m u + h I g i
 o m u + h I g o
 o m u + h I h I t o
 o m u + h I r w a
@@ -9988,21 +10010,21 @@ o m u + h O r O r o
 o m u + h O r a n d a
 o m u + h O z a
 o m u + h O z i
+o m u + h U T
+o m u + h U T e
 o m u + h U h e
-o m u + h U k i
-o m u + h U k j e
 o m u + h U k u
 o m u + h U m E t s j o
 o m u + h U m u z a
 o m u + h U r u
 o m u + h U z i
+o m u + h a D
+o m u + h a N D
 o m u + h a N g a
-o m u + h a N g i
 o m u + h a N g o
 o m u + h a N g u z i
 o m u + h a N g w a
 o m u + h a S a
-o m u + h a g i
 o m u + h a i h a
 o m u + h a j a
 o m u + h a k a n i
@@ -10010,7 +10032,7 @@ o m u + h a k o
 o m u + h a k w a
 o m u + h a m a
 o m u + h a m b o
-o m u + h a n d I k i
+o m u + h a n d I T
 o m u + h a n d a
 o m u + h a n i
 o m u + h a r a
@@ -10018,22 +10040,22 @@ o m u + h a r a b u
 o m u + h a r a z i
 o m u + h a r i k a n i
 o m u + h a z i
-o m u + h e N g j e r e
+o m u + h e D e j o
+o m u + h e N D e r e
 o m u + h e b e b e z i
 o m u + h e b u r A j o
-o m u + h e g j e j o
 o m u + h e n a n o
 o m u + h e r e r e
 o m u + h e r u
 o m u + h i
-o m u + h i N g i
-o m u + h i N g i s a
+o m u + h i N D
+o m u + h i N D s a
 o m u + h i N g o
 o m u + h i N g u z i
+o m u + h i T r I r e
+o m u + h i T r i z a
 o m u + h i Y a
 o m u + h i g o
-o m u + h i k i r I r e
-o m u + h i k i r i z a
 o m u + h i m a
 o m u + h i m b U z i
 o m u + h i m b a
@@ -10042,15 +10064,15 @@ o m u + h i m b o
 o m u + h i n d a
 o m u + h i n d a k a z i
 o m u + h i n d i
-o m u + h i n d u k i
+o m u + h i n d u T
 o m u + h i n d u z i
 o m u + h i n i
 o m u + h i n z i
 o m u + h i r a
 o m u + h i r i r i z i
 o m u + h i r o
-o m u + h o N g i
-o m u + h o N g j e r a
+o m u + h o N D
+o m u + h o N D e r a
 o m u + h o N g o r e z o
 o m u + h o Y o
 o m u + h o k o
@@ -10061,19 +10083,19 @@ o m u + h o n d o
 o m u + h o r o
 o m u + h o r o r o
 o m u + h o t o z i
-o m u + h u N g i
-o m u + h u N g j e
+o m u + h u N D
+o m u + h u N D e
 o m u + h u N g u z i
 o m u + h u n d a
-o m u + h u r i k i z a
-o m u + h u r i k i z i
+o m u + h u r i T z a
+o m u + h u r i T z i
 o m u + h u r o
 o m u + h u r u z i
 o m u + h u t a
 o m u + h u t a i r e
 o m u + h u t u
 o m u + h u z i
-o m u + j A g i
+o m u + j A D
 o m u + j A g o
 o m u + j A r i
 o m u + j O r a
@@ -10090,14 +10112,12 @@ o m u + j u d A j a
 o m u + k A g a
 o m u + k A m w a n a
 o m u + k A n A n a
-o m u + k I k a
-o m u + k I s a
-o m u + k O k i
+o m u + k O T
 o m u + k O k o r o
 o m u + k O n a
+o m u + k U T
 o m u + k U Y u
 o m u + k U f u
-o m u + k U k i
 o m u + k a
 o m u + k a N k A n a
 o m u + k a N k a b u r o
@@ -10112,31 +10132,10 @@ o m u + k a m i
 o m u + k a n Z a
 o m u + k a n a g a
 o m u + k a n d a r a
-o m u + k a r i N g j e
+o m u + k a r i N D e
 o m u + k a r o
-o m u + k a t o r i k i
+o m u + k a t o r i T
 o m u + k a z i
-o m u + k i N g a
-o m u + k i N g o
-o m u + k i g a
-o m u + k i m b a
-o m u + k i m b o
-o m u + k i n d o
-o m u + k i r a
-o m u + k j E b r i
-o m u + k j E k a
-o m u + k j E r a
-o m u + k j a r a
-o m u + k j e
-o m u + k j e b e
-o m u + k j e b e b o
-o m u + k j e b e z i
-o m u + k j e k a
-o m u + k j e n e
-o m u + k j e n e n e s o
-o m u + k j e n o
-o m u + k j e r E Y o
-o m u + k j e r i
 o m u + k o
 o m u + k o N g o r a n e
 o m u + k o N g o r a n i
@@ -10159,13 +10158,13 @@ o m u + k o r w a
 o m u + k o z i
 o m u + k r i s t A j o
 o m u + k u
+o m u + k u D r o
 o m u + k u N g u
 o m u + k u N g u r u
 o m u + k u N k u m a
 o m u + k u Y u
 o m u + k u b j o
 o m u + k u b o
-o m u + k u g i r o
 o m u + k u k U r u
 o m u + k u k u
 o m u + k u m b i
@@ -10197,17 +10196,17 @@ o m u + m i r o
 o m u + m i s r i
 o m u + m i z i
 o m u + m j o k a
-o m u + m u r i k i
+o m u + m u r i T
 o m u + m w i
 o m u + n A n a
 o m u + n U b i
 o m u + n U k o
 o m u + n a
+o m u + n a D r o
 o m u + n a f u
-o m u + n a g i r o
 o m u + n a k u
 o m u + n a z i
-o m u + n e k j e
+o m u + n e T e
 o m u + n e w a N g a
 o m u + n i a n i a
 o m u + n i g o
@@ -10221,7 +10220,7 @@ o m u + n w a
 o m u + p E r a
 o m u + p I p o
 o m u + p I r a
-o m u + p a N g i s a
+o m u + p a N D s a
 o m u + p a k a z i
 o m u + p e r u s i
 o m u + p u N g a
@@ -10229,9 +10228,9 @@ o m u + p u r I s i
 o m u + r A m o
 o m u + r A r a
 o m u + r A z i
+o m u + r E D
 o m u + r E b e r e z i
 o m u + r E b i
-o m u + r E g i
 o m u + r E r a
 o m u + r E r e
 o m u + r E t s i
@@ -10247,17 +10246,17 @@ o m u + r O t s i
 o m u + r U m o
 o m u + r U r a
 o m u + r a
+o m u + r a D
+o m u + r a D r i z i
+o m u + r a N D
 o m u + r a N g a
 o m u + r a N g a r a
-o m u + r a N g i
 o m u + r a S a
 o m u + r a b a
 o m u + r a b a n a m u
 o m u + r a b i r i z i
 o m u + r a b j o
 o m u + r a g a r a
-o m u + r a g i
-o m u + r a g i r i z i
 o m u + r a g o
 o m u + r a g u z a
 o m u + r a g u z i
@@ -10265,7 +10264,7 @@ o m u + r a i N g w a
 o m u + r a m a
 o m u + r a m b a
 o m u + r a m b i
-o m u + r a m b i k i r i z o
+o m u + r a m b i T r i z o
 o m u + r a m b u z i
 o m u + r a m b w e
 o m u + r a m u
@@ -10277,12 +10276,12 @@ o m u + r a r a
 o m u + r a r a m o
 o m u + r a s i
 o m u + r a z a
-o m u + r e N g i
-o m u + r e N g j E r o
-o m u + r e N g j e
+o m u + r e D
+o m u + r e N D
+o m u + r e N D E r o
+o m u + r e N D e
 o m u + r e N g o
 o m u + r e b e
-o m u + r e g i
 o m u + r e m a
 o m u + r e r a
 o m u + r e r e
@@ -10305,24 +10304,24 @@ o m u + r i w e
 o m u + r i z i
 o m u + r j a
 o m u + r j a N g o
+o m u + r o D
 o m u + r o N g O t i
 o m u + r o N k o
 o m u + r o b a
 o m u + r o f a
-o m u + r o g i
 o m u + r o g o t s i
 o m u + r o m b e
 o m u + r o n z i
 o m u + r o r E z i
+o m u + r u N D
 o m u + r u N g a
-o m u + r u N g i
 o m u + r u b a Z u
 o m u + r u b a t e
 o m u + r u b o
 o m u + r u k a
 o m u + r u k u
 o m u + r u m U z i
-o m u + r u m i k i
+o m u + r u m i T
 o m u + r u m u n a
 o m u + r u n d A n i
 o m u + r u n d i
@@ -10336,7 +10335,7 @@ o m u + s A s i z i
 o m u + s A v u
 o m u + s E s i
 o m u + s E t a
-o m u + s I g i
+o m u + s I D
 o m u + s I i m i
 o m u + s I s i
 o m u + s I t a
@@ -10348,18 +10347,18 @@ o m u + s a N g o
 o m u + s a m b i s i
 o m u + s a s e r d O t i
 o m u + s i
+o m u + s i D
+o m u + s i D r e
+o m u + s i D s i
+o m u + s i N D
+o m u + s i N D e
 o m u + s i N g O r e z i
 o m u + s i N g a
-o m u + s i N g i
-o m u + s i N g j e
+o m u + s i T e
 o m u + s i b e
 o m u + s i g a z i
-o m u + s i g i
-o m u + s i g i r e
-o m u + s i g i s i
 o m u + s i k a n o
 o m u + s i k a u t u
-o m u + s i k j e
 o m u + s i m E n o
 o m u + s i n d I z i
 o m u + s i n d o
@@ -10385,8 +10384,8 @@ o m u + t A j A j i
 o m u + t A n o
 o m u + t A r i
 o m u + t A s j o
+o m u + t E T
 o m u + t E g o
-o m u + t E k i
 o m u + t E k o
 o m u + t E r a n i
 o m u + t E r a n i z i
@@ -10408,9 +10407,9 @@ o m u + t U k o
 o m u + t U m o
 o m u + t U t s i
 o m u + t U z i
-o m u + t a N g i
-o m u + t a N g i r i z i
-o m u + t a N g i z i
+o m u + t a N D
+o m u + t a N D r i z i
+o m u + t a N D z i
 o m u + t a N g o
 o m u + t a N g u r u
 o m u + t a b A z i
@@ -10427,7 +10426,7 @@ o m u + t a m b i
 o m u + t a m b i z i
 o m u + t a m b o
 o m u + t a n a
-o m u + t a n a g i
+o m u + t a n a D
 o m u + t a n d a
 o m u + t a r a
 o m u + t a r a b a m b a
@@ -10435,16 +10434,16 @@ o m u + t a r o
 o m u + t a t e m b w a
 o m u + t a t s i
 o m u + t a v u
+o m u + t e D
+o m u + t e D e T
 o m u + t e N g u k o
 o m u + t e b j a
-o m u + t e g i
-o m u + t e g j e k i
 o m u + t e g o
 o m u + t e m b U z i
 o m u + t e m b e j a
 o m u + t e m b i
 o m u + t e m i
-o m u + t e n d e k i
+o m u + t e n d e T
 o m u + t e n d e k w a
 o m u + t e n t e
 o m u + t e r e r e
@@ -10452,7 +10451,7 @@ o m u + t e r u z i
 o m u + t e t e
 o m u + t e t s i
 o m u + t i
-o m u + t i g i
+o m u + t i D
 o m u + t i m a
 o m u + t i m b o
 o m u + t i n d o
@@ -10460,14 +10459,14 @@ o m u + t i n w i
 o m u + t i n z i
 o m u + t j a z a
 o m u + t o
+o m u + t o N D
 o m u + t o N g a n i z i
-o m u + t o N g i
 o m u + t o N g o r e
 o m u + t o Z o
 o m u + t o i Z o
 o m u + t o n d O z i
 o m u + t o n d o
-o m u + t o r o k i
+o m u + t o r o T
 o m u + t o r o r o
 o m u + t s i
 o m u + t s i b e
@@ -10491,12 +10490,12 @@ o m u + t w a r e
 o m u + t w a r o
 o m u + t w a z i
 o m u + t w e
-o m u + t w e k i
+o m u + t w e T
 o m u + t w e r o
 o m u + v U k o
-o m u + v u g i
+o m u + v u D
 o m u + v u n U z i
-o m u + v u r u g i
+o m u + v u r u D
 o m u + z A b i
 o m u + z A b i b u
 o m u + z A n a
@@ -10505,16 +10504,16 @@ o m u + z A n o
 o m u + z A r i s a
 o m u + z A r o
 o m u + z A z i
-o m u + z I k i
+o m u + z I T
 o m u + z O z i
 o m u + z a i r e
 o m u + z e
-o m u + z e N g j e r e z i
+o m u + z e N D e r e z i
 o m u + z e i t U n i
 o m u + z i
+o m u + z i D t i
 o m u + z i N g a
 o m u + z i N g o
-o m u + z i g i t i
 o m u + z i g u
 o m u + z i h i
 o m u + z i m a
@@ -10527,10 +10526,10 @@ o m u + z i r i m u k o
 o m u + z i r o
 o m u + z i z i
 o m u + z o
-o m w + a N g a N g i
-o m w + a N g a N g j e
-o m w + a N g i
-o m w + a N g i z i
+o m w + a N D
+o m w + a N D z i
+o m w + a N g a N D
+o m w + a N g a N D e
 o m w + a Y a
 o m w + a Y u
 o m w + a b a z j o
@@ -10551,7 +10550,7 @@ o m w + a m b u z i
 o m w + a m i
 o m w + a m u z i
 o m w + a n Z a m i
-o m w + a n Z u k i
+o m w + a n Z u T
 o m w + a n a
 o m w + a n d a
 o m w + a n i
@@ -10564,12 +10563,19 @@ o m w + a t a
 o m w + a t a n o
 o m w + a t e
 o m w + a t s i
-o m w + e N g j e
-o m w + e S e N g j e r e z a
+o m w + e D
+o m w + e D E g o
+o m w + e D e m u r e
+o m w + e D e n d e r e z a
+o m w + e D e s a
+o m w + e D e s i b w a
+o m w + e D r a D e
+o m w + e N D e
+o m w + e S e N D e r e z a
 o m w + e S e z i
 o m w + e S o
 o m w + e S o N g o z i
-o m w + e S u N g i
+o m w + e S u N D
 o m w + e T u m i
 o m w + e Z o Z o r o
 o m w + e Z w e r a
@@ -10578,21 +10584,14 @@ o m w + e b e m b e z i
 o m w + e g a
 o m w + e g a Y i
 o m w + e g a n d e
-o m w + e g i
-o m w + e g i r a g j e
-o m w + e g j E g o
-o m w + e g j e m u r e
-o m w + e g j e n d e r e z a
-o m w + e g j e s a
-o m w + e g j e s i b w a
 o m w + e g u z i
-o m w + e h e n e N g i
+o m w + e h e n e N D
 o m w + e i Z a
 o m w + e i s o
-o m w + e j a N g j e
+o m w + e j a N D e
 o m w + e j a j a m u r o
 o m w + e j e r a
-o m w + e j o r e k i
+o m w + e j o r e T
 o m w + e k o
 o m w + e k o r e z i
 o m w + e m A m u r o
@@ -10601,7 +10600,7 @@ o m w + e m e r e r e z i
 o m w + e m e z i
 o m w + e n d a
 o m w + e n d o
-o m w + e n u g i
+o m w + e n u D
 o m w + e p i s k O p i
 o m w + e r E r a
 o m w + e r E r e
@@ -10614,23 +10613,25 @@ o m w + e s U s o
 o m w + e s i g w a
 o m w + e s j a m u r o
 o m w + e t O r O r o
-o m w + e t e N g i
-o m w + e t e g j e r e z a
+o m w + e t e D e r e z a
+o m w + e t e N D
 o m w + e t e t s o
 o m w + e t o m b o i t s i
 o m w + e t s j a m u r o
-o m w + e v u g i
+o m w + e v u D
 o m w + e z a
 o m w + e z i
+o m w + e z i D e
 o m w + e z i g a
-o m w + e z i g j e
-o m w + e z i r i k i
+o m w + e z i r i T
 o m w + e z i r i k o
 o m w + f i g a z i
+o m w + i D
+o m w + i N D Y a
 o m w + i N g a n o
-o m w + i N g i Y a
 o m w + i S e r u k a r e
-o m w + i S i k i
+o m w + i S i T
+o m w + i T r i z a
 o m w + i Z a i Z a
 o m w + i Z o Z o r o
 o m w + i Z u k u r u
@@ -10638,14 +10639,12 @@ o m w + i b i
 o m w + i b i z i
 o m w + i g a
 o m w + i g a r i r e
-o m w + i g i
 o m w + i g u t s i
 o m w + i h a
 o m w + i h u r a
 o m w + i h u z a
 o m w + i h w a
 o m w + i k a
-o m w + i k i r i z a
 o m w + i k o
 o m w + i m i
 o m w + i n a
@@ -10657,24 +10656,24 @@ o m w + i n u r o
 o m w + i r a g u Z u
 o m w + i r i m a
 o m w + i r u
-o m w + i r u k i
+o m w + i r u T
 o m w + i s i
 o m w + i s j o
 o m w + i t i r i z o
 o m w + i t i r o
 o m w + i t s i
 o m w + i t s j o
+o m w + o N T e r e z i
 o m w + o N g o
-o m w + o N k j e r e z i
+o m w + o T e r e z i
 o m w + o Y o
 o m w + o Z o
 o m w + o g a
 o m w + o j a
 o m w + o j o
 o m w + o j o j o
-o m w + o k j e r e z i
-o m w + o m b e k i
-o m w + o r e k j e r e z i
+o m w + o m b e T
+o m w + o r e T e r e z i
 o m w + o r e k o
 o m w + o r o
 o m w + o r o z i
@@ -10684,7 +10683,16 @@ o m w + o s j a
 o m w + o t s i
 o r i + i n e
 o r i + m u
-o r u + N g j e r e z a
+o r u + D E D e
+o r u + D N g o
+o r u + D S a
+o r u + D e n d a n d a r a
+o r u + D e n d o
+o r u + D e r o
+o r u + D e z i
+o r u + D i t s i r e
+o r u + D m b i
+o r u + N D e r e z a
 o r u + N k u T e n T e
 o r u + N k u Z e N g w a
 o r u + S E Y i
@@ -10699,18 +10707,30 @@ o r u + S a n Z u
 o r u + S a n d a g o
 o r u + S a r i z o
 o r u + S a z a
-o r u + S e k j e
+o r u + S e T e
 o r u + S o i g o
 o r u + S o m a
 o r u + S o m o
 o r u + S o z i
 o r u + S u S o
 o r u + S w a
+o r u + T N D
+o r u + T N g a
 o r u + T a T a
+o r u + T e
+o r u + T e N T e
+o r u + T e r E r e
+o r u + T e r e r e
+o r u + T g a
+o r u + T i k o
+o r u + T i z i
+o r u + T n d o
+o r u + T r i
 o r u + T u b a
 o r u + T u r a b e m b e
 o r u + T u r e i r e
 o r u + T w a m b a
+o r u + T z i
 o r u + Y A Y a
 o r u + Y a N k o k O r e
 o r u + Y a N k o r e
@@ -10720,8 +10740,8 @@ o r u + Y i r i r i
 o r u + Y o Y i
 o r u + Y o r o
 o r u + Y w e r o
-o r u + Z e g j e r e
-o r u + Z o g j e r a
+o r u + Z e D e r e
+o r u + Z o D e r a
 o r u + Z u
 o r u + Z u N g u
 o r u + Z u r a Z u r a
@@ -10763,7 +10783,6 @@ o r u + f u n Z o
 o r u + f u z i
 o r u + g A S e
 o r u + g A g a
-o r u + g I t s i r e
 o r u + g O b e
 o r u + g a
 o r u + g a S o
@@ -10776,14 +10795,6 @@ o r u + g a n d o
 o r u + g a r a g a r i r o
 o r u + g a r a m i
 o r u + g a r i
-o r u + g i N g o
-o r u + g i S a
-o r u + g i m b i
-o r u + g j E g j e
-o r u + g j e n d a n d a r a
-o r u + g j e n d o
-o r u + g j e r o
-o r u + g j e z i
 o r u + g o
 o r u + g o g o
 o r u + g o h e
@@ -10804,14 +10815,14 @@ o r u + h a r a b u
 o r u + h a r a m b o
 o r u + h a r o
 o r u + h a z o
+o r u + h e T e
 o r u + h e b u r A j o
-o r u + h e k j e
 o r u + h e r e i r e
 o r u + h i
 o r u + h i N g a
+o r u + h i T r e
 o r u + h i g a
 o r u + h i g u r a
-o r u + h i k i r e
 o r u + h i m a
 o r u + h i m b i
 o r u + h i m b o
@@ -10826,7 +10837,7 @@ o r u + h o m b w a
 o r u + h o r o
 o r u + h o r o r o
 o r u + h u
-o r u + h u N g j e
+o r u + h u N D e
 o r u + h u m b o
 o r u + h u n d a
 o r u + h u r I r e
@@ -10838,9 +10849,7 @@ o r u + j o n Z o
 o r u + j o n z a
 o r u + k A g a
 o r u + k A k A r i
-o r u + k I k o
-o r u + k I z i
-o r u + k O k i
+o r u + k O T
 o r u + k O k o
 o r u + k O r e
 o r u + k U k u
@@ -10850,16 +10859,6 @@ o r u + k a N g w a
 o r u + k a i g a
 o r u + k a m b a
 o r u + k a n u
-o r u + k i N g a
-o r u + k i N g i
-o r u + k i g a
-o r u + k i n d o
-o r u + k i r i
-o r u + k i z i
-o r u + k j e
-o r u + k j e N k j e
-o r u + k j e r E r e
-o r u + k j e r e r e
 o r u + k o N g o r o
 o r u + k o N k o
 o r u + k o b a
@@ -10917,7 +10916,7 @@ o r u + r i m i
 o r u + r i m u
 o r u + r o
 o r u + r o f a
-o r u + r u N g i
+o r u + r u N D
 o r u + s E n E n e
 o r u + s I k a
 o r u + s I s i r a
@@ -10930,11 +10929,11 @@ o r u + s j a
 o r u + s j a b i r i
 o r u + t A n a n s i
 o r u + t A r i
-o r u + t E k i r e
+o r u + t E T r e
 o r u + t E r a n e
 o r u + t E r a n o
+o r u + t O T e
 o r u + t O Y e r e r a
-o r u + t O k j e
 o r u + t O r i
 o r u + t O r o
 o r u + t U h a
@@ -10979,17 +10978,19 @@ o r u + t u z i
 o r u + v u r i
 o r u + z A r o
 o r u + z I z i
-o r u + z i g j e
+o r u + z i D e
 o r u + z i m a
 o r u + z i m u
 o r u + z i n d u k o
 o r u + z i r a m i r e
-o r u k i + i n e
+o r u T + i n e
 o r u r i k u + b i r a
 o r u t a + i n e
-o r w + a N g j e
+o r w + a D i s i r e
+o r w + a N D e
 o r w + a N g o
 o r w + a N g u h i
+o r w + a T o
 o r w + a Y A Y a
 o r w + a Y i m a
 o r w + a Y u
@@ -10998,14 +10999,12 @@ o r w + a b j a
 o r w + a b j o
 o r w + a b o
 o r w + a b w o
-o r w + a g I s i r e
 o r w + a g o
 o r w + a g w o
 o r w + a h o
 o r w + a i t u
 o r w + a j o
 o r w + a k a n a k a n a
-o r w + a k j o
 o r w + a k o
 o r w + a k w o
 o r w + a m b a
@@ -11030,8 +11029,8 @@ o r w + e r a
 o r w + e t o
 o r w + e z i r e
 o r w + e z o
+o r w + i D
 o r w + i Z w i r e
-o r w + i g i
 o r w + i h o
 o r w + i k a
 o r w + i k o
@@ -11042,8 +11041,8 @@ o r w + i t a w A b o
 o r w + i z i
 o r w + o N g o t o
 o r w + o S e
+o r w + o T z e
 o r w + o j a
-o r w + o k i z e
 o r w + o k u b a n z a
 o r w + o m a
 o r w + o n d o
@@ -11056,6 +11055,7 @@ o r w a m u + k A g a
 o t a + r i
 o t u + S a n d e
 o t u + S a t u
+o t u + T e
 o t u + T u r e i r e
 o t u + Y i r i r i
 o t u + Y o Y i
@@ -11068,10 +11068,9 @@ o t u + g u f u
 o t u + h a N g o
 o t u + h a n d a
 o t u + h e r e i r e
-o t u + h i k i r e
+o t u + h i T r e
 o t u + h u r I r e
 o t u + j o n Z o
-o t u + k j e
 o t u + k o n o
 o t u + k u
 o t u + k u r u
@@ -11090,10 +11089,10 @@ o t u + r i k w i r a g u r a
 o t u + r i k w o t s j a
 o t u + r o
 o t u + r o f a
-o t u + r u N g i
+o t u + r u N D
 o t u + s j a
 o t u + t A n o
-o t u + t E k i r e
+o t u + t E T r e
 o t u + t O Y e z i
 o t u + t a h w a h o
 o t u + t a k a r E b w a g a
@@ -11101,13 +11100,14 @@ o t u + t a r i
 o t u + t o
 o t u + u r a i n e
 o t u + z i m a
-o t u k i + i n e
-o t u k i + r i
+o t u T + i n e
+o t u T + r i
 o t u r i k u + b i r a
 o t u t a + i n e
 o t u t a r i k u + b a r w a
-o t w + a N g j e
+o t w + a N D e
 o t w + a N g u h i
+o t w + a T o
 o t w + a Y u
 o t w + a b a n d i z e
 o t w + a b j o
@@ -11118,7 +11118,6 @@ o t w + a g w o
 o t w + a h o
 o t w + a i t u
 o t w + a j o
-o t w + a k j o
 o t w + a k o
 o t w + a k w o
 o t w + a m w o
@@ -11130,12 +11129,12 @@ o t w + a w e
 o t w + a z o
 o t w + e k w a i t s e
 o t w + e z i r e
-o t w + i N g i
+o t w + i N D
 o t w + i Z w i r e
 o t w + i n e
 o t w + i z i
+o t w + o T z e
 o t w + o j a
-o t w + o k i z e
 o u
 o w a + a b a n d i z e
 o w e i + S a z a
@@ -11147,20 +11146,20 @@ p A s i k a
 p I d a
 p I p I p I
 p I s i
+p a T t i
 p a i p a i
 p a i p u
-p a k i t i
 p a m b a
 p a m i t i
 p a t i r i s i
 p e n t e k O t i
 p e t e r o r i
-p i k i p i k i
+p i T p i T
 p i m i
 p i r i p i r i
 p o s t a
 p u r A n i
-r + i N g i
+r + i N D
 r E r u
 r E r w e
 r I r i
@@ -11202,8 +11201,8 @@ r u h a N g a
 r w + a N g o
 r w + o N k a
 r w + o n a
+r w a T + p u m p u r u
 r w a b u + z O b a
-r w a k i + p u m p u r u
 s A b I t i
 s E r i
 s I n a
@@ -11234,17 +11233,17 @@ t a + r i
 t a + r i h o
 t a + r i j o
 t a + r i m u
+t a D + i n e
+t a T + i n e
+t a T + r i
 t a b i + i n e
 t a b w + i n e
 t a d o b a
 t a g a + i n e
-t a g i + i n e
 t a g w + i n e
 t a h o
 t a i p u
 t a k a + i n e
-t a k i + i n e
-t a k i + r i
 t a k w + i n e
 t a r i + i n e
 t a r w + i n e
@@ -11265,9 +11264,10 @@ t e + r i
 t e + r i h o
 t e + r i j o
 t e + r i m u
-t e k i + i n e
-t e k i + r i
+t e T + i n e
+t e T + r i
 t i
+t i + T o
 t i + b j o
 t i + b o
 t i + b w o
@@ -11279,7 +11279,6 @@ t i + i m w e
 t i + i t w e
 t i + i w e
 t i + j o
-t i + k j o
 t i + k o
 t i + k w o
 t i + m w o
@@ -11289,9 +11288,10 @@ t i + r w o
 t i + t w o
 t i + w e
 t i + z o
+t i N T + i n e
+t i N T + r i
 t i N k A k a b a
-t i N k i + i n e
-t i N k i + r i
+t i T + i n e
 t i b a + i n e
 t i b i + i n e
 t i b w + i n e
@@ -11299,15 +11299,14 @@ t i g a + i n e
 t i g w + i n e
 t i h a + i n e
 t i k a + i n e
-t i k i + i n e
 t i r i + i n e
 t i r w + i n e
 t i t w + i n e
 t i z i + i n e
 t o + i n e
 t o + r i
-t o k i + i n e
-t o k i + r i
+t o T + i n e
+t o T + r i
 t u + N g a h e
 t u + n u
 t u + r a h e
@@ -11319,13 +11318,13 @@ t u + t i
 t u + t j o
 t u + w e
 t u N g u t u N g u
+t u T + i n e
+t u T + r i
 t u b i + i n e
 t u b w + i n e
 t u g a + i n e
 t u g w + i n e
 t u k a + i n e
-t u k i + i n e
-t u k i + r i
 t u k u
 t u k w + i n e
 t u r E j i
@@ -11341,7 +11340,7 @@ t w + e m b i
 t w + e n S a t u
 t w + e n a
 t w + e n t A n o
-t w + i N g i h o
+t w + i N D h o
 t w + i n e
 t w + o N k a
 t w + o m b i
@@ -11355,7 +11354,7 @@ v i
 w + e N k a
 w E n a
 w E z a
-w I k i
+w I T
 w a N g a N g a
 w a j e r E s i
 w a k a m i
@@ -11369,8 +11368,8 @@ z + o n S a t u
 z + o n a
 z + o n t A n o
 z A + T O k a
+z A + T b e b a
 z A + Y i n a
-z A + k i b e b a
 z A + m A j a
 z A + m A p u
 z A + m I S a n i
@@ -11379,10 +11378,10 @@ z A + p A s i
 z A + p a i p u
 z A + p a m b a
 z A + p a m i t i
-z A + p i k i p i k i
+z A + p i T p i T
 z A + r i p O t a
 z A + r u r a r a
-z A + z i n d a N g i r e
+z A + z i n d a N D r e
 z A r a
 z E r o
 z a + i k U r a
@@ -11393,7 +11392,7 @@ z i + r i j a
 z i + s j o
 z i + t i
 z i + t j o
-z i g i z i g i
-z i n d a N g i r e
+z i D z i D
+z i n d a N D r e
 z i r j a k u r E b a
 z o + o n a

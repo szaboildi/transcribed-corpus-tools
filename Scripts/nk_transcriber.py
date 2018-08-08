@@ -87,11 +87,13 @@ def palatal_assim(word):
     # What happens with kI, ke, gI, ge?
     pal_dict = {
         u'ki': u'T',
+        u'kI': u'Ti',
         u'kj': u'T',
         u'ky': u'T',
         u'gi': u'D',
         u'gj': u'D',
         u'gy': u'D',
+        u'gI': u'Di'
     }
 
     for string in pal_dict:
@@ -142,63 +144,55 @@ def ipa_trans(st):
 
 def main():
     # Reading in files
-    nk_orth_roots = uti.set_reader(os.path.join(*[
-        os.pardir, 'NkoreKiga', 'Outputs', 'nk_roots_pretrans.txt']))
-    nk_orth_forms = uti.set_reader(os.path.join(*[
-        os.pardir, 'NkoreKiga', 'Outputs', 'nk_forms_pretrans.txt']))
-    nk_orth_pars = uti.set_reader(os.path.join(*[
-        os.pardir, 'NkoreKiga', 'Outputs', 'nk_forms_sep_pretrans.txt']))
+    nk_orth_roots = uti.set_reader(os.path.join(*(
+        os.pardir, 'NkoreKiga', 'Outputs', 'nk_roots_pretrans.txt')))
+    nk_orth_forms = uti.set_reader(os.path.join(*(
+        os.pardir, 'NkoreKiga', 'Outputs', 'nk_forms_pretrans.txt')))
+    nk_orth_pars = uti.set_reader(os.path.join(*(
+        os.pardir, 'NkoreKiga', 'Outputs', 'nk_forms_sep_pretrans.txt')))
 
     # Transcribing & Writing
     # Roots
-    nk_trans_roots = transcribe(nk_orth_roots)
-    uti.write_iter(nk_trans_roots, os.path.join(*[
+    nk_trans_roots = transcribe(nk_orth_roots, palatalize=True)
+    uti.write_iter(nk_trans_roots, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'Preprocessed', 'nk_roots_preprocessed.txt']))
+        'Preprocessed', 'nk_roots_preprocessed.txt')))
     nk_ipa_roots = ipa_trans(nk_trans_roots)
-    uti.write_iter(nk_ipa_roots, os.path.join(*[
+    uti.write_iter(nk_ipa_roots, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'IPA', 'nk_roots_ipa.txt']))
+        'IPA', 'nk_roots_ipa.txt')))
     nk_pl_roots = uti.pl_trans(nk_trans_roots)
-    uti.write_iter(nk_pl_roots, os.path.join(*[
+    uti.write_iter(nk_pl_roots, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'UCLAPL', 'nk_roots_pl.txt']))
+        'UCLAPL', 'nk_roots_pl.txt')))
 
     # Word forms
-    nk_trans_forms = transcribe(nk_orth_forms)
-    uti.write_iter(nk_trans_forms, os.path.join(*[
+    nk_trans_forms = transcribe(nk_orth_forms, palatalize=True)
+    uti.write_iter(nk_trans_forms, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'Preprocessed', 'nk_forms_preprocessed.txt']))
+        'Preprocessed', 'nk_forms_preprocessed.txt')))
     nk_ipa_forms = ipa_trans(nk_trans_forms)
-    uti.write_iter(nk_ipa_forms, os.path.join(*[
+    uti.write_iter(nk_ipa_forms, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'IPA', 'nk_forms_ipa.txt']))
+        'IPA', 'nk_forms_ipa.txt')))
     nk_pl_forms = uti.pl_trans(nk_trans_forms)
-    uti.write_iter(nk_pl_forms, os.path.join(*[
+    uti.write_iter(nk_pl_forms, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'UCLAPL', 'nk_forms_pl.txt']))
+        'UCLAPL', 'nk_forms_pl.txt')))
 
     # Parsed word forms
-    nk_trans_pars = transcribe(nk_orth_pars)
-    uti.write_iter(nk_trans_pars, os.path.join(*[
+    nk_trans_pars = transcribe(nk_orth_pars, palatalize=True)
+    uti.write_iter(nk_trans_pars, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'Preprocessed', 'nk_forms_sep_preprocessed.txt']))
+        'Preprocessed', 'nk_forms_sep_preprocessed.txt')))
     nk_ipa_pars = ipa_trans(nk_trans_pars)
-    uti.write_iter(nk_ipa_pars, os.path.join(*[
+    uti.write_iter(nk_ipa_pars, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'IPA', 'nk_forms_sep_ipa.txt']))
+        'IPA', 'nk_forms_sep_ipa.txt')))
     nk_pl_pars = uti.pl_trans(nk_trans_pars)
-    uti.write_iter(nk_pl_pars, os.path.join(*[
+    uti.write_iter(nk_pl_pars, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Transcription',
-        'UCLAPL', 'nk_forms_sep_pl.txt']))
-
-    """
-    nk_trans_roots_p = transcribe(nk_orth_roots, palatalize=True)
-    nk_trans_forms_p = transcribe(nk_orth_forms, palatalize=True)
-    nk_trans_seps_p = transcribe(nk_orth_seps, palatalize=True)
-    """
-
-
+        'UCLAPL', 'nk_forms_sep_pl.txt')))
 
 
 

@@ -118,8 +118,8 @@ def clean_word(wrd, table_rm, table_kp, st):
 
 def main():
     # Read in file
-    [roots, forms, forms_sep] = read_roots_forms(os.path.join(*[
-        os.pardir, 'NkoreKiga', 'KigaNkore_Taylor1959.txt']), nk)
+    [roots, forms, forms_sep] = read_roots_forms(os.path.join(*(
+        os.pardir, 'NkoreKiga', 'KigaNkore_Taylor1959.txt')), nk)
 
     """
     Diagnostics
@@ -130,19 +130,19 @@ def main():
     """
 
     # Write out roots
-    uti.write_iter(roots, os.path.join(*[
+    uti.write_iter(roots, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs',
-        'nk_roots_pretrans.txt']))
+        'nk_roots_pretrans.txt')))
 
     # Write out wordforms
-    uti.write_iter(forms, os.path.join(*[
+    uti.write_iter(forms, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs',
-        'nk_forms_pretrans.txt']))
+        'nk_forms_pretrans.txt')))
 
     # Write out parsed wordforms
-    uti.write_iter(forms_sep, os.path.join(*[
+    uti.write_iter(forms_sep, os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs',
-        'nk_forms_sep_pretrans.txt']))
+        'nk_forms_sep_pretrans.txt')))
 
 
 

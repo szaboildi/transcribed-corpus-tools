@@ -74,6 +74,6 @@ aymara = Language('ptkq', 'c', 'PTKQ', 'C', 'bdgG', 'z', 'sS', 'xh',
                   '', '', 'mnN', 'rlY', 'jw',
                   'ui', 'UI', 'oe', 'OE', 'a', 'A')
 
-nkore_kiga = Language('ptk', 'T', '', '', 'bdg', 'D', 'sSzZ', 'fvh',
+nkore_kiga = Language('ptk', 'T', '', '', 'bdg', 'D', 'fvh', 'sSzZ',
                       '', '', 'mnNY', 'r', 'jw',
                       'ui', 'UI', 'oe', 'OE', 'a', 'A')
