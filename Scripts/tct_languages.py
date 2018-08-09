@@ -24,28 +24,30 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 # Further attributes might be added to the class in the future depending on what languages will be implemented.
 class Language:
-    def __init__(self, plain_stops, sib_plain, asp, sib_asp, ej, sib_ej,
-                 fric, sib_fric, affr, sib_affr, nasals, liquids, glides,
+    def __init__(self, plain_stops, sib_plain_ant, sib_plain_post, asp, sib_asp, ej, sib_ej,
+                 fric, sib_fric_ant, sib_fric_post, affr, sib_affr, nasals, liquids, glides,
                  high_v_short, high_v_long, mid_v_short,
                  mid_v_long, low_v_short, low_v_long):
 
-        self.plain_stops = tuple(plain_stops + sib_plain)
+        self.plain_stops = tuple(plain_stops + sib_plain_ant + sib_plain_post)
         self.aspirates = tuple(asp + sib_asp)
         self.ejectives = tuple(ej + sib_ej)
         self.stops = self.plain_stops + self.aspirates + \
                      self.ejectives
-        self.sibilant_stops = tuple(sib_plain + sib_asp + sib_ej)
+        self.sibilant_stops = tuple(sib_plain_ant + sib_plain_post + sib_asp + sib_ej)
         self.nonsib_stops = tuple(plain_stops + asp + ej)
 
-        self.fricatives = tuple(fric + sib_fric)
-        self.sibilant_fricatives = tuple(sib_fric)
+        self.fricatives = tuple(fric + sib_fric_ant + sib_fric_post)
+        self.sibilant_fricatives = tuple(sib_fric_ant + sib_fric_post)
         self.affricates = tuple(affr + sib_affr)
         self.sibilant_affricates = tuple(sib_affr)
         self.obstruents = self.stops + tuple(fric + affr)
         self.sibilants = self.sibilant_stops + \
-                         tuple(sib_fric + sib_affr)
+                         tuple(sib_fric_ant + sib_fric_post + sib_affr)
         self.nonsib_obstruents = tuple(plain_stops + asp +
                                        ej + fric + affr)
+        self.sibilants_anterior = tuple(sib_plain_ant + sib_fric_ant)
+        self.sibilants_postanterior = tuple(sib_plain_post + sib_fric_post)
 
         self.nasals = tuple(nasals)
         self.liquids = tuple(liquids)
@@ -70,10 +72,10 @@ class Language:
                           if sound not in self.sibilants])
 
 
-aymara = Language('ptkq', 'c', 'PTKQ', 'C', 'bdgG', 'z', 'sS', 'xh',
+aymara = Language('ptkq', '', 'c', 'PTKQ', 'C', 'bdgG', 'z', 'xh', 's', 'S',
                   '', '', 'mnN', 'rlY', 'jw',
                   'ui', 'UI', 'oe', 'OE', 'a', 'A')
 
-nkore_kiga = Language('ptk', 'T', '', '', 'bdg', 'D', 'fvh', 'sSzZ',
+nkore_kiga = Language('ptkbdg', '', 'TD', '', '', '', '', 'fvh', 'sz', 'SZ',
                       '', '', 'mnNY', 'r', 'jw',
                       'ui', 'UI', 'oe', 'OE', 'a', 'A')

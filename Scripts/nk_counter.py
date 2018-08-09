@@ -17,7 +17,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 """
 
 import tct_utility as uti
-import tct_counting_func as cou
+import tct_count_oe_func as cou
 from tct_languages import nkore_kiga as nk
 import os
 
@@ -56,7 +56,7 @@ def main():
             sib_sib, corpus, nk, tier=nk.sibilants, return_set=True)
         nk_ss_count_formatted = {key[0] + ' anything ' + key[1]: nk_ss_count[key]
                                     for key in nk_ss_count.keys()}
-        uti.write_dict(nk_ss_count, os.path.join(*(
+        uti.write_dict(nk_ss_count_formatted, os.path.join(*(
             os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'Raw',
             'nk_counts_sib_tier_{}.txt'.format(corp_name))))
 

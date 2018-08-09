@@ -1,36 +1,36 @@
-DD	25
-DS	14
-DT	9
-DZ	2
-Ds	61
-Dz	104
-SD	55
-SS	105
-ST	46
-SZ	45
-Ss	20
-Sz	137
-TD	60
-TS	85
-TT	130
-TZ	54
-Ts	94
-Tz	202
-ZD	34
-ZS	1
-ZT	10
-ZZ	55
-Zs	12
-Zz	16
-sD	41
-sS	0
-sT	21
-sZ	0
-ss	103
-sz	95
-zD	32
-zS	3
-zT	22
-zZ	2
-zs	18
-zz	44
+D anything D	25
+D anything S	14
+D anything T	9
+D anything Z	2
+D anything s	61
+D anything z	104
+S anything D	55
+S anything S	105
+S anything T	46
+S anything Z	45
+S anything s	20
+S anything z	137
+T anything D	60
+T anything S	85
+T anything T	130
+T anything Z	54
+T anything s	94
+T anything z	202
+Z anything D	34
+Z anything S	1
+Z anything T	10
+Z anything Z	55
+Z anything s	12
+Z anything z	16
+s anything D	41
+s anything S	0
+s anything T	21
+s anything Z	0
+s anything s	103
+s anything z	95
+z anything D	32
+z anything S	3
+z anything T	22
+z anything Z	2
+z anything s	18
+z anything z	44
