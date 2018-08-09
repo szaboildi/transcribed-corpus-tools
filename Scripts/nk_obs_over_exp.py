@@ -48,8 +48,20 @@ sib_counts_seg_p = cou.read_ngrams(os.path.join(*(
 nk_sib_tier_counts = [sib_counts_seg_f, sib_counts_seg_r,
                       sib_counts_seg_p]
 
-nk_count_names = ['forms', 'roots', 'formssep']
+# Read in sibilant fricative tier counts
+sib_fric_counts_seg_f = cou.read_ngrams(os.path.join(*(
+    os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'Raw',
+    'nk_counts_sib_fric_tier_forms.txt')), middle='anything')
+sib_fric_counts_seg_r = cou.read_ngrams(os.path.join(*(
+    os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'Raw',
+    'nk_counts_sib_fric_tier_roots.txt')), middle='anything')
+sib_fric_counts_seg_p = cou.read_ngrams(os.path.join(*(
+    os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'Raw',
+    'nk_counts_sib_fric_tier_formssep.txt')), middle='anything')
+nk_sib_fric_tier_counts = [sib_fric_counts_seg_f, sib_fric_counts_seg_r,
+                      sib_fric_counts_seg_p]
 
+nk_count_names = ['forms', 'roots', 'formssep']
 
 for i, c_name in enumerate(nk_count_names):
     # Trigram O/Es
@@ -67,6 +79,7 @@ for i, c_name in enumerate(nk_count_names):
         os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'OE',
         'nk_oe_trigram_seg_{}.csv'.format(c_name))))
 
+
     # Sibilant tier O/Es
     sib_count = nk_sib_tier_counts[i]
     oe_sib_class_df = \
@@ -81,3 +94,20 @@ for i, c_name in enumerate(nk_count_names):
     oe_sib_seg_df.to_csv(os.path.join(*(
         os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'OE',
         'nk_oe_sib_tier_seg_{}.csv'.format(c_name))))
+
+
+    # Sibilant fricative tier O/Es
+    sib_fric_count = nk_sib_fric_tier_counts[i]
+    oe_sib_fric_class_df = \
+        cou.o_over_e_many_df(sib_fric_count,
+                             [str(nk.sibilant_fricatives_ant),
+                              str(nk.sibilant_fricatives_post)])
+    oe_sib_fric_class_df.to_csv(os.path.join(*(
+        os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'OE',
+        'nk_oe_sib_fric_tier_class_{}.csv'.format(c_name))))
+
+    oe_sib_fric_seg_df = cou.o_over_e_many_df(sib_fric_count,
+                                         nk.sibilant_fricatives)
+    oe_sib_fric_seg_df.to_csv(os.path.join(*(
+        os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'OE',
+        'nk_oe_sib_fric_tier_seg_{}.csv'.format(c_name))))

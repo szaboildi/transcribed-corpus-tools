@@ -54,11 +54,24 @@ def main():
         # Sibilant tier
         nk_ss_list, nk_ss_count = cou.count_many_substr(
             sib_sib, corpus, nk, tier=nk.sibilants, return_set=True)
-        nk_ss_count_formatted = {key[0] + ' anything ' + key[1]: nk_ss_count[key]
+        nk_ss_count_formatted = {key[0] + ' anything ' + key[1]:
+                                     nk_ss_count[key]
                                     for key in nk_ss_count.keys()}
         uti.write_dict(nk_ss_count_formatted, os.path.join(*(
             os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'Raw',
             'nk_counts_sib_tier_{}.txt'.format(corp_name))))
+
+        nk_ss_fric_list, nk_ss_fric_count = cou.count_many_substr(
+            sib_sib, corpus, nk, tier=nk.sibilant_fricatives,
+            return_set=True)
+        nk_ss_fric_count_formatted = {key[0] + ' anything ' + key[1]:
+                                     nk_ss_fric_count[key]
+                                 for key in nk_ss_fric_count.keys()}
+        uti.write_dict(nk_ss_fric_count_formatted, os.path.join(*(
+            os.pardir, 'NkoreKiga', 'Outputs', 'Counts', 'Raw',
+            'nk_counts_sib_fric_tier_{}.txt'.format(corp_name))))
+
+
 
 
 if __name__ == '__main__':

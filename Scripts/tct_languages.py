@@ -38,6 +38,8 @@ class Language:
         self.nonsib_stops = tuple(plain_stops + asp + ej)
 
         self.fricatives = tuple(fric + sib_fric_ant + sib_fric_post)
+        self.sibilant_fricatives_ant = tuple(sib_fric_ant)
+        self.sibilant_fricatives_post = tuple(sib_fric_post)
         self.sibilant_fricatives = tuple(sib_fric_ant + sib_fric_post)
         self.affricates = tuple(affr + sib_affr)
         self.sibilant_affricates = tuple(sib_affr)
