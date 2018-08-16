@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 import tct_utility as uti
 from tct_languages import aymara as ay
-import tct_counting_func as cou
+import tct_count_oe_func as cou
 import os
 
 # This file might be later separated into a language-specific file
