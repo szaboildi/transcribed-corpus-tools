@@ -1,6 +1,21 @@
 The documentation will soon be updated.
 
-<!-- Aymara-word-corpus
+<!--
+Transcribed corpus tools
+Python tools for transcribing and extracting quantitative information from phonological word corpora
+
+Scripts are in the ```Scripts/``` folder, and ```Aymara/```, ```Spanish/```, ```English/```, and ```NkoreKiga/``` folders contain input and output files for these languages. Within ```Scripts/```, file names starting with ```tct``` contain utility functions and classes for the entire toolkit, and scripts whose names start with ```ay``` and ```nk``` operate directly with Aymara and Nkore-Kiga corpora, respectively.
+
+```tct_languages.py```
+
+```tct_utility_py```
+
+```tct_count_oe.py```
+
+
+-->
+
+<!--Aymara-word-corpus
 A word corpus of Aymara
 
 Scripts are in the ```Scripts/``` folder, the ```Inputs/``` folder contains the input files, and the ```Outputs/``` folder contains the output files of the scripts. Within the ```Outputs/``` folder, the ```Outputs/Transcription/``` folder contains the transcription outputs - so far only complete for full words and the ```Outputs/Counts/``` folder contains raw counts (```Outputs/Counts/Raw```) of certain ngrams the list of matching words (```Outputs/Counts/Lists```) as well as observed-over-expected (O/E) values counted based on the raw counts (```Outputs/Counts/OE```).
