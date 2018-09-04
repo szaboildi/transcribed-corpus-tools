@@ -16,8 +16,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 """
 
-import tct_utility as uti
-import tct_count_oe_func as cou
+import tct_count_oe as cou
 from tct_languages import nkore_kiga as nk
 import os
 

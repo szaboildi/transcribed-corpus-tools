@@ -19,7 +19,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 import os
 import tct_utility as uti
-from tct_languages import nkore_kiga as nk
 
 
 def transcribe(st, palatalize=False):
