@@ -213,57 +213,6 @@ def trigram_counter(corpus):
     return counts
 
 
-
-# Observed over expected values of (non-adjacent) bigrams
-# The Ngram class
-class Ngram():
-    def __init__(self, name, first, second, last, frequency):
-        self.name = name
-        self.first = first
-        self.second = second
-        self.last = last
-        self.frequency = frequency
-
-
-# Function for reading in the Ngrams
-def read_ngrams(path, middle='', subcase='', length=3):
-    """
-    Reads in a file as a set of ngrams
-    :param path: Where the file is
-    :param middle: What character is in the middle
-                   default: empty string
-    :param subcase: If there are multiple options in the source document,
-                    which subcase it should regard
-                    default: empty string
-    :param length: Length of the Ngram
-                   default: 3
-    :return: Set of ngram:
-    """
-    set_of_ngrams = set()
-    subcase_suffix = '_' + subcase.strip()
-    with open(path, 'r', encoding='utf-8') as in_f:
-        for i, line in enumerate(in_f):
-            if middle in line and not line.startswith('stop'):
-                bits = line.strip().replace('plain stop', 'plain').split('\t')
-                if subcase != '':
-                    bits[0] = bits[0].replace(subcase, subcase_suffix)
-                if ' ' in bits[0]:
-                    name = bits[0].split(' ')
-                else:
-                    name = list(bits[0])
-                if len(name) > length:
-                    continue
-                if middle != '':
-                    name[name.index(middle)] = 'X'
-
-                name = Ngram(name=''.join(name), first=name[0], second=name[1],
-                             last=name[-1], frequency=int(bits[1]))
-
-                set_of_ngrams.add(name)
-
-    return set_of_ngrams
-
-
 # Function for counting O/E
 def o_over_e(ngram_set, first, second):
     """
@@ -324,3 +273,53 @@ def o_over_e_many_df(counts, segments):
         oe_df.index = oe_df.index.get_level_values(0)
 
     return oe_df
+
+
+# Observed over expected values of (non-adjacent) bigrams
+# The Ngram class
+class Ngram():
+    def __init__(self, name, first, second, last, frequency):
+        self.name = name
+        self.first = first
+        self.second = second
+        self.last = last
+        self.frequency = frequency
+
+
+# Function for reading in the Ngrams
+def read_ngrams(path, middle='', subcase='', length=3):
+    """
+    Reads in a file as a set of ngrams
+    :param path: Where the file is
+    :param middle: What character is in the middle
+                   default: empty string
+    :param subcase: If there are multiple options in the source document,
+                    which subcase it should regard
+                    default: empty string
+    :param length: Length of the Ngram
+                   default: 3
+    :return: Set of ngram:
+    """
+    set_of_ngrams = set()
+    subcase_suffix = '_' + subcase.strip()
+    with open(path, 'r', encoding='utf-8') as in_f:
+        for i, line in enumerate(in_f):
+            if middle in line and not line.startswith('stop'):
+                bits = line.strip().replace('plain stop', 'plain').split('\t')
+                if subcase != '':
+                    bits[0] = bits[0].replace(subcase, subcase_suffix)
+                if ' ' in bits[0]:
+                    name = bits[0].split(' ')
+                else:
+                    name = list(bits[0])
+                if len(name) > length:
+                    continue
+                if middle != '':
+                    name[name.index(middle)] = 'X'
+
+                name = Ngram(name=''.join(name), first=name[0], second=name[1],
+                             last=name[-1], frequency=int(bits[1]))
+
+                set_of_ngrams.add(name)
+
+    return set_of_ngrams
