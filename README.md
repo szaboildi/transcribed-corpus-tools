@@ -1,9 +1,7 @@
-The documentation will soon be updated.
+# Transcribed corpus tools
+## Python tools for transcribing and extracting quantitative information from phonological word corpora
 
-<!--
-Transcribed corpus tools
-Python tools for transcribing and extracting quantitative information from phonological word corpora
-
+### Functions
 Scripts are in the ```Scripts/``` folder, and ```Aymara/```, ```Spanish/```, ```English/```, and ```NkoreKiga/``` folders contain input and output files for these languages. Within ```Scripts/```, file names starting with ```tct``` contain utility functions and classes for the entire toolkit, and scripts whose names start with ```ay``` and ```nk``` operate directly with Aymara and Nkore-Kiga corpora, respectively.
 
 ```tct_languages.py``` defines a class of Language as well as variables for the languages used in this project. Language objects allow for easy reference to natural classes in the given language (e.g. high vowels, stops, and sibilants) in other scripts.
@@ -12,6 +10,8 @@ Scripts are in the ```Scripts/``` folder, and ```Aymara/```, ```Spanish/```, ```
 
 ```tct_count_oe.py``` defines a set of functions for counting substrings (```count_many_substr()```), all trigrams (```trigram_counter()```), and for calculating observed-over-expected ratios based on these counts (```o_over_e_many_df()```). ```count_many_substr()``` has options that enable the user to only count word-initial strings, only onsets, as well as to count substrings on a given mapping tier -- e.g. to only at the cooccurrence of various kinds of stops within a word, while ignoring all other segments that might intervene.
 
+
+### Corpora
 
 -->
 
@@ -36,7 +36,7 @@ The set of Aymara words are then cross-checked with both the Spanish and English
 -->
 
 
-# References
+### References
 Hayes, Bruce and Wilson, Colin. 2008. A maximum entropy model of phonotactics and phonotactic learning. _Linguistic inquiry_, 39(3), pp.379-440.
 
 de Lucca, Manuel. 1987. _Diccionario practico aymara-castellano castellano-aymara_. Cochabamba:Los Amigos del Libro.
