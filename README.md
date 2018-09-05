@@ -6,9 +6,9 @@ Python tools for transcribing and extracting quantitative information from phono
 
 Scripts are in the ```Scripts/``` folder, and ```Aymara/```, ```Spanish/```, ```English/```, and ```NkoreKiga/``` folders contain input and output files for these languages. Within ```Scripts/```, file names starting with ```tct``` contain utility functions and classes for the entire toolkit, and scripts whose names start with ```ay``` and ```nk``` operate directly with Aymara and Nkore-Kiga corpora, respectively.
 
-```tct_languages.py```
+```tct_languages.py``` defines a class of Language as well as variables for the languages used in this project. Language objects allow for easy reference to natural classes in the given language (e.g. high vowels, stops, and sibilants) in other scripts.
 
-```tct_utility_py```
+```tct_utility_py``` defines a set of utility functions for opening files and reading their contents into sets, writing iterables into files, writing dictionaries into tab-separated files, as well as for making a transcribed set of words compatible with the space-separated requirements of the UCLA Phonotactic learner (Hayes and Wilson, 2008).
 
 ```tct_count_oe.py```
 
@@ -33,7 +33,7 @@ The set of Aymara words are then cross-checked with both the Spanish and English
 ```Scripts/ay_counter.py``` contains various functions for counting relevant ngrams in the ```Outputs/Transcription/aymara_preprocessed.txt``` file for word forms and ```Inputs/delucca/ay_trans_roots_delucca.txt``` for roots. It can count instances of one ngram, multiple ones, with the options of only looking for word-initial matches and projecting on a certain tier. It outputs results into the ```Outputs/Counts/Raw/``` and ```Outputs/Counts/Lists/``` folders (for counts and list of matching words, respectively. (This file might be separated into a language-specific file - with a ```main()``` function only - and a general file that can be used in other corpora.)
 
 ```Scripts/ay_obs_over_exp.py``` counts observed-over-expected values on the outputs of ```ay_counter.py``` in ```Counts/Raw/``` for both word forms and roots with the use of the Ngram class and some functions defined in the file. (This file might be separated into a language-specific file - with a ```main()``` function only - and a general file that can be used in other corpora.)
-
+-->
 
 
 # References
@@ -46,4 +46,4 @@ Marín, Marcos F. 1992. El Corpus Oral de Referencia de la Lengua Española cont
 Scannell, Kevin P. 2007. The Crúbadán Project: Corpus building for under-resourced languages. _Building and Exploring Web Corpora: Proceedings of the 3rd Web as Corpus Workshop_. Vol. 4: pp.5-15.
 
 Weide, Robert. _The Carnegie mellon pronouncing dictionary (cmudict. 0.6)_. Available at:  <http://www.speech.cs.cmu.edu/cgi-bin/cmudict> 2005.
--->
+
