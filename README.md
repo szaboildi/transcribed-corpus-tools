@@ -10,7 +10,7 @@ Scripts are in the ```Scripts/``` folder, and ```Aymara/```, ```Spanish/```, ```
 
 ```tct_utility_py``` defines a set of utility functions for opening files and reading their contents into sets, writing iterables into files, writing dictionaries into tab-separated files, as well as for making a transcribed set of words compatible with the space-separated requirements of the UCLA Phonotactic learner (Hayes and Wilson, 2008).
 
-```tct_count_oe.py```
+```tct_count_oe.py``` defines a set of functions for counting substrings (```count_many_substr()```), all trigrams (```trigram_counter()```), and for calculating observed-over-expected ratios based on these counts (```o_over_e_many_df()```). ```count_many_substr()``` has options that enable the user to only count word-initial strings, only onsets, as well as to count substrings on a given mapping tier -- e.g. to only at the cooccurrence of various kinds of stops within a word, while ignoring all other segments that might intervene.
 
 
 -->
