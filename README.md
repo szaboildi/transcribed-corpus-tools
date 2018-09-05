@@ -1,7 +1,7 @@
 # Transcribed corpus tools
-## Python tools for transcribing and extracting quantitative information from phonological word corpora
+*Python tools for transcribing and extracting quantitative information from phonological word corpora*
 
-### Functions
+## Functions
 Scripts are in the ```Scripts/``` folder, and ```Aymara/```, ```Spanish/```, ```English/```, and ```NkoreKiga/``` folders contain input and output files for these languages. Within ```Scripts/```, file names starting with ```tct``` contain utility functions and classes for the entire toolkit, and scripts whose names start with ```ay``` and ```nk``` operate directly with Aymara and Nkore-Kiga corpora, respectively.
 
 ```tct_languages.py``` defines a class of ```Language``` as well as variables for the languages used in this project. ```Language``` objects allow for easy reference to natural classes in the given language (e.g. high vowels, stops, and sibilants) in other scripts.
@@ -11,13 +11,13 @@ Scripts are in the ```Scripts/``` folder, and ```Aymara/```, ```Spanish/```, ```
 ```tct_count_oe.py``` defines a set of functions for counting substrings (```count_many_substr()```), all trigrams (```trigram_counter()```), and for calculating observed-over-expected ratios based on these counts (```o_over_e_many_df()```). ```count_many_substr()``` has options that enable the user to only count word-initial strings, only onsets, as well as to count substrings on a given mapping tier - e.g. to only at the cooccurrence of various kinds of stops within a word, while ignoring all other segments that might intervene.
 
 
-### Corpora
-#### Aymara
+## Corpora
+### Aymara
 The set of Aymara words (from an extended version of [An Crúbadán](http://crubadan.org/languages/ay): Scannell, 2007) were cleaned from numbers and non-alphanumeric characters, converted into lower case and 255 words were discarded because they contained a hyphen ("-"). The source file for Aymara (from Marín, 1992) was manually searched for apostrophe-related typos, 2 of them were corrected (_muru'q_ to _muruq'_ and _la'qa_ to _laq'a_) and converted into lowercase. They were then cross-checked with a set of the Spanish and English words. The sources for the Spanish and English words were the [CORLEC Corpus](http://www.lllf.uam.es/ESP/Corlec.html) (Marín, 1992), and the [CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict) (Weide, 2005), respectively. Matches were separated from the rest of the dataset, because they are presumably loan words. The filtered set of Aymara words with no Spanish or English loans in it contains 81,325 unique word forms (```Aymara/Outputs/Aymara_words_no_sp_en.txt```), the presumable Spanish loans were 188 words (```Aymara/Outputs/Spanish_loans.txt```), and the set of putative English loans totalled at 128 words (```Outputs/English_loans.txt```) - the latter two sets might overlap.
 
 The ```Script/ay_transcriber.py``` transcribed the Aymara word list according to three transcription systems: the international Phonetic Alphabet (IPA, ```Outputs/Transcription/aymara_ipa.txt```), an intermediary system, in which each sound is in a one-to-one correspondance representing it (```Outputs/Transcription/aymara_preprocessed.txt```, key: ```Aymara/aymara_trans_key.txt```), and a system compatible with the UCLA Phonotactic Learner with the same key (```Outputs/Transcription/aymara_pl.txt```).
 
-#### Nkore-Kiga
+### Nkore-Kiga
 
 <!--Aymara-word-corpus
 A word corpus of Aymara
@@ -40,7 +40,7 @@ The set of Aymara words are then cross-checked with both the Spanish and English
 -->
 
 
-### References
+## References
 Hayes, Bruce and Wilson, Colin. 2008. A maximum entropy model of phonotactics and phonotactic learning. _Linguistic inquiry_, 39(3), pp.379-440.
 
 de Lucca, Manuel. 1987. _Diccionario practico aymara-castellano castellano-aymara_. Cochabamba:Los Amigos del Libro.
