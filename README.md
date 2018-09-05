@@ -25,23 +25,15 @@ The ```Script/ay_transcriber.py``` transcribed the Aymara word list according to
 
 ```Scripts/ay_counter.py``` contains various functions for counting relevant ngrams in the ```Outputs/Transcription/aymara_preprocessed.txt``` file for word forms and ```Inputs/delucca/ay_trans_roots_delucca.txt``` for roots. It can count instances of one ngram, multiple ones, with the options of only looking for word-initial matches and projecting on a certain tier. It outputs results into the ```Outputs/Counts/Raw/``` and ```Outputs/Counts/Lists/``` folders (for counts and list of matching words, respectively. (This file might be separated into a language-specific file - with a ```main()``` function only - and a general file that can be used in other corpora.)
 
-```Scripts/ay_obs_over_exp.py``` counts observed-over-expected values on the outputs of ```ay_counter.py``` in ```Counts/Raw/``` for both word forms and roots with the use of the Ngram class and some functions defined in the file. (This file might be separated into a language-specific file - with a ```main()``` function only - and a general file that can be used in other corpora.)
-
+```Scripts/ay_obs_over_exp.py``` counts observed-over-expected values on the outputs of ```ay_counter.py``` in ```Outputs/Counts/Raw/``` for both word forms and roots.
 
 
 ### Nkore-Kiga
+The Nkore-Kiga corpus is a version of a dictionary by Taylor (1959), digitized as part of the Comparative Bantu On-Line Dictionary Project ([CBOLD](http://www.linguistics.berkeley.edu/~jblowe/CBOLD/)). The digitized original contains 12,574 words in total. After cross-referencing it with the original dictionary, 56 spelling mistakes were manually corrected. After words containing non-letter characters were filtered out, 11,400 word forms and 6,520 root forms were collected. In addition, a list of 11,404 word forms was compiled, where the root is separated from the prefixes by a '+' character (```Scripts/nk_reader_parser.py```).
 
-<!--Aymara-word-corpus
-A word corpus of Aymara
+These lists were each transcribed into IPA, and according to a one-to-one sound-to-letter key (```NkoreKigankorekiga_transcription_key.txt```), which was also made UCLA Phonotactic Learner-compatible (```Scripts/nk_transcriber.py```). These files can be found in ```NkoreKiga/Outputs/Transcription/```.
 
-
-
-```Scripts/ay_delucca_rooter.py``` reads in a set of previously segmented word forms from the de Lucca dictionary (1987) and splits them into roots and suffixes. It then uses this list of suffixes and stems to eliminate non-root forms from the wordlist in the ```Outputs/Transcription/aymara_preprocessed.txt``` file. Words are eliminated if they start with a root from the de Lucca dictionary. Moreover, since roots in Aymara are typically 1-3 syllables long and there are no prefixes in the languages, words are reduced to their first 3 syllables. These 3-syllable substrings are then checked for word-final suffixes.
-
-```Scripts/ay_counter.py``` contains various functions for counting relevant ngrams in the ```Outputs/Transcription/aymara_preprocessed.txt``` file for word forms and ```Inputs/delucca/ay_trans_roots_delucca.txt``` for roots. It can count instances of one ngram, multiple ones, with the options of only looking for word-initial matches and projecting on a certain tier. It outputs results into the ```Outputs/Counts/Raw/``` and ```Outputs/Counts/Lists/``` folders (for counts and list of matching words, respectively. (This file might be separated into a language-specific file - with a ```main()``` function only - and a general file that can be used in other corpora.)
-
-```Scripts/ay_obs_over_exp.py``` counts observed-over-expected values on the outputs of ```ay_counter.py``` in ```Counts/Raw/``` for both word forms and roots with the use of the Ngram class and some functions defined in the file. (This file might be separated into a language-specific file - with a ```main()``` function only - and a general file that can be used in other corpora.)
--->
+```Scripts/nk_counter.py``` and ```Scripts/nk_obs_over_exp.py``` count some samples of substrings in the corpora, and calculate observed-over-expected values based on them. The outputs of these programs can be found in ```NkoreKiga/Outputs/Counts/```.
 
 
 ## References
@@ -52,6 +44,8 @@ de Lucca, Manuel. 1987. _Diccionario practico aymara-castellano castellano-aymar
 Marín, Marcos F. 1992. El Corpus Oral de Referencia de la Lengua Española contemporánea Project Report. Universidad Autónoma de Madrid. Available at <http://www.lllf.uam.es/ESP/Corlec.html> 
 
 Scannell, Kevin P. 2007. The Crúbadán Project: Corpus building for under-resourced languages. _Building and Exploring Web Corpora: Proceedings of the 3rd Web as Corpus Workshop_. Vol. 4: pp.5-15.
+
+Taylor, C., 1959. A simplified Runyankore-Rukiga-English and English-Runyankore-Rukiga dictionary: in the 1955 revised orthography with tone-markings and full entries under prefixes. Eagle Press.
 
 Weide, Robert. _The Carnegie mellon pronouncing dictionary (cmudict. 0.6)_. Available at:  <http://www.speech.cs.cmu.edu/cgi-bin/cmudict> 2005.
 
