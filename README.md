@@ -37,15 +37,15 @@ These lists were each transcribed into IPA, and according to a one-to-one sound-
 
 
 ## References
-Hayes, Bruce and Wilson, Colin. 2008. A maximum entropy model of phonotactics and phonotactic learning. _Linguistic inquiry_, 39(3), pp.379-440.
+Hayes, Bruce and Wilson, Colin. 2008. A maximum entropy model of phonotactics and phonotactic learning. _Linguistic Inquiry_, 39(3), pp.379-440.
 
 de Lucca, Manuel. 1987. _Diccionario practico aymara-castellano castellano-aymara_. Cochabamba:Los Amigos del Libro.
 
-Marín, Marcos F. 1992. El Corpus Oral de Referencia de la Lengua Española contemporánea Project Report. Universidad Autónoma de Madrid. Available at <http://www.lllf.uam.es/ESP/Corlec.html> 
+Marín, Marcos F. 1992. _El Corpus Oral de Referencia de la Lengua Española contemporánea Project Report_. Universidad Autónoma de Madrid. Available at <http://www.lllf.uam.es/ESP/Corlec.html> 
 
 Scannell, Kevin P. 2007. The Crúbadán Project: Corpus building for under-resourced languages. _Building and Exploring Web Corpora: Proceedings of the 3rd Web as Corpus Workshop_. Vol. 4: pp.5-15.
 
-Taylor, C., 1959. A simplified Runyankore-Rukiga-English and English-Runyankore-Rukiga dictionary: in the 1955 revised orthography with tone-markings and full entries under prefixes. Eagle Press.
+Taylor, C., 1959. A simplified Runyankore-Rukiga-English and English-Runyankore-Rukiga dictionary: in _The 1955 revised orthography with tone-markings and full entries under prefixes_. Eagle Press.
 
-Weide, Robert. _The Carnegie mellon pronouncing dictionary (cmudict. 0.6)_. Available at:  <http://www.speech.cs.cmu.edu/cgi-bin/cmudict> 2005.
+Weide, Robert. 2005. _The Carnegie mellon pronouncing dictionary (cmudict. 0.6)_. Available at:  <http://www.speech.cs.cmu.edu/cgi-bin/cmudict>
 
