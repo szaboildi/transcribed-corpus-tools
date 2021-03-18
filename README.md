@@ -1,7 +1,7 @@
 # Transcribed corpus tools
 *Python tools for transcribing and extracting quantitative information from phonological word corpora*
 
-## Functions
+## Code
 Scripts are in the ```Scripts/``` folder, and ```Aymara/```, ```Spanish/```, ```English/```, and ```NkoreKiga/``` folders contain input and output files for these languages. Within ```Scripts/```, file names starting with ```tct``` contain utility functions and classes for the entire toolkit, and scripts whose names start with ```ay``` and ```nk``` operate directly with Aymara and Nkore-Kiga corpora, respectively.
 
 ```tct_languages.py``` defines a class of ```Language``` as well as variables for the languages used in this project. ```Language``` objects allow for easy reference to natural classes in the given language (e.g. high vowels, stops, and sibilants) in other scripts.
